@@ -17,7 +17,7 @@ TEAM_EMOJIS = {
     "Boston Red Sox": "⚾",
     "Chicago Cubs": "<:cubs:1319495233037275176>",
     "Chicago White Sox": "⚾",
-    "Cincinnati Reds": ⚾",
+    "Cincinnati Reds": "⚾",
     "Cleveland Guardians": "<:guardians:1376110439431143464>",
     "Colorado Rockies": "⚾",
     "Detroit Tigers": "<:tigers:1375047163888795728>",
