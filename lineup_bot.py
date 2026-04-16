@@ -131,19 +131,26 @@ def lineup_to_text(title, lineup):
 def get_lineup_differences(old_lineup, new_lineup):
     changes = []
 
-    max_len = max(len(old_lineup), len(new_lineup))
+    old_positions = {player: i for i, player in enumerate(old_lineup)}
+    new_positions = {player: i for i, player in enumerate(new_lineup)}
 
-    for i in range(max_len):
-        old_player = old_lineup[i] if i < len(old_lineup) else None
-        new_player = new_lineup[i] if i < len(new_lineup) else None
+    # Players who stayed in lineup but moved spots
+    for player in new_lineup:
+        if player in old_positions:
+            old_pos = old_positions[player]
+            new_pos = new_positions[player]
+            if old_pos != new_pos:
+                changes.append(f"{player} moved from {old_pos + 1} → {new_pos + 1}")
 
-        if old_player != new_player:
-            if old_player and new_player:
-                changes.append(f"{i + 1}. {old_player} -> {new_player}")
-            elif old_player and not new_player:
-                changes.append(f"{i + 1}. {old_player} removed")
-            elif not old_player and new_player:
-                changes.append(f"{i + 1}. {new_player} added")
+    # New players added
+    for player in new_lineup:
+        if player not in old_positions:
+            changes.append(f"{player} added at {new_positions[player] + 1}")
+
+    # Players removed
+    for player in old_lineup:
+        if player not in new_positions:
+            changes.append(f"{player} removed from {old_positions[player] + 1}")
 
     return changes
 
@@ -169,40 +176,51 @@ def compare_lineups(old_lineups, new_lineups):
 
             if away_changes:
                 sections.append(
-                    f"**{new_game['away_team']} Changes**\n"
+                    f"**{new_game['away_team'].upper()} CHANGES**\n"
                     + "\n".join(f"- {change}" for change in away_changes)
                 )
                 sections.append(
-                    lineup_to_text(f"{new_game['away_team']} Current Lineup", away_new)
+                    lineup_to_text(
+                        f"UPDATED {new_game['away_team'].upper()} LINEUP",
+                        away_new,
+                    )
                 )
 
             if home_changes:
                 sections.append(
-                    f"**{new_game['home_team']} Changes**\n"
+                    f"**{new_game['home_team'].upper()} CHANGES**\n"
                     + "\n".join(f"- {change}" for change in home_changes)
                 )
                 sections.append(
-                    lineup_to_text(f"{new_game['home_team']} Current Lineup", home_new)
+                    lineup_to_text(
+                        f"UPDATED {new_game['home_team'].upper()} LINEUP",
+                        home_new,
+                    )
                 )
 
             msg = (
-                f"📋 **Lineup Update**\n\n"
+                f"📋 **LINEUP UPDATE**\n\n"
                 f"**{new_game['away_team']} @ {new_game['home_team']}**\n"
                 f"**First pitch:** {new_game['game_time_et']}\n\n"
                 + "\n\n".join(sections)
                 + "\n\n🔥 **DRIZZPLAYS**"
             )
 
-            # Discord hard limit safety
             if len(msg) > 1900:
                 msg = (
-                    f"📋 **Lineup Update**\n\n"
+                    f"📋 **LINEUP UPDATE**\n\n"
                     f"**{new_game['away_team']} @ {new_game['home_team']}**\n"
                     f"**First pitch:** {new_game['game_time_et']}\n\n"
                     f"Too many lineup changes to fit in one message.\n\n"
-                    + lineup_to_text(f"{new_game['away_team']} Current Lineup", away_new)
+                    + lineup_to_text(
+                        f"UPDATED {new_game['away_team'].upper()} LINEUP",
+                        away_new,
+                    )
                     + "\n\n"
-                    + lineup_to_text(f"{new_game['home_team']} Current Lineup", home_new)
+                    + lineup_to_text(
+                        f"UPDATED {new_game['home_team'].upper()} LINEUP",
+                        home_new,
+                    )
                     + "\n\n🔥 **DRIZZPLAYS**"
                 )
 
