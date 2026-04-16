@@ -31,4 +31,4 @@ jobs:
       - name: Run bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python lineup_bot.py
+        run: python main.py
