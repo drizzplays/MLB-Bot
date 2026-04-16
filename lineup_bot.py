@@ -10,6 +10,46 @@ STATE_FILE = "lineup_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
+# Replace each value with your actual Discord emoji string, for example:
+# "Tampa Bay Rays": "<:rays:123456789012345678>"
+TEAM_EMOJIS = {
+    "Arizona Diamondbacks": ":diamondbacks:",
+    "Atlanta Braves": ":Braves:",
+    "Baltimore Orioles": "⚾",
+    "Boston Red Sox": "⚾",
+    "Chicago Cubs": ":Cubs:",
+    "Chicago White Sox": "⚾",
+    "Cincinnati Reds": "⚾",
+    "Cleveland Guardians": "⚾",
+    "Colorado Rockies": "⚾",
+    "Detroit Tigers": "⚾",
+    "Houston Astros": "⚾",
+    "Kansas City Royals": "⚾",
+    "Los Angeles Angels": "⚾",
+    "Los Angeles Dodgers": "⚾",
+    "Miami Marlins": "⚾",
+    "Milwaukee Brewers": "⚾",
+    "Minnesota Twins": "⚾",
+    "New York Mets": "⚾",
+    "New York Yankees": "⚾",
+    "Athletics": "⚾",
+    "Philadelphia Phillies": "⚾",
+    "Pittsburgh Pirates": "⚾",
+    "San Diego Padres": "⚾",
+    "San Francisco Giants": "⚾",
+    "Seattle Mariners": "⚾",
+    "St. Louis Cardinals": "⚾",
+    "Tampa Bay Rays": ":Rays:",
+    "Texas Rangers": "⚾",
+    "Toronto Blue Jays": "⚾",
+    "Washington Nationals": "⚾",
+}
+
+
+def team_label(team_name):
+    emoji = TEAM_EMOJIS.get(team_name, "⚾")
+    return f"{emoji} {team_name.upper()}"
+
 
 def load_state():
     try:
@@ -138,35 +178,38 @@ def get_lineup_differences(old_lineup, new_lineup):
     used_old = set()
     used_new = set()
 
-    # 1. Direct replacements in the same batting spot
+    # Direct replacements in the same batting spot
     for i in range(max_len):
         old_player = old_lineup[i] if i < len(old_lineup) else None
         new_player = new_lineup[i] if i < len(new_lineup) else None
 
         if old_player and new_player and old_player != new_player:
             if old_player not in new_positions and new_player not in old_positions:
-                changes.append(f"{new_player} replaces {old_player} at {i + 1}")
+                changes.append(f"🔄 {new_player} replaces {old_player} at {i + 1}")
                 used_old.add(old_player)
                 used_new.add(new_player)
 
-    # 2. Players who stayed in lineup but moved spots
+    # Players who stayed in lineup but moved spots
     for player in new_lineup:
-        if player in old_positions and player in new_positions:
+        if player in old_positions:
             old_pos = old_positions[player]
             new_pos = new_positions[player]
 
             if old_pos != new_pos and player not in used_new:
-                changes.append(f"{player} moved from {old_pos + 1} → {new_pos + 1}")
+                direction = "📈" if new_pos < old_pos else "📉"
+                changes.append(
+                    f"{direction} {player} moved from {old_pos + 1} → {new_pos + 1}"
+                )
 
-    # 3. New players added
+    # New players added
     for player in new_lineup:
         if player not in old_positions and player not in used_new:
-            changes.append(f"{player} added at {new_positions[player] + 1}")
+            changes.append(f"➕ {player} added at {new_positions[player] + 1}")
 
-    # 4. Players removed
+    # Players removed
     for player in old_lineup:
         if player not in new_positions and player not in used_old:
-            changes.append(f"{player} removed from {old_positions[player] + 1}")
+            changes.append(f"❌ {player} removed from {old_positions[player] + 1}")
 
     return changes
 
@@ -192,24 +235,24 @@ def compare_lineups(old_lineups, new_lineups):
 
             if away_changes:
                 sections.append(
-                    f"**{new_game['away_team'].upper()} CHANGES**\n"
+                    f"**{team_label(new_game['away_team'])} CHANGES**\n"
                     + "\n".join(f"- {change}" for change in away_changes)
                 )
                 sections.append(
                     lineup_to_text(
-                        f"UPDATED {new_game['away_team'].upper()} LINEUP",
+                        f"UPDATED {team_label(new_game['away_team'])} LINEUP",
                         away_new,
                     )
                 )
 
             if home_changes:
                 sections.append(
-                    f"**{new_game['home_team'].upper()} CHANGES**\n"
+                    f"**{team_label(new_game['home_team'])} CHANGES**\n"
                     + "\n".join(f"- {change}" for change in home_changes)
                 )
                 sections.append(
                     lineup_to_text(
-                        f"UPDATED {new_game['home_team'].upper()} LINEUP",
+                        f"UPDATED {team_label(new_game['home_team'])} LINEUP",
                         home_new,
                     )
                 )
@@ -229,12 +272,12 @@ def compare_lineups(old_lineups, new_lineups):
                     f"**First pitch:** {new_game['game_time_et']}\n\n"
                     f"Too many lineup changes to fit in one message.\n\n"
                     + lineup_to_text(
-                        f"UPDATED {new_game['away_team'].upper()} LINEUP",
+                        f"UPDATED {team_label(new_game['away_team'])} LINEUP",
                         away_new,
                     )
                     + "\n\n"
                     + lineup_to_text(
-                        f"UPDATED {new_game['home_team'].upper()} LINEUP",
+                        f"UPDATED {team_label(new_game['home_team'])} LINEUP",
                         home_new,
                     )
                     + "\n\n🔥 **DRIZZPLAYS**"
