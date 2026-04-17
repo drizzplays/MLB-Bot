@@ -46,30 +46,24 @@ TEAM_EMOJIS = {
     "Washington Nationals": "⚾",
 }
 
-STAR_PLAYERS = {
-    "Aaron Judge",
-    "Shohei Ohtani",
-    "Juan Soto",
-    "Mookie Betts",
-    "Ronald Acuña Jr.",
-    "Bobby Witt Jr.",
-    "Yordan Alvarez",
-    "Fernando Tatis Jr.",
-    "Freddie Freeman",
-    "Corey Seager",
-    "Bryce Harper",
-    "Gunnar Henderson",
-    "Julio Rodríguez",
-    "Vladimir Guerrero Jr.",
-    "Kyle Tucker",
-    "Elly De La Cruz",
-    "José Ramírez",
-    "Francisco Lindor",
-    "Pete Alonso",
-    "Adley Rutschman",
-}
-
 CHECK_TOMORROW = True
+
+
+def load_watchlist_file(filename):
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            return {
+                line.strip()
+                for line in f
+                if line.strip() and not line.strip().startswith("#")
+            }
+    except FileNotFoundError:
+        print(f"Watchlist file not found: {filename}")
+        return set()
+
+
+WATCHED_BATTERS = load_watchlist_file("batters.txt")
+WATCHED_PITCHERS = load_watchlist_file("pitchers.txt")
 
 
 def team_label(team_name):
@@ -280,36 +274,29 @@ def build_pitcher_watch_section(new_game):
     away_pitcher = new_game.get("away_pitcher", "TBD")
     home_pitcher = new_game.get("home_pitcher", "TBD")
 
-    away_role = classify_pitcher_role(away_pitcher)
-    home_role = classify_pitcher_role(home_pitcher)
-
     alerts = []
 
-    if away_role == "bullpen":
-        alerts.append(
-            f"🚨 {team_label(new_game['away_team'])}: likely bullpen game — {away_pitcher}"
-        )
-    elif away_role == "non_standard":
-        alerts.append(
-            f"👀 {team_label(new_game['away_team'])}: non-standard starter — {away_pitcher}"
-        )
-    elif away_role == "uncertain":
-        alerts.append(
-            f"⚠️ {team_label(new_game['away_team'])}: pitcher not announced"
-        )
+    if away_pitcher in WATCHED_PITCHERS:
+        away_role = classify_pitcher_role(away_pitcher)
+        if away_role == "bullpen":
+            alerts.append(
+                f"🚨 {team_label(new_game['away_team'])}: likely bullpen game — {away_pitcher}"
+            )
+        elif away_role == "non_standard":
+            alerts.append(
+                f"👀 {team_label(new_game['away_team'])}: non-standard starter — {away_pitcher}"
+            )
 
-    if home_role == "bullpen":
-        alerts.append(
-            f"🚨 {team_label(new_game['home_team'])}: likely bullpen game — {home_pitcher}"
-        )
-    elif home_role == "non_standard":
-        alerts.append(
-            f"👀 {team_label(new_game['home_team'])}: non-standard starter — {home_pitcher}"
-        )
-    elif home_role == "uncertain":
-        alerts.append(
-            f"⚠️ {team_label(new_game['home_team'])}: pitcher not announced"
-        )
+    if home_pitcher in WATCHED_PITCHERS:
+        home_role = classify_pitcher_role(home_pitcher)
+        if home_role == "bullpen":
+            alerts.append(
+                f"🚨 {team_label(new_game['home_team'])}: likely bullpen game — {home_pitcher}"
+            )
+        elif home_role == "non_standard":
+            alerts.append(
+                f"👀 {team_label(new_game['home_team'])}: non-standard starter — {home_pitcher}"
+            )
 
     return alerts
 
@@ -392,7 +379,9 @@ def pitcher_changes(old_game, new_game):
     old_home = old_game.get("home_pitcher", "TBD")
     new_home = new_game.get("home_pitcher", "TBD")
 
-    if old_away != new_away:
+    if old_away != new_away and (
+        old_away in WATCHED_PITCHERS or new_away in WATCHED_PITCHERS
+    ):
         if old_away == "TBD" and new_away != "TBD":
             changes.append(
                 f"🆕 {team_label(new_game['away_team'])}: pitcher — {new_away}"
@@ -402,7 +391,9 @@ def pitcher_changes(old_game, new_game):
                 f"🔄 {team_label(new_game['away_team'])}: {old_away} → {new_away}"
             )
 
-    if old_home != new_home:
+    if old_home != new_home and (
+        old_home in WATCHED_PITCHERS or new_home in WATCHED_PITCHERS
+    ):
         if old_home == "TBD" and new_home != "TBD":
             changes.append(
                 f"🆕 {team_label(new_game['home_team'])}: pitcher — {new_home}"
@@ -426,8 +417,12 @@ def lineup_changes(old_lineup, new_lineup):
         labels.add("LINEUP POSTED")
 
         for i, player in enumerate(new_lineup):
-            if player in STAR_PLAYERS:
+            if player in WATCHED_BATTERS:
                 star_alerts.append(f"⭐ {player} posted at {i + 1}")
+
+        if not star_alerts:
+            labels = set()
+            posted = False
 
         return labels, changes, star_alerts, posted
 
@@ -448,18 +443,19 @@ def lineup_changes(old_lineup, new_lineup):
 
         if old_player and new_player and old_player != new_player:
             if old_player not in new_positions and new_player not in old_positions:
-                changes.append(f"🔄 {new_player} replaces {old_player} at {i + 1}")
-                labels.add("LINEUP SWITCH")
-                used_old.add(old_player)
-                used_new.add(new_player)
+                if old_player in WATCHED_BATTERS or new_player in WATCHED_BATTERS:
+                    changes.append(f"🔄 {new_player} replaces {old_player} at {i + 1}")
+                    labels.add("LINEUP SWITCH")
+                    used_old.add(old_player)
+                    used_new.add(new_player)
 
-                if old_player in STAR_PLAYERS:
-                    star_alerts.append(f"⭐ {old_player} removed from {i + 1}")
-                if new_player in STAR_PLAYERS:
-                    star_alerts.append(f"⭐ {new_player} added at {i + 1}")
+                    if old_player in WATCHED_BATTERS:
+                        star_alerts.append(f"⭐ {old_player} removed from {i + 1}")
+                    if new_player in WATCHED_BATTERS:
+                        star_alerts.append(f"⭐ {new_player} added at {i + 1}")
 
     for player in new_lineup:
-        if player in old_positions and player not in used_new:
+        if player in old_positions and player not in used_new and player in WATCHED_BATTERS:
             old_pos = old_positions[player]
             new_pos = new_positions[player]
 
@@ -467,29 +463,23 @@ def lineup_changes(old_lineup, new_lineup):
                 direction = "📈" if new_pos < old_pos else "📉"
                 changes.append(f"{direction} {player} moved from {old_pos + 1} → {new_pos + 1}")
                 labels.add("LINEUP REARRANGED")
-
-                if player in STAR_PLAYERS:
-                    star_alerts.append(
-                        f"{direction} ⭐ {player} moved from {old_pos + 1} → {new_pos + 1}"
-                    )
+                star_alerts.append(
+                    f"{direction} ⭐ {player} moved from {old_pos + 1} → {new_pos + 1}"
+                )
 
     for player in new_lineup:
-        if player not in old_positions and player not in used_new:
+        if player not in old_positions and player not in used_new and player in WATCHED_BATTERS:
             pos = new_positions[player] + 1
             changes.append(f"➕ {player} added at {pos}")
             labels.add("LINEUP SWITCH")
-
-            if player in STAR_PLAYERS:
-                star_alerts.append(f"⭐ {player} added at {pos}")
+            star_alerts.append(f"⭐ {player} added at {pos}")
 
     for player in old_lineup:
-        if player not in new_positions and player not in used_old:
+        if player not in new_positions and player not in used_old and player in WATCHED_BATTERS:
             pos = old_positions[player] + 1
             changes.append(f"❌ {player} removed from {pos}")
             labels.add("LINEUP SWITCH")
-
-            if player in STAR_PLAYERS:
-                star_alerts.append(f"⭐ {player} removed from {pos}")
+            star_alerts.append(f"⭐ {player} removed from {pos}")
 
     return labels, changes, star_alerts, posted
 
@@ -571,9 +561,9 @@ def build(old_game, new_game):
         )
 
     if star_alerts:
-        labels.append("STAR PLAYER ALERT")
+        labels.append("WATCHLIST ALERT")
         deduped = list(dict.fromkeys(star_alerts))
-        sections.append("**⭐ STAR PLAYER ALERT**\n" + "\n".join(f"- {x}" for x in deduped))
+        sections.append("**⭐ WATCHLIST ALERT**\n" + "\n".join(f"- {x}" for x in deduped))
 
     labels = list(dict.fromkeys(labels))
 
@@ -619,6 +609,8 @@ def run():
     if CHECK_TOMORROW:
         dates_to_check.append(today + timedelta(days=1))
 
+    print(f"Loaded watched batters: {len(WATCHED_BATTERS)}")
+    print(f"Loaded watched pitchers: {len(WATCHED_PITCHERS)}")
     print(f"Loaded state keys: {list(state.keys())}")
 
     total_alerts = 0
