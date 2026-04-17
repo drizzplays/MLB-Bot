@@ -334,7 +334,7 @@
         "Alex Bregman",
         "Ian Happ",
         "Seiya Suzuki",
-        "Mois\u00e9s Ballesteros",
+        "Matt Shaw",
         "Carson Kelly",
         "Pete Crow-Armstrong",
         "Dansby Swanson"
@@ -348,8 +348,28 @@
       "home_team": "Cleveland Guardians",
       "away_pitcher": "Chris Bassitt",
       "home_pitcher": "Tanner Bibee",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Gunnar Henderson",
+        "Taylor Ward",
+        "Pete Alonso",
+        "Dylan Beavers",
+        "Samuel Basallo",
+        "Leody Taveras",
+        "Colton Cowser",
+        "Coby Mayo",
+        "Jeremiah Jackson"
+      ],
+      "home_lineup": [
+        "Steven Kwan",
+        "Chase DeLauter",
+        "Jos\u00e9 Ram\u00edrez",
+        "Kyle Manzardo",
+        "Rhys Hoskins",
+        "Daniel Schneemann",
+        "Angel Mart\u00ednez",
+        "Bo Naylor",
+        "Juan Brito"
+      ],
       "game_time": "2026-04-17 06:10 PM ET",
       "game_iso": "2026-04-17T18:10:00-04:00",
       "game_pk": "824454"
@@ -359,8 +379,28 @@
       "home_team": "Philadelphia Phillies",
       "away_pitcher": "Mart\u00edn P\u00e9rez",
       "home_pitcher": "Taijuan Walker",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Drake Baldwin",
+        "Matt Olson",
+        "Austin Riley",
+        "Ozzie Albies",
+        "Mike Yastrzemski",
+        "Dominic Smith",
+        "Mauricio Dub\u00f3n",
+        "Michael Harris II"
+      ],
+      "home_lineup": [
+        "Trea Turner",
+        "Kyle Schwarber",
+        "Bryce Harper",
+        "Adolis Garc\u00eda",
+        "Edmundo Sosa",
+        "J.T. Realmuto",
+        "Alec Bohm",
+        "Justin Crawford",
+        "Otto Kemp"
+      ],
       "game_time": "2026-04-17 06:40 PM ET",
       "game_iso": "2026-04-17T18:40:00-04:00",
       "game_pk": "823476"
@@ -370,8 +410,28 @@
       "home_team": "Washington Nationals",
       "away_pitcher": "Logan Webb",
       "home_pitcher": "Zack Littell",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Willy Adames",
+        "Luis Arraez",
+        "Matt Chapman",
+        "Rafael Devers",
+        "Casey Schmitt",
+        "Jung Hoo Lee",
+        "Heliot Ramos",
+        "Daniel Susac",
+        "Drew Gilbert"
+      ],
+      "home_lineup": [
+        "James Wood",
+        "Brady House",
+        "Luis Garc\u00eda Jr.",
+        "CJ Abrams",
+        "Joey Wiemer",
+        "Daylen Lile",
+        "Nasim Nu\u00f1ez",
+        "Jos\u00e9 Tena",
+        "Keibert Ruiz"
+      ],
       "game_time": "2026-04-17 06:45 PM ET",
       "game_iso": "2026-04-17T18:45:00-04:00",
       "game_pk": "822752"
@@ -381,8 +441,28 @@
       "home_team": "Pittsburgh Pirates",
       "away_pitcher": "Nick Martinez",
       "home_pitcher": "Bubba Chandler",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Chandler Simpson",
+        "Junior Caminero",
+        "Jonathan Aranda",
+        "Yandy D\u00edaz",
+        "Jake Fraley",
+        "Ben Williamson",
+        "Cedric Mullins",
+        "Nick Fortes",
+        "Richie Palacios"
+      ],
+      "home_lineup": [
+        "Oneil Cruz",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Ryan O'Hearn",
+        "Marcell Ozuna",
+        "Nick Gonzales",
+        "Spencer Horwitz",
+        "Konnor Griffin",
+        "Henry Davis"
+      ],
       "game_time": "2026-04-17 06:45 PM ET",
       "game_iso": "2026-04-17T18:45:00-04:00",
       "game_pk": "823397"
@@ -392,8 +472,28 @@
       "home_team": "New York Yankees",
       "away_pitcher": "Michael Wacha",
       "home_pitcher": "Cam Schlittler",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Maikel Garcia",
+        "Bobby Witt Jr.",
+        "Vinnie Pasquantino",
+        "Salvador Perez",
+        "Carter Jensen",
+        "Lane Thomas",
+        "Jac Caglianone",
+        "Michael Massey",
+        "Kyle Isbel"
+      ],
+      "home_lineup": [
+        "Trent Grisham",
+        "Aaron Judge",
+        "Cody Bellinger",
+        "Giancarlo Stanton",
+        "Ben Rice",
+        "Amed Rosario",
+        "Jazz Chisholm Jr.",
+        "Jos\u00e9 Caballero",
+        "Austin Wells"
+      ],
       "game_time": "2026-04-17 07:05 PM ET",
       "game_iso": "2026-04-17T19:05:00-04:00",
       "game_pk": "823559"
@@ -401,10 +501,30 @@
     "Milwaukee Brewers @ Miami Marlins | 823883": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Miami Marlins",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Coleman Crow",
       "home_pitcher": "Janson Junk",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Sal Frelick",
+        "William Contreras",
+        "Brice Turang",
+        "Gary S\u00e1nchez",
+        "Jake Bauers",
+        "Luis Rengifo",
+        "Garrett Mitchell",
+        "Greg Jones",
+        "David Hamilton"
+      ],
+      "home_lineup": [
+        "Jakob Marsee",
+        "Xavier Edwards",
+        "Agust\u00edn Ram\u00edrez",
+        "Liam Hicks",
+        "Otto Lopez",
+        "Owen Caissie",
+        "Connor Norby",
+        "Javier Sanoja",
+        "Graham Pauley"
+      ],
       "game_time": "2026-04-17 07:10 PM ET",
       "game_iso": "2026-04-17T19:10:00-04:00",
       "game_pk": "823883"
@@ -414,8 +534,28 @@
       "home_team": "Boston Red Sox",
       "away_pitcher": "Casey Mize",
       "home_pitcher": "Ranger Suarez",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Gleyber Torres",
+        "Kevin McGonigle",
+        "Jahmai Jones",
+        "Dillon Dingler",
+        "Matt Vierling",
+        "Wenceel P\u00e9rez",
+        "Spencer Torkelson",
+        "Hao-Yu  Lee",
+        "Javier B\u00e1ez"
+      ],
+      "home_lineup": [
+        "Roman Anthony",
+        "Willson Contreras",
+        "Wilyer Abreu",
+        "Trevor Story",
+        "Jarren Duran",
+        "Ceddanne Rafaela",
+        "Marcelo Mayer",
+        "Caleb Durbin",
+        "Connor Wong"
+      ],
       "game_time": "2026-04-17 07:15 PM ET",
       "game_iso": "2026-04-17T19:15:00-04:00",
       "game_pk": "824778"
@@ -425,8 +565,28 @@
       "home_team": "Houston Astros",
       "away_pitcher": "Kyle Leahy",
       "home_pitcher": "Peter Lambert",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "JJ Wetherholt",
+        "Iv\u00e1n Herrera",
+        "Alec Burleson",
+        "Jordan Walker",
+        "Nolan Gorman",
+        "Masyn Winn",
+        "Nathan Church",
+        "Pedro Pag\u00e9s",
+        "Victor Scott II"
+      ],
+      "home_lineup": [
+        "Jose Altuve",
+        "Yordan Alvarez",
+        "Carlos Correa",
+        "Christian Walker",
+        "Joey Loperfido",
+        "Cam Smith",
+        "Taylor Trammell",
+        "Christian V\u00e1zquez",
+        "Nick Allen"
+      ],
       "game_time": "2026-04-17 08:10 PM ET",
       "game_iso": "2026-04-17T20:10:00-04:00",
       "game_pk": "824207"
@@ -437,7 +597,17 @@
       "away_pitcher": "Brandon Williamson",
       "home_pitcher": "Joe Ryan",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Byron Buxton",
+        "Austin Martin",
+        "Luke Keaschall",
+        "Ryan Jeffers",
+        "Josh Bell",
+        "Victor Caratini",
+        "Matt Wallner",
+        "Brooks Lee",
+        "Ryan Kreidler"
+      ],
       "game_time": "2026-04-17 08:10 PM ET",
       "game_iso": "2026-04-17T20:10:00-04:00",
       "game_pk": "823720"
@@ -448,7 +618,17 @@
       "away_pitcher": "Tyler Glasnow",
       "home_pitcher": "Tomoyuki Sugano",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Edouard Julien",
+        "Mickey Moniak",
+        "TJ Rumfield",
+        "Troy Johnston",
+        "Ezequiel Tovar",
+        "Brett Sullivan",
+        "Brenton Doyle",
+        "Kyle Karros",
+        "Jake McCarthy"
+      ],
       "game_time": "2026-04-17 08:40 PM ET",
       "game_iso": "2026-04-17T20:40:00-04:00",
       "game_pk": "824373"
@@ -478,7 +658,7 @@
     "Toronto Blue Jays @ Arizona Diamondbacks | 825101": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Arizona Diamondbacks",
-      "away_pitcher": "Eric Lauer",
+      "away_pitcher": "Braydon Fisher",
       "home_pitcher": "Michael Soroka",
       "away_lineup": [],
       "home_lineup": [],
