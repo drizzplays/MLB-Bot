@@ -328,7 +328,17 @@
         "Brett Baty",
         "Tyrone Taylor"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Nico Hoerner",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Seiya Suzuki",
+        "Mois\u00e9s Ballesteros",
+        "Carson Kelly",
+        "Pete Crow-Armstrong",
+        "Dansby Swanson"
+      ],
       "game_time": "2026-04-17 02:20 PM ET",
       "game_iso": "2026-04-17T14:20:00-04:00",
       "game_pk": "824693"
