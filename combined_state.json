@@ -203,12 +203,12 @@
         "Ezequiel Duran"
       ],
       "home_lineup": [
-        "Jeff McNeil",
+        "Zack Gelof",
         "Shea Langeliers",
         "Nick Kurtz",
         "Tyler Soderstrom",
         "Jacob Wilson",
-        "Carlos Cortes",
+        "Denzel Clarke",
         "Lawrence Butler",
         "Austin Wynns",
         "Darell Hernaiz"
@@ -426,7 +426,7 @@
       "away_team": "Los Angeles Dodgers",
       "home_team": "Colorado Rockies",
       "away_pitcher": "Tyler Glasnow",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Tomoyuki Sugano",
       "away_lineup": [],
       "home_lineup": [],
       "game_time": "2026-04-17 08:40 PM ET",
@@ -436,7 +436,7 @@
     "San Diego Padres @ Los Angeles Angels | 824048": {
       "away_team": "San Diego Padres",
       "home_team": "Los Angeles Angels",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Matt Waldron",
       "home_pitcher": "Jos\u00e9 Soriano",
       "away_lineup": [],
       "home_lineup": [],
