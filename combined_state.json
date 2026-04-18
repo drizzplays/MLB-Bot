@@ -797,7 +797,7 @@
       ],
       "home_lineup": [
         "Amed Rosario",
-        "Aaron Judge",
+        "Ryan McMahon",
         "Cody Bellinger",
         "Giancarlo Stanton",
         "Ben Rice",
@@ -1033,7 +1033,17 @@
       "away_pitcher": "Dean Kremer",
       "home_pitcher": "Gavin Williams",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Steven Kwan",
+        "Chase DeLauter",
+        "Jos\u00e9 Ram\u00edrez",
+        "Kyle Manzardo",
+        "George Valera",
+        "Rhys Hoskins",
+        "Daniel Schneemann",
+        "Bo Naylor",
+        "Brayan Rocchio"
+      ],
       "game_time": "2026-04-18 06:10 PM ET",
       "game_iso": "2026-04-18T18:10:00-04:00",
       "game_pk": "824451"
@@ -1043,7 +1053,17 @@
       "home_team": "Houston Astros",
       "away_pitcher": "Andre Pallante",
       "home_pitcher": "Lance McCullers Jr.",
-      "away_lineup": [],
+      "away_lineup": [
+        "JJ Wetherholt",
+        "Iv\u00e1n Herrera",
+        "Alec Burleson",
+        "Jordan Walker",
+        "Nolan Gorman",
+        "Masyn Winn",
+        "Ram\u00f3n Ur\u00edas",
+        "Nathan Church",
+        "Jos\u00e9 Ferm\u00edn"
+      ],
       "home_lineup": [],
       "game_time": "2026-04-18 07:10 PM ET",
       "game_iso": "2026-04-18T19:10:00-04:00",
@@ -1065,8 +1085,28 @@
       "home_team": "Philadelphia Phillies",
       "away_pitcher": "Chris Sale",
       "home_pitcher": "Cristopher S\u00e1nchez",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Drake Baldwin",
+        "Ozzie Albies",
+        "Matt Olson",
+        "Austin Riley",
+        "Mauricio Dub\u00f3n",
+        "Eli White",
+        "Jonah Heim",
+        "Jorge Mateo"
+      ],
+      "home_lineup": [
+        "Trea Turner",
+        "Kyle Schwarber",
+        "Bryce Harper",
+        "Adolis Garc\u00eda",
+        "J.T. Realmuto",
+        "Alec Bohm",
+        "Felix Reyes",
+        "Edmundo Sosa",
+        "Brandon Marsh"
+      ],
       "game_time": "2026-04-18 07:15 PM ET",
       "game_iso": "2026-04-18T19:15:00-04:00",
       "game_pk": "823474"
@@ -1077,7 +1117,17 @@
       "away_pitcher": "Emmet Sheehan",
       "home_pitcher": "Ryan Feltner",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Edouard Julien",
+        "Mickey Moniak",
+        "TJ Rumfield",
+        "Hunter Goodman",
+        "Ezequiel Tovar",
+        "Troy Johnston",
+        "Brenton Doyle",
+        "Kyle Karros",
+        "Jordan Beck"
+      ],
       "game_time": "2026-04-18 08:10 PM ET",
       "game_iso": "2026-04-18T20:10:00-04:00",
       "game_pk": "824372"
