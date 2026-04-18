@@ -817,22 +817,22 @@
       "home_pitcher": "Taj Bradley",
       "away_lineup": [
         "TJ Friedl",
-        "Will Benson",
+        "Dane Myers",
         "Elly De La Cruz",
         "Sal Stewart",
         "Eugenio Su\u00e1rez",
-        "Nathaniel Lowe",
+        "Matt McLain",
         "Tyler Stephenson",
         "Rece Hinds",
-        "Ke'Bryan Hayes"
+        "Spencer Steer"
       ],
       "home_lineup": [
         "Byron Buxton",
         "Austin Martin",
-        "Josh Bell",
+        "Kody Clemens",
         "Ryan Jeffers",
         "Luke Keaschall",
-        "Trevor Larnach",
+        "Matt Wallner",
         "Brooks Lee",
         "Ryan Kreidler",
         "Tristan Gray"
@@ -847,14 +847,14 @@
       "away_pitcher": "Freddy Peralta",
       "home_pitcher": "Jameson Taillon",
       "away_lineup": [
-        "Carson Benge",
+        "Tyrone Taylor",
         "Bo Bichette",
         "Francisco Lindor",
         "Luis Robert Jr.",
         "MJ Melendez",
         "Francisco Alvarez",
         "Mark Vientos",
-        "Brett Baty",
+        "Tommy Pham",
         "Marcus Semien"
       ],
       "home_lineup": [
@@ -863,7 +863,7 @@
         "Alex Bregman",
         "Ian Happ",
         "Seiya Suzuki",
-        "Mois\u00e9s Ballesteros",
+        "Carson Kelly",
         "Miguel Amaya",
         "Pete Crow-Armstrong",
         "Dansby Swanson"
@@ -947,7 +947,7 @@
         "Everson Pereira",
         "Sam Antonacci",
         "Chase Meidroth",
-        "Tristan Peters",
+        "Derek Hill",
         "Reese McGuire"
       ],
       "home_lineup": [
@@ -956,7 +956,7 @@
         "Nick Kurtz",
         "Tyler Soderstrom",
         "Jacob Wilson",
-        "Carlos Cortes",
+        "Andy Ib\u00e1\u00f1ez",
         "Max Muncy",
         "Lawrence Butler",
         "Austin Wynns"
@@ -1032,7 +1032,17 @@
       "home_team": "Cleveland Guardians",
       "away_pitcher": "Dean Kremer",
       "home_pitcher": "Gavin Williams",
-      "away_lineup": [],
+      "away_lineup": [
+        "Gunnar Henderson",
+        "Taylor Ward",
+        "Pete Alonso",
+        "Dylan Beavers",
+        "Colton Cowser",
+        "Leody Taveras",
+        "Samuel Basallo",
+        "Coby Mayo",
+        "Jeremiah Jackson"
+      ],
       "home_lineup": [
         "Steven Kwan",
         "Chase DeLauter",
@@ -1084,8 +1094,28 @@
       "home_team": "Seattle Mariners",
       "away_pitcher": "Nathan Eovaldi",
       "home_pitcher": "George Kirby",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Brandon Nimmo",
+        "Corey Seager",
+        "Wyatt Langford",
+        "Jake Burger",
+        "Joc Pederson",
+        "Josh Jung",
+        "Evan Carter",
+        "Ezequiel Duran",
+        "Kyle Higashioka"
+      ],
+      "home_lineup": [
+        "J.P. Crawford",
+        "Cal Raleigh",
+        "Julio Rodr\u00edguez",
+        "Josh Naylor",
+        "Randy Arozarena",
+        "Luke Raley",
+        "Dominic Canzone",
+        "Cole Young",
+        "Leo Rivas"
+      ],
       "game_time": "2026-04-18 07:15 PM ET",
       "game_iso": "2026-04-18T19:15:00-04:00",
       "game_pk": "823151"
@@ -1126,7 +1156,17 @@
       "home_team": "Colorado Rockies",
       "away_pitcher": "Emmet Sheehan",
       "home_pitcher": "Ryan Feltner",
-      "away_lineup": [],
+      "away_lineup": [
+        "Shohei Ohtani",
+        "Kyle Tucker",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Teoscar Hern\u00e1ndez",
+        "Max Muncy",
+        "Dalton Rushing",
+        "Alex Freeland",
+        "Miguel Rojas"
+      ],
       "home_lineup": [
         "Edouard Julien",
         "Mickey Moniak",
@@ -1147,8 +1187,28 @@
       "home_team": "Arizona Diamondbacks",
       "away_pitcher": "Max Scherzer",
       "home_pitcher": "Zac Gallen",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Nathan Lukes",
+        "Ernie Clement",
+        "Vladimir Guerrero Jr.",
+        "Jes\u00fas S\u00e1nchez",
+        "Eloy Jim\u00e9nez",
+        "Andr\u00e9s Gim\u00e9nez",
+        "Kazuma Okamoto",
+        "Myles Straw",
+        "Tyler Heineman"
+      ],
+      "home_lineup": [
+        "Ketel Marte",
+        "Corbin Carroll",
+        "Geraldo Perdomo",
+        "Lourdes Gurriel Jr.",
+        "Adrian Del Castillo",
+        "Jose Fernandez",
+        "Nolan Arenado",
+        "Ildemaro Vargas",
+        "Alek Thomas"
+      ],
       "game_time": "2026-04-18 08:10 PM ET",
       "game_iso": "2026-04-18T20:10:00-04:00",
       "game_pk": "825098"
@@ -1159,7 +1219,17 @@
       "away_pitcher": "Germ\u00e1n M\u00e1rquez",
       "home_pitcher": "Yusei Kikuchi",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Jo Adell",
+        "Yo\u00e1n Moncada",
+        "Oswald Peraza",
+        "Josh Lowe",
+        "Logan O'Hoppe",
+        "Adam Frazier"
+      ],
       "game_time": "2026-04-18 09:38 PM ET",
       "game_iso": "2026-04-18T21:38:00-04:00",
       "game_pk": "824049"
