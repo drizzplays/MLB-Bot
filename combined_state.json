@@ -785,8 +785,8 @@
       "away_pitcher": "Noah Cameron",
       "home_pitcher": "Will Warren",
       "away_lineup": [
-        "Maikel Garcia",
-        "Bobby Witt Jr.",
+        "Jonathan India",
+        "Tyler Tolbert",
         "Vinnie Pasquantino",
         "Jac Caglianone",
         "Carter Jensen",
@@ -1064,7 +1064,17 @@
         "Nathan Church",
         "Jos\u00e9 Ferm\u00edn"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jose Altuve",
+        "Yordan Alvarez",
+        "Carlos Correa",
+        "Christian Walker",
+        "Isaac Paredes",
+        "Taylor Trammell",
+        "Cam Smith",
+        "Christian V\u00e1zquez",
+        "Nick Allen"
+      ],
       "game_time": "2026-04-18 07:10 PM ET",
       "game_iso": "2026-04-18T19:10:00-04:00",
       "game_pk": "824206"
