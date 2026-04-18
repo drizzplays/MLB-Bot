@@ -658,7 +658,17 @@
       "home_team": "Los Angeles Angels",
       "away_pitcher": "Matt Waldron",
       "home_pitcher": "Jos\u00e9 Soriano",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jake Cronenworth",
+        "Fernando Tatis Jr.",
+        "Jackson Merrill",
+        "Manny Machado",
+        "Xander Bogaerts",
+        "Gavin Sheets",
+        "Nick Castellanos",
+        "Ty France",
+        "Luis Campusano"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
@@ -679,7 +689,17 @@
       "home_team": "Seattle Mariners",
       "away_pitcher": "Jacob deGrom",
       "home_pitcher": "Logan Gilbert",
-      "away_lineup": [],
+      "away_lineup": [
+        "Brandon Nimmo",
+        "Corey Seager",
+        "Wyatt Langford",
+        "Jake Burger",
+        "Evan Carter",
+        "Joc Pederson",
+        "Josh Jung",
+        "Josh Smith",
+        "Danny Jansen"
+      ],
       "home_lineup": [
         "Brendan Donovan",
         "Cal Raleigh",
@@ -711,7 +731,17 @@
         "Ernie Clement",
         "Tyler Heineman"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Ketel Marte",
+        "Corbin Carroll",
+        "Geraldo Perdomo",
+        "Jose Fernandez",
+        "Nolan Arenado",
+        "Ildemaro Vargas",
+        "James McCann",
+        "Tim Tawa",
+        "Jorge Barrosa"
+      ],
       "game_time": "2026-04-17 09:40 PM ET",
       "game_iso": "2026-04-17T21:40:00-04:00",
       "game_pk": "825101"
