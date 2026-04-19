@@ -1285,7 +1285,17 @@
       "away_pitcher": "Trevor Rogers",
       "home_pitcher": "Joey Cantillo",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Steven Kwan",
+        "Angel Mart\u00ednez",
+        "Jos\u00e9 Ram\u00edrez",
+        "Rhys Hoskins",
+        "David Fry",
+        "Daniel Schneemann",
+        "Juan Brito",
+        "Austin Hedges",
+        "Brayan Rocchio"
+      ],
       "game_time": "2026-04-19 01:40 PM ET",
       "game_iso": "2026-04-19T13:40:00-04:00",
       "game_pk": "824452"
