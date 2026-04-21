@@ -1755,7 +1755,7 @@
         "Jose Altuve",
         "Christian Walker",
         "Isaac Paredes",
-        "Taylor Trammell",
+        "Cam Smith",
         "Yainer Diaz",
         "Dustin Harris",
         "Brice Matthews"
@@ -1997,7 +1997,17 @@
       "home_team": "Seattle Mariners",
       "away_pitcher": "J.T. Ginn",
       "home_pitcher": "Emerson Hancock",
-      "away_lineup": [],
+      "away_lineup": [
+        "Nick Kurtz",
+        "Shea Langeliers",
+        "Carlos Cortes",
+        "Tyler Soderstrom",
+        "Jacob Wilson",
+        "Jeff McNeil",
+        "Max Muncy",
+        "Lawrence Butler",
+        "Zack Gelof"
+      ],
       "home_lineup": [
         "J.P. Crawford",
         "Cal Raleigh",
