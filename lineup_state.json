@@ -237,7 +237,7 @@
       "home_team": "Boston Red Sox",
       "away_lineup": [
         "Paul Goldschmidt",
-        "TEST",
+        "Aaron Judge",
         "Cody Bellinger",
         "Giancarlo Stanton",
         "Amed Rosario",
@@ -331,7 +331,17 @@
     "San Diego Padres @ Colorado Rockies | 824367": {
       "away_team": "San Diego Padres",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ram\u00f3n Laureano",
+        "Fernando Tatis Jr.",
+        "Jackson Merrill",
+        "Manny Machado",
+        "Xander Bogaerts",
+        "Gavin Sheets",
+        "Nick Castellanos",
+        "Luis Campusano",
+        "Jake Cronenworth"
+      ],
       "home_lineup": [
         "Edouard Julien",
         "Mickey Moniak",
