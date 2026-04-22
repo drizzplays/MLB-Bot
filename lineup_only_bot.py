@@ -215,7 +215,7 @@ def get_missing_watched_batters(new_game):
         if batter_team == home_team and batter not in home_lineup and new_game.get("home_lineup"):
             missing.append((batter, home_team))
 
-    return missing
+    return sorted(missing)
 
 
 def build(old_game, new_game):
@@ -225,6 +225,7 @@ def build(old_game, new_game):
     old_away_lineup = old_game.get("away_lineup", [])
     old_home_lineup = old_game.get("home_lineup", [])
 
+    # No new alert unless lineup changed
     if (
         old_away_lineup == new_game.get("away_lineup", [])
         and old_home_lineup == new_game.get("home_lineup", [])
@@ -235,9 +236,7 @@ def build(old_game, new_game):
     if not missing:
         return None
 
-    lines = []
-    for batter, team in missing:
-        lines.append(f"- ❌ {batter} not in {team_label(team)} lineup")
+    lines = [f"- ❌ {batter} not in {team_label(team)} lineup" for batter, team in missing]
 
     msg = (
         f"🚨 **WATCHLIST BATTER MISSING**\n\n"
@@ -282,11 +281,13 @@ def run():
 
         state[date_key] = new_games
 
-    print("About to save state...")
+    print("About to save lineup state...")
     preview = json.dumps(state, indent=2)
-    print(preview[:2000])
+    print(preview[:3000])
+
     save_state(state)
-    print("State saved.")
+
+    print("Lineup state saved.")
     print(f"Done. Total alerts sent: {total_alerts}")
 
 
