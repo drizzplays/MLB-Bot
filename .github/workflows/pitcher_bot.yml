@@ -36,7 +36,7 @@ jobs:
 
       - name: Run pitcher bot
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.PITCHER_WEBHOOK_URL }}
         run: python pitcher_only_bot.py
 
       - name: Commit updated pitcher state
