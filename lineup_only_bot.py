@@ -225,7 +225,6 @@ def build(old_game, new_game):
     old_away_lineup = old_game.get("away_lineup", [])
     old_home_lineup = old_game.get("home_lineup", [])
 
-    # No new alert unless lineup changed
     if (
         old_away_lineup == new_game.get("away_lineup", [])
         and old_home_lineup == new_game.get("home_lineup", [])
@@ -250,7 +249,7 @@ def build(old_game, new_game):
 
 
 def run():
-    state = load_state()
+    old_state = load_state()
     today = datetime.now(ET).date()
     dates_to_check = [today]
 
@@ -258,9 +257,10 @@ def run():
         dates_to_check.append(today + timedelta(days=1))
 
     print(f"Loaded watched batters: {len(WATCHED_BATTERS)}")
-    print(f"Loaded state keys: {list(state.keys())}")
+    print(f"Loaded old state keys: {list(old_state.keys())}")
 
     total_alerts = 0
+    new_state = {}
 
     for target_date in dates_to_check:
         date_key = str(target_date)
@@ -269,7 +269,7 @@ def run():
         new_games = get_games(target_date)
         print(f"Games pulled for {date_key}: {len(new_games)}")
 
-        old_games = state.get(date_key, {})
+        old_games = old_state.get(date_key, {})
         print(f"Old games for {date_key}: {len(old_games)}")
 
         for game_key, game_data in new_games.items():
@@ -279,13 +279,13 @@ def run():
                 total_alerts += 1
                 print(f"Sent alert for: {game_key}")
 
-        state[date_key] = new_games
+        new_state[date_key] = new_games
 
     print("About to save lineup state...")
-    preview = json.dumps(state, indent=2)
+    preview = json.dumps(new_state, indent=2)
     print(preview[:3000])
 
-    save_state(state)
+    save_state(new_state)
 
     print("Lineup state saved.")
     print(f"Done. Total alerts sent: {total_alerts}")
