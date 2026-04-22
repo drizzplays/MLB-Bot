@@ -2516,7 +2516,7 @@
         "Agust\u00edn Ram\u00edrez",
         "Heriberto Hern\u00e1ndez",
         "Owen Caissie",
-        "Leo Jim\u00e9nez",
+        "Graham Pauley",
         "Javier Sanoja"
       ],
       "game_time": "2026-04-22 12:10 PM ET",
@@ -2590,7 +2590,17 @@
       "home_team": "Kansas City Royals",
       "away_pitcher": "Chris Bassitt",
       "home_pitcher": "Michael Wacha",
-      "away_lineup": [],
+      "away_lineup": [
+        "Gunnar Henderson",
+        "Taylor Ward",
+        "Dylan Beavers",
+        "Pete Alonso",
+        "Samuel Basallo",
+        "Leody Taveras",
+        "Jeremiah Jackson",
+        "Colton Cowser",
+        "Coby Mayo"
+      ],
       "home_lineup": [
         "Maikel Garcia",
         "Bobby Witt Jr.",
@@ -2611,8 +2621,28 @@
       "home_team": "Los Angeles Angels",
       "away_pitcher": "Eric Lauer",
       "home_pitcher": "Jos\u00e9 Soriano",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Nathan Lukes",
+        "Ernie Clement",
+        "Vladimir Guerrero Jr.",
+        "Jes\u00fas S\u00e1nchez",
+        "Lenyn Sosa",
+        "Daulton Varsho",
+        "Kazuma Okamoto",
+        "Andr\u00e9s Gim\u00e9nez",
+        "Tyler Heineman"
+      ],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Jo Adell",
+        "Jorge Soler",
+        "Oswald Peraza",
+        "Nolan Schanuel",
+        "Vaughn Grissom",
+        "Logan O'Hoppe",
+        "Bryce Teodosio"
+      ],
       "game_time": "2026-04-22 03:07 PM ET",
       "game_iso": "2026-04-22T15:07:00-04:00",
       "game_pk": "824044"
@@ -2622,8 +2652,28 @@
       "home_team": "Seattle Mariners",
       "away_pitcher": "Aaron Civale",
       "home_pitcher": "Logan Gilbert",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Nick Kurtz",
+        "Shea Langeliers",
+        "Carlos Cortes",
+        "Tyler Soderstrom",
+        "Jacob Wilson",
+        "Jeff McNeil",
+        "Max Muncy",
+        "Lawrence Butler",
+        "Austin Wynns"
+      ],
+      "home_lineup": [
+        "J.P. Crawford",
+        "Cal Raleigh",
+        "Julio Rodr\u00edguez",
+        "Josh Naylor",
+        "Randy Arozarena",
+        "Luke Raley",
+        "Dominic Canzone",
+        "Cole Young",
+        "Leo Rivas"
+      ],
       "game_time": "2026-04-22 04:10 PM ET",
       "game_iso": "2026-04-22T16:10:00-04:00",
       "game_pk": "823147"
@@ -2631,7 +2681,7 @@
     "Milwaukee Brewers @ Detroit Tigers | 824286": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Detroit Tigers",
-      "away_pitcher": "Chad Patrick",
+      "away_pitcher": "DL Hall",
       "home_pitcher": "Casey Mize",
       "away_lineup": [],
       "home_lineup": [],
@@ -2667,7 +2717,17 @@
       "away_pitcher": "Connor Prielipp",
       "home_pitcher": "Clay Holmes",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Bo Bichette",
+        "Juan Soto",
+        "Luis Robert Jr.",
+        "Francisco Lindor",
+        "Francisco Alvarez",
+        "Mark Vientos",
+        "Marcus Semien",
+        "Tommy Pham",
+        "Tyrone Taylor"
+      ],
       "game_time": "2026-04-22 07:10 PM ET",
       "game_iso": "2026-04-22T19:10:00-04:00",
       "game_pk": "823641"
@@ -2799,7 +2859,7 @@
       "away_team": "New York Yankees",
       "home_team": "Boston Red Sox",
       "away_pitcher": "Cam Schlittler",
-      "home_pitcher": "Brayan Bello",
+      "home_pitcher": "TBD",
       "away_lineup": [],
       "home_lineup": [],
       "game_time": "2026-04-23 06:10 PM ET",
