@@ -223,7 +223,7 @@ def build(old_game, new_game):
             was_in = batter in old_away_lineup
             is_in = batter in new_away_lineup
 
-            if was_in and not is_in:
+            if not is_in:
                 missing_lines.append(
                     f"- ❌ {batter} not in {team_label(away_team)} lineup"
                 )
@@ -236,7 +236,7 @@ def build(old_game, new_game):
             was_in = batter in old_home_lineup
             is_in = batter in new_home_lineup
 
-            if was_in and not is_in:
+            if not is_in:
                 missing_lines.append(
                     f"- ❌ {batter} not in {team_label(home_team)} lineup"
                 )
@@ -244,6 +244,9 @@ def build(old_game, new_game):
                 active_lines.append(
                     f"- ✅ {batter} now in {team_label(home_team)} lineup"
                 )
+
+    missing_lines = sorted(set(missing_lines))
+    active_lines = sorted(set(active_lines))
 
     if not missing_lines and not active_lines:
         return None
