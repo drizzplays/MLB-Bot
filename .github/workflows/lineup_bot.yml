@@ -56,5 +56,6 @@ jobs:
           fi
 
           git commit -m "Update lineup bot state"
-          git pull --rebase origin main
+          git fetch origin main
+          git rebase origin/main || true
           git push origin HEAD:main
