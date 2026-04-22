@@ -10,10 +10,7 @@ STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
-# Only show pitcher alerts this many hours before first pitch
 PITCHER_ALERT_WINDOW_HOURS = 6
-
-# Do not send pitcher alerts before this hour in ET
 PITCHER_ALERT_START_HOUR_ET = 8
 
 TEAM_EMOJIS = {
@@ -81,7 +78,6 @@ def send(content):
 def is_pregame(game_iso):
     if not game_iso:
         return True
-
     try:
         game_dt = datetime.fromisoformat(game_iso)
         return datetime.now(ET) < game_dt
@@ -97,14 +93,11 @@ def is_after_pitcher_alert_start(hour=PITCHER_ALERT_START_HOUR_ET):
 def is_within_pitcher_alert_window(game_iso, hours=PITCHER_ALERT_WINDOW_HOURS):
     if not game_iso:
         return False
-
     try:
         game_dt = datetime.fromisoformat(game_iso)
         now = datetime.now(ET)
-
         if now >= game_dt:
             return False
-
         return (game_dt - now).total_seconds() <= hours * 3600
     except Exception:
         return False
@@ -164,33 +157,30 @@ def get_games(target_date):
 def pitcher_changes(old_game, new_game):
     changes = []
 
-    # Prevent first-run / empty-state spam
-    if not old_game:
-        return changes
-
-    old_away = old_game.get("away_pitcher", "TBD")
+    old_away = old_game.get("away_pitcher", "TBD") if old_game else "TBD"
     new_away = new_game.get("away_pitcher", "TBD")
-    old_home = old_game.get("home_pitcher", "TBD")
+    old_home = old_game.get("home_pitcher", "TBD") if old_game else "TBD"
     new_home = new_game.get("home_pitcher", "TBD")
 
-    # Only show real named-pitcher changes, not TBD -> posted
-    if (
-        old_away not in ("", "TBD")
-        and new_away not in ("", "TBD")
-        and old_away != new_away
-    ):
-        changes.append(
-            f"🔄 {team_label(new_game['away_team'])}: {old_away} → {new_away}"
-        )
+    if old_away != new_away and new_away not in ("", "TBD"):
+        if old_away in ("", "TBD"):
+            changes.append(
+                f"🆕 {team_label(new_game['away_team'])}: pitcher posted — {new_away}"
+            )
+        else:
+            changes.append(
+                f"🔄 {team_label(new_game['away_team'])}: {old_away} → {new_away}"
+            )
 
-    if (
-        old_home not in ("", "TBD")
-        and new_home not in ("", "TBD")
-        and old_home != new_home
-    ):
-        changes.append(
-            f"🔄 {team_label(new_game['home_team'])}: {old_home} → {new_home}"
-        )
+    if old_home != new_home and new_home not in ("", "TBD"):
+        if old_home in ("", "TBD"):
+            changes.append(
+                f"🆕 {team_label(new_game['home_team'])}: pitcher posted — {new_home}"
+            )
+        else:
+            changes.append(
+                f"🔄 {team_label(new_game['home_team'])}: {old_home} → {new_home}"
+            )
 
     return changes
 
@@ -209,15 +199,13 @@ def build(old_game, new_game):
     if not changes:
         return None
 
-    msg = (
+    return (
         f"🚨 **PITCHER UPDATED**\n\n"
         f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
         f"**First pitch:** {new_game['game_time']}\n\n"
         + "\n".join(f"- {x}" for x in changes)
         + "\n\n⚾ DRIZZPLAYS"
     )
-
-    return msg
 
 
 def run():
