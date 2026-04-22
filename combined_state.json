@@ -2039,7 +2039,7 @@
         "Cam Smith",
         "Yainer Diaz",
         "Brice Matthews",
-        "Dustin Harris"
+        "Daniel Johnson"
       ],
       "home_lineup": [
         "Steven Kwan",
@@ -2049,7 +2049,7 @@
         "George Valera",
         "Daniel Schneemann",
         "Angel Mart\u00ednez",
-        "Austin Hedges",
+        "Bo Naylor",
         "Brayan Rocchio"
       ],
       "game_time": "2026-04-21 06:10 PM ET",
@@ -2077,7 +2077,7 @@
         "Junior Caminero",
         "Jonathan Aranda",
         "Yandy D\u00edaz",
-        "Jake Fraley",
+        "Jonny DeLuca",
         "Cedric Mullins",
         "Richie Palacios",
         "Hunter Feduccia",
@@ -2135,7 +2135,7 @@
         "Blake Perkins"
       ],
       "home_lineup": [
-        "Jahmai Jones",
+        "Kerry Carpenter",
         "Gleyber Torres",
         "Kevin McGonigle",
         "Matt Vierling",
@@ -2315,8 +2315,8 @@
         "Bryan Reynolds",
         "Marcell Ozuna",
         "Nick Yorke",
-        "Spencer Horwitz",
         "Nick Gonzales",
+        "Jake Mangum",
         "Konnor Griffin",
         "Henry Davis"
       ],
@@ -2433,7 +2433,17 @@
       "home_team": "Arizona Diamondbacks",
       "away_pitcher": "Sean Burke",
       "home_pitcher": "Merrill Kelly",
-      "away_lineup": [],
+      "away_lineup": [
+        "Andrew Benintendi",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Colson Montgomery",
+        "Everson Pereira",
+        "Sam Antonacci",
+        "Chase Meidroth",
+        "Tristan Peters",
+        "Reese McGuire"
+      ],
       "home_lineup": [
         "Ketel Marte",
         "Corbin Carroll",
