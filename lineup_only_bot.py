@@ -45,6 +45,14 @@ TEAM_EMOJIS = {
 
 CHECK_TOMORROW = True
 
+# Turn this on while debugging
+DEBUG = True
+
+
+def debug(msg):
+    if DEBUG:
+        print(msg)
+
 
 def team_label(team_name):
     emoji = TEAM_EMOJIS.get(team_name, "⚾")
@@ -75,17 +83,18 @@ def send(content):
 def load_batters(filename="batters.txt"):
     try:
         with open(filename, "r", encoding="utf-8") as f:
-            return {
+            return [
                 line.strip()
                 for line in f
                 if line.strip() and not line.strip().startswith("#")
-            }
+            ]
     except FileNotFoundError:
         print(f"Watchlist file not found: {filename}")
-        return set()
+        return []
 
 
 WATCHED_BATTERS = load_batters()
+PLAYER_TEAM_CACHE = {}
 
 
 def extract_lineup(team_data):
@@ -177,6 +186,9 @@ def get_games(target_date):
 
 
 def get_player_team(player_name):
+    if player_name in PLAYER_TEAM_CACHE:
+        return PLAYER_TEAM_CACHE[player_name]
+
     try:
         r = requests.get(
             "https://statsapi.mlb.com/api/v1/people/search",
@@ -186,18 +198,27 @@ def get_player_team(player_name):
         r.raise_for_status()
         data = r.json()
         people = data.get("people", [])
+
         if not people:
+            debug(f"[TEAM LOOKUP] No result for: {player_name}")
+            PLAYER_TEAM_CACHE[player_name] = None
             return None
 
         current_team = people[0].get("currentTeam", {})
-        return current_team.get("name")
+        team_name = current_team.get("name")
+        debug(f"[TEAM LOOKUP] {player_name} -> {team_name}")
+        PLAYER_TEAM_CACHE[player_name] = team_name
+        return team_name
+
     except Exception as e:
-        print(f"Player search failed for {player_name}: {e}")
+        debug(f"[TEAM LOOKUP] Failed for {player_name}: {e}")
+        PLAYER_TEAM_CACHE[player_name] = None
         return None
 
 
 def build(old_game, new_game):
     if not is_pregame(new_game.get("game_iso")):
+        debug("[BUILD] Skipped: game already started")
         return None
 
     away_team = new_game["away_team"]
@@ -209,6 +230,7 @@ def build(old_game, new_game):
     new_home_lineup = set(new_game.get("home_lineup", []))
 
     if old_away_lineup == new_away_lineup and old_home_lineup == new_home_lineup:
+        debug(f"[BUILD] No lineup change for {away_team} @ {home_team}")
         return None
 
     missing_lines = []
@@ -217,11 +239,13 @@ def build(old_game, new_game):
     for batter in WATCHED_BATTERS:
         batter_team = get_player_team(batter)
         if not batter_team:
+            debug(f"[WATCH] Skipped {batter}: no team found")
             continue
 
         if batter_team == away_team and new_game.get("away_lineup"):
             was_in = batter in old_away_lineup
             is_in = batter in new_away_lineup
+            debug(f"[WATCH] {batter} | team={away_team} | was_in={was_in} | is_in={is_in}")
 
             if not is_in:
                 missing_lines.append(
@@ -235,6 +259,7 @@ def build(old_game, new_game):
         if batter_team == home_team and new_game.get("home_lineup"):
             was_in = batter in old_home_lineup
             is_in = batter in new_home_lineup
+            debug(f"[WATCH] {batter} | team={home_team} | was_in={was_in} | is_in={is_in}")
 
             if not is_in:
                 missing_lines.append(
@@ -249,6 +274,7 @@ def build(old_game, new_game):
     active_lines = sorted(set(active_lines))
 
     if not missing_lines and not active_lines:
+        debug(f"[BUILD] No watched batter alert for {away_team} @ {home_team}")
         return None
 
     sections = []
