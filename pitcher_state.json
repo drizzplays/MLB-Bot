@@ -348,6 +348,15 @@
     }
   },
   "2026-04-25": {
+    "Boston Red Sox @ Baltimore Orioles | 824851": {
+      "away_team": "Boston Red Sox",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "Garrett Crochet",
+      "home_pitcher": "Trevor Rogers",
+      "game_time": "2026-04-25 12:05 PM ET",
+      "game_iso": "2026-04-25T12:05:00-04:00",
+      "game_pk": "824851"
+    },
     "Seattle Mariners @ St. Louis Cardinals | 823070": {
       "away_team": "Seattle Mariners",
       "home_team": "St. Louis Cardinals",
@@ -365,15 +374,6 @@
       "game_time": "2026-04-25 03:07 PM ET",
       "game_iso": "2026-04-25T15:07:00-04:00",
       "game_pk": "822826"
-    },
-    "Boston Red Sox @ Baltimore Orioles | 824851": {
-      "away_team": "Boston Red Sox",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Garrett Crochet",
-      "home_pitcher": "Trevor Rogers",
-      "game_time": "2026-04-25 04:05 PM ET",
-      "game_iso": "2026-04-25T16:05:00-04:00",
-      "game_pk": "824851"
     },
     "Miami Marlins @ San Francisco Giants | 823229": {
       "away_team": "Miami Marlins",
