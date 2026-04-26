@@ -95,7 +95,7 @@
         "Felix Reyes",
         "Adolis Garc\u00eda",
         "Alec Bohm",
-        "Edmundo Sosa",
+        "Bryson Stott",
         "Dylan Moore",
         "Rafael March\u00e1n"
       ],
@@ -123,8 +123,8 @@
         "Alec Bohm",
         "Chase Shugart",
         "Tim Mayza",
-        "Nolan Hoffman",
         "Bryson Stott",
+        "Nolan Hoffman",
         "Kyle Schwarber",
         "Felix Reyes",
         "Rafael March\u00e1n",
@@ -177,8 +177,8 @@
         "Steven Kwan",
         "Angel Mart\u00ednez",
         "Jos\u00e9 Ram\u00edrez",
-        "Rhys Hoskins",
-        "David Fry",
+        "George Valera",
+        "Kyle Manzardo",
         "Daniel Schneemann",
         "Juan Brito",
         "Austin Hedges",
@@ -191,7 +191,7 @@
         "Jes\u00fas S\u00e1nchez",
         "Kazuma Okamoto",
         "Lenyn Sosa",
-        "Yohendrick Pinango",
+        "Myles Straw",
         "Davis Schneider",
         "Brandon Valenzuela"
       ],
@@ -261,12 +261,12 @@
       "away_lineup": [
         "Kevin McGonigle",
         "Gleyber Torres",
-        "Colt Keith",
+        "Hao-Yu  Lee",
         "Riley Greene",
         "Spencer Torkelson",
         "Kerry Carpenter",
         "Matt Vierling",
-        "Wenceel P\u00e9rez",
+        "Javier B\u00e1ez",
         "Jake Rogers"
       ],
       "home_lineup": [
@@ -276,8 +276,8 @@
         "Sal Stewart",
         "Nathaniel Lowe",
         "Spencer Steer",
-        "JJ Bleday",
-        "Jose Trevino",
+        "Dane Myers",
+        "Tyler Stephenson",
         "Ke'Bryan Hayes"
       ],
       "away_roster": [
@@ -286,8 +286,8 @@
         "Tarik Skubal",
         "Casey Mize",
         "Hao-Yu  Lee",
-        "Drew Anderson",
         "Jahmai Jones",
+        "Drew Anderson",
         "Riley Greene",
         "Javier B\u00e1ez",
         "Tyler Holton",
@@ -327,8 +327,8 @@
         "Spencer Steer",
         "Jose Trevino",
         "Connor Phillips",
-        "Graham Ashcraft",
         "Tyler Stephenson",
+        "Graham Ashcraft",
         "Sam Moll",
         "JJ Bleday",
         "Brock Burke",
@@ -352,7 +352,7 @@
         "Brett Sullivan",
         "Ezequiel Tovar",
         "Jake McCarthy",
-        "Jordan Beck"
+        "Brenton Doyle"
       ],
       "home_lineup": [
         "Bo Bichette",
@@ -515,7 +515,7 @@
         "Ben Williamson",
         "Cedric Mullins",
         "Taylor Walls",
-        "Hunter Feduccia"
+        "Nick Fortes"
       ],
       "away_roster": [
         "Taj Bradley",
@@ -600,7 +600,7 @@
         "Tanner Murray",
         "Derek Hill",
         "Drew Romo",
-        "Luisangel Acu\u00f1a"
+        "Tristan Peters"
       ],
       "away_roster": [
         "Brady House",
@@ -1016,7 +1016,17 @@
         "Luis Campusano",
         "Jake Cronenworth"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Ildemaro Vargas",
+        "Ketel Marte",
+        "Corbin Carroll",
+        "Lourdes Gurriel Jr.",
+        "Adrian Del Castillo",
+        "Jose Fernandez",
+        "Nolan Arenado",
+        "Alek Thomas",
+        "Tim Tawa"
+      ],
       "away_roster": [
         "Luis Campusano",
         "Freddy Fermin",
@@ -1050,12 +1060,13 @@
         "Andrew Hoffmann",
         "Eduardo Rodriguez",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Tim Tawa",
+        "Brandon Pfaadt",
         "Adrian Del Castillo",
         "Nolan Arenado",
         "Merrill Kelly",
         "Kevin Ginkel",
+        "Jesus Valdez",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
         "Ildemaro Vargas",
@@ -1071,8 +1082,8 @@
         "Aramis Garcia",
         "Ryan Thompson",
         "James McCann",
-        "Jorge Barrosa",
-        "Alek Thomas"
+        "Alek Thomas",
+        "Jorge Barrosa"
       ],
       "game_time": "2026-04-26 04:05 PM ET",
       "game_iso": "2026-04-26T16:05:00-04:00",
@@ -1081,7 +1092,17 @@
     "Miami Marlins @ San Francisco Giants | 823230": {
       "away_team": "Miami Marlins",
       "home_team": "San Francisco Giants",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jakob Marsee",
+        "Kyle Stowers",
+        "Otto Lopez",
+        "Xavier Edwards",
+        "Liam Hicks",
+        "Owen Caissie",
+        "Connor Norby",
+        "Graham Pauley",
+        "Heriberto Hern\u00e1ndez"
+      ],
       "home_lineup": [
         "Jung Hoo Lee",
         "Matt Chapman",
@@ -1095,8 +1116,8 @@
       ],
       "away_roster": [
         "Lake Bachar",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Tyler Phillips",
         "Esteury Ruiz",
@@ -1106,9 +1127,9 @@
         "John King",
         "Javier Sanoja",
         "Xavier Edwards",
+        "Kyle Stowers",
         "Graham Pauley",
         "Michael Petersen",
-        "Kyle Stowers",
         "Liam Hicks",
         "Anthony Bender",
         "Owen Caissie",
@@ -1156,7 +1177,17 @@
     "Los Angeles Angels @ Kansas City Royals | 824122": {
       "away_team": "Los Angeles Angels",
       "home_team": "Kansas City Royals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Yo\u00e1n Moncada",
+        "Jorge Soler",
+        "Nolan Schanuel",
+        "Jo Adell",
+        "Josh Lowe",
+        "Travis d'Arnaud",
+        "Adam Frazier"
+      ],
       "home_lineup": [
         "Lane Thomas",
         "Bobby Witt Jr.",
@@ -1179,21 +1210,21 @@
         "Chase Silseth",
         "Jos\u00e9 Soriano",
         "Jack Kochanowicz",
-        "Drew Pomeranz",
         "Mike Trout",
+        "Drew Pomeranz",
+        "Jos\u00e9 Fermin",
         "Jo Adell",
         "Vaughn Grissom",
         "Sam Bachman",
+        "Joey Lucchesi",
         "Ryan Zeferjahn",
         "Nolan Schanuel",
         "Josh Lowe",
-        "Shaun Anderson",
+        "Sebasti\u00e1n Rivero",
         "Yusei Kikuchi",
         "Bryce Teodosio",
         "Walbert Urena",
-        "Logan O'Hoppe",
         "Reid Detmers",
-        "Jordan Romano",
         "Brent Suter"
       ],
       "home_roster": [
@@ -1231,32 +1262,52 @@
     "Chicago Cubs @ Los Angeles Dodgers | 823959": {
       "away_team": "Chicago Cubs",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Nico Hoerner",
+        "Alex Bregman",
+        "Ian Happ",
+        "Seiya Suzuki",
+        "Carson Kelly",
+        "Michael Busch",
+        "Dansby Swanson",
+        "Matt Shaw",
+        "Pete Crow-Armstrong"
+      ],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Freddie Freeman",
+        "Teoscar Hern\u00e1ndez",
+        "Andy Pages",
+        "Kyle Tucker",
+        "Miguel Rojas",
+        "Dalton Rushing",
+        "Santiago Espinal",
+        "Hyeseong Kim"
+      ],
       "away_roster": [
         "Michael Conforto",
         "Hoby Milner",
-        "Riley Martin",
-        "Edward Cabrera",
         "Ian Happ",
+        "Edward Cabrera",
         "Javier Assad",
-        "Scott Kingery",
-        "Caleb Thielbar",
         "Shota Imanaga",
         "Alex Bregman",
-        "Michael Busch",
         "Carson Kelly",
+        "Michael Busch",
         "Jameson Taillon",
         "Pete Crow-Armstrong",
         "Jacob Webb",
         "Miguel Amaya",
         "Mois\u00e9s Ballesteros",
+        "Nicky Lopez",
         "Corbin Martin",
         "Seiya Suzuki",
         "Ryan Rolison",
         "Matthew Boyd",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
+        "Charlie Barnes",
+        "Yacksel R\u00edos",
         "Nico Hoerner",
         "Ben Brown",
         "Matt Shaw"
