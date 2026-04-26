@@ -23,7 +23,7 @@
         "Samuel Basallo",
         "Jeremiah Jackson",
         "Dylan Beavers",
-        "Blaze Alexander"
+        "Coby Mayo"
       ],
       "away_roster": [
         "Roman Anthony",
@@ -92,7 +92,7 @@
         "Trea Turner",
         "Kyle Schwarber",
         "Bryce Harper",
-        "Felix Reyes",
+        "Brandon Marsh",
         "Adolis Garc\u00eda",
         "Alec Bohm",
         "Bryson Stott",
@@ -181,7 +181,7 @@
         "Kyle Manzardo",
         "Daniel Schneemann",
         "Juan Brito",
-        "Austin Hedges",
+        "Chase DeLauter",
         "Brayan Rocchio"
       ],
       "home_lineup": [
@@ -361,9 +361,9 @@
         "Mark Vientos",
         "Marcus Semien",
         "Brett Baty",
-        "Tyrone Taylor",
-        "Tommy Pham",
-        "Luis Torrens"
+        "MJ Melendez",
+        "Carson Benge",
+        "Francisco Alvarez"
       ],
       "away_roster": [
         "Mickey Moniak",
@@ -430,10 +430,31 @@
     "Colorado Rockies @ New York Mets | 823637": {
       "away_team": "Colorado Rockies",
       "home_team": "New York Mets",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Edouard Julien",
+        "Hunter Goodman",
+        "Mickey Moniak",
+        "Tyler Freeman",
+        "TJ Rumfield",
+        "Kyle Karros",
+        "Troy Johnston",
+        "Ezequiel Tovar",
+        "Brenton Doyle"
+      ],
+      "home_lineup": [
+        "Bo Bichette",
+        "Juan Soto",
+        "Francisco Alvarez",
+        "Brett Baty",
+        "MJ Melendez",
+        "Marcus Semien",
+        "Carson Benge",
+        "Ronny Mauricio",
+        "Tyrone Taylor"
+      ],
       "away_roster": [
         "Mickey Moniak",
+        "Blas Casta\u00f1o",
         "Victor Vodnik",
         "Jake McCarthy",
         "Troy Johnston",
@@ -451,8 +472,8 @@
         "Tanner Gordon",
         "Brett Sullivan",
         "Brenton Doyle",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Seth Halvorsen",
         "Antonio Senzatela",
@@ -468,6 +489,7 @@
         "Sean Manaea",
         "Mark Vientos",
         "Tobias Myers",
+        "Austin Warren",
         "Brett Baty",
         "Huascar Brazob\u00e1n",
         "Luke Weaver",
@@ -481,8 +503,8 @@
         "David Peterson",
         "Freddy Peralta",
         "Clay Holmes",
-        "Craig Kimbrel",
         "Juan Soto",
+        "Craig Kimbrel",
         "Ronny Mauricio",
         "Brooks Raley",
         "Nolan McLean",
@@ -511,7 +533,7 @@
         "Junior Caminero",
         "Jonathan Aranda",
         "Yandy D\u00edaz",
-        "Jake Fraley",
+        "Jonny DeLuca",
         "Ben Williamson",
         "Cedric Mullins",
         "Taylor Walls",
@@ -584,9 +606,9 @@
         "James Wood",
         "Curtis Mead",
         "Daylen Lile",
-        "Brady House",
+        "Jorbit Vivas",
         "CJ Abrams",
-        "Jacob Young",
+        "Joey Wiemer",
         "Luis Garc\u00eda Jr.",
         "Nasim Nu\u00f1ez",
         "Drew Millas"
@@ -597,7 +619,7 @@
         "Munetaka Murakami",
         "Everson Pereira",
         "Colson Montgomery",
-        "Tanner Murray",
+        "Sam Antonacci",
         "Derek Hill",
         "Drew Romo",
         "Tristan Peters"
@@ -616,8 +638,8 @@
         "Brad Lord",
         "Curtis Mead",
         "Daylen Lile",
-        "Cionel P\u00e9rez",
         "Jos\u00e9 Tena",
+        "Cionel P\u00e9rez",
         "James Wood",
         "Cade Cavalli",
         "Jacob Young",
@@ -682,7 +704,7 @@
         "Isaac Paredes",
         "Christian Walker",
         "Cam Smith",
-        "Dustin Harris",
+        "Brice Matthews",
         "Christian V\u00e1zquez",
         "Daniel Johnson",
         "Braden Shewmake"
@@ -756,7 +778,7 @@
         "Bryan Reynolds",
         "Marcell Ozuna",
         "Ryan O'Hearn",
-        "Nick Yorke",
+        "Spencer Horwitz",
         "Konnor Griffin",
         "Joey Bart",
         "Billy Cook"
@@ -769,7 +791,7 @@
         "Garrett Mitchell",
         "Sal Frelick",
         "Luis Rengifo",
-        "David Hamilton",
+        "Joey Ortiz",
         "Brandon Lockridge"
       ],
       "away_roster": [
@@ -840,8 +862,8 @@
         "Cal Raleigh",
         "Julio Rodr\u00edguez",
         "Randy Arozarena",
-        "Luke Raley",
-        "Dominic Canzone",
+        "Rob Refsnyder",
+        "Mitch Garver",
         "Connor Joe",
         "Cole Young",
         "Leo Rivas"
@@ -855,7 +877,7 @@
         "Masyn Winn",
         "Nathan Church",
         "Ram\u00f3n Ur\u00edas",
-        "Victor Scott II"
+        "Yohel Pozo"
       ],
       "away_roster": [
         "Josh Naylor",
@@ -867,8 +889,8 @@
         "Randy Arozarena",
         "Dominic Canzone",
         "Cal Raleigh",
-        "Connor Joe",
         "Rob Refsnyder",
+        "Connor Joe",
         "Cole Wilcox",
         "Matt Brash",
         "Logan Gilbert",
@@ -901,9 +923,9 @@
         "Justin Bruihl",
         "Alec Burleson",
         "Thomas Saggese",
+        "Yohel Pozo",
         "Riley O'Brien",
         "Andre Pallante",
-        "Yohel Pozo",
         "George Soriano",
         "Ram\u00f3n Ur\u00edas",
         "Matthew Liberatore",
@@ -925,7 +947,7 @@
         "Shea Langeliers",
         "Tyler Soderstrom",
         "Brent Rooker",
-        "Carlos Cortes",
+        "Zack Gelof",
         "Jacob Wilson",
         "Jeff McNeil",
         "Lawrence Butler",
@@ -933,14 +955,14 @@
       ],
       "home_lineup": [
         "Brandon Nimmo",
-        "Joc Pederson",
+        "Andrew McCutchen",
         "Corey Seager",
         "Josh Jung",
         "Evan Carter",
         "Jake Burger",
         "Josh Smith",
         "Danny Jansen",
-        "Alejandro Osuna"
+        "Sam Haggerty"
       ],
       "away_roster": [
         "Lawrence Butler",
@@ -1021,7 +1043,7 @@
         "Ketel Marte",
         "Corbin Carroll",
         "Lourdes Gurriel Jr.",
-        "Adrian Del Castillo",
+        "James McCann",
         "Jose Fernandez",
         "Nolan Arenado",
         "Alek Thomas",
@@ -1457,7 +1479,7 @@
         "Mason Montgomery",
         "Jake Mangum",
         "Mitch Keller",
-        "Yohan Ram\u00ed\u00edez",
+        "Yohan Ram\u00edrez",
         "Isaac Mattson",
         "Bubba Chandler",
         "Billy Cook",
@@ -1467,10 +1489,10 @@
         "Justin Lawrence",
         "Wilber Dotel",
         "Konnor Griffin",
+        "Cam Sanders",
         "Ryan O'Hearn",
         "Nick Gonzales",
-        "Marcell Ozuna",
-        "Braxton Ashcraft"
+        "Marcell Ozuna"
       ],
       "game_time": "2026-04-27 06:40 PM ET",
       "game_iso": "2026-04-27T18:40:00-04:00",
@@ -1812,6 +1834,7 @@
         "Heriberto Hern\u00e1ndez",
         "Sandy Alcantara",
         "Tyler Phillips",
+        "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
         "Max Meyer",
@@ -1830,7 +1853,6 @@
         "Connor Norby",
         "Chris Paddack",
         "Andrew Nardi",
-        "Austin Slater",
         "Eury P\u00e9rez",
         "Otto Lopez"
       ],
