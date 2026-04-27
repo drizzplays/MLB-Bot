@@ -10,37 +10,38 @@ STATE_FILE = "lineup_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
-TEAM_EMOJIS = {
-    "Arizona Diamondbacks": "⚾",
-    "Atlanta Braves": "<:braves:1319500374482358333>",
-    "Baltimore Orioles": "⚾",
-    "Boston Red Sox": "⚾",
-    "Chicago Cubs": "<:cubs:1319495233037275176>",
-    "Chicago White Sox": "⚾",
-    "Cincinnati Reds": "⚾",
-    "Cleveland Guardians": "<:guardians:1376110439431143464>",
-    "Colorado Rockies": "⚾",
-    "Detroit Tigers": "<:tigers:1375047163888795728>",
-    "Houston Astros": "⚾",
-    "Kansas City Royals": "⚾",
-    "Los Angeles Angels": "⚾",
-    "Los Angeles Dodgers": "<:ladodgers:1319496737743704094>",
-    "Miami Marlins": "⚾",
-    "Milwaukee Brewers": "⚾",
-    "Minnesota Twins": "<:twins:1383372555255283782>",
-    "New York Mets": "<:mets:1316263476171378790>",
-    "New York Yankees": "<:584d4b6e0a44bd1070d5d493:1319507500495667210>",
-    "Athletics": "⚾",
-    "Philadelphia Phillies": "<:phillies:1375046480959770665>",
-    "Pittsburgh Pirates": "<:pirates:1319496010237612103>",
-    "San Diego Padres": "<:padres:1375529423796965547>",
-    "San Francisco Giants": "⚾",
-    "Seattle Mariners": "⚾",
-    "St. Louis Cardinals": "⚾",
-    "Tampa Bay Rays": "<:tbrays:1319497631172661278>",
-    "Texas Rangers": "⚾",
-    "Toronto Blue Jays": "<:bluejays:1319500116360560724>",
-    "Washington Nationals": "⚾",
+TEAM_ABBR = {
+    "Arizona Diamondbacks": "ARI",
+    "Atlanta Braves": "ATL",
+    "Baltimore Orioles": "BAL",
+    "Boston Red Sox": "BOS",
+    "Chicago Cubs": "CHC",
+    "Chicago White Sox": "CWS",
+    "Cincinnati Reds": "CIN",
+    "Cleveland Guardians": "CLE",
+    "Colorado Rockies": "COL",
+    "Detroit Tigers": "DET",
+    "Houston Astros": "HOU",
+    "Kansas City Royals": "KC",
+    "Los Angeles Angels": "LAA",
+    "Los Angeles Dodgers": "LAD",
+    "Miami Marlins": "MIA",
+    "Milwaukee Brewers": "MIL",
+    "Minnesota Twins": "MIN",
+    "New York Mets": "NYM",
+    "New York Yankees": "NYY",
+    "Athletics": "ATH",
+    "Oakland Athletics": "OAK",
+    "Philadelphia Phillies": "PHI",
+    "Pittsburgh Pirates": "PIT",
+    "San Diego Padres": "SD",
+    "San Francisco Giants": "SF",
+    "Seattle Mariners": "SEA",
+    "St. Louis Cardinals": "STL",
+    "Tampa Bay Rays": "TB",
+    "Texas Rangers": "TEX",
+    "Toronto Blue Jays": "TOR",
+    "Washington Nationals": "WSH",
 }
 
 CHECK_TOMORROW = True
@@ -53,8 +54,12 @@ def debug(msg):
 
 
 def team_label(team_name):
-    emoji = TEAM_EMOJIS.get(team_name, "⚾")
-    return f"{emoji} {team_name}"
+    return TEAM_ABBR.get(team_name, team_name)
+
+
+def format_first_pitch(game_dt):
+    time_text = game_dt.strftime("%I:%M %p").lstrip("0")
+    return f"{game_dt.strftime('%b')} {game_dt.day}, {time_text} ET"
 
 
 def load_state():
@@ -157,7 +162,7 @@ def get_games(target_date):
                 game_dt = datetime.fromisoformat(
                     game_date_raw.replace("Z", "+00:00")
                 ).astimezone(ET)
-                game_time = game_dt.strftime("%Y-%m-%d %I:%M %p ET")
+                game_time = format_first_pitch(game_dt)
                 game_iso = game_dt.isoformat()
             except Exception:
                 game_time = game_date_raw
@@ -217,6 +222,8 @@ def build(old_game, new_game):
     old_home_lineup = set(old_game.get("home_lineup", []))
     new_away_lineup = set(new_game.get("away_lineup", []))
     new_home_lineup = set(new_game.get("home_lineup", []))
+    away_lineup_was_posted = bool(old_game.get("away_lineup"))
+    home_lineup_was_posted = bool(old_game.get("home_lineup"))
 
     if old_away_lineup == new_away_lineup and old_home_lineup == new_home_lineup:
         debug(f"[BUILD] No lineup change for {away_team} @ {home_team}")
@@ -235,13 +242,9 @@ def build(old_game, new_game):
             debug(f"[WATCH] {batter} | team={away_team} | was_in={was_in} | is_in={is_in}")
 
             if not is_in:
-                missing_lines.append(
-                    f"- ❌ {batter} not in {team_label(away_team)} lineup"
-                )
-            elif not was_in and is_in:
-                active_lines.append(
-                    f"- ✅ {batter} now in {team_label(away_team)} lineup"
-                )
+                missing_lines.append(f"- {batter} ({team_label(away_team)})")
+            elif away_lineup_was_posted and not was_in and is_in:
+                active_lines.append(f"- {batter} ({team_label(away_team)})")
 
         elif batter in home_roster and new_game.get("home_lineup"):
             was_in = batter in old_home_lineup
@@ -249,13 +252,9 @@ def build(old_game, new_game):
             debug(f"[WATCH] {batter} | team={home_team} | was_in={was_in} | is_in={is_in}")
 
             if not is_in:
-                missing_lines.append(
-                    f"- ❌ {batter} not in {team_label(home_team)} lineup"
-                )
-            elif not was_in and is_in:
-                active_lines.append(
-                    f"- ✅ {batter} now in {team_label(home_team)} lineup"
-                )
+                missing_lines.append(f"- {batter} ({team_label(home_team)})")
+            elif home_lineup_was_posted and not was_in and is_in:
+                active_lines.append(f"- {batter} ({team_label(home_team)})")
 
         else:
             debug(f"[WATCH] Skipped {batter}: not on either game roster")
@@ -270,20 +269,16 @@ def build(old_game, new_game):
     sections = []
 
     if missing_lines:
-        sections.append(
-            "🚨 **WATCHLIST BATTER MISSING**\n\n" + "\n".join(missing_lines)
-        )
+        sections.append("**Not in lineup**\n" + "\n".join(missing_lines))
 
     if active_lines:
-        sections.append(
-            "✅ **WATCHLIST BATTER NOW ACTIVE**\n\n" + "\n".join(active_lines)
-        )
+        sections.append("**Added after lineup posted**\n" + "\n".join(active_lines))
 
     msg = (
+        f"**Lineup Watchlist**\n"
         f"**{team_label(away_team)} @ {team_label(home_team)}**\n"
-        f"**First pitch:** {new_game['game_time']}\n\n"
+        f"First pitch: {new_game['game_time']}\n\n"
         + "\n\n".join(sections)
-        + "\n\n⚾ DRIZZPLAYS"
     )
 
     return msg

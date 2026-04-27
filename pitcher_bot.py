@@ -10,6 +10,49 @@ STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
+TEAM_ABBR = {
+    "Arizona Diamondbacks": "ARI",
+    "Atlanta Braves": "ATL",
+    "Baltimore Orioles": "BAL",
+    "Boston Red Sox": "BOS",
+    "Chicago Cubs": "CHC",
+    "Chicago White Sox": "CWS",
+    "Cincinnati Reds": "CIN",
+    "Cleveland Guardians": "CLE",
+    "Colorado Rockies": "COL",
+    "Detroit Tigers": "DET",
+    "Houston Astros": "HOU",
+    "Kansas City Royals": "KC",
+    "Los Angeles Angels": "LAA",
+    "Los Angeles Dodgers": "LAD",
+    "Miami Marlins": "MIA",
+    "Milwaukee Brewers": "MIL",
+    "Minnesota Twins": "MIN",
+    "New York Mets": "NYM",
+    "New York Yankees": "NYY",
+    "Athletics": "ATH",
+    "Oakland Athletics": "OAK",
+    "Philadelphia Phillies": "PHI",
+    "Pittsburgh Pirates": "PIT",
+    "San Diego Padres": "SD",
+    "San Francisco Giants": "SF",
+    "Seattle Mariners": "SEA",
+    "St. Louis Cardinals": "STL",
+    "Tampa Bay Rays": "TB",
+    "Texas Rangers": "TEX",
+    "Toronto Blue Jays": "TOR",
+    "Washington Nationals": "WSH",
+}
+
+
+def team_label(team_name):
+    return TEAM_ABBR.get(team_name, team_name)
+
+
+def format_first_pitch(game_dt):
+    time_text = game_dt.strftime("%I:%M %p").lstrip("0")
+    return f"{game_dt.strftime('%b')} {game_dt.day}, {time_text} ET"
+
 
 def load_state():
     try:
@@ -62,7 +105,7 @@ def get_schedule_for_date(target_date):
                 game_dt = datetime.fromisoformat(
                     game_date_raw.replace("Z", "+00:00")
                 ).astimezone(ET)
-                game_time_et = game_dt.strftime("%Y-%m-%d %I:%M %p ET")
+                game_time_et = format_first_pitch(game_dt)
             except Exception:
                 game_time_et = game_date_raw
 
@@ -91,25 +134,24 @@ def compare_games(old_games, new_games):
 
         if old_game.get("away_pitcher") != new_game.get("away_pitcher"):
             changes.append(
-                f"{new_game['away_team']}: "
+                f"{team_label(new_game['away_team'])}: "
                 f"{old_game.get('away_pitcher', 'TBD')} -> "
                 f"{new_game.get('away_pitcher', 'TBD')}"
             )
 
         if old_game.get("home_pitcher") != new_game.get("home_pitcher"):
             changes.append(
-                f"{new_game['home_team']}: "
+                f"{team_label(new_game['home_team'])}: "
                 f"{old_game.get('home_pitcher', 'TBD')} -> "
                 f"{new_game.get('home_pitcher', 'TBD')}"
             )
 
         if changes:
             msg = (
-                f"🚨 **Pregame Pitcher Change**\n\n"
-                f"**{new_game['away_team']} @ {new_game['home_team']}**\n"
-                f"**First pitch:** {new_game['game_time_et']}\n"
+                f"**Pitcher Update**\n"
+                f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
+                f"First pitch: {new_game['game_time_et']}\n\n"
                 + "\n".join(f"- {x}" for x in changes)
-                + "\n\n**⚾ DRIZZPLAYS**"
             )
             alerts.append(msg)
 

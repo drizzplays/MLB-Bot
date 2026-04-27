@@ -13,45 +13,50 @@ MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 PITCHER_ALERT_WINDOW_HOURS = 6
 PITCHER_ALERT_START_HOUR_ET = 8
 
-TEAM_EMOJIS = {
-    "Arizona Diamondbacks": "⚾",
-    "Atlanta Braves": "<:braves:1319500374482358333>",
-    "Baltimore Orioles": "⚾",
-    "Boston Red Sox": "⚾",
-    "Chicago Cubs": "<:cubs:1319495233037275176>",
-    "Chicago White Sox": "⚾",
-    "Cincinnati Reds": "⚾",
-    "Cleveland Guardians": "<:guardians:1376110439431143464>",
-    "Colorado Rockies": "⚾",
-    "Detroit Tigers": "<:tigers:1375047163888795728>",
-    "Houston Astros": "⚾",
-    "Kansas City Royals": "⚾",
-    "Los Angeles Angels": "⚾",
-    "Los Angeles Dodgers": "<:ladodgers:1319496737743704094>",
-    "Miami Marlins": "⚾",
-    "Milwaukee Brewers": "⚾",
-    "Minnesota Twins": "<:twins:1383372555255283782>",
-    "New York Mets": "<:mets:1316263476171378790>",
-    "New York Yankees": "<:584d4b6e0a44bd1070d5d493:1319507500495667210>",
-    "Athletics": "⚾",
-    "Philadelphia Phillies": "<:phillies:1375046480959770665>",
-    "Pittsburgh Pirates": "<:pirates:1319496010237612103>",
-    "San Diego Padres": "<:padres:1375529423796965547>",
-    "San Francisco Giants": "⚾",
-    "Seattle Mariners": "⚾",
-    "St. Louis Cardinals": "⚾",
-    "Tampa Bay Rays": "<:tbrays:1319497631172661278>",
-    "Texas Rangers": "⚾",
-    "Toronto Blue Jays": "<:bluejays:1319500116360560724>",
-    "Washington Nationals": "⚾",
+TEAM_ABBR = {
+    "Arizona Diamondbacks": "ARI",
+    "Atlanta Braves": "ATL",
+    "Baltimore Orioles": "BAL",
+    "Boston Red Sox": "BOS",
+    "Chicago Cubs": "CHC",
+    "Chicago White Sox": "CWS",
+    "Cincinnati Reds": "CIN",
+    "Cleveland Guardians": "CLE",
+    "Colorado Rockies": "COL",
+    "Detroit Tigers": "DET",
+    "Houston Astros": "HOU",
+    "Kansas City Royals": "KC",
+    "Los Angeles Angels": "LAA",
+    "Los Angeles Dodgers": "LAD",
+    "Miami Marlins": "MIA",
+    "Milwaukee Brewers": "MIL",
+    "Minnesota Twins": "MIN",
+    "New York Mets": "NYM",
+    "New York Yankees": "NYY",
+    "Athletics": "ATH",
+    "Oakland Athletics": "OAK",
+    "Philadelphia Phillies": "PHI",
+    "Pittsburgh Pirates": "PIT",
+    "San Diego Padres": "SD",
+    "San Francisco Giants": "SF",
+    "Seattle Mariners": "SEA",
+    "St. Louis Cardinals": "STL",
+    "Tampa Bay Rays": "TB",
+    "Texas Rangers": "TEX",
+    "Toronto Blue Jays": "TOR",
+    "Washington Nationals": "WSH",
 }
 
 CHECK_TOMORROW = True
 
 
 def team_label(team_name):
-    emoji = TEAM_EMOJIS.get(team_name, "⚾")
-    return f"{emoji} {team_name}"
+    return TEAM_ABBR.get(team_name, team_name)
+
+
+def format_first_pitch(game_dt):
+    time_text = game_dt.strftime("%I:%M %p").lstrip("0")
+    return f"{game_dt.strftime('%b')} {game_dt.day}, {time_text} ET"
 
 
 def load_state():
@@ -134,7 +139,7 @@ def get_games(target_date):
                 game_dt = datetime.fromisoformat(
                     game_date_raw.replace("Z", "+00:00")
                 ).astimezone(ET)
-                game_time = game_dt.strftime("%Y-%m-%d %I:%M %p ET")
+                game_time = format_first_pitch(game_dt)
                 game_iso = game_dt.isoformat()
             except Exception:
                 game_time = game_date_raw
@@ -165,21 +170,21 @@ def pitcher_changes(old_game, new_game):
     if old_away != new_away and new_away not in ("", "TBD"):
         if old_away in ("", "TBD"):
             changes.append(
-                f"🆕 {team_label(new_game['away_team'])}: pitcher posted — {new_away}"
+                f"{team_label(new_game['away_team'])}: pitcher posted - {new_away}"
             )
         else:
             changes.append(
-                f"🔄 {team_label(new_game['away_team'])}: {old_away} → {new_away}"
+                f"{team_label(new_game['away_team'])}: {old_away} -> {new_away}"
             )
 
     if old_home != new_home and new_home not in ("", "TBD"):
         if old_home in ("", "TBD"):
             changes.append(
-                f"🆕 {team_label(new_game['home_team'])}: pitcher posted — {new_home}"
+                f"{team_label(new_game['home_team'])}: pitcher posted - {new_home}"
             )
         else:
             changes.append(
-                f"🔄 {team_label(new_game['home_team'])}: {old_home} → {new_home}"
+                f"{team_label(new_game['home_team'])}: {old_home} -> {new_home}"
             )
 
     return changes
@@ -200,11 +205,10 @@ def build(old_game, new_game):
         return None
 
     return (
-        f"🚨 **PITCHER UPDATED**\n\n"
+        f"**Pitcher Update**\n"
         f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
-        f"**First pitch:** {new_game['game_time']}\n\n"
+        f"First pitch: {new_game['game_time']}\n\n"
         + "\n".join(f"- {x}" for x in changes)
-        + "\n\n⚾ DRIZZPLAYS"
     )
 
 
