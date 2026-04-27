@@ -1,4 +1,11 @@
 {
-  "date": null,
-  "games": {}
+  "date": "2026-04-27",
+  "games": {
+    "824446": {
+      "active_pitcher_id": 800048,
+      "active_pitcher_name": "Parker Messick",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-04-27T18:11:19.125918-04:00"
+    }
+  }
 }
