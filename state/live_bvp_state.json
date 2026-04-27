@@ -1,11 +1,29 @@
 {
   "date": "2026-04-27",
   "games": {
-    "824446": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+    "822825": {
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
       "alerted_pairs": [],
-      "last_checked_at": "2026-04-27T18:11:19.125918-04:00"
+      "last_checked_at": "2026-04-27T19:27:34.607141-04:00"
+    },
+    "823395": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-04-27T19:27:32.875830-04:00"
+    },
+    "823719": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-04-27T19:27:36.314896-04:00"
+    },
+    "824446": {
+      "active_pitcher_id": 670036,
+      "active_pitcher_name": "Matt Festa",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-04-27T19:27:30.682792-04:00"
     }
   }
 }
