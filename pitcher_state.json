@@ -703,5 +703,142 @@
       "game_iso": "2026-04-27T22:10:00-04:00",
       "game_pk": "823961"
     }
+  },
+  "2026-04-28": {
+    "Tampa Bay Rays @ Cleveland Guardians | 824447": {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Cleveland Guardians",
+      "away_pitcher": "Nick Martinez",
+      "home_pitcher": "Tanner Bibee",
+      "game_time": "Apr 28, 6:10 PM ET",
+      "game_iso": "2026-04-28T18:10:00-04:00",
+      "game_pk": "824447"
+    },
+    "Houston Astros @ Baltimore Orioles | 824849": {
+      "away_team": "Houston Astros",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Shane Baz",
+      "game_time": "Apr 28, 6:35 PM ET",
+      "game_iso": "2026-04-28T18:35:00-04:00",
+      "game_pk": "824849"
+    },
+    "Colorado Rockies @ Cincinnati Reds | 824526": {
+      "away_team": "Colorado Rockies",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Chase Burns",
+      "game_time": "Apr 28, 6:40 PM ET",
+      "game_iso": "2026-04-28T18:40:00-04:00",
+      "game_pk": "824526"
+    },
+    "St. Louis Cardinals @ Pittsburgh Pirates | 823390": {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Pittsburgh Pirates",
+      "away_pitcher": "Kyle Leahy",
+      "home_pitcher": "TBD",
+      "game_time": "Apr 28, 6:40 PM ET",
+      "game_iso": "2026-04-28T18:40:00-04:00",
+      "game_pk": "823390"
+    },
+    "San Francisco Giants @ Philadelphia Phillies | 823473": {
+      "away_team": "San Francisco Giants",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": "Tyler Mahle",
+      "home_pitcher": "Jes\u00fas Luzardo",
+      "game_time": "Apr 28, 6:40 PM ET",
+      "game_iso": "2026-04-28T18:40:00-04:00",
+      "game_pk": "823473"
+    },
+    "Boston Red Sox @ Toronto Blue Jays | 822823": {
+      "away_team": "Boston Red Sox",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": "Payton Tolle",
+      "home_pitcher": "Trey Yesavage",
+      "game_time": "Apr 28, 7:07 PM ET",
+      "game_iso": "2026-04-28T19:07:00-04:00",
+      "game_pk": "822823"
+    },
+    "Washington Nationals @ New York Mets | 823636": {
+      "away_team": "Washington Nationals",
+      "home_team": "New York Mets",
+      "away_pitcher": "Zack Littell",
+      "home_pitcher": "Clay Holmes",
+      "game_time": "Apr 28, 7:10 PM ET",
+      "game_iso": "2026-04-28T19:10:00-04:00",
+      "game_pk": "823636"
+    },
+    "Detroit Tigers @ Atlanta Braves | 824931": {
+      "away_team": "Detroit Tigers",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Casey Mize",
+      "home_pitcher": "Mart\u00edn P\u00e9rez",
+      "game_time": "Apr 28, 7:15 PM ET",
+      "game_iso": "2026-04-28T19:15:00-04:00",
+      "game_pk": "824931"
+    },
+    "Seattle Mariners @ Minnesota Twins | 823716": {
+      "away_team": "Seattle Mariners",
+      "home_team": "Minnesota Twins",
+      "away_pitcher": "Logan Gilbert",
+      "home_pitcher": "Joe Ryan",
+      "game_time": "Apr 28, 7:40 PM ET",
+      "game_iso": "2026-04-28T19:40:00-04:00",
+      "game_pk": "823716"
+    },
+    "Los Angeles Angels @ Chicago White Sox | 824610": {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Chicago White Sox",
+      "away_pitcher": "Jos\u00e9 Soriano",
+      "home_pitcher": "Davis Martin",
+      "game_time": "Apr 28, 7:40 PM ET",
+      "game_iso": "2026-04-28T19:40:00-04:00",
+      "game_pk": "824610"
+    },
+    "Arizona Diamondbacks @ Milwaukee Brewers | 823798": {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Chad Patrick",
+      "game_time": "Apr 28, 7:40 PM ET",
+      "game_iso": "2026-04-28T19:40:00-04:00",
+      "game_pk": "823798"
+    },
+    "New York Yankees @ Texas Rangers | 822908": {
+      "away_team": "New York Yankees",
+      "home_team": "Texas Rangers",
+      "away_pitcher": "Cam Schlittler",
+      "home_pitcher": "Jacob deGrom",
+      "game_time": "Apr 28, 8:05 PM ET",
+      "game_iso": "2026-04-28T20:05:00-04:00",
+      "game_pk": "822908"
+    },
+    "Kansas City Royals @ Athletics | 825017": {
+      "away_team": "Kansas City Royals",
+      "home_team": "Athletics",
+      "away_pitcher": "Kris Bubic",
+      "home_pitcher": "TBD",
+      "game_time": "Apr 28, 9:40 PM ET",
+      "game_iso": "2026-04-28T21:40:00-04:00",
+      "game_pk": "825017"
+    },
+    "Chicago Cubs @ San Diego Padres | 823310": {
+      "away_team": "Chicago Cubs",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Edward Cabrera",
+      "home_pitcher": "Walker Buehler",
+      "game_time": "Apr 28, 9:40 PM ET",
+      "game_iso": "2026-04-28T21:40:00-04:00",
+      "game_pk": "823310"
+    },
+    "Miami Marlins @ Los Angeles Dodgers | 823956": {
+      "away_team": "Miami Marlins",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": "Janson Junk",
+      "home_pitcher": "Shohei Ohtani",
+      "game_time": "Apr 28, 10:10 PM ET",
+      "game_iso": "2026-04-28T22:10:00-04:00",
+      "game_pk": "823956"
+    }
   }
 }
