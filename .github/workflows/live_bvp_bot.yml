@@ -1,0 +1,54 @@
+name: Live Pitcher BvP Bot
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-bvp-bot
+  cancel-in-progress: false
+
+jobs:
+  run-live-bvp-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+
+    env:
+      DISCORD_WEBHOOK_BVP: ${{ secrets.DISCORD_WEBHOOK_BVP }}
+      # Good-data filter. Example: 4/4 qualifies. Tweak these if you want looser/tighter alerts.
+      MIN_BVP_AB: "3"
+      MIN_BVP_HITS: "2"
+      MIN_BVP_AVG: "0.750"
+      MIN_BVP_OPS: "0"
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run live BvP bot
+        run: python live_bvp_bot.py
+
+      - name: Save bot state back to repo
+        if: always()
+        run: |
+          if [[ -n "$(git status --porcelain state/live_bvp_state.json 2>/dev/null)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state/live_bvp_state.json
+            git commit -m "Update live BvP bot state [skip ci]"
+            git push
+          else
+            echo "No bot state changes to commit."
+          fi
