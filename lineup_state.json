@@ -92,11 +92,11 @@
         "Carlos Correa",
         "Yordan Alvarez",
         "Isaac Paredes",
-        "Christian Walker",
+        "Braden Shewmake",
         "Jose Altuve",
         "Brice Matthews",
         "Cam Smith",
-        "Christian V\u00e1zquez",
+        "Yainer Diaz",
         "Daniel Johnson"
       ],
       "home_lineup": [
@@ -104,7 +104,7 @@
         "Willson Contreras",
         "Roman Anthony",
         "Wilyer Abreu",
-        "Andruw Monasterio",
+        "Isiah Kiner-Falefa",
         "Marcelo Mayer",
         "Ceddanne Rafaela",
         "Carlos Narv\u00e1ez",
@@ -272,7 +272,7 @@
       "home_lineup": [
         "Trent Grisham",
         "Paul Goldschmidt",
-        "Aaron Judge",
+        "Max Schuemann",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
         "Jasson Dom\u00ednguez",
@@ -607,7 +607,7 @@
         "Dalton Rushing",
         "Andy Pages",
         "Miguel Rojas",
-        "Alex Freeland"
+        "Santiago Espinal"
       ],
       "home_lineup": [
         "JJ Wetherholt",
@@ -618,7 +618,7 @@
         "Jos\u00e9 Ferm\u00edn",
         "Nathan Church",
         "Pedro Pag\u00e9s",
-        "Ram\u00f3n Ur\u00edas"
+        "Nolan Gorman"
       ],
       "away_roster": [
         "Will Smith",
@@ -692,7 +692,7 @@
         "Lourdes Gurriel Jr.",
         "Gabriel Moreno",
         "Jose Fernandez",
-        "Jorge Barrosa"
+        "Adrian Del Castillo"
       ],
       "home_lineup": [
         "Nico Hoerner",
@@ -777,7 +777,7 @@
         "Eli White",
         "Jonah Heim",
         "Jorge Mateo",
-        "Jos\u00e9 Azocar"
+        "Mike Yastrzemski"
       ],
       "home_lineup": [
         "Edouard Julien",
@@ -861,14 +861,14 @@
         "Daniel Schneemann",
         "Travis Bazzana",
         "Petey Halpin",
-        "Austin Hedges",
+        "Bo Naylor",
         "Brayan Rocchio"
       ],
       "home_lineup": [
         "Jacob Wilson",
         "Brent Rooker",
         "Nick Kurtz",
-        "Colby Thomas",
+        "Lawrence Butler",
         "Zack Gelof",
         "Tyler Soderstrom",
         "Austin Wynns",
@@ -941,7 +941,7 @@
       "away_lineup": [
         "Bo Bichette",
         "Juan Soto",
-        "MJ Melendez",
+        "Austin Slater",
         "Brett Baty",
         "Marcus Semien",
         "Carson Benge",
@@ -958,7 +958,7 @@
         "Josh Lowe",
         "Vaughn Grissom",
         "Oswald Peraza",
-        "Sebasti\u00e1n Rivero"
+        "Yo\u00e1n Moncada"
       ],
       "away_roster": [
         "Luis Torrens",
@@ -1111,10 +1111,10 @@
       "away_lineup": [
         "Sam Antonacci",
         "Munetaka Murakami",
-        "Andrew Benintendi",
+        "Miguel Vargas",
         "Colson Montgomery",
         "Chase Meidroth",
-        "Jarred Kelenic",
+        "Derek Hill",
         "Tristan Peters",
         "Luisangel Acu\u00f1a",
         "Drew Romo"
@@ -1126,7 +1126,7 @@
         "Manny Machado",
         "Xander Bogaerts",
         "Ty France",
-        "Nick Castellanos",
+        "Gavin Sheets",
         "Freddy Fermin",
         "Jake Cronenworth"
       ],
@@ -2031,6 +2031,7 @@
         "Casey Schmitt",
         "JT Brubaker",
         "Jerar Encarnacion",
+        "Trevor McDonald",
         "Heliot Ramos",
         "Will Brennan",
         "Tyler Mahle",
