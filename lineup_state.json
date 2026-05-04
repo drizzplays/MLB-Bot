@@ -3,15 +3,35 @@
     "New York Mets @ Colorado Rockies | 824363": {
       "away_team": "New York Mets",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Juan Soto",
+        "Bo Bichette",
+        "MJ Melendez",
+        "Mark Vientos",
+        "Brett Baty",
+        "Marcus Semien",
+        "Carson Benge",
+        "Francisco Alvarez",
+        "Luis Torrens"
+      ],
+      "home_lineup": [
+        "Mickey Moniak",
+        "Tyler Freeman",
+        "TJ Rumfield",
+        "Hunter Goodman",
+        "Willi Castro",
+        "Jordan Beck",
+        "Kyle Karros",
+        "Ezequiel Tovar",
+        "Brenton Doyle"
+      ],
       "away_roster": [
         "Luis Torrens",
         "Bo Bichette",
         "Tyrone Taylor",
         "Francisco Alvarez",
-        "Sean Manaea",
         "Mark Vientos",
+        "Sean Manaea",
         "Tobias Myers",
         "Austin Warren",
         "Brett Baty",
@@ -24,8 +44,8 @@
         "David Peterson",
         "Freddy Peralta",
         "Clay Holmes",
-        "Craig Kimbrel",
         "Juan Soto",
+        "Craig Kimbrel",
         "Andy Ib\u00e1\u00f1ez",
         "Christian Scott",
         "Vidal Bruj\u00e1n",
@@ -49,13 +69,13 @@
         "Edouard Julien",
         "Hunter Goodman",
         "Tomoyuki Sugano",
-        "Zach Agnos",
         "Jordan Beck",
+        "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
         "Brenton Doyle",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Antonio Senzatela",
         "Jaden Hill",
@@ -126,8 +146,8 @@
         "Wenceel P\u00e9rez",
         "Ricky Vanasco"
       ],
-      "game_time": "May 4, 6:40 PM ET",
-      "game_iso": "2026-05-04T18:40:00-04:00",
+      "game_time": "May 4, 6:10 PM ET",
+      "game_iso": "2026-05-04T18:10:00-04:00",
       "game_pk": "824283"
     },
     "Toronto Blue Jays @ Tampa Bay Rays | 822984": {
@@ -388,8 +408,8 @@
         "Ben Brown",
         "Matt Shaw"
       ],
-      "game_time": "May 4, 7:40 PM ET",
-      "game_iso": "2026-05-04T19:40:00-04:00",
+      "game_time": "May 4, 7:10 PM ET",
+      "game_iso": "2026-05-04T19:10:00-04:00",
       "game_pk": "824684"
     },
     "Cleveland Guardians @ Kansas City Royals | 824120": {
