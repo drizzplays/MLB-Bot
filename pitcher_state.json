@@ -1494,7 +1494,7 @@
     "New York Mets @ Colorado Rockies | 824363": {
       "away_team": "New York Mets",
       "home_team": "Colorado Rockies",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Huascar Brazob\u00e1n",
       "home_pitcher": "Tomoyuki Sugano",
       "game_time": "May 4, 5:40 PM ET",
       "game_iso": "2026-05-04T17:40:00-04:00",
@@ -1504,9 +1504,9 @@
       "away_team": "Boston Red Sox",
       "home_team": "Detroit Tigers",
       "away_pitcher": "Payton Tolle",
-      "home_pitcher": "Tarik Skubal",
-      "game_time": "May 4, 6:40 PM ET",
-      "game_iso": "2026-05-04T18:40:00-04:00",
+      "home_pitcher": "Tyler Holton",
+      "game_time": "May 4, 6:10 PM ET",
+      "game_iso": "2026-05-04T18:10:00-04:00",
       "game_pk": "824283"
     },
     "Toronto Blue Jays @ Tampa Bay Rays | 822984": {
@@ -1541,8 +1541,8 @@
       "home_team": "Chicago Cubs",
       "away_pitcher": "Chase Petty",
       "home_pitcher": "Edward Cabrera",
-      "game_time": "May 4, 7:40 PM ET",
-      "game_iso": "2026-05-04T19:40:00-04:00",
+      "game_time": "May 4, 7:10 PM ET",
+      "game_iso": "2026-05-04T19:10:00-04:00",
       "game_pk": "824684"
     },
     "Cleveland Guardians @ Kansas City Royals | 824120": {
