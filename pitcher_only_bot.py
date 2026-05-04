@@ -5,13 +5,14 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
 STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
 PITCHER_ALERT_WINDOW_HOURS = 6
 PITCHER_ALERT_START_HOUR_ET = 8
+UNKNOWN_PITCHER_VALUES = {"", "TBD", "TBA", "NONE", "NULL", "N/A"}
 
 TEAM_ABBR = {
     "Arizona Diamondbacks": "ARI",
@@ -76,6 +77,8 @@ def save_state(state):
 
 
 def send(content):
+    if not WEBHOOK_URL:
+        raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / PITCHER_WEBHOOK_URL secret.")
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
 
@@ -159,35 +162,82 @@ def get_games(target_date):
     return games
 
 
+def normalize_pitcher_name(value):
+    if value is None:
+        return "TBD"
+    name = str(value).strip()
+    return name if name else "TBD"
+
+
+def is_unknown_pitcher(value):
+    return normalize_pitcher_name(value).upper() in UNKNOWN_PITCHER_VALUES
+
+
 def pitcher_changes(old_game, new_game):
     changes = []
 
-    old_away = old_game.get("away_pitcher", "TBD") if old_game else "TBD"
-    new_away = new_game.get("away_pitcher", "TBD")
-    old_home = old_game.get("home_pitcher", "TBD") if old_game else "TBD"
-    new_home = new_game.get("home_pitcher", "TBD")
+    sides = [
+        ("away", new_game["away_team"]),
+        ("home", new_game["home_team"]),
+    ]
 
-    if old_away != new_away and new_away not in ("", "TBD"):
-        if old_away in ("", "TBD"):
+    for side, team_name in sides:
+        old_pitcher = normalize_pitcher_name(
+            old_game.get(f"{side}_pitcher", "TBD") if old_game else "TBD"
+        )
+        new_pitcher = normalize_pitcher_name(new_game.get(f"{side}_pitcher", "TBD"))
+
+        if old_pitcher == new_pitcher:
+            continue
+
+        old_unknown = is_unknown_pitcher(old_pitcher)
+        new_unknown = is_unknown_pitcher(new_pitcher)
+        team = team_label(team_name)
+
+        if not old_unknown and new_unknown:
             changes.append(
-                f"{team_label(new_game['away_team'])}: pitcher posted - {new_away}"
+                {
+                    "type": "scratch",
+                    "text": f"🚨 {team}: {old_pitcher} removed / scratched -> {new_pitcher}",
+                }
+            )
+        elif old_unknown and not new_unknown:
+            changes.append(
+                {
+                    "type": "posted",
+                    "text": f"{team}: pitcher posted - {new_pitcher}",
+                }
+            )
+        elif not old_unknown and not new_unknown:
+            changes.append(
+                {
+                    "type": "swap",
+                    "text": f"🚨 {team}: {old_pitcher} -> {new_pitcher}",
+                }
             )
         else:
             changes.append(
-                f"{team_label(new_game['away_team'])}: {old_away} -> {new_away}"
-            )
-
-    if old_home != new_home and new_home not in ("", "TBD"):
-        if old_home in ("", "TBD"):
-            changes.append(
-                f"{team_label(new_game['home_team'])}: pitcher posted - {new_home}"
-            )
-        else:
-            changes.append(
-                f"{team_label(new_game['home_team'])}: {old_home} -> {new_home}"
+                {
+                    "type": "unknown_change",
+                    "text": f"{team}: pitcher status changed - {old_pitcher} -> {new_pitcher}",
+                }
             )
 
     return changes
+
+
+def should_send_pitcher_alert(changes, game_iso):
+    if not changes:
+        return False
+
+    # Named pitcher removals/swaps move markets immediately. Do not hide them
+    # behind the 6-hour window; that was the Skubal miss.
+    urgent_types = {"scratch", "swap", "unknown_change"}
+    if any(change["type"] in urgent_types for change in changes):
+        return True
+
+    # Routine TBD -> named pitcher posts can stay window-gated to avoid spam.
+    return is_within_pitcher_alert_window(game_iso)
 
 
 def build(old_game, new_game):
@@ -197,18 +247,15 @@ def build(old_game, new_game):
     if not is_after_pitcher_alert_start():
         return None
 
-    if not is_within_pitcher_alert_window(new_game.get("game_iso")):
-        return None
-
     changes = pitcher_changes(old_game, new_game)
-    if not changes:
+    if not should_send_pitcher_alert(changes, new_game.get("game_iso")):
         return None
 
     return (
         f"**Pitcher Update**\n"
         f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
         f"First pitch: {new_game['game_time']}\n\n"
-        + "\n".join(f"- {x}" for x in changes)
+        + "\n".join(f"- {change['text']}" for change in changes)
     )
 
 
