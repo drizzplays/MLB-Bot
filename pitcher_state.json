@@ -1691,15 +1691,6 @@
       "game_iso": "2026-05-05T20:10:00-04:00",
       "game_pk": "824200"
     },
-    "New York Mets @ Colorado Rockies | 824362": {
-      "away_team": "New York Mets",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Freddy Peralta",
-      "home_pitcher": "Michael Lorenzen",
-      "game_time": "May 5, 8:40 PM ET",
-      "game_iso": "2026-05-05T20:40:00-04:00",
-      "game_pk": "824362"
-    },
     "Chicago White Sox @ Los Angeles Angels | 824040": {
       "away_team": "Chicago White Sox",
       "home_team": "Los Angeles Angels",
@@ -1735,6 +1726,15 @@
       "game_time": "May 5, 9:45 PM ET",
       "game_iso": "2026-05-05T21:45:00-04:00",
       "game_pk": "823227"
+    },
+    "New York Mets @ Colorado Rockies | 824362": {
+      "away_team": "New York Mets",
+      "home_team": "Colorado Rockies",
+      "away_pitcher": "Freddy Peralta",
+      "home_pitcher": "Michael Lorenzen",
+      "game_time": "May 5, 8:40 PM ET",
+      "game_iso": "2026-05-05T20:40:00-04:00",
+      "game_pk": "824362"
     }
   },
   "2026-05-06": {
@@ -1764,15 +1764,6 @@
       "game_time": "May 6, 2:10 PM ET",
       "game_iso": "2026-05-06T14:10:00-04:00",
       "game_pk": "824198"
-    },
-    "New York Mets @ Colorado Rockies | 824361": {
-      "away_team": "New York Mets",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Christian Scott",
-      "home_pitcher": "Jose Quintana",
-      "game_time": "May 6, 3:10 PM ET",
-      "game_iso": "2026-05-06T15:10:00-04:00",
-      "game_pk": "824361"
     },
     "San Diego Padres @ San Francisco Giants | 823226": {
       "away_team": "San Diego Padres",
@@ -1863,6 +1854,15 @@
       "game_time": "May 6, 7:40 PM ET",
       "game_iso": "2026-05-06T19:40:00-04:00",
       "game_pk": "824118"
+    },
+    "New York Mets @ Colorado Rockies | 824361": {
+      "away_team": "New York Mets",
+      "home_team": "Colorado Rockies",
+      "away_pitcher": "Christian Scott",
+      "home_pitcher": "Jose Quintana",
+      "game_time": "May 6, 9:20 PM ET",
+      "game_iso": "2026-05-06T21:20:00-04:00",
+      "game_pk": "824361"
     },
     "Pittsburgh Pirates @ Arizona Diamondbacks | 825091": {
       "away_team": "Pittsburgh Pirates",
