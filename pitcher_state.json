@@ -1673,15 +1673,6 @@
       "game_iso": "2026-05-05T19:40:00-04:00",
       "game_pk": "824119"
     },
-    "Milwaukee Brewers @ St. Louis Cardinals | 823062": {
-      "away_team": "Milwaukee Brewers",
-      "home_team": "St. Louis Cardinals",
-      "away_pitcher": "Brandon Sproat",
-      "home_pitcher": "Andre Pallante",
-      "game_time": "May 5, 7:45 PM ET",
-      "game_iso": "2026-05-05T19:45:00-04:00",
-      "game_pk": "823062"
-    },
     "Los Angeles Dodgers @ Houston Astros | 824200": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "Houston Astros",
@@ -1727,6 +1718,15 @@
       "game_iso": "2026-05-05T21:45:00-04:00",
       "game_pk": "823227"
     },
+    "Milwaukee Brewers @ St. Louis Cardinals | 823062": {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Brandon Sproat",
+      "home_pitcher": "Andre Pallante",
+      "game_time": "May 5, 7:45 PM ET",
+      "game_iso": "2026-05-05T19:45:00-04:00",
+      "game_pk": "823062"
+    },
     "New York Mets @ Colorado Rockies | 824362": {
       "away_team": "New York Mets",
       "home_team": "Colorado Rockies",
@@ -1750,8 +1750,8 @@
     "Milwaukee Brewers @ St. Louis Cardinals | 823063": {
       "away_team": "Milwaukee Brewers",
       "home_team": "St. Louis Cardinals",
-      "away_pitcher": "TBD",
-      "home_pitcher": "Matthew Liberatore",
+      "away_pitcher": "Brandon Sproat",
+      "home_pitcher": "Andre Pallante",
       "game_time": "May 6, 1:15 PM ET",
       "game_iso": "2026-05-06T13:15:00-04:00",
       "game_pk": "823063"
@@ -1795,7 +1795,7 @@
     "Boston Red Sox @ Detroit Tigers | 824282": {
       "away_team": "Boston Red Sox",
       "home_team": "Detroit Tigers",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Sonny Gray",
       "home_pitcher": "Jack Flaherty",
       "game_time": "May 6, 6:40 PM ET",
       "game_iso": "2026-05-06T18:40:00-04:00",
@@ -1859,7 +1859,7 @@
       "away_team": "New York Mets",
       "home_team": "Colorado Rockies",
       "away_pitcher": "Freddy Peralta",
-      "home_pitcher": "Jose Quintana",
+      "home_pitcher": "Michael Lorenzen",
       "game_time": "May 6, 9:20 PM ET",
       "game_iso": "2026-05-06T21:20:00-04:00",
       "game_pk": "824361"
