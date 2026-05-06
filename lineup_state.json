@@ -262,12 +262,12 @@
         "Jackson Merrill",
         "Manny Machado",
         "Miguel Andujar",
-        "Gavin Sheets",
+        "Xander Bogaerts",
         "Fernando Tatis Jr.",
         "Ram\u00f3n Laureano",
         "Nick Castellanos",
         "Freddy Fermin",
-        "Sung-Mun Song"
+        "Ty France"
       ],
       "home_lineup": [
         "Heliot Ramos",
@@ -350,8 +350,8 @@
         "Colson Montgomery",
         "Chase Meidroth",
         "Andrew Benintendi",
-        "Jarred Kelenic",
-        "Tristan Peters",
+        "Randal Grichuk",
+        "Luisangel Acu\u00f1a",
         "Drew Romo"
       ],
       "home_lineup": [
@@ -362,7 +362,7 @@
         "Jo Adell",
         "Oswald Peraza",
         "Nolan Schanuel",
-        "Travis d'Arnaud",
+        "Sebasti\u00e1n Rivero",
         "Bryce Teodosio"
       ],
       "away_roster": [
@@ -436,8 +436,8 @@
         "Mauricio Dub\u00f3n",
         "Austin Riley",
         "Mike Yastrzemski",
-        "Sean Murphy",
-        "Jim Jarvis"
+        "Eli White",
+        "Didier Fuentes"
       ],
       "home_lineup": [
         "J.P. Crawford",
@@ -447,7 +447,7 @@
         "Randy Arozarena",
         "Cole Young",
         "Connor Joe",
-        "Jhonny Pereda",
+        "Mitch Garver",
         "Leo Rivas"
       ],
       "away_roster": [
@@ -564,7 +564,6 @@
         "Ryan Watson"
       ],
       "home_roster": [
-        "Framber Valdez",
         "Brant Hurter",
         "Jace Jung",
         "Zach McKinstry",
@@ -1008,7 +1007,7 @@
         "Corbin Martin",
         "Seiya Suzuki",
         "Ryan Rolison",
-        "Matthew Boyd",
+        "Trent Thornton",
         "Dansby Swanson",
         "Colin Rea",
         "Phil Maton",
@@ -1108,7 +1107,17 @@
     "New York Mets @ Colorado Rockies | 824361": {
       "away_team": "New York Mets",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Juan Soto",
+        "Bo Bichette",
+        "MJ Melendez",
+        "Mark Vientos",
+        "Brett Baty",
+        "Marcus Semien",
+        "Carson Benge",
+        "Francisco Alvarez",
+        "Luis Torrens"
+      ],
       "home_lineup": [
         "Edouard Julien",
         "Mickey Moniak",
@@ -1125,8 +1134,8 @@
         "Bo Bichette",
         "Tyrone Taylor",
         "Francisco Alvarez",
-        "Sean Manaea",
         "Mark Vientos",
+        "Sean Manaea",
         "Tobias Myers",
         "Austin Warren",
         "Brett Baty",
@@ -1139,8 +1148,8 @@
         "David Peterson",
         "Freddy Peralta",
         "Clay Holmes",
-        "Craig Kimbrel",
         "Juan Soto",
+        "Craig Kimbrel",
         "Andy Ib\u00e1\u00f1ez",
         "Christian Scott",
         "Vidal Bruj\u00e1n",
@@ -1183,7 +1192,17 @@
     "Pittsburgh Pirates @ Arizona Diamondbacks | 825091": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Oneil Cruz",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Ryan O'Hearn",
+        "Nick Gonzales",
+        "Marcell Ozuna",
+        "Spencer Horwitz",
+        "Konnor Griffin",
+        "Henry Davis"
+      ],
       "home_lineup": [
         "Geraldo Perdomo",
         "Ketel Marte",
@@ -1199,8 +1218,8 @@
         "Paul Skenes",
         "Spencer Horwitz",
         "Brandon Lowe",
-        "Joey Bart",
         "Bryan Reynolds",
+        "Joey Bart",
         "Oneil Cruz",
         "Evan Sisk",
         "Gregory Soto",
