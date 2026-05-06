@@ -1,4 +1,29 @@
 {
-  "date": "2026-05-05",
-  "games": {}
+  "date": "2026-05-06",
+  "games": {
+    "823141": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-06T16:54:09.270138-04:00"
+    },
+    "823226": {
+      "active_pitcher_id": 605288,
+      "active_pitcher_name": "Adrian Houser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-06T16:54:04.930932-04:00"
+    },
+    "824036": {
+      "active_pitcher_id": 702273,
+      "active_pitcher_name": "Noah Schultz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-06T16:54:07.183407-04:00"
+    },
+    "824198": {
+      "active_pitcher_id": 592779,
+      "active_pitcher_name": "Brock Stewart",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-06T16:54:02.656523-04:00"
+    }
+  }
 }
