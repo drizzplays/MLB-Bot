@@ -1,6 +1,18 @@
 {
   "date": "2026-05-07",
   "games": {
+    "823467": {
+      "active_pitcher_id": 691725,
+      "active_pitcher_name": "Andrew Painter",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-07T19:40:04.668854-04:00"
+    },
+    "823870": {
+      "active_pitcher_id": 676974,
+      "active_pitcher_name": "Max Meyer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-07T19:40:06.554108-04:00"
+    },
     "824117": {
       "active_pitcher_id": 683769,
       "active_pitcher_name": "Hunter Gaddis",
@@ -18,6 +30,12 @@
       "active_pitcher_name": "Gavin Hollowell",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-07T16:49:28.499474-04:00"
+    },
+    "824767": {
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-07T19:40:08.417068-04:00"
     },
     "825090": {
       "active_pitcher_id": 668678,
