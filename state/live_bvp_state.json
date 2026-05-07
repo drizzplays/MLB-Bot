@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "games": {
-    "823141": {
-      "active_pitcher_id": 527048,
-      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+    "824117": {
+      "active_pitcher_id": 683769,
+      "active_pitcher_name": "Hunter Gaddis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-06T16:54:09.270138-04:00"
+      "last_checked_at": "2026-05-07T16:49:25.485000-04:00"
     },
-    "823226": {
-      "active_pitcher_id": 605288,
-      "active_pitcher_name": "Adrian Houser",
+    "824362": {
+      "active_pitcher_id": 623211,
+      "active_pitcher_name": "Huascar Brazob\u00e1n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-06T16:54:04.930932-04:00"
+      "last_checked_at": "2026-05-07T16:49:31.473583-04:00"
     },
-    "824036": {
-      "active_pitcher_id": 702273,
-      "active_pitcher_name": "Noah Schultz",
+    "824681": {
+      "active_pitcher_id": 668970,
+      "active_pitcher_name": "Gavin Hollowell",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-06T16:54:07.183407-04:00"
+      "last_checked_at": "2026-05-07T16:49:28.499474-04:00"
     },
-    "824198": {
-      "active_pitcher_id": 592779,
-      "active_pitcher_name": "Brock Stewart",
+    "825090": {
+      "active_pitcher_id": 668678,
+      "active_pitcher_name": "Zac Gallen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-06T16:54:02.656523-04:00"
+      "last_checked_at": "2026-05-07T16:49:34.549128-04:00"
     }
   }
 }
