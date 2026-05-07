@@ -1879,7 +1879,7 @@
       "away_team": "Texas Rangers",
       "home_team": "New York Yankees",
       "away_pitcher": "MacKenzie Gore",
-      "home_pitcher": "Ryan Weathers",
+      "home_pitcher": "Paul Blackburn",
       "game_time": "May 7, 12:35 PM ET",
       "game_iso": "2026-05-07T12:35:00-04:00",
       "game_pk": "823551"
@@ -1950,7 +1950,7 @@
     "Tampa Bay Rays @ Boston Red Sox | 824767": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Boston Red Sox",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Griffin Jax",
       "home_pitcher": "Jake Bennett",
       "game_time": "May 7, 7:10 PM ET",
       "game_iso": "2026-05-07T19:10:00-04:00",
@@ -1964,6 +1964,143 @@
       "game_time": "May 7, 10:10 PM ET",
       "game_iso": "2026-05-07T22:10:00-04:00",
       "game_pk": "823306"
+    }
+  },
+  "2026-05-08": {
+    "Houston Astros @ Cincinnati Reds | 824522": {
+      "away_team": "Houston Astros",
+      "home_team": "Cincinnati Reds",
+      "away_pitcher": "Mike Burrows",
+      "home_pitcher": "Nick Lodolo",
+      "game_time": "May 8, 6:10 PM ET",
+      "game_iso": "2026-05-08T18:10:00-04:00",
+      "game_pk": "824522"
+    },
+    "Colorado Rockies @ Philadelphia Phillies | 823466": {
+      "away_team": "Colorado Rockies",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Jes\u00fas Luzardo",
+      "game_time": "May 8, 6:40 PM ET",
+      "game_iso": "2026-05-08T18:40:00-04:00",
+      "game_pk": "823466"
+    },
+    "Athletics @ Baltimore Orioles | 824846": {
+      "away_team": "Athletics",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 8, 7:05 PM ET",
+      "game_iso": "2026-05-08T19:05:00-04:00",
+      "game_pk": "824846"
+    },
+    "Los Angeles Angels @ Toronto Blue Jays | 822822": {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": "Reid Detmers",
+      "home_pitcher": "Dylan Cease",
+      "game_time": "May 8, 7:07 PM ET",
+      "game_iso": "2026-05-08T19:07:00-04:00",
+      "game_pk": "822822"
+    },
+    "Tampa Bay Rays @ Boston Red Sox | 824768": {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Boston Red Sox",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Connelly Early",
+      "game_time": "May 8, 7:10 PM ET",
+      "game_iso": "2026-05-08T19:10:00-04:00",
+      "game_pk": "824768"
+    },
+    "Washington Nationals @ Miami Marlins | 823871": {
+      "away_team": "Washington Nationals",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Robby Snelling",
+      "game_time": "May 8, 7:10 PM ET",
+      "game_iso": "2026-05-08T19:10:00-04:00",
+      "game_pk": "823871"
+    },
+    "Minnesota Twins @ Cleveland Guardians | 824443": {
+      "away_team": "Minnesota Twins",
+      "home_team": "Cleveland Guardians",
+      "away_pitcher": "Connor Prielipp",
+      "home_pitcher": "Parker Messick",
+      "game_time": "May 8, 7:15 PM ET",
+      "game_iso": "2026-05-08T19:15:00-04:00",
+      "game_pk": "824443"
+    },
+    "Detroit Tigers @ Kansas City Royals | 824116": {
+      "away_team": "Detroit Tigers",
+      "home_team": "Kansas City Royals",
+      "away_pitcher": "Keider Montero",
+      "home_pitcher": "Kris Bubic",
+      "game_time": "May 8, 7:40 PM ET",
+      "game_iso": "2026-05-08T19:40:00-04:00",
+      "game_pk": "824116"
+    },
+    "Seattle Mariners @ Chicago White Sox | 824607": {
+      "away_team": "Seattle Mariners",
+      "home_team": "Chicago White Sox",
+      "away_pitcher": "Emerson Hancock",
+      "home_pitcher": "Sean Burke",
+      "game_time": "May 8, 7:40 PM ET",
+      "game_iso": "2026-05-08T19:40:00-04:00",
+      "game_pk": "824607"
+    },
+    "New York Yankees @ Milwaukee Brewers | 823794": {
+      "away_team": "New York Yankees",
+      "home_team": "Milwaukee Brewers",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Jacob Misiorowski",
+      "game_time": "May 8, 7:40 PM ET",
+      "game_iso": "2026-05-08T19:40:00-04:00",
+      "game_pk": "823794"
+    },
+    "Chicago Cubs @ Texas Rangers | 822904": {
+      "away_team": "Chicago Cubs",
+      "home_team": "Texas Rangers",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 8, 8:05 PM ET",
+      "game_iso": "2026-05-08T20:05:00-04:00",
+      "game_pk": "822904"
+    },
+    "New York Mets @ Arizona Diamondbacks | 825088": {
+      "away_team": "New York Mets",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": "Nolan McLean",
+      "home_pitcher": "TBD",
+      "game_time": "May 8, 9:40 PM ET",
+      "game_iso": "2026-05-08T21:40:00-04:00",
+      "game_pk": "825088"
+    },
+    "St. Louis Cardinals @ San Diego Padres | 823303": {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Michael McGreevy",
+      "home_pitcher": "Griffin Canning",
+      "game_time": "May 8, 9:45 PM ET",
+      "game_iso": "2026-05-08T21:45:00-04:00",
+      "game_pk": "823303"
+    },
+    "Atlanta Braves @ Los Angeles Dodgers | 823957": {
+      "away_team": "Atlanta Braves",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": "Chris Sale",
+      "home_pitcher": "Emmet Sheehan",
+      "game_time": "May 8, 10:10 PM ET",
+      "game_iso": "2026-05-08T22:10:00-04:00",
+      "game_pk": "823957"
+    },
+    "Pittsburgh Pirates @ San Francisco Giants | 823225": {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "San Francisco Giants",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 8, 10:15 PM ET",
+      "game_iso": "2026-05-08T22:15:00-04:00",
+      "game_pk": "823225"
     }
   }
 }
