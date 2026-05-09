@@ -2131,19 +2131,10 @@
       "game_iso": "2026-05-09T16:10:00-04:00",
       "game_pk": "824523"
     },
-    "Tampa Bay Rays @ Boston Red Sox | 824766": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Nick Martinez",
-      "home_pitcher": "Payton Tolle",
-      "game_time": "May 9, 4:10 PM ET",
-      "game_iso": "2026-05-09T16:10:00-04:00",
-      "game_pk": "824766"
-    },
     "Washington Nationals @ Miami Marlins | 823869": {
       "away_team": "Washington Nationals",
       "home_team": "Miami Marlins",
-      "away_pitcher": "Zack Littell",
+      "away_pitcher": "Richard Lovelady",
       "home_pitcher": "Janson Junk",
       "game_time": "May 9, 4:10 PM ET",
       "game_iso": "2026-05-09T16:10:00-04:00",
@@ -2238,6 +2229,15 @@
       "game_time": "May 9, 9:10 PM ET",
       "game_iso": "2026-05-09T21:10:00-04:00",
       "game_pk": "823955"
+    },
+    "Tampa Bay Rays @ Boston Red Sox | 824766": {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Boston Red Sox",
+      "away_pitcher": "Nick Martinez",
+      "home_pitcher": "Payton Tolle",
+      "game_time": "May 9, 4:10 PM ET",
+      "game_iso": "2026-05-09T16:10:00-04:00",
+      "game_pk": "824766"
     }
   },
   "2026-05-10": {
@@ -2262,7 +2262,7 @@
     "Tampa Bay Rays @ Boston Red Sox | 824765": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Boston Red Sox",
-      "away_pitcher": "Drew Rasmussen",
+      "away_pitcher": "Nick Martinez",
       "home_pitcher": "TBD",
       "game_time": "May 10, 1:35 PM ET",
       "game_iso": "2026-05-10T13:35:00-04:00",
