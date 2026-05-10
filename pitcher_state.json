@@ -2281,7 +2281,7 @@
       "away_team": "Los Angeles Angels",
       "home_team": "Toronto Blue Jays",
       "away_pitcher": "Jos\u00e9 Soriano",
-      "home_pitcher": "Eric Lauer",
+      "home_pitcher": "Spencer Miles",
       "game_time": "May 10, 1:37 PM ET",
       "game_iso": "2026-05-10T13:37:00-04:00",
       "game_pk": "822819"
@@ -2289,7 +2289,7 @@
     "Houston Astros @ Cincinnati Reds | 824520": {
       "away_team": "Houston Astros",
       "home_team": "Cincinnati Reds",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Kai-Wei Teng",
       "home_pitcher": "Andrew Abbott",
       "game_time": "May 10, 1:40 PM ET",
       "game_iso": "2026-05-10T13:40:00-04:00",
@@ -2298,7 +2298,7 @@
     "Minnesota Twins @ Cleveland Guardians | 824440": {
       "away_team": "Minnesota Twins",
       "home_team": "Cleveland Guardians",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Andrew Morris",
       "home_pitcher": "Gavin Williams",
       "game_time": "May 10, 1:40 PM ET",
       "game_iso": "2026-05-10T13:40:00-04:00",
@@ -2343,7 +2343,7 @@
     "New York Mets @ Arizona Diamondbacks | 825085": {
       "away_team": "New York Mets",
       "home_team": "Arizona Diamondbacks",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Huascar Brazob\u00e1n",
       "home_pitcher": "Eduardo Rodriguez",
       "game_time": "May 10, 4:10 PM ET",
       "game_iso": "2026-05-10T16:10:00-04:00",
@@ -2370,11 +2370,67 @@
     "Detroit Tigers @ Kansas City Royals | 824113": {
       "away_team": "Detroit Tigers",
       "home_team": "Kansas City Royals",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Brenan Hanifee",
       "home_pitcher": "Noah Cameron",
       "game_time": "May 10, 7:20 PM ET",
       "game_iso": "2026-05-10T19:20:00-04:00",
       "game_pk": "824113"
+    }
+  },
+  "2026-05-11": {
+    "Los Angeles Angels @ Cleveland Guardians | 824441": {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Cleveland Guardians",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Joey Cantillo",
+      "game_time": "May 11, 6:10 PM ET",
+      "game_iso": "2026-05-11T18:10:00-04:00",
+      "game_pk": "824441"
+    },
+    "New York Yankees @ Baltimore Orioles | 824844": {
+      "away_team": "New York Yankees",
+      "home_team": "Baltimore Orioles",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 11, 6:35 PM ET",
+      "game_iso": "2026-05-11T18:35:00-04:00",
+      "game_pk": "824844"
+    },
+    "Tampa Bay Rays @ Toronto Blue Jays | 822818": {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": "Drew Rasmussen",
+      "home_pitcher": "TBD",
+      "game_time": "May 11, 7:07 PM ET",
+      "game_iso": "2026-05-11T19:07:00-04:00",
+      "game_pk": "822818"
+    },
+    "Arizona Diamondbacks @ Texas Rangers | 822901": {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Texas Rangers",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 11, 8:05 PM ET",
+      "game_iso": "2026-05-11T20:05:00-04:00",
+      "game_pk": "822901"
+    },
+    "Seattle Mariners @ Houston Astros | 824199": {
+      "away_team": "Seattle Mariners",
+      "home_team": "Houston Astros",
+      "away_pitcher": "George Kirby",
+      "home_pitcher": "TBD",
+      "game_time": "May 11, 8:10 PM ET",
+      "game_iso": "2026-05-11T20:10:00-04:00",
+      "game_pk": "824199"
+    },
+    "San Francisco Giants @ Los Angeles Dodgers | 823953": {
+      "away_team": "San Francisco Giants",
+      "home_team": "Los Angeles Dodgers",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 11, 10:10 PM ET",
+      "game_iso": "2026-05-11T22:10:00-04:00",
+      "game_pk": "823953"
     }
   }
 }
