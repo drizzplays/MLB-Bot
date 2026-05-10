@@ -1,29 +1,4 @@
 {
-  "date": "2026-05-09",
-  "games": {
-    "822820": {
-      "active_pitcher_id": 702056,
-      "active_pitcher_name": "Trey Yesavage",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-09T16:06:41.245111-04:00"
-    },
-    "823869": {
-      "active_pitcher_id": 676083,
-      "active_pitcher_name": "Janson Junk",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-09T16:06:47.584759-04:00"
-    },
-    "824523": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-09T16:06:45.524005-04:00"
-    },
-    "824847": {
-      "active_pitcher_id": 669358,
-      "active_pitcher_name": "Shane Baz",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-09T16:06:43.413104-04:00"
-    }
-  }
+  "date": "2026-05-10",
+  "games": {}
 }
