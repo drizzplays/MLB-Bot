@@ -2813,7 +2813,7 @@
       "away_team": "Philadelphia Phillies",
       "home_team": "Pittsburgh Pirates",
       "away_pitcher": "TBD",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Braxton Ashcraft",
       "game_time": "May 15, 6:40 PM ET",
       "game_iso": "2026-05-15T18:40:00-04:00",
       "game_pk": "823384"
@@ -2893,8 +2893,8 @@
     "Texas Rangers @ Houston Astros | 824194": {
       "away_team": "Texas Rangers",
       "home_team": "Houston Astros",
-      "away_pitcher": "TBD",
-      "home_pitcher": "TBD",
+      "away_pitcher": "Jack Leiter",
+      "home_pitcher": "Spencer Arrighetti",
       "game_time": "May 15, 8:10 PM ET",
       "game_iso": "2026-05-15T20:10:00-04:00",
       "game_pk": "824194"
@@ -2912,7 +2912,7 @@
       "away_team": "Arizona Diamondbacks",
       "home_team": "Colorado Rockies",
       "away_pitcher": "Merrill Kelly",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Kyle Freeland",
       "game_time": "May 15, 8:40 PM ET",
       "game_iso": "2026-05-15T20:40:00-04:00",
       "game_pk": "824360"
@@ -2939,7 +2939,7 @@
       "away_team": "San Francisco Giants",
       "home_team": "Athletics",
       "away_pitcher": "TBD",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Aaron Civale",
       "game_time": "May 15, 9:40 PM ET",
       "game_iso": "2026-05-15T21:40:00-04:00",
       "game_pk": "825009"
