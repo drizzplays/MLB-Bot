@@ -2944,5 +2944,142 @@
       "game_iso": "2026-05-15T21:40:00-04:00",
       "game_pk": "825009"
     }
+  },
+  "2026-05-16": {
+    "Toronto Blue Jays @ Detroit Tigers | 824278": {
+      "away_team": "Toronto Blue Jays",
+      "home_team": "Detroit Tigers",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 16, 1:10 PM ET",
+      "game_iso": "2026-05-16T13:10:00-04:00",
+      "game_pk": "824278"
+    },
+    "Kansas City Royals @ St. Louis Cardinals | 823060": {
+      "away_team": "Kansas City Royals",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Noah Cameron",
+      "home_pitcher": "Kyle Leahy",
+      "game_time": "May 16, 2:15 PM ET",
+      "game_iso": "2026-05-16T14:15:00-04:00",
+      "game_pk": "823060"
+    },
+    "Arizona Diamondbacks @ Colorado Rockies | 824359": {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Colorado Rockies",
+      "away_pitcher": "Eduardo Rodriguez",
+      "home_pitcher": "Tomoyuki Sugano",
+      "game_time": "May 16, 3:10 PM ET",
+      "game_iso": "2026-05-16T15:10:00-04:00",
+      "game_pk": "824359"
+    },
+    "Baltimore Orioles @ Washington Nationals | 822737": {
+      "away_team": "Baltimore Orioles",
+      "home_team": "Washington Nationals",
+      "away_pitcher": "Chris Bassitt",
+      "home_pitcher": "Cade Cavalli",
+      "game_time": "May 16, 4:05 PM ET",
+      "game_iso": "2026-05-16T16:05:00-04:00",
+      "game_pk": "822737"
+    },
+    "Philadelphia Phillies @ Pittsburgh Pirates | 823382": {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Pittsburgh Pirates",
+      "away_pitcher": "Cristopher S\u00e1nchez",
+      "home_pitcher": "Bubba Chandler",
+      "game_time": "May 16, 4:05 PM ET",
+      "game_iso": "2026-05-16T16:05:00-04:00",
+      "game_pk": "823382"
+    },
+    "Miami Marlins @ Tampa Bay Rays | 822981": {
+      "away_team": "Miami Marlins",
+      "home_team": "Tampa Bay Rays",
+      "away_pitcher": "Sandy Alcantara",
+      "home_pitcher": "Nick Martinez",
+      "game_time": "May 16, 4:10 PM ET",
+      "game_iso": "2026-05-16T16:10:00-04:00",
+      "game_pk": "822981"
+    },
+    "Cincinnati Reds @ Cleveland Guardians | 824435": {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Cleveland Guardians",
+      "away_pitcher": "Chris Paddack",
+      "home_pitcher": "Gavin Williams",
+      "game_time": "May 16, 6:10 PM ET",
+      "game_iso": "2026-05-16T18:10:00-04:00",
+      "game_pk": "824435"
+    },
+    "Texas Rangers @ Houston Astros | 824193": {
+      "away_team": "Texas Rangers",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Jacob deGrom",
+      "home_pitcher": "Kai-Wei Teng",
+      "game_time": "May 16, 7:10 PM ET",
+      "game_iso": "2026-05-16T19:10:00-04:00",
+      "game_pk": "824193"
+    },
+    "Chicago Cubs @ Chicago White Sox | 824600": {
+      "away_team": "Chicago Cubs",
+      "home_team": "Chicago White Sox",
+      "away_pitcher": "Jameson Taillon",
+      "home_pitcher": "Davis Martin",
+      "game_time": "May 16, 7:10 PM ET",
+      "game_iso": "2026-05-16T19:10:00-04:00",
+      "game_pk": "824600"
+    },
+    "Milwaukee Brewers @ Minnesota Twins | 823706": {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Minnesota Twins",
+      "away_pitcher": "Logan Henderson",
+      "home_pitcher": "Connor Prielipp",
+      "game_time": "May 16, 7:10 PM ET",
+      "game_iso": "2026-05-16T19:10:00-04:00",
+      "game_pk": "823706"
+    },
+    "San Diego Padres @ Seattle Mariners | 823139": {
+      "away_team": "San Diego Padres",
+      "home_team": "Seattle Mariners",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Logan Gilbert",
+      "game_time": "May 16, 7:15 PM ET",
+      "game_iso": "2026-05-16T19:15:00-04:00",
+      "game_pk": "823139"
+    },
+    "Boston Red Sox @ Atlanta Braves | 824924": {
+      "away_team": "Boston Red Sox",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Payton Tolle",
+      "home_pitcher": "Bryce Elder",
+      "game_time": "May 16, 7:15 PM ET",
+      "game_iso": "2026-05-16T19:15:00-04:00",
+      "game_pk": "824924"
+    },
+    "New York Yankees @ New York Mets | 823627": {
+      "away_team": "New York Yankees",
+      "home_team": "New York Mets",
+      "away_pitcher": "Carlos Rod\u00f3n",
+      "home_pitcher": "TBD",
+      "game_time": "May 16, 7:15 PM ET",
+      "game_iso": "2026-05-16T19:15:00-04:00",
+      "game_pk": "823627"
+    },
+    "Los Angeles Dodgers @ Los Angeles Angels | 824038": {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Los Angeles Angels",
+      "away_pitcher": "Justin Wrobleski",
+      "home_pitcher": "Jos\u00e9 Soriano",
+      "game_time": "May 16, 9:38 PM ET",
+      "game_iso": "2026-05-16T21:38:00-04:00",
+      "game_pk": "824038"
+    },
+    "San Francisco Giants @ Athletics | 825007": {
+      "away_team": "San Francisco Giants",
+      "home_team": "Athletics",
+      "away_pitcher": "Trevor McDonald",
+      "home_pitcher": "Luis Severino",
+      "game_time": "May 16, 9:40 PM ET",
+      "game_iso": "2026-05-16T21:40:00-04:00",
+      "game_pk": "825007"
+    }
   }
 }
