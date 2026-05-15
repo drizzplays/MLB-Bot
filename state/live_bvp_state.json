@@ -1,35 +1,59 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "games": {
-    "824196": {
-      "active_pitcher_id": 682445,
-      "active_pitcher_name": "Domingo Gonzalez",
+    "822739": {
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-14T16:59:39.906294-04:00"
+      "last_checked_at": "2026-05-15T19:41:28.299143-04:00"
     },
-    "824602": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+    "822983": {
+      "active_pitcher_id": 669947,
+      "active_pitcher_name": "Jesse Scholtens",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-14T20:14:06.228006-04:00"
+      "last_checked_at": "2026-05-15T19:41:34.191376-04:00"
     },
-    "824762": {
-      "active_pitcher_id": 666200,
-      "active_pitcher_name": "Jes\u00fas Luzardo",
+    "823384": {
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-14T20:14:01.610385-04:00"
+      "last_checked_at": "2026-05-15T19:41:26.323148-04:00"
     },
-    "824926": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
+    "823629": {
+      "active_pitcher_id": 605280,
+      "active_pitcher_name": "Clay Holmes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-14T20:14:03.849932-04:00"
+      "last_checked_at": "2026-05-15T19:41:39.580720-04:00"
     },
-    "825008": {
-      "active_pitcher_id": 592773,
-      "active_pitcher_name": "Ryne Stanek",
+    "823707": {
+      "active_pitcher_id": 689441,
+      "active_pitcher_name": "Coleman Crow",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-14T16:59:41.796845-04:00"
+      "last_checked_at": "2026-05-15T19:41:35.947189-04:00"
+    },
+    "824280": {
+      "active_pitcher_id": 572143,
+      "active_pitcher_name": "Burch Smith",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-15T19:41:30.188183-04:00"
+    },
+    "824439": {
+      "active_pitcher_id": 671096,
+      "active_pitcher_name": "Andrew Abbott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-15T19:41:32.198062-04:00"
+    },
+    "824601": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-15T19:41:41.480356-04:00"
+    },
+    "824925": {
+      "active_pitcher_id": 675911,
+      "active_pitcher_name": "Spencer Strider",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-15T19:41:37.780687-04:00"
     }
   }
 }
