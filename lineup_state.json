@@ -179,7 +179,7 @@
         "Geraldo Perdomo",
         "Nolan Arenado",
         "Ildemaro Vargas",
-        "Lourdes Gurriel Jr.",
+        "Jorge Barrosa",
         "Jose Fernandez",
         "James McCann",
         "Ryan Waldschmidt"
@@ -191,7 +191,7 @@
         "Hunter Goodman",
         "Mickey Moniak",
         "Ezequiel Tovar",
-        "Sterlin Thompson",
+        "Troy Johnston",
         "Kyle Karros",
         "Jake McCarthy"
       ],
@@ -277,7 +277,7 @@
         "Daylen Lile",
         "Nasim Nu\u00f1ez",
         "Keibert Ruiz",
-        "Jorbit Vivas",
+        "Joey Wiemer",
         "Jacob Young"
       ],
       "away_roster": [
@@ -436,7 +436,7 @@
         "Connor Norby",
         "Jakob Marsee",
         "Javier Sanoja",
-        "Owen Caissie",
+        "Heriberto Hern\u00e1ndez",
         "Joe Mack"
       ],
       "home_lineup": [
@@ -447,14 +447,14 @@
         "Richie Palacios",
         "Cedric Mullins",
         "Jonny DeLuca",
-        "Hunter Feduccia",
+        "Nick Fortes",
         "Taylor Walls"
       ],
       "away_roster": [
         "Lake Bachar",
+        "Heriberto Hern\u00e1ndez",
         "Pete Fairbanks",
         "Braxton Garrett",
-        "Heriberto Hern\u00e1ndez",
         "Christopher Morel",
         "Sandy Alcantara",
         "Tyler Phillips",
@@ -865,15 +865,15 @@
         "Rodolfo Dur\u00e1n"
       ],
       "home_lineup": [
-        "Brendan Donovan",
+        "J.P. Crawford",
         "Julio Rodr\u00edguez",
         "Josh Naylor",
         "Randy Arozarena",
         "Luke Raley",
-        "J.P. Crawford",
+        "Cole Young",
         "Dominic Canzone",
-        "Mitch Garver",
-        "Cole Young"
+        "Jhonny Pereda",
+        "Leo Rivas"
       ],
       "away_roster": [
         "Yuki Matsui",
@@ -909,8 +909,8 @@
         "Jos\u00e9 A. Ferrer",
         "Nick Davila",
         "Alex Hoppe",
-        "Randy Arozarena",
         "J.P. Crawford",
+        "Randy Arozarena",
         "Domingo Gonzalez",
         "Dominic Canzone",
         "Jhonny Pereda",
@@ -1108,8 +1108,28 @@
     "Los Angeles Dodgers @ Los Angeles Angels | 824038": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Shohei Ohtani",
+        "Mookie Betts",
+        "Freddie Freeman",
+        "Will Smith",
+        "Andy Pages",
+        "Max Muncy",
+        "Teoscar Hern\u00e1ndez",
+        "Alex Call",
+        "Hyeseong Kim"
+      ],
+      "home_lineup": [
+        "Vaughn Grissom",
+        "Mike Trout",
+        "Zach Neto",
+        "Jorge Soler",
+        "Jo Adell",
+        "Oswald Peraza",
+        "Nolan Schanuel",
+        "Logan O'Hoppe",
+        "Jose Siri"
+      ],
       "away_roster": [
         "Will Smith",
         "Dalton Rushing",
@@ -1130,7 +1150,7 @@
         "Andy Pages",
         "Mookie Betts",
         "Alex Call",
-        "Blake Snell",
+        "Charlie Barnes",
         "Emmet Sheehan",
         "Miguel Rojas",
         "Jack Dreyer",
@@ -1141,6 +1161,7 @@
       "home_roster": [
         "Adam Frazier",
         "Oswald Peraza",
+        "Jose Siri",
         "Zach Neto",
         "Jorge Soler",
         "Yo\u00e1n Moncada",
@@ -1158,10 +1179,9 @@
         "Ryan Zeferjahn",
         "Nolan Schanuel",
         "Josh Lowe",
-        "Omar Martinez",
         "Sebasti\u00e1n Rivero",
-        "Bryce Teodosio",
         "Walbert Ure\u00f1a",
+        "Logan O'Hoppe",
         "Kirby Yates",
         "Reid Detmers",
         "Brent Suter"
