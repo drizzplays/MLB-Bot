@@ -2,10 +2,10 @@
   "date": "2026-05-17",
   "games": {
     "822738": {
-      "active_pitcher_id": 687064,
-      "active_pitcher_name": "Brandon Young",
+      "active_pitcher_id": 669330,
+      "active_pitcher_name": "Tyler Wells",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T14:42:12.280316-04:00"
+      "last_checked_at": "2026-05-17T15:55:54.501227-04:00"
     },
     "822982": {
       "active_pitcher_id": 663969,
@@ -14,58 +14,70 @@
       "last_checked_at": "2026-05-17T14:42:10.296898-04:00"
     },
     "823058": {
-      "active_pitcher_id": 663568,
-      "active_pitcher_name": "Stephen Kolek",
+      "active_pitcher_id": 669467,
+      "active_pitcher_name": "Andre Pallante",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T14:42:21.169045-04:00"
+      "last_checked_at": "2026-05-17T15:56:19.648090-04:00"
     },
     "823381": {
-      "active_pitcher_id": 694973,
-      "active_pitcher_name": "Paul Skenes",
+      "active_pitcher_id": 680742,
+      "active_pitcher_name": "Jonathan Bowlan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T13:30:33.621164-04:00"
+      "last_checked_at": "2026-05-17T15:55:57.318701-04:00"
     },
     "823628": {
-      "active_pitcher_id": 695684,
-      "active_pitcher_name": "Elmer Rodr\u00edguez",
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T14:42:14.236919-04:00"
+      "last_checked_at": "2026-05-17T15:56:08.626820-04:00"
     },
     "823708": {
-      "active_pitcher_id": 641927,
-      "active_pitcher_name": "Bailey Ober",
+      "active_pitcher_id": 607455,
+      "active_pitcher_name": "Anthony Banda",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T14:42:19.478602-04:00"
+      "last_checked_at": "2026-05-17T15:56:16.941239-04:00"
+    },
+    "824034": {
+      "active_pitcher_id": 680570,
+      "active_pitcher_name": "Grayson Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-17T15:56:24.412560-04:00"
     },
     "824192": {
-      "active_pitcher_id": 543135,
-      "active_pitcher_name": "Nathan Eovaldi",
+      "active_pitcher_id": 675989,
+      "active_pitcher_name": "Cody Bolton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T14:42:16.007479-04:00"
+      "last_checked_at": "2026-05-17T15:56:11.368016-04:00"
     },
     "824279": {
-      "active_pitcher_id": 656427,
-      "active_pitcher_name": "Jack Flaherty",
+      "active_pitcher_id": 573009,
+      "active_pitcher_name": "Joe Mantiply",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T13:30:40.360498-04:00"
+      "last_checked_at": "2026-05-17T15:56:05.700918-04:00"
     },
     "824436": {
-      "active_pitcher_id": 668909,
-      "active_pitcher_name": "Gavin Williams",
+      "active_pitcher_id": 622088,
+      "active_pitcher_name": "Tejay Antone",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T13:30:37.998595-04:00"
+      "last_checked_at": "2026-05-17T15:56:02.878176-04:00"
     },
     "824599": {
-      "active_pitcher_id": 607200,
-      "active_pitcher_name": "Erick Fedde",
+      "active_pitcher_id": 657097,
+      "active_pitcher_name": "Jacob Webb",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T14:42:17.735771-04:00"
+      "last_checked_at": "2026-05-17T15:56:14.052684-04:00"
     },
     "824923": {
-      "active_pitcher_id": 656550,
-      "active_pitcher_name": "Grant Holmes",
+      "active_pitcher_id": 670245,
+      "active_pitcher_name": "Ryan Watson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T13:30:35.789448-04:00"
+      "last_checked_at": "2026-05-17T15:56:00.182625-04:00"
+    },
+    "825006": {
+      "active_pitcher_id": 605488,
+      "active_pitcher_name": "Jeffrey Springs",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-17T15:56:22.025371-04:00"
     }
   }
 }
