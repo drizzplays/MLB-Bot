@@ -19,6 +19,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-17T15:56:19.648090-04:00"
     },
+    "823138": {
+      "active_pitcher_id": 669923,
+      "active_pitcher_name": "George Kirby",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-17T19:10:12.179999-04:00"
+    },
     "823381": {
       "active_pitcher_id": 680742,
       "active_pitcher_name": "Jonathan Bowlan",
@@ -56,10 +62,10 @@
       "last_checked_at": "2026-05-17T15:56:05.700918-04:00"
     },
     "824358": {
-      "active_pitcher_id": 547179,
-      "active_pitcher_name": "Michael Lorenzen",
+      "active_pitcher_id": 666661,
+      "active_pitcher_name": "Juan Morillo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T17:03:33.105341-04:00"
+      "last_checked_at": "2026-05-17T19:10:09.898272-04:00"
     },
     "824436": {
       "active_pitcher_id": 622088,
