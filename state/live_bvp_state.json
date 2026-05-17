@@ -32,10 +32,10 @@
       "last_checked_at": "2026-05-17T15:56:08.626820-04:00"
     },
     "823708": {
-      "active_pitcher_id": 607455,
-      "active_pitcher_name": "Anthony Banda",
+      "active_pitcher_id": 472610,
+      "active_pitcher_name": "Luis Garc\u00eda",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T15:56:16.941239-04:00"
+      "last_checked_at": "2026-05-17T17:03:30.499906-04:00"
     },
     "824034": {
       "active_pitcher_id": 680570,
@@ -55,6 +55,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-17T15:56:05.700918-04:00"
     },
+    "824358": {
+      "active_pitcher_id": 547179,
+      "active_pitcher_name": "Michael Lorenzen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-17T17:03:33.105341-04:00"
+    },
     "824436": {
       "active_pitcher_id": 622088,
       "active_pitcher_name": "Tejay Antone",
@@ -62,10 +68,10 @@
       "last_checked_at": "2026-05-17T15:56:02.878176-04:00"
     },
     "824599": {
-      "active_pitcher_id": 657097,
-      "active_pitcher_name": "Jacob Webb",
+      "active_pitcher_id": 622554,
+      "active_pitcher_name": "Seranthony Dom\u00ednguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-17T15:56:14.052684-04:00"
+      "last_checked_at": "2026-05-17T17:03:27.791430-04:00"
     },
     "824923": {
       "active_pitcher_id": 670245,
