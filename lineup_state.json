@@ -95,7 +95,7 @@
         "Tyler O'Neill",
         "Samuel Basallo",
         "Leody Taveras",
-        "Coby Mayo",
+        "Blaze Alexander",
         "Colton Cowser",
         "Jeremiah Jackson"
       ],
@@ -105,7 +105,7 @@
         "Brady House",
         "CJ Abrams",
         "Daylen Lile",
-        "Jacob Young",
+        "Joey Wiemer",
         "Jos\u00e9 Tena",
         "Keibert Ruiz",
         "Nasim Nu\u00f1ez"
@@ -357,7 +357,7 @@
       "home_lineup": [
         "Daniel Schneemann",
         "Jos\u00e9 Ram\u00edrez",
-        "Chase DeLauter",
+        "Petey Halpin",
         "Kyle Manzardo",
         "Travis Bazzana",
         "Steven Kwan",
@@ -442,7 +442,7 @@
       "home_lineup": [
         "Kevin McGonigle",
         "Dillon Dingler",
-        "Colt Keith",
+        "Jahmai Jones",
         "Riley Greene",
         "Matt Vierling",
         "Gage Workman",
@@ -485,8 +485,8 @@
         "Zach McKinstry",
         "Casey Mize",
         "Hao-Yu  Lee",
-        "Drew Anderson",
         "Jahmai Jones",
+        "Drew Anderson",
         "Riley Greene",
         "Tyler Holton",
         "Kevin McGonigle",
@@ -600,9 +600,9 @@
       "home_team": "Houston Astros",
       "away_lineup": [
         "Evan Carter",
-        "Brandon Nimmo",
+        "Sam Haggerty",
         "Josh Jung",
-        "Joc Pederson",
+        "Andrew McCutchen",
         "Ezequiel Duran",
         "Alejandro Osuna",
         "Jake Burger",
@@ -611,8 +611,8 @@
       ],
       "home_lineup": [
         "Brice Matthews",
-        "Yordan Alvarez",
-        "Christian Walker",
+        "Christian V\u00e1zquez",
+        "Shay Whitcomb",
         "Zach Cole",
         "Zach Dezenzo",
         "Braden Shewmake",
@@ -690,12 +690,12 @@
         "Ian Happ",
         "Seiya Suzuki",
         "Michael Conforto",
-        "Carson Kelly",
+        "Miguel Amaya",
         "Pete Crow-Armstrong",
         "Dansby Swanson"
       ],
       "home_lineup": [
-        "Sam Antonacci",
+        "Luisangel Acu\u00f1a",
         "Munetaka Murakami",
         "Miguel Vargas",
         "Colson Montgomery",
@@ -775,9 +775,9 @@
         "Christian Yelich",
         "Jake Bauers",
         "Sal Frelick",
-        "Garrett Mitchell",
+        "Andrew Vaughn",
         "Joey Ortiz",
-        "David Hamilton"
+        "Luis Rengifo"
       ],
       "home_lineup": [
         "Austin Martin",
@@ -786,7 +786,7 @@
         "Kody Clemens",
         "Luke Keaschall",
         "Victor Caratini",
-        "Royce Lewis",
+        "Tristan Gray",
         "Ryan Kreidler",
         "James Outman"
       ],
@@ -826,8 +826,8 @@
         "Austin Martin",
         "Kendry Rojas",
         "Simeon Woods Richardson",
-        "Anthony Banda",
         "Tristan Gray",
+        "Anthony Banda",
         "Josh Bell",
         "Connor Prielipp",
         "Ryan Jeffers",
@@ -861,7 +861,7 @@
         "Carter Jensen",
         "Isaac Collins",
         "Lane Thomas",
-        "Michael Massey",
+        "Nick Loftin",
         "Kyle Isbel"
       ],
       "home_lineup": [
@@ -870,10 +870,10 @@
         "Alec Burleson",
         "Jordan Walker",
         "Nolan Gorman",
-        "Masyn Winn",
+        "C\u00e9sar Prieto",
         "Nathan Church",
         "Thomas Saggese",
-        "Victor Scott II"
+        "Jos\u00e9 Ferm\u00edn"
       ],
       "away_roster": [
         "Carter Jensen",
@@ -1193,7 +1193,17 @@
     "San Diego Padres @ Seattle Mariners | 823138": {
       "away_team": "San Diego Padres",
       "home_team": "Seattle Mariners",
-      "away_lineup": [],
+      "away_lineup": [
+        "Fernando Tatis Jr.",
+        "Miguel Andujar",
+        "Gavin Sheets",
+        "Manny Machado",
+        "Xander Bogaerts",
+        "Jackson Merrill",
+        "Ram\u00f3n Laureano",
+        "Ty France",
+        "Freddy Fermin"
+      ],
       "home_lineup": [
         "J.P. Crawford",
         "Julio Rodr\u00edguez",
@@ -1224,10 +1234,9 @@
         "Ram\u00f3n Laureano",
         "Adrian Morejon",
         "Manny Machado",
-        "Alek Jacob",
         "Miguel Andujar",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Bryce Johnson",
         "Xander Bogaerts",
         "Ron Marinaccio",
