@@ -19,11 +19,41 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-16T16:34:31.846226-04:00"
     },
+    "823139": {
+      "active_pitcher_id": 689546,
+      "active_pitcher_name": "Nick Davila",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:13.157083-04:00"
+    },
     "823382": {
       "active_pitcher_id": 696149,
       "active_pitcher_name": "Bubba Chandler",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-16T16:34:38.488555-04:00"
+    },
+    "823627": {
+      "active_pitcher_id": 687396,
+      "active_pitcher_name": "Brent Headrick",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:16.169885-04:00"
+    },
+    "823706": {
+      "active_pitcher_id": 672782,
+      "active_pitcher_name": "Yoendrys G\u00f3mez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:10.110946-04:00"
+    },
+    "824038": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:18.952088-04:00"
+    },
+    "824193": {
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:03.670391-04:00"
     },
     "824278": {
       "active_pitcher_id": 693686,
@@ -36,6 +66,18 @@
       "active_pitcher_name": "Eduardo Rodriguez",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-16T16:34:34.073103-04:00"
+    },
+    "824600": {
+      "active_pitcher_id": 670950,
+      "active_pitcher_name": "Trevor Richards",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:06.859699-04:00"
+    },
+    "825007": {
+      "active_pitcher_id": 622663,
+      "active_pitcher_name": "Luis Severino",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-16T21:30:21.500894-04:00"
     }
   }
 }
