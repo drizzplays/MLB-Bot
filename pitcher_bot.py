@@ -1,11 +1,17 @@
 import json
+import hashlib
+import hmac
 import os
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
 
-WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
+WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
+WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
+ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
+ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
@@ -68,8 +74,50 @@ def save_state(state):
 
 
 def send_discord_message(content):
+    if not ENABLE_DISCORD_NOTIFY:
+        return False
+    if not WEBHOOK_URL:
+        raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / PITCHER_WEBHOOK_URL secret.")
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
+    return True
+
+
+def send_website_notification(payload):
+    if not ENABLE_WEBSITE_NOTIFY:
+        return False
+    if not WEBSITE_NOTIFY_URL:
+        print("Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        return False
+
+    body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    headers = {"content-type": "application/json"}
+    if WEBSITE_NOTIFY_SECRET:
+        signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
+        headers["x-sbh-signature"] = f"sha256={signature}"
+
+    r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
+    r.raise_for_status()
+    return True
+
+
+def deliver_alert(content, payload):
+    errors = []
+    sent = 0
+    try:
+        sent += 1 if send_discord_message(content) else 0
+    except Exception as exc:
+        errors.append(f"Discord: {exc}")
+
+    try:
+        sent += 1 if send_website_notification(payload) else 0
+    except Exception as exc:
+        errors.append(f"Website notification: {exc}")
+
+    if errors:
+        print("Alert delivery warning: " + "; ".join(errors))
+    if sent == 0 and errors:
+        raise RuntimeError("; ".join(errors))
 
 
 def get_schedule_for_date(target_date):
@@ -153,7 +201,27 @@ def compare_games(old_games, new_games):
                 f"First pitch: {new_game['game_time_et']}\n\n"
                 + "\n".join(f"- {x}" for x in changes)
             )
-            alerts.append(msg)
+            alerts.append(
+                {
+                    "message": msg,
+                    "payload": {
+                        "type": "pitcher_change",
+                        "category": "pitching_changes",
+                        "notification_category": "pitching_changes",
+                        "source": "pitcher_change_bot",
+                        "title": "Pitcher Update",
+                        "message": msg,
+                        "priority": "high",
+                        "event_id": f"pitcher-change:{new_game.get('game_pk')}:{','.join(changes)}",
+                        "game_pk": new_game.get("game_pk"),
+                        "away_team": team_label(new_game["away_team"]),
+                        "home_team": team_label(new_game["home_team"]),
+                        "matchup": f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}",
+                        "game_time": new_game.get("game_time_et"),
+                        "changes": changes,
+                    },
+                }
+            )
 
     return alerts
 
@@ -179,9 +247,9 @@ def run_check():
 
         for alert in alerts:
             try:
-                send_discord_message(alert)
+                deliver_alert(alert["message"], alert["payload"])
                 print("Sent alert:")
-                print(alert)
+                print(alert["message"])
                 print("-" * 40)
             except Exception as e:
                 print(f"Failed to send Discord alert: {e}")

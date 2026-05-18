@@ -2,7 +2,7 @@
 
 This bot checks live MLB games every 10 minutes through GitHub Actions.
 When a new active pitcher appears, it checks the batting team's lineup against that pitcher using MLB StatsAPI BvP data.
-If the matchup passes the configured filters, it posts a Discord alert.
+If the matchup passes the configured filters, it can post a Discord alert and a signed website notification.
 
 ## What it does
 
@@ -13,6 +13,7 @@ If the matchup passes the configured filters, it posts a Discord alert.
 - Detects active pitcher changes from the live game feed.
 - Pulls batter-vs-pitcher stats dynamically. No CSV database needed.
 - Sends Discord alerts for strong BvP spots.
+- Can send the same alert to your SheetWagers website notification system.
 - Saves state to `state/live_bvp_state.json` so it does not spam duplicate alerts.
 
 ## Required GitHub secret
@@ -25,10 +26,49 @@ DISCORD_WEBHOOK_BVP
 
 Value: your Discord webhook URL.
 
+For pitcher-change notifications, add:
+
+```text
+PITCHER_WEBHOOK_URL
+WEBSITE_NOTIFY_URL
+WEBSITE_NOTIFY_SECRET
+```
+
+`PITCHER_WEBHOOK_URL` keeps Discord alerts working.
+
+`WEBSITE_NOTIFY_URL` should point at your website bot-notification endpoint, for example:
+
+```text
+https://sheetwagers.com/api/public/bot-notifications
+```
+
+`WEBSITE_NOTIFY_SECRET` must match the webhook secret your website uses to verify `x-sbh-signature`.
+If `WEBSITE_NOTIFY_URL` is not set, the bot still runs and only posts to Discord.
+
+The pitcher-change bot sends:
+
+```json
+{
+  "type": "pitcher_change",
+  "category": "pitching_changes",
+  "notification_category": "pitching_changes"
+}
+```
+
+The lineup bot sends:
+
+```json
+{
+  "type": "lineup_change",
+  "category": "lineup_changes",
+  "notification_category": "lineup_changes"
+}
+```
+
 GitHub path:
 
 ```text
-Repo → Settings → Secrets and variables → Actions → New repository secret
+Repo -> Settings -> Secrets and variables -> Actions -> New repository secret
 ```
 
 ## Alert filters

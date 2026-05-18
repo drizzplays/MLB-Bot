@@ -1,11 +1,17 @@
 import json
+import hashlib
+import hmac
 import os
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
 
-WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
+WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
+WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
+ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
+ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 STATE_FILE = "lineup_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
@@ -78,9 +84,51 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def send(content):
+def send_discord(content):
+    if not ENABLE_DISCORD_NOTIFY:
+        return False
+    if not WEBHOOK_URL:
+        raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / LINEUP_WEBHOOK_URL secret.")
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
+    return True
+
+
+def send_website_notification(payload):
+    if not ENABLE_WEBSITE_NOTIFY:
+        return False
+    if not WEBSITE_NOTIFY_URL:
+        print("Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        return False
+
+    body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    headers = {"content-type": "application/json"}
+    if WEBSITE_NOTIFY_SECRET:
+        signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
+        headers["x-sbh-signature"] = f"sha256={signature}"
+
+    r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
+    r.raise_for_status()
+    return True
+
+
+def deliver_alert(content, payload):
+    errors = []
+    sent = 0
+    try:
+        sent += 1 if send_discord(content) else 0
+    except Exception as exc:
+        errors.append(f"Discord: {exc}")
+
+    try:
+        sent += 1 if send_website_notification(payload) else 0
+    except Exception as exc:
+        errors.append(f"Website notification: {exc}")
+
+    if errors:
+        print("Alert delivery warning: " + "; ".join(errors))
+    if sent == 0 and errors:
+        raise RuntimeError("; ".join(errors))
 
 
 def load_batters(filename="batters.txt"):
@@ -281,7 +329,26 @@ def build(old_game, new_game):
         + "\n\n".join(sections)
     )
 
-    return msg
+    payload = {
+        "type": "lineup_change",
+        "category": "lineup_changes",
+        "notification_category": "lineup_changes",
+        "source": "lineup_change_bot",
+        "title": "Lineup Update",
+        "message": msg,
+        "priority": "normal",
+        "event_id": f"lineup-change:{new_game.get('game_pk')}:{','.join(missing_lines)}:{','.join(active_lines)}",
+        "game_pk": new_game.get("game_pk"),
+        "away_team": team_label(away_team),
+        "home_team": team_label(home_team),
+        "matchup": f"{team_label(away_team)} @ {team_label(home_team)}",
+        "game_time": new_game.get("game_time"),
+        "game_iso": new_game.get("game_iso"),
+        "missing_batters": missing_lines,
+        "added_batters": active_lines,
+    }
+
+    return {"message": msg, "payload": payload}
 
 
 def run():
@@ -311,7 +378,7 @@ def run():
         for game_key, game_data in new_games.items():
             alert = build(old_games.get(game_key, {}), game_data)
             if alert:
-                send(alert)
+                deliver_alert(alert["message"], alert["payload"])
                 total_alerts += 1
                 print(f"Sent alert for: {game_key}")
 
