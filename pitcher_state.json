@@ -322,7 +322,7 @@
     "Seattle Mariners @ St. Louis Cardinals | 823069": {
       "away_team": "Seattle Mariners",
       "home_team": "St. Louis Cardinals",
-      "away_pitcher": "George Kirby",
+      "away_pitcher": "TEST",
       "home_pitcher": "Andre Pallante",
       "game_time": "2026-04-24 08:15 PM ET",
       "game_iso": "2026-04-24T20:15:00-04:00",
@@ -332,7 +332,7 @@
       "away_team": "Chicago Cubs",
       "home_team": "Los Angeles Dodgers",
       "away_pitcher": "Jameson Taillon",
-      "home_pitcher": "Emmet Sheehan",
+      "home_pitcher": "TEST",
       "game_time": "2026-04-24 10:15 PM ET",
       "game_iso": "2026-04-24T22:15:00-04:00",
       "game_pk": "823962"
