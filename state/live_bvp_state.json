@@ -2,16 +2,16 @@
   "date": "2026-05-18",
   "games": {
     "822734": {
-      "active_pitcher_id": 663623,
-      "active_pitcher_name": "Jake Irvin",
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-18T18:38:30.505140-04:00"
+      "last_checked_at": "2026-05-18T19:46:32.508423-04:00"
     },
     "822980": {
-      "active_pitcher_id": 663556,
-      "active_pitcher_name": "Shane McClanahan",
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-18T18:38:23.766992-04:00"
+      "last_checked_at": "2026-05-18T19:46:28.405691-04:00"
     },
     "823465": {
       "active_pitcher_id": 691725,
@@ -19,11 +19,41 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-18T18:38:26.287176-04:00"
     },
-    "823867": {
-      "active_pitcher_id": 676974,
-      "active_pitcher_name": "Max Meyer",
+    "823549": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-18T18:38:28.431771-04:00"
+      "last_checked_at": "2026-05-18T19:46:34.445175-04:00"
+    },
+    "823705": {
+      "active_pitcher_id": 696070,
+      "active_pitcher_name": "Kendry Rojas",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-18T19:46:38.252048-04:00"
+    },
+    "823867": {
+      "active_pitcher_id": 702275,
+      "active_pitcher_name": "JR Ritchie",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-18T19:46:30.408225-04:00"
+    },
+    "824114": {
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-18T19:46:36.381718-04:00"
+    },
+    "824277": {
+      "active_pitcher_id": 664285,
+      "active_pitcher_name": "Framber Valdez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-18T19:46:26.364518-04:00"
+    },
+    "824680": {
+      "active_pitcher_id": 687075,
+      "active_pitcher_name": "Brandon Sproat",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-18T19:46:40.155330-04:00"
     }
   }
 }
