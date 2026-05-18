@@ -37,6 +37,10 @@ jobs:
       - name: Run pitcher bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.PITCHER_WEBHOOK_URL }}
+          ENABLE_DISCORD_NOTIFY: "true"
+          ENABLE_WEBSITE_NOTIFY: "true"
+          WEBSITE_NOTIFY_URL: ${{ secrets.WEBSITE_NOTIFY_URL }}
+          WEBSITE_NOTIFY_SECRET: ${{ secrets.WEBSITE_NOTIFY_SECRET }}
         run: python pitcher_only_bot.py
 
       - name: Commit updated pitcher state

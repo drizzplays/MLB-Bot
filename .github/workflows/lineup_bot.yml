@@ -41,6 +41,10 @@ jobs:
       - name: Run lineup bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.LINEUP_WEBHOOK_URL }}
+          ENABLE_DISCORD_NOTIFY: "true"
+          ENABLE_WEBSITE_NOTIFY: "true"
+          WEBSITE_NOTIFY_URL: ${{ secrets.WEBSITE_NOTIFY_URL }}
+          WEBSITE_NOTIFY_SECRET: ${{ secrets.WEBSITE_NOTIFY_SECRET }}
         run: python lineup_only_bot.py
 
       - name: Commit updated lineup state
