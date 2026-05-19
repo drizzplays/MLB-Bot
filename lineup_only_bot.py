@@ -4,6 +4,7 @@ import hmac
 import os
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
+from urllib.parse import urlparse
 
 import requests
 
@@ -94,41 +95,78 @@ def send_discord(content):
     return True
 
 
+
+def website_target_label():
+    if not WEBSITE_NOTIFY_URL:
+        return "not-set"
+    parsed = urlparse(WEBSITE_NOTIFY_URL)
+    return f"{parsed.netloc}{parsed.path}"
+
+
 def send_website_notification(payload):
     if not ENABLE_WEBSITE_NOTIFY:
+        print("[notify] Website notifications disabled by ENABLE_WEBSITE_NOTIFY.")
         return False
     if not WEBSITE_NOTIFY_URL:
-        print("Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        print("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
         return False
+
+    print(f"[notify] Website target: {website_target_label()}")
+    print(
+        "[notify] Website payload: "
+        f"event_id={payload.get('event_id')} "
+        f"type={payload.get('type')} "
+        f"category={payload.get('notification_category') or payload.get('category')} "
+        f"source={payload.get('source')}"
+    )
 
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
     headers = {"content-type": "application/json"}
+
     if WEBSITE_NOTIFY_SECRET:
         signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
         headers["x-sbh-signature"] = f"sha256={signature}"
+        print(f"[notify] Signature header set: true secret_len={len(WEBSITE_NOTIFY_SECRET)}")
+    else:
+        print("[notify] Signature header set: false secret_len=0")
 
     r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
-    r.raise_for_status()
+    response_preview = (r.text or "").replace("\n", " ")[:1000]
+    print(f"[notify] Website response HTTP {r.status_code}: {response_preview}")
+
+    if not r.ok:
+        raise RuntimeError(f"Website notification HTTP {r.status_code}: {response_preview}")
+
+    print(f"[notify] Website lineup alert accepted: HTTP {r.status_code}.")
     return True
+
 
 
 def deliver_alert(content, payload):
     errors = []
-    sent = 0
+    delivery = {"discord": False, "website": False}
+
     try:
-        sent += 1 if send_discord(content) else 0
+        delivery["discord"] = bool(send_discord(content))
+        if delivery["discord"]:
+            print("[notify] Discord lineup alert sent.")
     except Exception as exc:
         errors.append(f"Discord: {exc}")
 
     try:
-        sent += 1 if send_website_notification(payload) else 0
+        delivery["website"] = bool(send_website_notification(payload))
     except Exception as exc:
         errors.append(f"Website notification: {exc}")
 
     if errors:
         print("Alert delivery warning: " + "; ".join(errors))
-    if sent == 0 and errors:
+
+    print(f"[notify] Delivery result: discord={delivery['discord']} website={delivery['website']}")
+
+    if not any(delivery.values()) and errors:
         raise RuntimeError("; ".join(errors))
+
+    return delivery
 
 
 def load_batters(filename="batters.txt"):
@@ -352,6 +390,14 @@ def build(old_game, new_game):
 
 
 def run():
+    print(
+        "[notify] Config: "
+        f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(WEBHOOK_URL)} "
+        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
+        f"website_target={website_target_label()} "
+        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')}"
+    )
+
     old_state = load_state()
     today = datetime.now(ET).date()
     dates_to_check = [today]

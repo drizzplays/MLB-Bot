@@ -1,9 +1,12 @@
+import hashlib
+import hmac
 import json
 import os
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from urllib.parse import urlparse
 
 import requests
 
@@ -13,6 +16,10 @@ LIVE_BASE = "https://statsapi.mlb.com/api/v1.1"
 STATE_FILE = Path(os.getenv("BVP_STATE_FILE", "state/live_bvp_state.json"))
 
 DISCORD_WEBHOOK = os.getenv("DISCORD_WEBHOOK_BVP") or os.getenv("DISCORD_WEBHOOK_URL")
+WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
+WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
+ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
+ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 
 # Good-data thresholds. Change these in GitHub Actions env if you want.
 MIN_BVP_AB = int(os.getenv("MIN_BVP_AB", "3"))
@@ -94,11 +101,87 @@ def reset_state_if_new_day(state: dict, today: str) -> dict:
     return state
 
 
-def send_discord(content: str) -> None:
+
+def website_target_label() -> str:
+    if not WEBSITE_NOTIFY_URL:
+        return "not-set"
+    parsed = urlparse(WEBSITE_NOTIFY_URL)
+    return f"{parsed.netloc}{parsed.path}"
+
+
+def send_discord(content: str) -> bool:
+    if not ENABLE_DISCORD_NOTIFY:
+        log("[notify] Discord disabled by ENABLE_DISCORD_NOTIFY.")
+        return False
     if not DISCORD_WEBHOOK:
         raise RuntimeError("Missing Discord webhook. Add repo secret DISCORD_WEBHOOK_BVP.")
     response = requests.post(DISCORD_WEBHOOK, json={"content": content}, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
+    log("[notify] Discord live BvP alert sent.")
+    return True
+
+
+def send_website_notification(payload: dict) -> bool:
+    if not ENABLE_WEBSITE_NOTIFY:
+        log("[notify] Website notifications disabled by ENABLE_WEBSITE_NOTIFY.")
+        return False
+    if not WEBSITE_NOTIFY_URL:
+        log("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        return False
+
+    log(f"[notify] Website target: {website_target_label()}")
+    log(
+        "[notify] Website payload: "
+        f"event_id={payload.get('event_id')} "
+        f"type={payload.get('type')} "
+        f"category={payload.get('notification_category') or payload.get('category')} "
+        f"source={payload.get('source')}"
+    )
+
+    body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    headers = {"content-type": "application/json"}
+
+    if WEBSITE_NOTIFY_SECRET:
+        signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
+        headers["x-sbh-signature"] = f"sha256={signature}"
+        log(f"[notify] Signature header set: true secret_len={len(WEBSITE_NOTIFY_SECRET)}")
+    else:
+        log("[notify] Signature header set: false secret_len=0")
+
+    response = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=REQUEST_TIMEOUT)
+    response_preview = (response.text or "").replace("\n", " ")[:1000]
+    log(f"[notify] Website response HTTP {response.status_code}: {response_preview}")
+
+    if not response.ok:
+        raise RuntimeError(f"Website notification HTTP {response.status_code}: {response_preview}")
+
+    log(f"[notify] Website live BvP alert accepted: HTTP {response.status_code}.")
+    return True
+
+
+def deliver_alert(content: str, payload: dict) -> dict:
+    errors = []
+    delivery = {"discord": False, "website": False}
+
+    try:
+        delivery["discord"] = bool(send_discord(content))
+    except Exception as exc:
+        errors.append(f"Discord: {exc}")
+
+    try:
+        delivery["website"] = bool(send_website_notification(payload))
+    except Exception as exc:
+        errors.append(f"Website notification: {exc}")
+
+    if errors:
+        log("Alert delivery warning: " + "; ".join(errors))
+
+    log(f"[notify] Delivery result: discord={delivery['discord']} website={delivery['website']}")
+
+    if not any(delivery.values()) and errors:
+        raise RuntimeError("; ".join(errors))
+
+    return delivery
 
 
 def today_schedule() -> list[dict]:
@@ -275,6 +358,38 @@ def build_alert(game_name: str, batting_team: str, pitcher_name: str, batter_nam
     )
 
 
+
+def build_website_payload(
+    game_pk: str,
+    game_name: str,
+    batting_team: str,
+    pitcher_id: int,
+    pitcher_name: str,
+    batter_id: int,
+    batter_name: str,
+    stat: dict,
+    message: str,
+) -> dict:
+    return {
+        "type": "bvp_alert",
+        "category": "live_betting",
+        "notification_category": "live_betting",
+        "source": "live_bvp_bot",
+        "title": "Live Betting Alert",
+        "message": message,
+        "priority": "high",
+        "event_id": f"live-bvp:{game_pk}:{pitcher_id}:{batter_id}",
+        "game_pk": game_pk,
+        "matchup": game_name,
+        "batting_team": batting_team,
+        "pitcher_id": pitcher_id,
+        "pitcher_name": pitcher_name,
+        "batter_id": batter_id,
+        "batter_name": batter_name,
+        "stat": stat,
+    }
+
+
 def check_game(game: dict, state: dict) -> int:
     game_pk = str(game.get("gamePk"))
     away_team = game.get("teams", {}).get("away", {}).get("team", {}).get("name", "Away")
@@ -325,7 +440,27 @@ def check_game(game: dict, state: dict) -> int:
             continue
 
         alert = build_alert(game_name, team_label(batting_team), pitcher_name, batter["name"], stat)
-        send_discord(alert)
+        payload = build_website_payload(
+            game_pk=game_pk,
+            game_name=game_name,
+            batting_team=team_label(batting_team),
+            pitcher_id=pitcher_id,
+            pitcher_name=pitcher_name,
+            batter_id=int(batter["id"]),
+            batter_name=batter["name"],
+            stat=stat,
+            message=alert,
+        )
+        delivery = deliver_alert(alert, payload)
+
+        # If website notifications are configured, require website success before
+        # suppressing this live alert forever. This prevents Discord-only sends
+        # from eating the phone push.
+        website_required = ENABLE_WEBSITE_NOTIFY and bool(WEBSITE_NOTIFY_URL)
+        if website_required and not delivery.get("website"):
+            log(f"Website delivery failed; not marking pair alerted: {batter['name']} vs {pitcher_name}")
+            continue
+
         alerted_pairs.add(pair_key)
         sent += 1
         log(f"Sent alert: {batter['name']} vs {pitcher_name} ({format_stat_line(stat)})")
@@ -335,6 +470,14 @@ def check_game(game: dict, state: dict) -> int:
 
 
 def run() -> None:
+    log(
+        "[notify] Config: "
+        f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(DISCORD_WEBHOOK)} "
+        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
+        f"website_target={website_target_label()} "
+        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')}"
+    )
+
     now = datetime.now(ET)
     today_key = now.date().isoformat()
     state = reset_state_if_new_day(load_state(), today_key)
