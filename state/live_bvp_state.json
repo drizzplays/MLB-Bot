@@ -1,13 +1,45 @@
 {
   "date": "2026-05-19",
   "games": {
+    "822736": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T19:10:02.154375-04:00"
+    },
+    "822979": {
+      "active_pitcher_id": 643377,
+      "active_pitcher_name": "Griffin Jax",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T19:09:57.888496-04:00"
+    },
+    "823464": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T19:10:00.066940-04:00"
+    },
+    "823548": {
+      "active_pitcher_id": 701542,
+      "active_pitcher_name": "Will Warren",
+      "alerted_pairs": [
+        "701542:665926"
+      ],
+      "last_checked_at": "2026-05-19T19:10:04.286457-04:00"
+    },
     "823865": {
-      "active_pitcher_id": 656848,
-      "active_pitcher_name": "Michael Petersen",
+      "active_pitcher_id": 628452,
+      "active_pitcher_name": "Raisel Iglesias",
       "alerted_pairs": [
         "666129:645277"
       ],
-      "last_checked_at": "2026-05-19T17:50:21.627142-04:00"
+      "last_checked_at": "2026-05-19T19:09:53.042901-04:00"
+    },
+    "824276": {
+      "active_pitcher_id": 672456,
+      "active_pitcher_name": "Keider Montero",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T19:09:55.745752-04:00"
     }
   }
 }
