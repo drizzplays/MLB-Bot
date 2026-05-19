@@ -11,7 +11,7 @@
         "Austin Riley",
         "Michael Harris II",
         "Mike Yastrzemski",
-        "Sandy Le\u00f3n",
+        "Chadwick Tromp",
         "Ha-Seong Kim"
       ],
       "home_lineup": [
@@ -391,7 +391,6 @@
         "Vidal Bruj\u00e1n",
         "Brooks Raley",
         "Nolan McLean",
-        "Jared Young",
         "A.J. Ewing"
       ],
       "home_roster": [
@@ -622,7 +621,6 @@
         "James Outman"
       ],
       "away_roster": [
-        "Shay Whitcomb",
         "Isaac Paredes",
         "Bryan Abreu",
         "Nick Allen",
@@ -640,11 +638,11 @@
         "Jeremy Pe\u00f1a",
         "Zach Dezenzo",
         "Peter Lambert",
-        "Lance McCullers Jr.",
         "Mike Burrows",
         "Bryan King",
         "Jason Alexander",
         "Christian Walker",
+        "Nate Pearson",
         "Jayden Murray",
         "Spencer Arrighetti",
         "Christian V\u00e1zquez",
@@ -915,6 +913,7 @@
         "Kyle Freeland",
         "Willi Castro",
         "Brennan Bernardino",
+        "Tyler Freeman",
         "Juan Mejia",
         "Edouard Julien",
         "Hunter Goodman",
@@ -929,7 +928,6 @@
         "Seth Halvorsen",
         "Antonio Senzatela",
         "Jaden Hill",
-        "Sterlin Thompson",
         "Sammy Peralta",
         "Kyle Karros"
       ],
@@ -940,7 +938,17 @@
     "Athletics @ Los Angeles Angels | 824033": {
       "away_team": "Athletics",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Shea Langeliers",
+        "Nick Kurtz",
+        "Colby Thomas",
+        "Brent Rooker",
+        "Henry Bolte",
+        "Zack Gelof",
+        "Jonah Heim",
+        "Jeff McNeil",
+        "Darell Hernaiz"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
@@ -968,8 +976,8 @@
         "Alika Williams",
         "Joel Kuhnel",
         "Tyler Soderstrom",
-        "Aaron Civale",
         "Darell Hernaiz",
+        "Aaron Civale",
         "Nick Kurtz",
         "Hogan Harris",
         "Luis Medina",
@@ -1100,8 +1108,28 @@
     "San Francisco Giants @ Arizona Diamondbacks | 825086": {
       "away_team": "San Francisco Giants",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Harrison Bader",
+        "Luis Arraez",
+        "Casey Schmitt",
+        "Rafael Devers",
+        "Willy Adames",
+        "Matt Chapman",
+        "Drew Gilbert",
+        "Daniel Susac",
+        "Will Brennan"
+      ],
+      "home_lineup": [
+        "Ketel Marte",
+        "Corbin Carroll",
+        "Geraldo Perdomo",
+        "Nolan Arenado",
+        "Ildemaro Vargas",
+        "Lourdes Gurriel Jr.",
+        "Gabriel Moreno",
+        "Adrian Del Castillo",
+        "Ryan Waldschmidt"
+      ],
       "away_roster": [
         "Casey Schmitt",
         "JT Brubaker",
@@ -1137,8 +1165,8 @@
         "Tim Tawa",
         "Adrian Del Castillo",
         "Nolan Arenado",
-        "Merrill Kelly",
         "Ryan Waldschmidt",
+        "Merrill Kelly",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
@@ -1153,8 +1181,8 @@
         "Taylor Clarke",
         "Zac Gallen",
         "Lourdes Gurriel Jr.",
+        "Aramis Garcia",
         "Ryan Thompson",
-        "James McCann",
         "Brandyn Garcia",
         "Jorge Barrosa"
       ],
