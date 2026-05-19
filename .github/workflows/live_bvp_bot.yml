@@ -19,6 +19,10 @@ jobs:
 
     env:
       DISCORD_WEBHOOK_BVP: ${{ secrets.DISCORD_WEBHOOK_BVP }}
+      ENABLE_DISCORD_NOTIFY: "true"
+      ENABLE_WEBSITE_NOTIFY: "true"
+      WEBSITE_NOTIFY_URL: ${{ secrets.WEBSITE_NOTIFY_URL }}
+      WEBSITE_NOTIFY_SECRET: ${{ secrets.WEBSITE_NOTIFY_SECRET }}
       # Good-data filter. Example: 4/4 qualifies. Tweak these if you want looser/tighter alerts.
       MIN_BVP_AB: "3"
       MIN_BVP_HITS: "2"
