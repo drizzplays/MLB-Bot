@@ -12,6 +12,7 @@ WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
 WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
 ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
+TEST_NOTIFICATION = os.getenv("TEST_NOTIFICATION", "").strip().lower() in {"1", "true", "yes", "on"}
 STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
@@ -84,19 +85,22 @@ def save_state(state):
 
 def send_discord(content):
     if not ENABLE_DISCORD_NOTIFY:
+        print("[notify] Discord disabled by ENABLE_DISCORD_NOTIFY.")
         return False
     if not WEBHOOK_URL:
         raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / PITCHER_WEBHOOK_URL secret.")
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
+    print("[notify] Discord pitcher alert sent.")
     return True
 
 
 def send_website_notification(payload):
     if not ENABLE_WEBSITE_NOTIFY:
+        print("[notify] Website notifications disabled by ENABLE_WEBSITE_NOTIFY.")
         return False
     if not WEBSITE_NOTIFY_URL:
-        print("Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        print("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
         return False
 
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
@@ -104,29 +108,71 @@ def send_website_notification(payload):
     if WEBSITE_NOTIFY_SECRET:
         signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
         headers["x-sbh-signature"] = f"sha256={signature}"
+    else:
+        print("[notify] WEBSITE_NOTIFY_SECRET is not set; posting unsigned website notification.")
 
     r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
-    r.raise_for_status()
+    if not r.ok:
+        body_preview = (r.text or "").replace("\n", " ")[:500]
+        raise RuntimeError(f"Website notification HTTP {r.status_code}: {body_preview}")
+    print(f"[notify] Website pitcher alert accepted: HTTP {r.status_code}.")
     return True
 
 
 def deliver_alert(content, payload):
     errors = []
-    sent = 0
+    delivery = {"discord": False, "website": False}
     try:
-        sent += 1 if send_discord(content) else 0
+        delivery["discord"] = bool(send_discord(content))
     except Exception as exc:
         errors.append(f"Discord: {exc}")
 
     try:
-        sent += 1 if send_website_notification(payload) else 0
+        delivery["website"] = bool(send_website_notification(payload))
     except Exception as exc:
         errors.append(f"Website notification: {exc}")
 
     if errors:
         print("Alert delivery warning: " + "; ".join(errors))
-    if sent == 0 and errors:
+    print(f"[notify] Delivery result: discord={delivery['discord']} website={delivery['website']}")
+    if not any(delivery.values()) and errors:
         raise RuntimeError("; ".join(errors))
+    return delivery
+
+
+def send_test_notification():
+    now = datetime.now(ET)
+    message = (
+        "**Pitcher Update Test**\n"
+        "**TEST @ TEST**\n"
+        f"Sent: {now.strftime('%b')} {now.day}, {now.strftime('%I:%M %p').lstrip('0')} ET\n\n"
+        "- This is a manual test from the pitcher-change bot."
+    )
+    payload = {
+        "type": "pitcher_change",
+        "category": "pitching_changes",
+        "notification_category": "pitching_changes",
+        "source": "pitcher_change_bot",
+        "title": "Pitcher Update Test",
+        "message": message,
+        "priority": "normal",
+        "event_id": f"pitcher-change:test:{now.strftime('%Y%m%d%H%M%S')}",
+        "game_pk": "test",
+        "away_team": "TEST",
+        "home_team": "TEST",
+        "matchup": "TEST @ TEST",
+        "game_time": now.isoformat(),
+        "game_iso": now.isoformat(),
+        "changes": [
+            {
+                "type": "test",
+                "text": "Manual pitcher notification test.",
+            }
+        ],
+        "is_test": True,
+    }
+    deliver_alert(message, payload)
+    print("Sent pitcher notification test.")
 
 
 def is_pregame(game_iso):
@@ -324,6 +370,17 @@ def build(old_game, new_game):
 
 
 def run():
+    if TEST_NOTIFICATION:
+        send_test_notification()
+        return
+
+    print(
+        "[notify] Config: "
+        f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(WEBHOOK_URL)} "
+        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
+        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')}"
+    )
+
     state = load_state()
     today = datetime.now(ET).date()
     dates_to_check = [today]
@@ -334,6 +391,8 @@ def run():
     print(f"Loaded state keys: {list(state.keys())}")
 
     total_alerts = 0
+    discord_deliveries = 0
+    website_deliveries = 0
 
     for target_date in dates_to_check:
         date_key = str(target_date)
@@ -348,7 +407,9 @@ def run():
         for game_key, game_data in new_games.items():
             alert = build(old_games.get(game_key, {}), game_data)
             if alert:
-                deliver_alert(alert["message"], alert["payload"])
+                delivery = deliver_alert(alert["message"], alert["payload"])
+                discord_deliveries += 1 if delivery.get("discord") else 0
+                website_deliveries += 1 if delivery.get("website") else 0
                 total_alerts += 1
                 print(f"Sent alert for: {game_key}")
 
@@ -359,7 +420,12 @@ def run():
     print(preview[:2000])
     save_state(state)
     print("State saved.")
-    print(f"Done. Total alerts sent: {total_alerts}")
+    print(
+        "Done. "
+        f"Total alerts built: {total_alerts}; "
+        f"Discord deliveries: {discord_deliveries}; "
+        f"Website deliveries: {website_deliveries}"
+    )
 
 
 if __name__ == "__main__":

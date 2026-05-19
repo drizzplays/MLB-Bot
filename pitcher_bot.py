@@ -75,19 +75,22 @@ def save_state(state):
 
 def send_discord_message(content):
     if not ENABLE_DISCORD_NOTIFY:
+        print("[notify] Discord disabled by ENABLE_DISCORD_NOTIFY.")
         return False
     if not WEBHOOK_URL:
         raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / PITCHER_WEBHOOK_URL secret.")
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
+    print("[notify] Discord pitcher alert sent.")
     return True
 
 
 def send_website_notification(payload):
     if not ENABLE_WEBSITE_NOTIFY:
+        print("[notify] Website notifications disabled by ENABLE_WEBSITE_NOTIFY.")
         return False
     if not WEBSITE_NOTIFY_URL:
-        print("Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        print("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
         return False
 
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
@@ -95,29 +98,36 @@ def send_website_notification(payload):
     if WEBSITE_NOTIFY_SECRET:
         signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
         headers["x-sbh-signature"] = f"sha256={signature}"
+    else:
+        print("[notify] WEBSITE_NOTIFY_SECRET is not set; posting unsigned website notification.")
 
     r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
-    r.raise_for_status()
+    if not r.ok:
+        body_preview = (r.text or "").replace("\n", " ")[:500]
+        raise RuntimeError(f"Website notification HTTP {r.status_code}: {body_preview}")
+    print(f"[notify] Website pitcher alert accepted: HTTP {r.status_code}.")
     return True
 
 
 def deliver_alert(content, payload):
     errors = []
-    sent = 0
+    delivery = {"discord": False, "website": False}
     try:
-        sent += 1 if send_discord_message(content) else 0
+        delivery["discord"] = bool(send_discord_message(content))
     except Exception as exc:
         errors.append(f"Discord: {exc}")
 
     try:
-        sent += 1 if send_website_notification(payload) else 0
+        delivery["website"] = bool(send_website_notification(payload))
     except Exception as exc:
         errors.append(f"Website notification: {exc}")
 
     if errors:
         print("Alert delivery warning: " + "; ".join(errors))
-    if sent == 0 and errors:
+    print(f"[notify] Delivery result: discord={delivery['discord']} website={delivery['website']}")
+    if not any(delivery.values()) and errors:
         raise RuntimeError("; ".join(errors))
+    return delivery
 
 
 def get_schedule_for_date(target_date):
