@@ -13,7 +13,7 @@ WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
 WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
 ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
-TEST_NOTIFICATION = True  # FORCED ONE-SHOT TEST MODE. Change back after testing.
+TEST_NOTIFICATION = os.getenv("TEST_NOTIFICATION", "").strip().lower() in {"1", "true", "yes", "on"}
 STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
@@ -160,17 +160,17 @@ def deliver_alert(content, payload):
 def send_test_notification():
     now = datetime.now(ET)
     message = (
-        "**Pitcher Update Forced Test**\n"
+        "**Pitcher Update Test**\n"
         "**TEST @ TEST**\n"
         f"Sent: {now.strftime('%b')} {now.day}, {now.strftime('%I:%M %p').lstrip('0')} ET\n\n"
-        "- This is a forced diagnostic test from the pitcher-change bot."
+        "- This is a manual test from the pitcher-change bot."
     )
     payload = {
         "type": "pitcher_change",
         "category": "pitching_changes",
         "notification_category": "pitching_changes",
         "source": "pitcher_change_bot",
-        "title": "Pitcher Update Forced Test",
+        "title": "Pitcher Update Test",
         "message": message,
         "priority": "normal",
         "event_id": f"pitcher-change:test:{now.strftime('%Y%m%d%H%M%S')}",
