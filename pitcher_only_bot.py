@@ -3,6 +3,7 @@ import hashlib
 import hmac
 import os
 from datetime import datetime, timedelta
+from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 import requests
@@ -103,19 +104,35 @@ def send_website_notification(payload):
         print("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
         return False
 
+    parsed_url = urlparse(WEBSITE_NOTIFY_URL)
+    safe_target = f"{parsed_url.netloc}{parsed_url.path}"
+    event_id = payload.get("event_id", "")
+    notification_type = payload.get("type", "")
+    category = payload.get("notification_category") or payload.get("category", "")
+
+    print(f"[notify] Website target: {safe_target}")
+    print(
+        "[notify] Website payload: "
+        f"event_id={event_id} type={notification_type} category={category} "
+        f"source={payload.get('source', '')}"
+    )
+
     body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
     headers = {"content-type": "application/json"}
     if WEBSITE_NOTIFY_SECRET:
         signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
         headers["x-sbh-signature"] = f"sha256={signature}"
+        print(f"[notify] Signature header set: true secret_len={len(WEBSITE_NOTIFY_SECRET)}")
     else:
-        print("[notify] WEBSITE_NOTIFY_SECRET is not set; posting unsigned website notification.")
+        print("[notify] Signature header set: false; WEBSITE_NOTIFY_SECRET is missing.")
 
     r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
+    response_preview = (r.text or "").replace("\n", " ")[:1000]
+    print(f"[notify] Website response HTTP {r.status_code}: {response_preview}")
+
     if not r.ok:
-        body_preview = (r.text or "").replace("\n", " ")[:500]
-        raise RuntimeError(f"Website notification HTTP {r.status_code}: {body_preview}")
-    print(f"[notify] Website pitcher alert accepted: HTTP {r.status_code}.")
+        raise RuntimeError(f"Website notification HTTP {r.status_code}: {response_preview[:500]}")
+
     return True
 
 
@@ -369,17 +386,26 @@ def build(old_game, new_game):
     return {"message": message, "payload": payload}
 
 
-def run():
-    if TEST_NOTIFICATION:
-        send_test_notification()
-        return
-
+def print_notify_config():
+    parsed_url = urlparse(WEBSITE_NOTIFY_URL) if WEBSITE_NOTIFY_URL else None
+    safe_target = f"{parsed_url.netloc}{parsed_url.path}" if parsed_url else ""
     print(
         "[notify] Config: "
         f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(WEBHOOK_URL)} "
         f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
-        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')}"
+        f"website_target={safe_target or 'unset'} "
+        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')} "
+        f"test_notification={TEST_NOTIFICATION}"
     )
+
+
+def run():
+    print_notify_config()
+
+    if TEST_NOTIFICATION:
+        send_test_notification()
+        return
+
 
     state = load_state()
     today = datetime.now(ET).date()
