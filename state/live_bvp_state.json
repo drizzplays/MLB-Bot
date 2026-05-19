@@ -2,12 +2,12 @@
   "date": "2026-05-19",
   "games": {
     "823865": {
-      "active_pitcher_id": 666129,
-      "active_pitcher_name": "Braxton Garrett",
+      "active_pitcher_id": 669622,
+      "active_pitcher_name": "Anthony Bender",
       "alerted_pairs": [
         "666129:645277"
       ],
-      "last_checked_at": "2026-05-19T16:16:58.900141-04:00"
+      "last_checked_at": "2026-05-19T17:12:51.319911-04:00"
     }
   }
 }
