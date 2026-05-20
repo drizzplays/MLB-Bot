@@ -267,7 +267,7 @@
         "Jake Burger",
         "Michael Helman",
         "Kyle Higashioka",
-        "Evan Carter"
+        "Jacob Latz"
       ],
       "home_lineup": [
         "Jake McCarthy",
@@ -278,7 +278,7 @@
         "Ezequiel Tovar",
         "Willi Castro",
         "Kyle Karros",
-        "Brett Sullivan"
+        "Braxton Fulford"
       ],
       "away_roster": [
         "Evan Carter",
@@ -429,22 +429,22 @@
       "away_team": "Chicago White Sox",
       "home_team": "Seattle Mariners",
       "away_lineup": [
-        "Sam Antonacci",
+        "Randal Grichuk",
         "Munetaka Murakami",
-        "Andrew Benintendi",
+        "Derek Hill",
         "Colson Montgomery",
         "Chase Meidroth",
         "Jarred Kelenic",
         "Tristan Peters",
-        "Drew Romo",
-        "Luisangel Acu\u00f1a"
+        "Miguel Vargas",
+        "Edgar Quero"
       ],
       "home_lineup": [
         "Cole Young",
         "Julio Rodr\u00edguez",
         "Josh Naylor",
         "Randy Arozarena",
-        "Luke Raley",
+        "Connor Joe",
         "Dominic Canzone",
         "Patrick Wisdom",
         "Colt Emerson",
@@ -489,8 +489,8 @@
         "J.P. Crawford",
         "Dominic Canzone",
         "Jhonny Pereda",
-        "Connor Joe",
         "Rob Refsnyder",
+        "Connor Joe",
         "Matt Brash",
         "Logan Gilbert",
         "Bryan Woo",
@@ -1193,8 +1193,28 @@
     "Athletics @ Los Angeles Angels | 824032": {
       "away_team": "Athletics",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Carlos Cortes",
+        "Shea Langeliers",
+        "Nick Kurtz",
+        "Brent Rooker",
+        "Tyler Soderstrom",
+        "Zack Gelof",
+        "Jeff McNeil",
+        "Henry Bolte",
+        "Darell Hernaiz"
+      ],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Jorge Soler",
+        "Vaughn Grissom",
+        "Jo Adell",
+        "Oswald Peraza",
+        "Logan O'Hoppe",
+        "Josh Lowe"
+      ],
       "away_roster": [
         "Lawrence Butler",
         "Jonah Heim",
@@ -1211,8 +1231,8 @@
         "Alika Williams",
         "Joel Kuhnel",
         "Tyler Soderstrom",
-        "Aaron Civale",
         "Darell Hernaiz",
+        "Aaron Civale",
         "Nick Kurtz",
         "Hogan Harris",
         "Luis Medina",
@@ -1231,11 +1251,10 @@
         "Jorge Soler",
         "Yo\u00e1n Moncada",
         "Chase Silseth",
-        "Ryan Johnson",
-        "Alek Manoah",
         "Jos\u00e9 Soriano",
         "Jack Kochanowicz",
         "Mitch Farris",
+        "Grayson Rodriguez",
         "Mike Trout",
         "Jos\u00e9 Fermin",
         "Jo Adell",
@@ -1245,6 +1264,7 @@
         "Nolan Schanuel",
         "Josh Lowe",
         "Sebasti\u00e1n Rivero",
+        "Tayler Saucedo",
         "Walbert Ure\u00f1a",
         "Logan O'Hoppe",
         "Kirby Yates",
@@ -1618,6 +1638,7 @@
       "home_roster": [
         "Adam Frazier",
         "Oswald Peraza",
+        "Jose Siri",
         "Zach Neto",
         "Jorge Soler",
         "Yo\u00e1n Moncada",
@@ -1636,7 +1657,6 @@
         "Nolan Schanuel",
         "Josh Lowe",
         "Sebasti\u00e1n Rivero",
-        "Bryce Teodosio",
         "Walbert Ure\u00f1a",
         "Logan O'Hoppe",
         "Kirby Yates",
