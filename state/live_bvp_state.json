@@ -1,11 +1,23 @@
 {
   "date": "2026-05-20",
   "games": {
+    "822735": {
+      "active_pitcher_id": 804267,
+      "active_pitcher_name": "Zach Thornton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T19:38:34.477504-04:00"
+    },
     "822977": {
       "active_pitcher_id": 669358,
       "active_pitcher_name": "Shane Baz",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T13:27:26.403959-04:00"
+    },
+    "823057": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T19:38:41.902043-04:00"
     },
     "823134": {
       "active_pitcher_id": 656794,
@@ -25,11 +37,35 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T13:27:28.299332-04:00"
     },
+    "823866": {
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T19:38:31.912566-04:00"
+    },
+    "824111": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T19:38:36.871782-04:00"
+    },
+    "824273": {
+      "active_pitcher_id": 623454,
+      "active_pitcher_name": "Drew Anderson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T19:38:29.244576-04:00"
+    },
     "824355": {
       "active_pitcher_id": 675848,
       "active_pitcher_name": "Juan Mejia",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T18:01:00.538764-04:00"
+    },
+    "824678": {
+      "active_pitcher_id": 665795,
+      "active_pitcher_name": "Edward Cabrera",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T19:38:39.519798-04:00"
     },
     "825084": {
       "active_pitcher_id": 623149,
