@@ -360,11 +360,23 @@ def build(old_game, new_game):
     if active_lines:
         sections.append("**Added after lineup posted**\n" + "\n".join(active_lines))
 
-    msg = (
+    discord_message = (
         f"**Lineup Watchlist**\n"
         f"**{team_label(away_team)} @ {team_label(home_team)}**\n"
         f"First pitch: {new_game['game_time']}\n\n"
         + "\n\n".join(sections)
+    )
+
+    website_sections = []
+    if missing_lines:
+        website_sections.append("Not in lineup: " + ", ".join(line.removeprefix("- ") for line in missing_lines))
+    if active_lines:
+        website_sections.append("Added after lineup posted: " + ", ".join(line.removeprefix("- ") for line in active_lines))
+
+    website_message = (
+        f"{team_label(away_team)} @ {team_label(home_team)}\n"
+        f"{new_game['game_time']}\n"
+        + "\n".join(website_sections)
     )
 
     payload = {
@@ -373,7 +385,7 @@ def build(old_game, new_game):
         "notification_category": "lineup_changes",
         "source": "lineup_change_bot",
         "title": "Lineup Update",
-        "message": msg,
+        "message": website_message,
         "priority": "normal",
         "event_id": f"lineup-change:{new_game.get('game_pk')}:{','.join(missing_lines)}:{','.join(active_lines)}",
         "game_pk": new_game.get("game_pk"),
@@ -386,7 +398,7 @@ def build(old_game, new_game):
         "added_batters": active_lines,
     }
 
-    return {"message": msg, "payload": payload}
+    return {"message": discord_message, "payload": payload}
 
 
 def run():

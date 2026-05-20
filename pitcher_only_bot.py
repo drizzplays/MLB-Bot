@@ -159,11 +159,16 @@ def deliver_alert(content, payload):
 
 def send_test_notification():
     now = datetime.now(ET)
-    message = (
+    discord_message = (
         "**Pitcher Update Test**\n"
         "**TEST @ TEST**\n"
         f"Sent: {now.strftime('%b')} {now.day}, {now.strftime('%I:%M %p').lstrip('0')} ET\n\n"
         "- This is a manual test from the pitcher-change bot."
+    )
+    website_message = (
+        "Pitcher Update Test\n"
+        "TEST @ TEST\n"
+        f"Sent: {now.strftime('%b')} {now.day}, {now.strftime('%I:%M %p').lstrip('0')} ET"
     )
     payload = {
         "type": "pitcher_change",
@@ -171,7 +176,7 @@ def send_test_notification():
         "notification_category": "pitching_changes",
         "source": "pitcher_change_bot",
         "title": "Pitcher Update Test",
-        "message": message,
+        "message": website_message,
         "priority": "normal",
         "event_id": f"pitcher-change:test:{now.strftime('%Y%m%d%H%M%S')}",
         "game_pk": "test",
@@ -188,7 +193,7 @@ def send_test_notification():
         ],
         "is_test": True,
     }
-    deliver_alert(message, payload)
+    deliver_alert(discord_message, payload)
     print("Sent pitcher notification test.")
 
 
@@ -360,19 +365,26 @@ def build(old_game, new_game):
     if not should_send_pitcher_alert(changes, new_game.get("game_iso")):
         return None
 
-    message = (
+    discord_message = (
         f"**Pitcher Update**\n"
         f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
         f"First pitch: {new_game['game_time']}\n\n"
         + "\n".join(f"- {change['text']}" for change in changes)
     )
+
+    website_message = (
+        f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}\n"
+        f"{new_game['game_time']}\n"
+        + "\n".join(change["text"].replace("🚨 ", "") for change in changes)
+    )
+
     payload = {
         "type": "pitcher_change",
         "category": "pitching_changes",
         "notification_category": "pitching_changes",
         "source": "pitcher_change_bot",
         "title": "Pitcher Update",
-        "message": message,
+        "message": website_message,
         "priority": "high" if any(change["type"] in {"scratch", "swap"} for change in changes) else "normal",
         "event_id": f"pitcher-change:{new_game.get('game_pk')}:{','.join(change['type'] for change in changes)}:{','.join(change['text'] for change in changes)}",
         "game_pk": new_game.get("game_pk"),
@@ -383,7 +395,7 @@ def build(old_game, new_game):
         "game_iso": new_game.get("game_iso"),
         "changes": changes,
     }
-    return {"message": message, "payload": payload}
+    return {"message": discord_message, "payload": payload}
 
 
 def print_notify_config():

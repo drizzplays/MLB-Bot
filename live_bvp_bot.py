@@ -359,6 +359,15 @@ def build_alert(game_name: str, batting_team: str, pitcher_name: str, batter_nam
 
 
 
+
+def build_website_message(game_name: str, batting_team: str, pitcher_name: str, batter_name: str, stat: dict) -> str:
+    return (
+        f"{batter_name} vs {pitcher_name}\n"
+        f"{game_name} | {batting_team}\n"
+        f"BvP: {stat['hits']}/{stat['ab']} | AVG .{int(round(stat.get('avg', 0.0) * 1000)):03d} | OPS {stat.get('ops', 0.0):.3f}"
+    )
+
+
 def build_website_payload(
     game_pk: str,
     game_name: str,
@@ -439,7 +448,8 @@ def check_game(game: dict, state: dict) -> int:
         if not stat or not is_good_bvp(stat):
             continue
 
-        alert = build_alert(game_name, team_label(batting_team), pitcher_name, batter["name"], stat)
+        discord_message = build_alert(game_name, team_label(batting_team), pitcher_name, batter["name"], stat)
+        website_message = build_website_message(game_name, team_label(batting_team), pitcher_name, batter["name"], stat)
         payload = build_website_payload(
             game_pk=game_pk,
             game_name=game_name,
@@ -449,9 +459,9 @@ def check_game(game: dict, state: dict) -> int:
             batter_id=int(batter["id"]),
             batter_name=batter["name"],
             stat=stat,
-            message=alert,
+            message=website_message,
         )
-        delivery = deliver_alert(alert, payload)
+        delivery = deliver_alert(discord_message, payload)
 
         # If website notifications are configured, require website success before
         # suppressing this live alert forever. This prevents Discord-only sends
