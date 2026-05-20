@@ -8,24 +8,36 @@
       "last_checked_at": "2026-05-19T19:10:02.154375-04:00"
     },
     "822979": {
-      "active_pitcher_id": 680694,
-      "active_pitcher_name": "Kyle Bradish",
+      "active_pitcher_id": 689296,
+      "active_pitcher_name": "Anthony Nunez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-19T19:17:13.224309-04:00"
+      "last_checked_at": "2026-05-19T20:19:04.213158-04:00"
+    },
+    "823059": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T20:19:16.873284-04:00"
     },
     "823464": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 680742,
+      "active_pitcher_name": "Jonathan Bowlan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-19T19:17:15.216838-04:00"
+      "last_checked_at": "2026-05-19T20:19:06.399888-04:00"
     },
     "823548": {
-      "active_pitcher_id": 701542,
-      "active_pitcher_name": "Will Warren",
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
       "alerted_pairs": [
         "701542:665926"
       ],
-      "last_checked_at": "2026-05-19T19:10:04.286457-04:00"
+      "last_checked_at": "2026-05-19T20:19:08.815872-04:00"
+    },
+    "823704": {
+      "active_pitcher_id": 805673,
+      "active_pitcher_name": "Zebby Matthews",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T20:19:12.868416-04:00"
     },
     "823865": {
       "active_pitcher_id": 628452,
@@ -35,11 +47,23 @@
       ],
       "last_checked_at": "2026-05-19T19:09:53.042901-04:00"
     },
-    "824276": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+    "824112": {
+      "active_pitcher_id": 663559,
+      "active_pitcher_name": "Bailey Falter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-19T19:09:55.745752-04:00"
+      "last_checked_at": "2026-05-19T20:19:10.872026-04:00"
+    },
+    "824276": {
+      "active_pitcher_id": 663947,
+      "active_pitcher_name": "Tyler Holton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T20:19:01.928139-04:00"
+    },
+    "824677": {
+      "active_pitcher_id": 676962,
+      "active_pitcher_name": "Ben Brown",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-19T20:19:14.842160-04:00"
     }
   }
 }
