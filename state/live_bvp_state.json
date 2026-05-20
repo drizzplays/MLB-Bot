@@ -7,6 +7,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T13:27:26.403959-04:00"
     },
+    "823134": {
+      "active_pitcher_id": 656794,
+      "active_pitcher_name": "Sean Newcomb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T18:01:05.822883-04:00"
+    },
     "823462": {
       "active_pitcher_id": 605400,
       "active_pitcher_name": "Aaron Nola",
@@ -18,6 +24,18 @@
       "active_pitcher_name": "Joe Ryan",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T13:27:28.299332-04:00"
+    },
+    "824355": {
+      "active_pitcher_id": 675848,
+      "active_pitcher_name": "Juan Mejia",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T18:01:00.538764-04:00"
+    },
+    "825084": {
+      "active_pitcher_id": 623149,
+      "active_pitcher_name": "Paul Sewald",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T18:01:03.108113-04:00"
     }
   }
 }
