@@ -3560,7 +3560,7 @@
     "New York Mets @ Washington Nationals | 822735": {
       "away_team": "New York Mets",
       "home_team": "Washington Nationals",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Zach Thornton",
       "home_pitcher": "Zack Littell",
       "game_time": "May 20, 6:45 PM ET",
       "game_iso": "2026-05-20T18:45:00-04:00",
@@ -3619,6 +3619,71 @@
       "game_time": "May 20, 9:38 PM ET",
       "game_iso": "2026-05-20T21:38:00-04:00",
       "game_pk": "824032"
+    }
+  },
+  "2026-05-21": {
+    "Cleveland Guardians @ Detroit Tigers | 824274": {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Detroit Tigers",
+      "away_pitcher": "Joey Cantillo",
+      "home_pitcher": "Casey Mize",
+      "game_time": "May 21, 1:10 PM ET",
+      "game_iso": "2026-05-21T13:10:00-04:00",
+      "game_pk": "824274"
+    },
+    "Pittsburgh Pirates @ St. Louis Cardinals | 823056": {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Braxton Ashcraft",
+      "home_pitcher": "Dustin May",
+      "game_time": "May 21, 1:15 PM ET",
+      "game_iso": "2026-05-21T13:15:00-04:00",
+      "game_pk": "823056"
+    },
+    "New York Mets @ Washington Nationals | 822733": {
+      "away_team": "New York Mets",
+      "home_team": "Washington Nationals",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Cade Cavalli",
+      "game_time": "May 21, 4:05 PM ET",
+      "game_iso": "2026-05-21T16:05:00-04:00",
+      "game_pk": "822733"
+    },
+    "Atlanta Braves @ Miami Marlins | 823864": {
+      "away_team": "Atlanta Braves",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Spencer Strider",
+      "home_pitcher": "Sandy Alcantara",
+      "game_time": "May 21, 6:40 PM ET",
+      "game_iso": "2026-05-21T18:40:00-04:00",
+      "game_pk": "823864"
+    },
+    "Toronto Blue Jays @ New York Yankees | 823545": {
+      "away_team": "Toronto Blue Jays",
+      "home_team": "New York Yankees",
+      "away_pitcher": "TBD",
+      "home_pitcher": "Carlos Rod\u00f3n",
+      "game_time": "May 21, 7:05 PM ET",
+      "game_iso": "2026-05-21T19:05:00-04:00",
+      "game_pk": "823545"
+    },
+    "Athletics @ Los Angeles Angels | 824031": {
+      "away_team": "Athletics",
+      "home_team": "Los Angeles Angels",
+      "away_pitcher": "Luis Severino",
+      "home_pitcher": "Jos\u00e9 Soriano",
+      "game_time": "May 21, 9:38 PM ET",
+      "game_iso": "2026-05-21T21:38:00-04:00",
+      "game_pk": "824031"
+    },
+    "Colorado Rockies @ Arizona Diamondbacks | 825083": {
+      "away_team": "Colorado Rockies",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": "TBD",
+      "home_pitcher": "TBD",
+      "game_time": "May 21, 9:40 PM ET",
+      "game_iso": "2026-05-21T21:40:00-04:00",
+      "game_pk": "825083"
     }
   }
 }
