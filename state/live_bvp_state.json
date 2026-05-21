@@ -14,10 +14,10 @@
       "last_checked_at": "2026-05-20T13:27:26.403959-04:00"
     },
     "823057": {
-      "active_pitcher_id": 700241,
-      "active_pitcher_name": "Michael McGreevy",
+      "active_pitcher_id": 677865,
+      "active_pitcher_name": "Justin Bruihl",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-20T19:38:41.902043-04:00"
+      "last_checked_at": "2026-05-20T21:35:01.056813-04:00"
     },
     "823134": {
       "active_pitcher_id": 656794,
@@ -25,11 +25,25 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T18:01:05.822883-04:00"
     },
+    "823299": {
+      "active_pitcher_id": 681190,
+      "active_pitcher_name": "Randy V\u00e1squez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T21:35:03.689897-04:00"
+    },
     "823462": {
       "active_pitcher_id": 605400,
       "active_pitcher_name": "Aaron Nola",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T13:27:24.434078-04:00"
+    },
+    "823547": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [
+        "693645:665489"
+      ],
+      "last_checked_at": "2026-05-20T21:34:50.204378-04:00"
     },
     "823703": {
       "active_pitcher_id": 657746,
@@ -43,11 +57,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-20T19:38:31.912566-04:00"
     },
-    "824111": {
-      "active_pitcher_id": 608379,
-      "active_pitcher_name": "Michael Wacha",
+    "824032": {
+      "active_pitcher_id": 686799,
+      "active_pitcher_name": "Jack Kochanowicz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-20T19:38:36.871782-04:00"
+      "last_checked_at": "2026-05-20T21:35:05.811407-04:00"
+    },
+    "824111": {
+      "active_pitcher_id": 663738,
+      "active_pitcher_name": "Daniel Lynch IV",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-20T21:34:56.435759-04:00"
     },
     "824273": {
       "active_pitcher_id": 623454,
@@ -62,10 +82,10 @@
       "last_checked_at": "2026-05-20T18:01:00.538764-04:00"
     },
     "824678": {
-      "active_pitcher_id": 665795,
-      "active_pitcher_name": "Edward Cabrera",
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-20T19:38:39.519798-04:00"
+      "last_checked_at": "2026-05-20T21:34:58.990826-04:00"
     },
     "825084": {
       "active_pitcher_id": 623149,
