@@ -1,26 +1,27 @@
 import json
-import hashlib
-import hmac
 import os
 from datetime import datetime, timedelta
-from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 import requests
 
-WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
-WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
-WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
-ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
-ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
-TEST_NOTIFICATION = os.getenv("TEST_NOTIFICATION", "").strip().lower() in {"1", "true", "yes", "on"}
+WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
 
 PITCHER_ALERT_WINDOW_HOURS = 6
 PITCHER_ALERT_START_HOUR_ET = 8
-UNKNOWN_PITCHER_VALUES = {"", "TBD", "TBA", "NONE", "NULL", "N/A"}
+CHECK_TOMORROW = os.getenv("PITCHER_CHECK_TOMORROW", "").strip().lower() in {
+    "1",
+    "true",
+    "yes",
+}
+
+VALID_PREGAME_STATUS_CODES = {
+    "S",  # Scheduled
+    "P",  # Pre-Game
+}
 
 TEAM_ABBR = {
     "Arizona Diamondbacks": "ARI",
@@ -56,9 +57,6 @@ TEAM_ABBR = {
     "Washington Nationals": "WSH",
 }
 
-CHECK_TOMORROW = True
-
-
 def team_label(team_name):
     return TEAM_ABBR.get(team_name, team_name)
 
@@ -84,117 +82,42 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def send_discord(content):
-    if not ENABLE_DISCORD_NOTIFY:
-        print("[notify] Discord disabled by ENABLE_DISCORD_NOTIFY.")
-        return False
-    if not WEBHOOK_URL:
-        raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / PITCHER_WEBHOOK_URL secret.")
+def send(content):
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
-    print("[notify] Discord pitcher alert sent.")
-    return True
 
 
-def send_website_notification(payload):
-    if not ENABLE_WEBSITE_NOTIFY:
-        print("[notify] Website notifications disabled by ENABLE_WEBSITE_NOTIFY.")
+def game_status_code(game):
+    return str(game.get("status", {}).get("codedGameState") or "").upper()
+
+
+def is_real_pregame_game(game):
+    game_pk = str(game.get("gamePk") or "").strip()
+    if not game_pk:
         return False
-    if not WEBSITE_NOTIFY_URL:
-        print("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+
+    status_code = game_status_code(game)
+    if status_code and status_code not in VALID_PREGAME_STATUS_CODES:
         return False
-
-    parsed_url = urlparse(WEBSITE_NOTIFY_URL)
-    safe_target = f"{parsed_url.netloc}{parsed_url.path}"
-    event_id = payload.get("event_id", "")
-    notification_type = payload.get("type", "")
-    category = payload.get("notification_category") or payload.get("category", "")
-
-    print(f"[notify] Website target: {safe_target}")
-    print(
-        "[notify] Website payload: "
-        f"event_id={event_id} type={notification_type} category={category} "
-        f"source={payload.get('source', '')}"
-    )
-
-    body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
-    headers = {"content-type": "application/json"}
-    if WEBSITE_NOTIFY_SECRET:
-        signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
-        headers["x-sbh-signature"] = f"sha256={signature}"
-        print(f"[notify] Signature header set: true secret_len={len(WEBSITE_NOTIFY_SECRET)}")
-    else:
-        print("[notify] Signature header set: false; WEBSITE_NOTIFY_SECRET is missing.")
-
-    r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
-    response_preview = (r.text or "").replace("\n", " ")[:1000]
-    print(f"[notify] Website response HTTP {r.status_code}: {response_preview}")
-
-    if not r.ok:
-        raise RuntimeError(f"Website notification HTTP {r.status_code}: {response_preview[:500]}")
 
     return True
 
 
-def deliver_alert(content, payload):
-    errors = []
-    delivery = {"discord": False, "website": False}
-    try:
-        delivery["discord"] = bool(send_discord(content))
-    except Exception as exc:
-        errors.append(f"Discord: {exc}")
-
-    try:
-        delivery["website"] = bool(send_website_notification(payload))
-    except Exception as exc:
-        errors.append(f"Website notification: {exc}")
-
-    if errors:
-        print("Alert delivery warning: " + "; ".join(errors))
-    print(f"[notify] Delivery result: discord={delivery['discord']} website={delivery['website']}")
-    if not any(delivery.values()) and errors:
-        raise RuntimeError("; ".join(errors))
-    return delivery
+def state_key_for_game(game_data):
+    game_pk = str(game_data.get("game_pk") or "").strip()
+    if game_pk:
+        return game_pk
+    return f"{game_data.get('away_team', 'Away')} @ {game_data.get('home_team', 'Home')}"
 
 
-def send_test_notification():
-    now = datetime.now(ET)
-    discord_message = (
-        "**Pitcher Update Test**\n"
-        "**TEST @ TEST**\n"
-        f"Sent: {now.strftime('%b')} {now.day}, {now.strftime('%I:%M %p').lstrip('0')} ET\n\n"
-        "- This is a manual test from the pitcher-change bot."
-    )
-    website_message = (
-        "Pitcher Update Test\n"
-        "TEST @ TEST\n"
-        f"Sent: {now.strftime('%b')} {now.day}, {now.strftime('%I:%M %p').lstrip('0')} ET"
-    )
-    payload = {
-        "type": "pitcher_change",
-        "category": "pitching_changes",
-        "notification_category": "pitching_changes",
-        "source": "pitcher_change_bot",
-        "title": "Pitcher Update Test",
-        "message": website_message,
-        "priority": "normal",
-        "event_id": f"pitcher-change:test:{now.strftime('%Y%m%d%H%M%S')}",
-        "game_pk": "test",
-        "away_team": "TEST",
-        "home_team": "TEST",
-        "matchup": "TEST @ TEST",
-        "game_time": now.isoformat(),
-        "game_iso": now.isoformat(),
-        "changes": [
-            {
-                "type": "test",
-                "text": "Manual pitcher notification test.",
-            }
-        ],
-        "is_test": True,
-    }
-    deliver_alert(discord_message, payload)
-    print("Sent pitcher notification test.")
+def old_game_candidates(old_games, game_key, game_data):
+    game_pk = str(game_data.get("game_pk") or "").strip()
+    if game_pk and game_pk in old_games:
+        return old_games.get(game_pk)
+    if game_key in old_games:
+        return old_games.get(game_key)
+    legacy_key = f"{game_data.get('away_team')} @ {game_data.get('home_team')} | {game_pk}"
+    return old_games.get(legacy_key)
 
 
 def is_pregame(game_iso):
@@ -240,6 +163,9 @@ def get_games(target_date):
 
     for date_block in data.get("dates", []):
         for game in date_block.get("games", []):
+            if not is_real_pregame_game(game):
+                continue
+
             away = game.get("teams", {}).get("away", {})
             home = game.get("teams", {}).get("home", {})
 
@@ -262,7 +188,7 @@ def get_games(target_date):
                 game_time = game_date_raw
                 game_iso = None
 
-            key = f"{away_team} @ {home_team} | {game_pk}"
+            key = game_pk
             games[key] = {
                 "away_team": away_team,
                 "home_team": home_team,
@@ -271,87 +197,41 @@ def get_games(target_date):
                 "game_time": game_time,
                 "game_iso": game_iso,
                 "game_pk": game_pk,
+                "status_code": game_status_code(game),
             }
 
     return games
 
 
-def normalize_pitcher_name(value):
-    if value is None:
-        return "TBD"
-    name = str(value).strip()
-    return name if name else "TBD"
-
-
-def is_unknown_pitcher(value):
-    return normalize_pitcher_name(value).upper() in UNKNOWN_PITCHER_VALUES
-
-
 def pitcher_changes(old_game, new_game):
     changes = []
 
-    sides = [
-        ("away", new_game["away_team"]),
-        ("home", new_game["home_team"]),
-    ]
+    old_away = old_game.get("away_pitcher", "TBD") if old_game else "TBD"
+    new_away = new_game.get("away_pitcher", "TBD")
+    old_home = old_game.get("home_pitcher", "TBD") if old_game else "TBD"
+    new_home = new_game.get("home_pitcher", "TBD")
 
-    for side, team_name in sides:
-        old_pitcher = normalize_pitcher_name(
-            old_game.get(f"{side}_pitcher", "TBD") if old_game else "TBD"
-        )
-        new_pitcher = normalize_pitcher_name(new_game.get(f"{side}_pitcher", "TBD"))
-
-        if old_pitcher == new_pitcher:
-            continue
-
-        old_unknown = is_unknown_pitcher(old_pitcher)
-        new_unknown = is_unknown_pitcher(new_pitcher)
-        team = team_label(team_name)
-
-        if not old_unknown and new_unknown:
+    if old_away != new_away and new_away not in ("", "TBD"):
+        if old_away in ("", "TBD"):
             changes.append(
-                {
-                    "type": "scratch",
-                    "text": f"🚨 {team}: {old_pitcher} removed / scratched -> {new_pitcher}",
-                }
-            )
-        elif old_unknown and not new_unknown:
-            changes.append(
-                {
-                    "type": "posted",
-                    "text": f"{team}: pitcher posted - {new_pitcher}",
-                }
-            )
-        elif not old_unknown and not new_unknown:
-            changes.append(
-                {
-                    "type": "swap",
-                    "text": f"🚨 {team}: {old_pitcher} -> {new_pitcher}",
-                }
+                f"{team_label(new_game['away_team'])}: pitcher posted - {new_away}"
             )
         else:
             changes.append(
-                {
-                    "type": "unknown_change",
-                    "text": f"{team}: pitcher status changed - {old_pitcher} -> {new_pitcher}",
-                }
+                f"{team_label(new_game['away_team'])}: {old_away} -> {new_away}"
+            )
+
+    if old_home != new_home and new_home not in ("", "TBD"):
+        if old_home in ("", "TBD"):
+            changes.append(
+                f"{team_label(new_game['home_team'])}: pitcher posted - {new_home}"
+            )
+        else:
+            changes.append(
+                f"{team_label(new_game['home_team'])}: {old_home} -> {new_home}"
             )
 
     return changes
-
-
-def should_send_pitcher_alert(changes, game_iso):
-    if not changes:
-        return False
-
-    # Named pitcher removals/swaps move markets immediately. Do not hide them
-    # behind the 6-hour window; that was the Skubal miss.
-    urgent_types = {"scratch", "swap", "unknown_change"}
-    if any(change["type"] in urgent_types for change in changes):
-        return True
-
-    # Routine TBD -> named pitcher posts can stay window-gated to avoid spam.
-    return is_within_pitcher_alert_window(game_iso)
 
 
 def build(old_game, new_game):
@@ -361,64 +241,22 @@ def build(old_game, new_game):
     if not is_after_pitcher_alert_start():
         return None
 
-    changes = pitcher_changes(old_game, new_game)
-    if not should_send_pitcher_alert(changes, new_game.get("game_iso")):
+    if not is_within_pitcher_alert_window(new_game.get("game_iso")):
         return None
 
-    discord_message = (
+    changes = pitcher_changes(old_game, new_game)
+    if not changes:
+        return None
+
+    return (
         f"**Pitcher Update**\n"
         f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
         f"First pitch: {new_game['game_time']}\n\n"
-        + "\n".join(f"- {change['text']}" for change in changes)
-    )
-
-    website_message = (
-        f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}\n"
-        f"{new_game['game_time']}\n"
-        + "\n".join(change["text"].replace("🚨 ", "") for change in changes)
-    )
-
-    payload = {
-        "type": "pitcher_change",
-        "category": "pitching_changes",
-        "notification_category": "pitching_changes",
-        "source": "pitcher_change_bot",
-        "title": "Pitcher Update",
-        "message": website_message,
-        "priority": "high" if any(change["type"] in {"scratch", "swap"} for change in changes) else "normal",
-        "event_id": f"pitcher-change:{new_game.get('game_pk')}:{','.join(change['type'] for change in changes)}:{','.join(change['text'] for change in changes)}",
-        "game_pk": new_game.get("game_pk"),
-        "away_team": team_label(new_game["away_team"]),
-        "home_team": team_label(new_game["home_team"]),
-        "matchup": f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}",
-        "game_time": new_game.get("game_time"),
-        "game_iso": new_game.get("game_iso"),
-        "changes": changes,
-    }
-    return {"message": discord_message, "payload": payload}
-
-
-def print_notify_config():
-    parsed_url = urlparse(WEBSITE_NOTIFY_URL) if WEBSITE_NOTIFY_URL else None
-    safe_target = f"{parsed_url.netloc}{parsed_url.path}" if parsed_url else ""
-    print(
-        "[notify] Config: "
-        f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(WEBHOOK_URL)} "
-        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
-        f"website_target={safe_target or 'unset'} "
-        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')} "
-        f"test_notification={TEST_NOTIFICATION}"
+        + "\n".join(f"- {x}" for x in changes)
     )
 
 
 def run():
-    print_notify_config()
-
-    if TEST_NOTIFICATION:
-        send_test_notification()
-        return
-
-
     state = load_state()
     today = datetime.now(ET).date()
     dates_to_check = [today]
@@ -427,10 +265,10 @@ def run():
         dates_to_check.append(today + timedelta(days=1))
 
     print(f"Loaded state keys: {list(state.keys())}")
+    print(f"Tomorrow check enabled: {CHECK_TOMORROW}")
 
     total_alerts = 0
-    discord_deliveries = 0
-    website_deliveries = 0
+    next_state = {}
 
     for target_date in dates_to_check:
         date_key = str(target_date)
@@ -443,27 +281,28 @@ def run():
         print(f"Old games for {date_key}: {len(old_games)}")
 
         for game_key, game_data in new_games.items():
-            alert = build(old_games.get(game_key, {}), game_data)
+            old_game = old_game_candidates(old_games, game_key, game_data) or {}
+            if old_game and str(old_game.get("game_pk") or "") != str(game_data.get("game_pk") or ""):
+                print(
+                    "Skipping mismatched stale state entry: "
+                    f"old_game_pk={old_game.get('game_pk')} new_game_pk={game_data.get('game_pk')}"
+                )
+                old_game = {}
+
+            alert = build(old_game, game_data)
             if alert:
-                delivery = deliver_alert(alert["message"], alert["payload"])
-                discord_deliveries += 1 if delivery.get("discord") else 0
-                website_deliveries += 1 if delivery.get("website") else 0
+                send(alert)
                 total_alerts += 1
                 print(f"Sent alert for: {game_key}")
 
-        state[date_key] = new_games
+        next_state[date_key] = new_games
 
     print("About to save state...")
-    preview = json.dumps(state, indent=2)
+    preview = json.dumps(next_state, indent=2)
     print(preview[:2000])
-    save_state(state)
+    save_state(next_state)
     print("State saved.")
-    print(
-        "Done. "
-        f"Total alerts built: {total_alerts}; "
-        f"Discord deliveries: {discord_deliveries}; "
-        f"Website deliveries: {website_deliveries}"
-    )
+    print(f"Done. Total alerts sent: {total_alerts}")
 
 
 if __name__ == "__main__":
