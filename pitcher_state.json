@@ -1,15 +1,5 @@
 {
   "2026-05-21": {
-    "823864": {
-      "away_team": "Atlanta Braves",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Spencer Strider",
-      "home_pitcher": "Sandy Alcantara",
-      "game_time": "May 21, 6:40 PM ET",
-      "game_iso": "2026-05-21T18:40:00-04:00",
-      "game_pk": "823864",
-      "status_code": "P"
-    },
     "823545": {
       "away_team": "Toronto Blue Jays",
       "home_team": "New York Yankees",
@@ -28,7 +18,7 @@
       "game_time": "May 21, 9:38 PM ET",
       "game_iso": "2026-05-21T21:38:00-04:00",
       "game_pk": "824031",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825083": {
       "away_team": "Colorado Rockies",
@@ -38,7 +28,7 @@
       "game_time": "May 21, 9:40 PM ET",
       "game_iso": "2026-05-21T21:40:00-04:00",
       "game_pk": "825083",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
