@@ -513,7 +513,17 @@
     "Colorado Rockies @ Arizona Diamondbacks | 825083": {
       "away_team": "Colorado Rockies",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Willi Castro",
+        "Tyler Freeman",
+        "Hunter Goodman",
+        "Ezequiel Tovar",
+        "Kyle Karros",
+        "Jake McCarthy",
+        "Braxton Fulford",
+        "Troy Johnston",
+        "Chad Stevens"
+      ],
       "home_lineup": [
         "Ketel Marte",
         "Corbin Carroll",
@@ -528,6 +538,8 @@
       "away_roster": [
         "Keegan Thompson",
         "Mickey Moniak",
+        "Blas Casta\u00f1o",
+        "Chad Stevens",
         "Jake McCarthy",
         "Troy Johnston",
         "Braxton Fulford",
@@ -543,14 +555,12 @@
         "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
-        "Brenton Doyle",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Seth Halvorsen",
         "Antonio Senzatela",
         "Jaden Hill",
-        "Sammy Peralta",
         "Kyle Karros"
       ],
       "home_roster": [
@@ -1191,7 +1201,7 @@
         "Jhonny Pereda",
         "Connor Joe",
         "Rob Refsnyder",
-        "Matt Brash",
+        "Robinson Ortiz",
         "Logan Gilbert",
         "Bryan Woo",
         "Colt Emerson",
@@ -1344,6 +1354,7 @@
         "Jorge Soler",
         "Yo\u00e1n Moncada",
         "Chase Silseth",
+        "Ryan Johnson",
         "Jos\u00e9 Soriano",
         "Jack Kochanowicz",
         "Mitch Farris",
@@ -1357,7 +1368,6 @@
         "Nolan Schanuel",
         "Josh Lowe",
         "Sebasti\u00e1n Rivero",
-        "Tayler Saucedo",
         "Walbert Ure\u00f1a",
         "Logan O'Hoppe",
         "Kirby Yates",
