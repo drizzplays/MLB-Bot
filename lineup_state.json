@@ -266,11 +266,11 @@
       "away_lineup": [],
       "home_lineup": [],
       "away_roster": [
+        "Chase Lee",
         "Spencer Miles",
-        "Tommy Nance",
         "Lenyn Sosa",
+        "Adam Macko",
         "Louis Varland",
-        "Joe Mantiply",
         "Ernie Clement",
         "Daulton Varsho",
         "Kevin Gausman",
@@ -295,7 +295,6 @@
       ],
       "home_roster": [
         "Paul Blackburn",
-        "Elmer Rodr\u00edguez",
         "Carlos Rod\u00f3n",
         "Spencer Jones",
         "Ryan Yarbrough",
@@ -319,7 +318,8 @@
         "Camilo Doval",
         "Trent Grisham",
         "David Bednar",
-        "Cam Schlittler"
+        "Cam Schlittler",
+        "Yovanny Cruz"
       ],
       "game_time": "May 21, 7:05 PM ET",
       "game_iso": "2026-05-21T19:05:00-04:00",
