@@ -98,7 +98,7 @@
       "game_time": "May 22, 9:38 PM ET",
       "game_iso": "2026-05-22T21:38:00-04:00",
       "game_pk": "824029",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825082": {
       "away_team": "Colorado Rockies",
@@ -128,7 +128,7 @@
       "game_time": "May 22, 10:15 PM ET",
       "game_iso": "2026-05-22T22:15:00-04:00",
       "game_pk": "823223",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
