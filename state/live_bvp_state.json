@@ -1,35 +1,4 @@
 {
-  "date": "2026-05-21",
-  "games": {
-    "822733": {
-      "active_pitcher_id": 548384,
-      "active_pitcher_name": "Brooks Raley",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-21T17:52:53.093302-04:00"
-    },
-    "823056": {
-      "active_pitcher_id": 669160,
-      "active_pitcher_name": "Dustin May",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-21T14:15:44.552287-04:00"
-    },
-    "823545": {
-      "active_pitcher_id": 693686,
-      "active_pitcher_name": "Spencer Miles",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-21T20:15:22.947097-04:00"
-    },
-    "823864": {
-      "active_pitcher_id": 675911,
-      "active_pitcher_name": "Spencer Strider",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-21T19:07:58.454199-04:00"
-    },
-    "824274": {
-      "active_pitcher_id": 663554,
-      "active_pitcher_name": "Casey Mize",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-21T14:15:42.625561-04:00"
-    }
-  }
+  "date": "2026-05-22",
+  "games": {}
 }
