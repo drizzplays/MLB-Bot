@@ -1,15 +1,5 @@
 {
   "2026-05-23": {
-    "824518": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Cincinnati Reds",
-      "away_pitcher": "Andre Pallante",
-      "home_pitcher": "Chris Paddack",
-      "game_time": "May 23, 1:10 PM ET",
-      "game_iso": "2026-05-23T13:10:00-04:00",
-      "game_pk": "824518",
-      "status_code": "P"
-    },
     "824516": {
       "away_team": "St. Louis Cardinals",
       "home_team": "Cincinnati Reds",
@@ -40,16 +30,6 @@
       "game_pk": "822814",
       "status_code": "P"
     },
-    "824840": {
-      "away_team": "Detroit Tigers",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Framber Valdez",
-      "home_pitcher": "Brandon Young",
-      "game_time": "May 23, 4:05 PM ET",
-      "game_iso": "2026-05-23T16:05:00-04:00",
-      "game_pk": "824840",
-      "status_code": "S"
-    },
     "823458": {
       "away_team": "Cleveland Guardians",
       "home_team": "Philadelphia Phillies",
@@ -58,7 +38,7 @@
       "game_time": "May 23, 4:05 PM ET",
       "game_iso": "2026-05-23T16:05:00-04:00",
       "game_pk": "823458",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823222": {
       "away_team": "Chicago White Sox",
@@ -68,7 +48,7 @@
       "game_time": "May 23, 4:05 PM ET",
       "game_iso": "2026-05-23T16:05:00-04:00",
       "game_pk": "823222",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824109": {
       "away_team": "Seattle Mariners",
@@ -98,7 +78,7 @@
       "game_time": "May 23, 4:10 PM ET",
       "game_iso": "2026-05-23T16:10:00-04:00",
       "game_pk": "824920",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823862": {
       "away_team": "New York Mets",
@@ -108,7 +88,7 @@
       "game_time": "May 23, 4:10 PM ET",
       "game_iso": "2026-05-23T16:10:00-04:00",
       "game_pk": "823862",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823787": {
       "away_team": "Los Angeles Dodgers",
