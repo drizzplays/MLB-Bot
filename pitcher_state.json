@@ -8,7 +8,7 @@
       "game_time": "May 23, 1:10 PM ET",
       "game_iso": "2026-05-23T13:10:00-04:00",
       "game_pk": "824518",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824516": {
       "away_team": "St. Louis Cardinals",
@@ -28,7 +28,7 @@
       "game_time": "May 23, 2:20 PM ET",
       "game_iso": "2026-05-23T14:20:00-04:00",
       "game_pk": "824674",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822814": {
       "away_team": "Pittsburgh Pirates",
