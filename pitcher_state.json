@@ -1,25 +1,5 @@
 {
   "2026-05-23": {
-    "824516": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Cincinnati Reds",
-      "away_pitcher": "Kyle Leahy",
-      "home_pitcher": "Chase Petty",
-      "game_time": "May 23, 7:15 PM ET",
-      "game_iso": "2026-05-23T19:15:00-04:00",
-      "game_pk": "824516",
-      "status_code": "P"
-    },
-    "823787": {
-      "away_team": "Los Angeles Dodgers",
-      "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Roki Sasaki",
-      "home_pitcher": "Robert Gasser",
-      "game_time": "May 23, 7:15 PM ET",
-      "game_iso": "2026-05-23T19:15:00-04:00",
-      "game_pk": "823787",
-      "status_code": "P"
-    },
     "823300": {
       "away_team": "Athletics",
       "home_team": "San Diego Padres",
