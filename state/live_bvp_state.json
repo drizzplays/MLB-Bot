@@ -1,4 +1,11 @@
 {
   "date": "2026-05-23",
-  "games": {}
+  "games": {
+    "824518": {
+      "active_pitcher_id": 663978,
+      "active_pitcher_name": "Chris Paddack",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T13:47:24.161296-04:00"
+    }
+  }
 }
