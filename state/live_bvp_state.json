@@ -1,6 +1,30 @@
 {
   "date": "2026-05-23",
   "games": {
+    "822814": {
+      "active_pitcher_id": 571578,
+      "active_pitcher_name": "Patrick Corbin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T15:57:49.003275-04:00"
+    },
+    "823222": {
+      "active_pitcher_id": 605288,
+      "active_pitcher_name": "Adrian Houser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T15:57:51.687620-04:00"
+    },
+    "823862": {
+      "active_pitcher_id": 676974,
+      "active_pitcher_name": "Max Meyer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T15:58:01.555489-04:00"
+    },
+    "824109": {
+      "active_pitcher_id": 663568,
+      "active_pitcher_name": "Stephen Kolek",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T15:57:54.235400-04:00"
+    },
     "824518": {
       "active_pitcher_id": 669467,
       "active_pitcher_name": "Andre Pallante",
@@ -8,10 +32,22 @@
       "last_checked_at": "2026-05-23T14:47:00.812656-04:00"
     },
     "824674": {
-      "active_pitcher_id": 678906,
-      "active_pitcher_name": "Kai-Wei Teng",
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-23T14:47:03.296567-04:00"
+      "last_checked_at": "2026-05-23T15:57:46.403364-04:00"
+    },
+    "824760": {
+      "active_pitcher_id": 663558,
+      "active_pitcher_name": "Jovani Mor\u00e1n",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T15:57:56.696264-04:00"
+    },
+    "824920": {
+      "active_pitcher_id": 656550,
+      "active_pitcher_name": "Grant Holmes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-23T15:57:59.115377-04:00"
     }
   }
 }
