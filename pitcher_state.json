@@ -10,16 +10,6 @@
       "game_pk": "824516",
       "status_code": "P"
     },
-    "823458": {
-      "away_team": "Cleveland Guardians",
-      "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Slade Cecconi",
-      "home_pitcher": "Zack Wheeler",
-      "game_time": "May 23, 4:05 PM ET",
-      "game_iso": "2026-05-23T16:05:00-04:00",
-      "game_pk": "823458",
-      "status_code": "P"
-    },
     "823787": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "Milwaukee Brewers",
@@ -38,7 +28,7 @@
       "game_time": "May 23, 9:40 PM ET",
       "game_iso": "2026-05-23T21:40:00-04:00",
       "game_pk": "823300",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824030": {
       "away_team": "Texas Rangers",
