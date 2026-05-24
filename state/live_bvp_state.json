@@ -2,16 +2,40 @@
   "date": "2026-05-24",
   "games": {
     "822813": {
-      "active_pitcher_id": 656302,
-      "active_pitcher_name": "Dylan Cease",
+      "active_pitcher_id": 689254,
+      "active_pitcher_name": "Mason Fluharty",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T12:33:41.911558-04:00"
+      "last_checked_at": "2026-05-24T13:39:20.665011-04:00"
+    },
+    "823459": {
+      "active_pitcher_id": 691725,
+      "active_pitcher_name": "Andrew Painter",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T13:39:28.943770-04:00"
+    },
+    "823544": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T13:39:31.545043-04:00"
+    },
+    "823861": {
+      "active_pitcher_id": 663969,
+      "active_pitcher_name": "Tyler Phillips",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T13:39:34.287912-04:00"
+    },
+    "824759": {
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T13:39:26.333627-04:00"
     },
     "824839": {
-      "active_pitcher_id": 687064,
-      "active_pitcher_name": "Brandon Young",
+      "active_pitcher_id": 664285,
+      "active_pitcher_name": "Framber Valdez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T12:33:43.654821-04:00"
+      "last_checked_at": "2026-05-24T13:39:23.693662-04:00"
     }
   }
 }
