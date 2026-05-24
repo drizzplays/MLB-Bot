@@ -8,16 +8,16 @@
       "last_checked_at": "2026-05-24T14:48:53.405617-04:00"
     },
     "823220": {
-      "active_pitcher_id": 702273,
-      "active_pitcher_name": "Noah Schultz",
+      "active_pitcher_id": 699823,
+      "active_pitcher_name": "Tyler Davis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T17:08:42.842757-04:00"
+      "last_checked_at": "2026-05-24T18:11:03.701106-04:00"
     },
     "823297": {
-      "active_pitcher_id": 650633,
-      "active_pitcher_name": "Michael King",
+      "active_pitcher_id": 676760,
+      "active_pitcher_name": "Ron Marinaccio",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T15:59:21.190791-04:00"
+      "last_checked_at": "2026-05-24T18:11:09.917778-04:00"
     },
     "823459": {
       "active_pitcher_id": 621383,
@@ -67,17 +67,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-24T14:48:55.488215-04:00"
     },
-    "824921": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+    "824840": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T17:08:45.715404-04:00"
+      "last_checked_at": "2026-05-24T18:11:00.691028-04:00"
+    },
+    "824921": {
+      "active_pitcher_id": 800311,
+      "active_pitcher_name": "Didier Fuentes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T18:11:12.954930-04:00"
     },
     "825081": {
-      "active_pitcher_id": 669194,
-      "active_pitcher_name": "Ryne Nelson",
+      "active_pitcher_id": 657514,
+      "active_pitcher_name": "Brennan Bernardino",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T15:59:19.000167-04:00"
+      "last_checked_at": "2026-05-24T18:11:06.759723-04:00"
     }
   }
 }
