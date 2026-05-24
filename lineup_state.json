@@ -175,25 +175,44 @@
     "Detroit Tigers @ Baltimore Orioles | 824840": {
       "away_team": "Detroit Tigers",
       "home_team": "Baltimore Orioles",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Matt Vierling",
+        "Kevin McGonigle",
+        "Dillon Dingler",
+        "Riley Greene",
+        "Jahmai Jones",
+        "Spencer Torkelson",
+        "Wenceel P\u00e9rez",
+        "Hao-Yu  Lee",
+        "Zack Short"
+      ],
+      "home_lineup": [
+        "Taylor Ward",
+        "Gunnar Henderson",
+        "Adley Rutschman",
+        "Pete Alonso",
+        "Samuel Basallo",
+        "Leody Taveras",
+        "Colton Cowser",
+        "Blaze Alexander",
+        "Jackson Holliday"
+      ],
       "away_roster": [
         "Framber Valdez",
         "Gage Workman",
         "Zach McKinstry",
         "Casey Mize",
         "Hao-Yu  Lee",
-        "Drew Anderson",
         "Jahmai Jones",
+        "Drew Anderson",
         "Riley Greene",
         "Tyler Holton",
         "Kevin McGonigle",
         "Kyle Finnegan",
         "Kenley Jansen",
-        "Jack Flaherty",
         "Zack Short",
+        "Jack Flaherty",
         "Spencer Torkelson",
-        "Connor Seabold",
         "Drew Sommers",
         "Keider Montero",
         "Jake Rogers",
@@ -218,8 +237,8 @@
         "Weston Wilson",
         "Gunnar Henderson",
         "Leody Taveras",
-        "Shane Baz",
         "Taylor Ward",
+        "Shane Baz",
         "Kyle Bradish",
         "Albert Su\u00e1rez",
         "Chris Bassitt",
@@ -261,9 +280,9 @@
         "Willson Contreras",
         "Masataka Yoshida",
         "Nick Sogard",
-        "Carlos Narv\u00e1ez",
+        "Connor Wong",
         "Marcelo Mayer",
-        "Mickey Gasper"
+        "Isiah Kiner-Falefa"
       ],
       "away_roster": [
         "Taj Bradley",
@@ -505,7 +524,7 @@
         "Mark Vientos",
         "Brett Baty",
         "Marcus Semien",
-        "MJ Melendez",
+        "Nick Morabito",
         "Tyrone Taylor",
         "Luis Torrens"
       ],
@@ -517,7 +536,7 @@
         "Otto Lopez",
         "Jakob Marsee",
         "Graham Pauley",
-        "Christopher Morel",
+        "Esteury Ruiz",
         "Javier Sanoja"
       ],
       "away_roster": [
@@ -600,7 +619,7 @@
         "Vinnie Pasquantino",
         "Salvador Perez",
         "Carter Jensen",
-        "Jac Caglianone",
+        "Tyler Tolbert",
         "Isaac Collins",
         "Michael Massey",
         "Kyle Isbel"
@@ -683,9 +702,9 @@
         "Jackson Chourio",
         "Brice Turang",
         "William Contreras",
-        "Jake Bauers",
+        "Luis Rengifo",
         "Andrew Vaughn",
-        "Garrett Mitchell",
+        "Blake Perkins",
         "Sal Frelick",
         "Joey Ortiz",
         "David Hamilton"
@@ -760,7 +779,7 @@
         "Isaac Paredes",
         "Jake Meyers",
         "Cam Smith",
-        "Zach Dezenzo",
+        "Braden Shewmake",
         "Christian V\u00e1zquez",
         "Nick Allen"
       ],
@@ -772,7 +791,7 @@
         "Michael Conforto",
         "Seiya Suzuki",
         "Mois\u00e9s Ballesteros",
-        "Carson Kelly",
+        "Miguel Amaya",
         "Pedro Ram\u00edrez"
       ],
       "away_roster": [
@@ -1179,7 +1198,17 @@
     "Texas Rangers @ Los Angeles Angels | 824028": {
       "away_team": "Texas Rangers",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Andrew McCutchen",
+        "Justin Foscue",
+        "Brandon Nimmo",
+        "Jake Burger",
+        "Ezequiel Duran",
+        "Danny Jansen",
+        "Sam Haggerty",
+        "Kyle Higashioka",
+        "Michael Helman"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
@@ -1212,8 +1241,8 @@
         "Michael Helman",
         "Jacob deGrom",
         "Brandon Nimmo",
-        "Sam Haggerty",
         "Danny Jansen",
+        "Sam Haggerty",
         "Jakob Junis",
         "Nathan Eovaldi",
         "Cole Winn",
