@@ -2,40 +2,58 @@
   "date": "2026-05-24",
   "games": {
     "822813": {
-      "active_pitcher_id": 689254,
-      "active_pitcher_name": "Mason Fluharty",
+      "active_pitcher_id": 684320,
+      "active_pitcher_name": "Yariel Rodr\u00edguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T13:39:20.665011-04:00"
+      "last_checked_at": "2026-05-24T14:48:53.405617-04:00"
     },
     "823459": {
-      "active_pitcher_id": 691725,
-      "active_pitcher_name": "Andrew Painter",
+      "active_pitcher_id": 800048,
+      "active_pitcher_name": "Parker Messick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T13:39:28.943770-04:00"
+      "last_checked_at": "2026-05-24T14:48:59.369922-04:00"
     },
     "823544": {
-      "active_pitcher_id": 677960,
-      "active_pitcher_name": "Ryan Weathers",
+      "active_pitcher_id": 656876,
+      "active_pitcher_name": "Drew Rasmussen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T13:39:31.545043-04:00"
+      "last_checked_at": "2026-05-24T14:49:01.111893-04:00"
+    },
+    "823786": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T14:49:06.297760-04:00"
     },
     "823861": {
-      "active_pitcher_id": 663969,
-      "active_pitcher_name": "Tyler Phillips",
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T13:39:34.287912-04:00"
+      "last_checked_at": "2026-05-24T14:49:02.844325-04:00"
+    },
+    "824108": {
+      "active_pitcher_id": 693433,
+      "active_pitcher_name": "Bryan Woo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T14:49:04.560286-04:00"
+    },
+    "824676": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T14:49:08.008278-04:00"
     },
     "824759": {
-      "active_pitcher_id": 543243,
-      "active_pitcher_name": "Sonny Gray",
+      "active_pitcher_id": 641927,
+      "active_pitcher_name": "Bailey Ober",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T13:39:26.333627-04:00"
+      "last_checked_at": "2026-05-24T14:48:57.510941-04:00"
     },
     "824839": {
-      "active_pitcher_id": 664285,
-      "active_pitcher_name": "Framber Valdez",
+      "active_pitcher_id": 640448,
+      "active_pitcher_name": "Kyle Finnegan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T13:39:23.693662-04:00"
+      "last_checked_at": "2026-05-24T14:48:55.488215-04:00"
     }
   }
 }
