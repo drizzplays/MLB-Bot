@@ -43,6 +43,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-24T15:59:09.388482-04:00"
     },
+    "824028": {
+      "active_pitcher_id": 669022,
+      "active_pitcher_name": "MacKenzie Gore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T19:30:03.192389-04:00"
+    },
     "824108": {
       "active_pitcher_id": 607625,
       "active_pitcher_name": "Seth Lugo",
@@ -68,10 +74,10 @@
       "last_checked_at": "2026-05-24T14:48:55.488215-04:00"
     },
     "824840": {
-      "active_pitcher_id": 669432,
-      "active_pitcher_name": "Trevor Rogers",
+      "active_pitcher_id": 544150,
+      "active_pitcher_name": "Albert Su\u00e1rez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T18:11:00.691028-04:00"
+      "last_checked_at": "2026-05-24T19:30:00.197505-04:00"
     },
     "824921": {
       "active_pitcher_id": 800311,
