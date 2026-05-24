@@ -7,11 +7,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-24T14:48:53.405617-04:00"
     },
-    "823459": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+    "823220": {
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T14:48:59.369922-04:00"
+      "last_checked_at": "2026-05-24T15:59:16.695584-04:00"
+    },
+    "823297": {
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T15:59:21.190791-04:00"
+    },
+    "823459": {
+      "active_pitcher_id": 621383,
+      "active_pitcher_name": "Tanner Banks",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T15:59:06.837135-04:00"
     },
     "823544": {
       "active_pitcher_id": 656876,
@@ -26,34 +38,46 @@
       "last_checked_at": "2026-05-24T14:49:06.297760-04:00"
     },
     "823861": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+      "active_pitcher_id": 656848,
+      "active_pitcher_name": "Michael Petersen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T14:49:02.844325-04:00"
+      "last_checked_at": "2026-05-24T15:59:09.388482-04:00"
     },
     "824108": {
-      "active_pitcher_id": 693433,
-      "active_pitcher_name": "Bryan Woo",
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T14:49:04.560286-04:00"
+      "last_checked_at": "2026-05-24T15:59:11.959916-04:00"
     },
     "824676": {
-      "active_pitcher_id": 663567,
-      "active_pitcher_name": "Peter Lambert",
+      "active_pitcher_id": 684007,
+      "active_pitcher_name": "Shota Imanaga",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T14:49:08.008278-04:00"
+      "last_checked_at": "2026-05-24T15:59:14.409334-04:00"
     },
     "824759": {
-      "active_pitcher_id": 641927,
-      "active_pitcher_name": "Bailey Ober",
+      "active_pitcher_id": 679358,
+      "active_pitcher_name": "Eric Orze",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-24T14:48:57.510941-04:00"
+      "last_checked_at": "2026-05-24T15:59:04.264213-04:00"
     },
     "824839": {
       "active_pitcher_id": 640448,
       "active_pitcher_name": "Kyle Finnegan",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-24T14:48:55.488215-04:00"
+    },
+    "824921": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T15:59:23.565676-04:00"
+    },
+    "825081": {
+      "active_pitcher_id": 669194,
+      "active_pitcher_name": "Ryne Nelson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-24T15:59:19.000167-04:00"
     }
   }
 }
