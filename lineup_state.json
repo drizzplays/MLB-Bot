@@ -89,7 +89,7 @@
       "away_team": "Detroit Tigers",
       "home_team": "Baltimore Orioles",
       "away_lineup": [
-        "Zach McKinstry",
+        "Hao-Yu  Lee",
         "Kevin McGonigle",
         "Dillon Dingler",
         "Riley Greene",
@@ -104,7 +104,7 @@
         "Gunnar Henderson",
         "Adley Rutschman",
         "Pete Alonso",
-        "Tyler O'Neill",
+        "Samuel Basallo",
         "Jackson Holliday",
         "Leody Taveras",
         "Jeremiah Jackson",
@@ -116,8 +116,8 @@
         "Zach McKinstry",
         "Casey Mize",
         "Hao-Yu  Lee",
-        "Drew Anderson",
         "Jahmai Jones",
+        "Drew Anderson",
         "Riley Greene",
         "Tyler Holton",
         "Kevin McGonigle",
@@ -180,7 +180,6 @@
       "away_roster": [
         "Framber Valdez",
         "Gage Workman",
-        "Brant Hurter",
         "Zach McKinstry",
         "Casey Mize",
         "Hao-Yu  Lee",
@@ -195,6 +194,7 @@
         "Zack Short",
         "Spencer Torkelson",
         "Connor Seabold",
+        "Drew Sommers",
         "Keider Montero",
         "Jake Rogers",
         "Enmanuel De Jesus",
@@ -203,7 +203,9 @@
         "Dillon Dingler",
         "Will Vest",
         "Colt Keith",
-        "Wenceel P\u00e9rez"
+        "Wenceel P\u00e9rez",
+        "Troy Melton",
+        "Ricky Vanasco"
       ],
       "home_roster": [
         "Jeremiah Jackson",
@@ -228,6 +230,7 @@
         "Pete Alonso",
         "Jackson Holliday",
         "Andrew Kittredge",
+        "Grant Wolfram",
         "Yennier Cano",
         "Dietrich Enns",
         "Colton Cowser",
@@ -260,7 +263,7 @@
         "Nick Sogard",
         "Carlos Narv\u00e1ez",
         "Marcelo Mayer",
-        "Caleb Durbin"
+        "Mickey Gasper"
       ],
       "away_roster": [
         "Taj Bradley",
@@ -331,7 +334,7 @@
         "Chase DeLauter",
         "Rhys Hoskins",
         "Daniel Schneemann",
-        "David Fry",
+        "Petey Halpin",
         "Steven Kwan",
         "Austin Hedges",
         "Brayan Rocchio"
@@ -344,7 +347,7 @@
         "J.T. Realmuto",
         "Bryson Stott",
         "Adolis Garc\u00eda",
-        "Edmundo Sosa",
+        "Justin Crawford",
         "Brandon Marsh"
       ],
       "away_roster": [
@@ -411,7 +414,7 @@
       "away_team": "Tampa Bay Rays",
       "home_team": "New York Yankees",
       "away_lineup": [
-        "Yandy D\u00edaz",
+        "Oliver Dunn",
         "Jonathan Aranda",
         "Junior Caminero",
         "Ryan Vilade",
@@ -419,10 +422,10 @@
         "Nick Fortes",
         "Taylor Walls",
         "Cedric Mullins",
-        "Carson Williams"
+        "Richie Palacios"
       ],
       "home_lineup": [
-        "Trent Grisham",
+        "Max Schuemann",
         "Aaron Judge",
         "Ben Rice",
         "Cody Bellinger",
@@ -504,16 +507,16 @@
         "Marcus Semien",
         "MJ Melendez",
         "Tyrone Taylor",
-        "Hayden Senger"
+        "Luis Torrens"
       ],
       "home_lineup": [
         "Liam Hicks",
         "Xavier Edwards",
-        "Owen Caissie",
+        "Heriberto Hern\u00e1ndez",
         "Kyle Stowers",
         "Otto Lopez",
         "Jakob Marsee",
-        "Connor Norby",
+        "Graham Pauley",
         "Christopher Morel",
         "Javier Sanoja"
       ],
@@ -547,9 +550,9 @@
       ],
       "home_roster": [
         "Lake Bachar",
+        "Heriberto Hern\u00e1ndez",
         "Christopher Morel",
         "Pete Fairbanks",
-        "Heriberto Hern\u00e1ndez",
         "Sandy Alcantara",
         "Tyler Phillips",
         "Esteury Ruiz",
@@ -1130,6 +1133,7 @@
         "James Wood",
         "Cade Cavalli",
         "Jacob Young",
+        "Jake Irvin",
         "Orlando Ribalta",
         "Gus Varland",
         "Zack Littell",
@@ -1176,7 +1180,17 @@
       "away_team": "Texas Rangers",
       "home_team": "Los Angeles Angels",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Vaughn Grissom",
+        "Jorge Soler",
+        "Jo Adell",
+        "Oswald Peraza",
+        "Jose Siri",
+        "Sebasti\u00e1n Rivero",
+        "Adam Frazier"
+      ],
       "away_roster": [
         "Evan Carter",
         "Kumar Rocker",
@@ -1284,7 +1298,6 @@
         "Caleb Ferguson",
         "Will Benson",
         "TJ Friedl",
-        "Chase Petty",
         "Blake Dunn",
         "P.J. Higgins",
         "Spencer Steer",
@@ -1708,6 +1721,7 @@
         "Tim Tawa",
         "Adrian Del Castillo",
         "Nolan Arenado",
+        "Tommy Troy",
         "Merrill Kelly",
         "Ryan Waldschmidt",
         "Kevin Ginkel",
@@ -1723,9 +1737,8 @@
         "Corbin Carroll",
         "Taylor Clarke",
         "Zac Gallen",
-        "Lourdes Gurriel Jr.",
+        "Aramis Garcia",
         "Ryan Thompson",
-        "James McCann",
         "Brandyn Garcia",
         "Jorge Barrosa"
       ],
@@ -1733,7 +1746,8 @@
         "Casey Schmitt",
         "JT Brubaker",
         "Trevor McDonald",
-        "Heliot Ramos",
+        "Victor Bericoto",
+        "Will Brennan",
         "Tyler Mahle",
         "Jesus Rodriguez",
         "Keaton Winn",
@@ -1741,20 +1755,19 @@
         "Caleb Kilian",
         "Ryan Borucki",
         "Drew Gilbert",
-        "Jung Hoo Lee",
         "Sam Hentges",
         "Rafael Devers",
         "Joel Peguero",
-        "Tristan Beck",
         "Harrison Bader",
         "Eric Haase",
-        "Christian Koss",
         "Adrian Houser",
         "Willy Adames",
         "Robbie Ray",
+        "Erik Miller",
         "Landen Roupp",
         "Luis Arraez",
         "Bryce Eldridge",
+        "Daniel Susac",
         "Matt Gage"
       ],
       "game_time": "May 25, 5:05 PM ET",
