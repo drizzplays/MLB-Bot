@@ -1,4 +1,4 @@
-name: Run Lineup Bot every 10 minutes
+name: Run Lineup Posted Bot every 10 minutes
 
 on:
   schedule:
@@ -38,7 +38,7 @@ jobs:
         run: |
           test -f batters.txt || touch batters.txt
 
-      - name: Run lineup bot
+      - name: Run lineup posted bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.LINEUP_WEBHOOK_URL }}
           ENABLE_DISCORD_NOTIFY: "true"
