@@ -1,4 +1,29 @@
 {
   "date": "2026-05-25",
-  "games": {}
+  "games": {
+    "823380": {
+      "active_pitcher_id": 676962,
+      "active_pitcher_name": "Ben Brown",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T14:10:23.799075-04:00"
+    },
+    "823784": {
+      "active_pitcher_id": 694819,
+      "active_pitcher_name": "Jacob Misiorowski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T14:10:30.299907-04:00"
+    },
+    "824598": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T14:10:28.042415-04:00"
+    },
+    "824838": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T14:10:25.918965-04:00"
+    }
+  }
 }
