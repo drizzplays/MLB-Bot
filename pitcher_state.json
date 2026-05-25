@@ -8,7 +8,7 @@
       "game_time": "May 25, 1:35 PM ET",
       "game_iso": "2026-05-25T13:35:00-04:00",
       "game_pk": "823380",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824838": {
       "away_team": "Tampa Bay Rays",
@@ -18,7 +18,7 @@
       "game_time": "May 25, 1:35 PM ET",
       "game_iso": "2026-05-25T13:35:00-04:00",
       "game_pk": "824838",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824598": {
       "away_team": "Minnesota Twins",
@@ -28,7 +28,7 @@
       "game_time": "May 25, 2:10 PM ET",
       "game_iso": "2026-05-25T14:10:00-04:00",
       "game_pk": "824598",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823784": {
       "away_team": "St. Louis Cardinals",
@@ -38,7 +38,7 @@
       "game_time": "May 25, 2:10 PM ET",
       "game_iso": "2026-05-25T14:10:00-04:00",
       "game_pk": "823784",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824107": {
       "away_team": "New York Yankees",
@@ -48,7 +48,7 @@
       "game_time": "May 25, 3:40 PM ET",
       "game_iso": "2026-05-25T15:40:00-04:00",
       "game_pk": "824107",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823625": {
       "away_team": "Cincinnati Reds",
