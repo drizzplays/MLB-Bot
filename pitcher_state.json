@@ -1,15 +1,5 @@
 {
   "2026-05-25": {
-    "824437": {
-      "away_team": "Washington Nationals",
-      "home_team": "Cleveland Guardians",
-      "away_pitcher": "PJ Poulin",
-      "home_pitcher": "Tanner Bibee",
-      "game_time": "May 25, 6:10 PM ET",
-      "game_iso": "2026-05-25T18:10:00-04:00",
-      "game_pk": "824437",
-      "status_code": "P"
-    },
     "823296": {
       "away_team": "Philadelphia Phillies",
       "home_team": "San Diego Padres",
@@ -58,7 +48,7 @@
       "game_time": "May 25, 9:40 PM ET",
       "game_iso": "2026-05-25T21:40:00-04:00",
       "game_pk": "825005",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
