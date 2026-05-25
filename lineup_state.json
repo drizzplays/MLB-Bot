@@ -9,7 +9,7 @@
         "Michael Busch",
         "Alex Bregman",
         "Michael Conforto",
-        "Pedro Ram\u00edrez",
+        "Nico Hoerner",
         "Mois\u00e9s Ballesteros",
         "Miguel Amaya",
         "Dansby Swanson"
@@ -96,7 +96,7 @@
         "Richie Palacios",
         "Cedric Mullins",
         "Victor Mesa Jr.",
-        "Hunter Feduccia",
+        "Nick Fortes",
         "Taylor Walls"
       ],
       "home_lineup": [
@@ -104,11 +104,11 @@
         "Gunnar Henderson",
         "Adley Rutschman",
         "Pete Alonso",
-        "Weston Wilson",
+        "Jeremiah Jackson",
         "Leody Taveras",
         "Blaze Alexander",
         "Jackson Holliday",
-        "Tyler O'Neill"
+        "Colton Cowser"
       ],
       "away_roster": [
         "Taylor Walls",
@@ -181,7 +181,7 @@
         "Kody Clemens",
         "Orlando Arcia",
         "Luke Keaschall",
-        "Ryan Kreidler",
+        "Trevor Larnach",
         "Alex Jackson"
       ],
       "home_lineup": [
@@ -598,7 +598,17 @@
     "Washington Nationals @ Cleveland Guardians | 824437": {
       "away_team": "Washington Nationals",
       "home_team": "Cleveland Guardians",
-      "away_lineup": [],
+      "away_lineup": [
+        "James Wood",
+        "Luis Garc\u00eda Jr.",
+        "Curtis Mead",
+        "CJ Abrams",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Jacob Young",
+        "Drew Millas",
+        "Nasim Nu\u00f1ez"
+      ],
       "home_lineup": [
         "Travis Bazzana",
         "Jos\u00e9 Ram\u00edrez",
@@ -644,6 +654,7 @@
         "Chase DeLauter",
         "Austin Hedges",
         "Travis Bazzana",
+        "Codi Heuer",
         "Daniel Schneemann",
         "Slade Cecconi",
         "Patrick Bailey",
@@ -660,7 +671,6 @@
         "Kyle Manzardo",
         "Parker Messick",
         "Joey Cantillo",
-        "Erik Sabrowski",
         "Gavin Williams",
         "Hunter Gaddis",
         "Tanner Bibee",
@@ -674,7 +684,17 @@
     "Philadelphia Phillies @ San Diego Padres | 823296": {
       "away_team": "Philadelphia Phillies",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trea Turner",
+        "Kyle Schwarber",
+        "Bryce Harper",
+        "Alec Bohm",
+        "Brandon Marsh",
+        "Bryson Stott",
+        "Adolis Garc\u00eda",
+        "Justin Crawford",
+        "Rafael March\u00e1n"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Miguel Andujar",
@@ -750,7 +770,17 @@
       "away_team": "Houston Astros",
       "home_team": "Texas Rangers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Joc Pederson",
+        "Alejandro Osuna",
+        "Brandon Nimmo",
+        "Ezequiel Duran",
+        "Evan Carter",
+        "Justin Foscue",
+        "Andrew McCutchen",
+        "Danny Jansen",
+        "Michael Helman"
+      ],
       "away_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
@@ -784,10 +814,10 @@
         "Kumar Rocker",
         "Jake Burger",
         "Peyton Gray",
-        "Tyler Alexander",
         "Alejandro Osuna",
-        "Jack Leiter",
+        "Tyler Alexander",
         "Joc Pederson",
+        "Jack Leiter",
         "Jacob Latz",
         "Jalen Beeks",
         "Cal Quantrill",
@@ -797,12 +827,12 @@
         "Kyle Higashioka",
         "Ezequiel Duran",
         "MacKenzie Gore",
-        "Gavin Collyer",
         "Michael Helman",
+        "Gavin Collyer",
         "Jacob deGrom",
         "Brandon Nimmo",
-        "Sam Haggerty",
         "Danny Jansen",
+        "Sam Haggerty",
         "Jakob Junis",
         "Nathan Eovaldi",
         "Chris Martin"
@@ -815,7 +845,17 @@
       "away_team": "Miami Marlins",
       "home_team": "Toronto Blue Jays",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "George Springer",
+        "Nathan Lukes",
+        "Yohendrick Pi\u00f1ango",
+        "Kazuma Okamoto",
+        "Jes\u00fas S\u00e1nchez",
+        "Ernie Clement",
+        "Andr\u00e9s Gim\u00e9nez",
+        "Brandon Valenzuela",
+        "Lenyn Sosa"
+      ],
       "away_roster": [
         "Lake Bachar",
         "Pete Fairbanks",
@@ -845,22 +885,22 @@
         "Otto Lopez"
       ],
       "home_roster": [
+        "Lenyn Sosa",
         "Chase Lee",
         "Spencer Miles",
-        "Lenyn Sosa",
         "Adam Macko",
         "Louis Varland",
         "Ernie Clement",
         "Daulton Varsho",
-        "Kevin Gausman",
         "Andr\u00e9s Gim\u00e9nez",
+        "Kevin Gausman",
         "Brandon Valenzuela",
         "Jeff Hoffman",
         "Dylan Cease",
         "Trey Yesavage",
-        "Davis Schneider",
-        "Yohendrick Pi\u00f1ango",
+        "Nathan Lukes",
         "George Springer",
+        "Yohendrick Pi\u00f1ango",
         "Mason Fluharty",
         "Yariel Rodr\u00edguez",
         "Braydon Fisher",
