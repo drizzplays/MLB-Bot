@@ -1,6 +1,18 @@
 {
   "date": "2026-05-25",
   "games": {
+    "822812": {
+      "active_pitcher_id": 702056,
+      "active_pitcher_name": "Trey Yesavage",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T19:44:01.376104-04:00"
+    },
+    "822899": {
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T19:43:59.183326-04:00"
+    },
     "823219": {
       "active_pitcher_id": 666711,
       "active_pitcher_name": "Joel Peguero",
@@ -8,10 +20,10 @@
       "last_checked_at": "2026-05-25T18:35:33.055746-04:00"
     },
     "823296": {
-      "active_pitcher_id": 656288,
-      "active_pitcher_name": "Griffin Canning",
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-25T18:35:37.871738-04:00"
+      "last_checked_at": "2026-05-25T19:43:57.251182-04:00"
     },
     "823380": {
       "active_pitcher_id": 642397,
@@ -38,10 +50,10 @@
       "last_checked_at": "2026-05-25T16:02:22.436020-04:00"
     },
     "824437": {
-      "active_pitcher_id": 676440,
-      "active_pitcher_name": "Tanner Bibee",
+      "active_pitcher_id": 671106,
+      "active_pitcher_name": "Logan Allen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-25T18:35:35.744205-04:00"
+      "last_checked_at": "2026-05-25T19:43:54.968568-04:00"
     },
     "824598": {
       "active_pitcher_id": 680573,
