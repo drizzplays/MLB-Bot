@@ -55,15 +55,17 @@ The pitcher-change bot sends:
 }
 ```
 
-The lineup bot sends:
+The lineup bot now alerts when a team lineup is first posted. It sends:
 
 ```json
 {
-  "type": "lineup_change",
+  "type": "lineup_posted",
   "category": "lineup_changes",
   "notification_category": "lineup_changes"
 }
 ```
+
+The `lineup_changes` category is intentionally preserved so the existing SheetWagers notification feed does not need a backend/category change.
 
 GitHub path:
 

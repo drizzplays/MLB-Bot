@@ -296,6 +296,52 @@ def get_games(target_date):
     return games
 
 
+def format_numbered_lineup(lineup):
+    return "\n".join(f"{idx}. {name}" for idx, name in enumerate(lineup, start=1))
+
+
+def collect_watchlist_lines(team_name, lineup, roster):
+    lineup_set = set(lineup or [])
+    roster_set = set(roster or [])
+    active = []
+    missing = []
+
+    for batter in WATCHED_BATTERS:
+        if batter not in roster_set:
+            continue
+
+        line = f"- {batter} ({team_label(team_name)})"
+        if batter in lineup_set:
+            active.append(line)
+        else:
+            missing.append(line)
+
+    return sorted(set(active)), sorted(set(missing))
+
+
+def lineup_digest(posted_lineups):
+    raw = json.dumps(posted_lineups, sort_keys=True, ensure_ascii=False)
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
+
+
+def preserve_posted_lineups(old_game, new_game):
+    """Keep already-seen lineups in state if the API briefly returns blanks.
+
+    MLB StatsAPI can occasionally expose an empty battingOrder during pregame refreshes.
+    Without this guard, one empty poll can erase the posted lineup from state and cause
+    a duplicate "lineup posted" alert on the next successful poll.
+    """
+    merged = dict(new_game)
+
+    if old_game.get("away_lineup") and not merged.get("away_lineup"):
+        merged["away_lineup"] = old_game.get("away_lineup", [])
+
+    if old_game.get("home_lineup") and not merged.get("home_lineup"):
+        merged["home_lineup"] = old_game.get("home_lineup", [])
+
+    return merged
+
+
 def build(old_game, new_game):
     if not is_pregame(new_game.get("game_iso")):
         debug("[BUILD] Skipped: game already started")
@@ -304,74 +350,92 @@ def build(old_game, new_game):
     away_team = new_game["away_team"]
     home_team = new_game["home_team"]
 
-    old_away_lineup = set(old_game.get("away_lineup", []))
-    old_home_lineup = set(old_game.get("home_lineup", []))
-    new_away_lineup = set(new_game.get("away_lineup", []))
-    new_home_lineup = set(new_game.get("home_lineup", []))
-    away_lineup_was_posted = bool(old_game.get("away_lineup"))
-    home_lineup_was_posted = bool(old_game.get("home_lineup"))
+    old_away_posted = bool(old_game.get("away_lineup"))
+    old_home_posted = bool(old_game.get("home_lineup"))
+    new_away_lineup = new_game.get("away_lineup", [])
+    new_home_lineup = new_game.get("home_lineup", [])
+    new_away_posted = bool(new_away_lineup)
+    new_home_posted = bool(new_home_lineup)
 
-    if old_away_lineup == new_away_lineup and old_home_lineup == new_home_lineup:
-        debug(f"[BUILD] No lineup change for {away_team} @ {home_team}")
+    newly_posted = []
+
+    if new_away_posted and not old_away_posted:
+        newly_posted.append(
+            {
+                "side": "away",
+                "team": away_team,
+                "team_label": team_label(away_team),
+                "lineup": new_away_lineup,
+                "roster": new_game.get("away_roster", []),
+            }
+        )
+
+    if new_home_posted and not old_home_posted:
+        newly_posted.append(
+            {
+                "side": "home",
+                "team": home_team,
+                "team_label": team_label(home_team),
+                "lineup": new_home_lineup,
+                "roster": new_game.get("home_roster", []),
+            }
+        )
+
+    if not newly_posted:
+        debug(f"[BUILD] No newly posted lineup for {away_team} @ {home_team}")
         return None
 
-    away_roster = set(new_game.get("away_roster", []))
-    home_roster = set(new_game.get("home_roster", []))
+    lineup_sections = []
+    website_lineup_sections = []
+    watched_active = []
+    watched_missing = []
+    posted_team_labels = []
+    posted_lineups = {}
 
-    missing_lines = []
-    active_lines = []
+    for item in newly_posted:
+        posted_team_labels.append(item["team_label"])
+        posted_lineups[item["side"]] = item["lineup"]
 
-    for batter in WATCHED_BATTERS:
-        if batter in away_roster and new_game.get("away_lineup"):
-            was_in = batter in old_away_lineup
-            is_in = batter in new_away_lineup
-            debug(f"[WATCH] {batter} | team={away_team} | was_in={was_in} | is_in={is_in}")
+        lineup_sections.append(
+            f"**{item['team_label']} lineup posted**\n"
+            f"{format_numbered_lineup(item['lineup'])}"
+        )
+        website_lineup_sections.append(
+            f"{item['team_label']} lineup: " + "; ".join(item["lineup"])
+        )
 
-            if not is_in:
-                missing_lines.append(f"- {batter} ({team_label(away_team)})")
-            elif away_lineup_was_posted and not was_in and is_in:
-                active_lines.append(f"- {batter} ({team_label(away_team)})")
+        active, missing = collect_watchlist_lines(item["team"], item["lineup"], item["roster"])
+        watched_active.extend(active)
+        watched_missing.extend(missing)
 
-        elif batter in home_roster and new_game.get("home_lineup"):
-            was_in = batter in old_home_lineup
-            is_in = batter in new_home_lineup
-            debug(f"[WATCH] {batter} | team={home_team} | was_in={was_in} | is_in={is_in}")
+    watched_active = sorted(set(watched_active))
+    watched_missing = sorted(set(watched_missing))
 
-            if not is_in:
-                missing_lines.append(f"- {batter} ({team_label(home_team)})")
-            elif home_lineup_was_posted and not was_in and is_in:
-                active_lines.append(f"- {batter} ({team_label(home_team)})")
-
-        else:
-            debug(f"[WATCH] Skipped {batter}: not on either game roster")
-
-    missing_lines = sorted(set(missing_lines))
-    active_lines = sorted(set(active_lines))
-
-    if not missing_lines and not active_lines:
-        debug(f"[BUILD] No watched batter alert for {away_team} @ {home_team}")
-        return None
-
-    sections = []
-
-    if missing_lines:
-        sections.append("**Not in lineup**\n" + "\n".join(missing_lines))
-
-    if active_lines:
-        sections.append("**Added after lineup posted**\n" + "\n".join(active_lines))
+    watch_sections = []
+    if watched_active:
+        watch_sections.append("**Watchlist in lineup**\n" + "\n".join(watched_active))
+    if watched_missing:
+        watch_sections.append("**Watchlist not in lineup**\n" + "\n".join(watched_missing))
 
     discord_message = (
-        f"**Lineup Watchlist**\n"
+        f"**Lineup Posted**\n"
         f"**{team_label(away_team)} @ {team_label(home_team)}**\n"
-        f"First pitch: {new_game['game_time']}\n\n"
-        + "\n\n".join(sections)
+        f"First pitch: {new_game['game_time']}\n"
+        f"Posted: {', '.join(posted_team_labels)}\n\n"
+        + "\n\n".join(lineup_sections + watch_sections)
     )
 
-    website_sections = []
-    if missing_lines:
-        website_sections.append("Not in lineup: " + ", ".join(line.removeprefix("- ") for line in missing_lines))
-    if active_lines:
-        website_sections.append("Added after lineup posted: " + ", ".join(line.removeprefix("- ") for line in active_lines))
+    website_sections = [f"Lineup posted: {', '.join(posted_team_labels)}"]
+    website_sections.extend(website_lineup_sections)
+
+    if watched_active:
+        website_sections.append(
+            "Watchlist in lineup: " + ", ".join(line.removeprefix("- ") for line in watched_active)
+        )
+    if watched_missing:
+        website_sections.append(
+            "Watchlist not in lineup: " + ", ".join(line.removeprefix("- ") for line in watched_missing)
+        )
 
     website_message = (
         f"{team_label(away_team)} @ {team_label(home_team)}\n"
@@ -379,23 +443,29 @@ def build(old_game, new_game):
         + "\n".join(website_sections)
     )
 
+    digest = lineup_digest(posted_lineups)
+
     payload = {
-        "type": "lineup_change",
+        "type": "lineup_posted",
         "category": "lineup_changes",
         "notification_category": "lineup_changes",
-        "source": "lineup_change_bot",
-        "title": "Lineup Update",
+        "source": "lineup_posted_bot",
+        "title": "Lineup Posted",
         "message": website_message,
         "priority": "normal",
-        "event_id": f"lineup-change:{new_game.get('game_pk')}:{','.join(missing_lines)}:{','.join(active_lines)}",
+        "event_id": f"lineup-posted:{new_game.get('game_pk')}:{','.join(posted_team_labels)}:{digest}",
         "game_pk": new_game.get("game_pk"),
         "away_team": team_label(away_team),
         "home_team": team_label(home_team),
         "matchup": f"{team_label(away_team)} @ {team_label(home_team)}",
         "game_time": new_game.get("game_time"),
         "game_iso": new_game.get("game_iso"),
-        "missing_batters": missing_lines,
-        "added_batters": active_lines,
+        "posted_teams": posted_team_labels,
+        "posted_lineups": posted_lineups,
+        "watchlist_active": watched_active,
+        "watchlist_missing": watched_missing,
+        "missing_batters": watched_missing,
+        "added_batters": [],
     }
 
     return {"message": discord_message, "payload": payload}
@@ -433,14 +503,19 @@ def run():
         old_games = old_state.get(date_key, {})
         print(f"Old games for {date_key}: {len(old_games)}")
 
+        date_state = {}
+
         for game_key, game_data in new_games.items():
-            alert = build(old_games.get(game_key, {}), game_data)
+            old_game = old_games.get(game_key, {})
+            alert = build(old_game, game_data)
             if alert:
                 deliver_alert(alert["message"], alert["payload"])
                 total_alerts += 1
                 print(f"Sent alert for: {game_key}")
 
-        new_state[date_key] = new_games
+            date_state[game_key] = preserve_posted_lineups(old_game, game_data)
+
+        new_state[date_key] = date_state
 
     print("About to save lineup state...")
     preview = json.dumps(new_state, indent=2)
