@@ -1,25 +1,5 @@
 {
   "2026-05-25": {
-    "823380": {
-      "away_team": "Chicago Cubs",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Ben Brown",
-      "home_pitcher": "Carmen Mlodzinski",
-      "game_time": "May 25, 1:35 PM ET",
-      "game_iso": "2026-05-25T13:35:00-04:00",
-      "game_pk": "823380",
-      "status_code": "P"
-    },
-    "824838": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Shane McClanahan",
-      "home_pitcher": "Kyle Bradish",
-      "game_time": "May 25, 1:35 PM ET",
-      "game_iso": "2026-05-25T13:35:00-04:00",
-      "game_pk": "824838",
-      "status_code": "P"
-    },
     "824598": {
       "away_team": "Minnesota Twins",
       "home_team": "Chicago White Sox",
@@ -58,7 +38,7 @@
       "game_time": "May 25, 4:10 PM ET",
       "game_iso": "2026-05-25T16:10:00-04:00",
       "game_pk": "823625",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823219": {
       "away_team": "Arizona Diamondbacks",
@@ -68,7 +48,7 @@
       "game_time": "May 25, 5:05 PM ET",
       "game_iso": "2026-05-25T17:05:00-04:00",
       "game_pk": "823219",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824437": {
       "away_team": "Washington Nationals",
@@ -78,7 +58,7 @@
       "game_time": "May 25, 6:10 PM ET",
       "game_iso": "2026-05-25T18:10:00-04:00",
       "game_pk": "824437",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823296": {
       "away_team": "Philadelphia Phillies",
@@ -88,7 +68,7 @@
       "game_time": "May 25, 6:40 PM ET",
       "game_iso": "2026-05-25T18:40:00-04:00",
       "game_pk": "823296",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822899": {
       "away_team": "Houston Astros",
