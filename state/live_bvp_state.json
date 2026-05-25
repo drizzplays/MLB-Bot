@@ -1,6 +1,12 @@
 {
   "date": "2026-05-25",
   "games": {
+    "823219": {
+      "active_pitcher_id": 518876,
+      "active_pitcher_name": "Merrill Kelly",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T17:21:39.227985-04:00"
+    },
     "823380": {
       "active_pitcher_id": 642397,
       "active_pitcher_name": "Gregory Soto",
@@ -8,10 +14,10 @@
       "last_checked_at": "2026-05-25T16:02:12.030444-04:00"
     },
     "823625": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 681810,
+      "active_pitcher_name": "Austin Warren",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-25T16:02:24.822560-04:00"
+      "last_checked_at": "2026-05-25T17:21:36.451005-04:00"
     },
     "823784": {
       "active_pitcher_id": 802408,
@@ -32,10 +38,10 @@
       "last_checked_at": "2026-05-25T16:02:17.181869-04:00"
     },
     "824838": {
-      "active_pitcher_id": 689296,
-      "active_pitcher_name": "Anthony Nunez",
+      "active_pitcher_id": 669947,
+      "active_pitcher_name": "Jesse Scholtens",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-25T16:02:14.708297-04:00"
+      "last_checked_at": "2026-05-25T17:21:33.169340-04:00"
     }
   }
 }
