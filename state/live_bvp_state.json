@@ -1,29 +1,61 @@
 {
   "date": "2026-05-26",
   "games": {
+    "822811": {
+      "active_pitcher_id": 693686,
+      "active_pitcher_name": "Spencer Miles",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T19:47:57.321786-04:00"
+    },
     "823379": {
       "active_pitcher_id": 677952,
       "active_pitcher_name": "Braxton Ashcraft",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-26T18:37:14.103077-04:00"
     },
-    "824275": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+    "823624": {
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-26T18:37:12.377140-04:00"
+      "last_checked_at": "2026-05-26T19:47:59.382715-04:00"
+    },
+    "823785": {
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T19:48:07.725918-04:00"
+    },
+    "824106": {
+      "active_pitcher_id": 663559,
+      "active_pitcher_name": "Bailey Falter",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T19:48:05.730095-04:00"
+    },
+    "824275": {
+      "active_pitcher_id": 686799,
+      "active_pitcher_name": "Jack Kochanowicz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T19:47:53.207619-04:00"
     },
     "824434": {
-      "active_pitcher_id": 676282,
-      "active_pitcher_name": "Joey Cantillo",
+      "active_pitcher_id": 676917,
+      "active_pitcher_name": "Cade Cavalli",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-26T18:37:08.886538-04:00"
+      "last_checked_at": "2026-05-26T19:47:51.042941-04:00"
+    },
+    "824597": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [
+        "657746:643217"
+      ],
+      "last_checked_at": "2026-05-26T19:48:01.354965-04:00"
     },
     "824758": {
-      "active_pitcher_id": 624133,
-      "active_pitcher_name": "Ranger Suarez",
+      "active_pitcher_id": 675911,
+      "active_pitcher_name": "Spencer Strider",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-26T18:37:15.831928-04:00"
+      "last_checked_at": "2026-05-26T19:47:55.318512-04:00"
     },
     "824837": {
       "active_pitcher_id": 669358,
