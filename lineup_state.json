@@ -1023,7 +1023,17 @@
     "Philadelphia Phillies @ San Diego Padres | 823294": {
       "away_team": "Philadelphia Phillies",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Brandon Marsh",
+        "Alec Bohm",
+        "Bryson Stott",
+        "J.T. Realmuto",
+        "Justin Crawford",
+        "Edmundo Sosa"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Xander Bogaerts",
@@ -1044,8 +1054,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -1183,7 +1193,17 @@
     "Colorado Rockies @ Los Angeles Dodgers | 823949": {
       "away_team": "Colorado Rockies",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Willi Castro",
+        "Tyler Freeman",
+        "Ezequiel Tovar",
+        "Hunter Goodman",
+        "Braxton Fulford",
+        "Jake McCarthy",
+        "Kyle Karros",
+        "Troy Johnston",
+        "Chad Stevens"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
@@ -1199,8 +1219,8 @@
         "Keegan Thompson",
         "Blas Casta\u00f1o",
         "Chad Stevens",
-        "Welinton Herrera",
         "Jake McCarthy",
+        "Welinton Herrera",
         "Troy Johnston",
         "Braxton Fulford",
         "Kyle Freeland",
@@ -1214,8 +1234,8 @@
         "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Seth Halvorsen",
         "Antonio Senzatela",
