@@ -2,10 +2,10 @@
   "date": "2026-05-25",
   "games": {
     "822812": {
-      "active_pitcher_id": 702056,
-      "active_pitcher_name": "Trey Yesavage",
+      "active_pitcher_id": 681084,
+      "active_pitcher_name": "Tanner Andrews",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-25T19:44:01.376104-04:00"
+      "last_checked_at": "2026-05-25T21:47:08.436028-04:00"
     },
     "822899": {
       "active_pitcher_id": 837227,
@@ -43,6 +43,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-25T16:02:19.872189-04:00"
     },
+    "823948": {
+      "active_pitcher_id": 686218,
+      "active_pitcher_name": "Emmet Sheehan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T21:47:13.139671-04:00"
+    },
     "824107": {
       "active_pitcher_id": 608379,
       "active_pitcher_name": "Michael Wacha",
@@ -66,6 +72,12 @@
       "active_pitcher_name": "Jesse Scholtens",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-25T17:21:33.169340-04:00"
+    },
+    "825005": {
+      "active_pitcher_id": 650644,
+      "active_pitcher_name": "Aaron Civale",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-25T21:47:15.841572-04:00"
     }
   }
 }
