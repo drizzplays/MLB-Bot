@@ -1,4 +1,35 @@
 {
   "date": "2026-05-26",
-  "games": {}
+  "games": {
+    "823379": {
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T18:37:14.103077-04:00"
+    },
+    "824275": {
+      "active_pitcher_id": 672456,
+      "active_pitcher_name": "Keider Montero",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T18:37:12.377140-04:00"
+    },
+    "824434": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T18:37:08.886538-04:00"
+    },
+    "824758": {
+      "active_pitcher_id": 624133,
+      "active_pitcher_name": "Ranger Suarez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T18:37:15.831928-04:00"
+    },
+    "824837": {
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T18:37:10.636031-04:00"
+    }
+  }
 }
