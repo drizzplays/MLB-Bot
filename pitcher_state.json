@@ -1,15 +1,5 @@
 {
   "2026-05-25": {
-    "823948": {
-      "away_team": "Colorado Rockies",
-      "home_team": "Los Angeles Dodgers",
-      "away_pitcher": "Tanner Gordon",
-      "home_pitcher": "Emmet Sheehan",
-      "game_time": "May 25, 9:10 PM ET",
-      "game_iso": "2026-05-25T21:10:00-04:00",
-      "game_pk": "823948",
-      "status_code": "P"
-    },
     "825005": {
       "away_team": "Seattle Mariners",
       "home_team": "Athletics",
