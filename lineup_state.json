@@ -352,7 +352,7 @@
         "Ildemaro Vargas",
         "Jose Fernandez",
         "Aramis Garcia",
-        "Tommy Troy"
+        "Jorge Barrosa"
       ],
       "home_lineup": [
         "Willy Adames",
@@ -362,8 +362,8 @@
         "Matt Chapman",
         "Bryce Eldridge",
         "Daniel Susac",
-        "Drew Gilbert",
-        "Will Brennan"
+        "Harrison Bader",
+        "Victor Bericoto"
       ],
       "away_roster": [
         "Eduardo Rodriguez",
@@ -448,7 +448,7 @@
         "Ram\u00f3n Laureano",
         "Jackson Merrill",
         "Nick Castellanos",
-        "Freddy Fermin"
+        "Rodolfo Dur\u00e1n"
       ],
       "away_roster": [
         "Brandon Marsh",
@@ -1193,14 +1193,24 @@
     "Colorado Rockies @ Los Angeles Dodgers | 823947": {
       "away_team": "Colorado Rockies",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jake McCarthy",
+        "Tyler Freeman",
+        "TJ Rumfield",
+        "Hunter Goodman",
+        "Troy Johnston",
+        "Willi Castro",
+        "Ezequiel Tovar",
+        "Sterlin Thompson",
+        "Edouard Julien"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Keegan Thompson",
         "Blas Casta\u00f1o",
         "Chad Stevens",
-        "Welinton Herrera",
         "Jake McCarthy",
+        "Welinton Herrera",
         "Troy Johnston",
         "Braxton Fulford",
         "Kyle Freeland",
@@ -1214,8 +1224,8 @@
         "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Seth Halvorsen",
         "Antonio Senzatela",
