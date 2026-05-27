@@ -1,25 +1,5 @@
 {
   "2026-05-27": {
-    "823783": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Dustin May",
-      "home_pitcher": "Chad Patrick",
-      "game_time": "May 27, 1:40 PM ET",
-      "game_iso": "2026-05-27T13:40:00-04:00",
-      "game_pk": "823783",
-      "status_code": "P"
-    },
-    "825003": {
-      "away_team": "Seattle Mariners",
-      "home_team": "Athletics",
-      "away_pitcher": "Logan Gilbert",
-      "home_pitcher": "Jeffrey Springs",
-      "game_time": "May 27, 3:05 PM ET",
-      "game_iso": "2026-05-27T15:05:00-04:00",
-      "game_pk": "825003",
-      "status_code": "P"
-    },
     "823217": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "San Francisco Giants",
@@ -58,7 +38,7 @@
       "game_time": "May 27, 6:40 PM ET",
       "game_iso": "2026-05-27T18:40:00-04:00",
       "game_pk": "824270",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823376": {
       "away_team": "Chicago Cubs",
@@ -78,7 +58,7 @@
       "game_time": "May 27, 6:45 PM ET",
       "game_iso": "2026-05-27T18:45:00-04:00",
       "game_pk": "824756",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823626": {
       "away_team": "Cincinnati Reds",
@@ -88,7 +68,7 @@
       "game_time": "May 27, 7:10 PM ET",
       "game_iso": "2026-05-27T19:10:00-04:00",
       "game_pk": "823626",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824596": {
       "away_team": "Minnesota Twins",
@@ -98,7 +78,7 @@
       "game_time": "May 27, 7:40 PM ET",
       "game_iso": "2026-05-27T19:40:00-04:00",
       "game_pk": "824596",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824104": {
       "away_team": "New York Yankees",
@@ -108,7 +88,7 @@
       "game_time": "May 27, 7:40 PM ET",
       "game_iso": "2026-05-27T19:40:00-04:00",
       "game_pk": "824104",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822897": {
       "away_team": "Houston Astros",
