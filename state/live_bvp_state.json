@@ -2,22 +2,36 @@
   "date": "2026-05-27",
   "games": {
     "822809": {
-      "active_pitcher_id": 592332,
-      "active_pitcher_name": "Kevin Gausman",
+      "active_pitcher_id": 686973,
+      "active_pitcher_name": "Louis Varland",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T13:36:12.412272-04:00"
+      "last_checked_at": "2026-05-27T15:48:17.829092-04:00"
+    },
+    "823217": {
+      "active_pitcher_id": 686790,
+      "active_pitcher_name": "Trevor McDonald",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-27T15:48:30.026476-04:00"
     },
     "823783": {
-      "active_pitcher_id": 694477,
-      "active_pitcher_name": "Chad Patrick",
+      "active_pitcher_id": 668941,
+      "active_pitcher_name": "JoJo Romero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T13:36:16.663709-04:00"
+      "last_checked_at": "2026-05-27T15:48:20.945693-04:00"
     },
     "824432": {
       "active_pitcher_id": 668909,
       "active_pitcher_name": "Gavin Williams",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-27T13:36:14.625650-04:00"
+    },
+    "825003": {
+      "active_pitcher_id": 669302,
+      "active_pitcher_name": "Logan Gilbert",
+      "alerted_pairs": [
+        "669302:666126"
+      ],
+      "last_checked_at": "2026-05-27T15:48:23.968461-04:00"
     }
   }
 }
