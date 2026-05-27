@@ -8,10 +8,16 @@
       "last_checked_at": "2026-05-27T15:48:17.829092-04:00"
     },
     "823217": {
-      "active_pitcher_id": 686790,
-      "active_pitcher_name": "Trevor McDonald",
+      "active_pitcher_id": 657044,
+      "active_pitcher_name": "Ryan Thompson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T15:48:30.026476-04:00"
+      "last_checked_at": "2026-05-27T17:32:16.415341-04:00"
+    },
+    "823295": {
+      "active_pitcher_id": 670970,
+      "active_pitcher_name": "Adrian Morejon",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-27T17:32:18.184676-04:00"
     },
     "823783": {
       "active_pitcher_id": 668941,
@@ -26,12 +32,12 @@
       "last_checked_at": "2026-05-27T13:36:14.625650-04:00"
     },
     "825003": {
-      "active_pitcher_id": 669302,
-      "active_pitcher_name": "Logan Gilbert",
+      "active_pitcher_id": 660761,
+      "active_pitcher_name": "Jos\u00e9 Suarez",
       "alerted_pairs": [
         "669302:666126"
       ],
-      "last_checked_at": "2026-05-27T15:48:23.968461-04:00"
+      "last_checked_at": "2026-05-27T17:32:14.626040-04:00"
     }
   }
 }
