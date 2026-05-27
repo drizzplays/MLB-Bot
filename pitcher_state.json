@@ -1,45 +1,5 @@
 {
   "2026-05-27": {
-    "824836": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Steven Matz",
-      "home_pitcher": "Trey Gibson",
-      "game_time": "May 27, 6:35 PM ET",
-      "game_iso": "2026-05-27T18:35:00-04:00",
-      "game_pk": "824836",
-      "status_code": "P"
-    },
-    "824270": {
-      "away_team": "Los Angeles Angels",
-      "home_team": "Detroit Tigers",
-      "away_pitcher": "Jos\u00e9 Soriano",
-      "home_pitcher": "Casey Mize",
-      "game_time": "May 27, 6:40 PM ET",
-      "game_iso": "2026-05-27T18:40:00-04:00",
-      "game_pk": "824270",
-      "status_code": "P"
-    },
-    "823376": {
-      "away_team": "Chicago Cubs",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Jameson Taillon",
-      "home_pitcher": "Bubba Chandler",
-      "game_time": "May 27, 6:40 PM ET",
-      "game_iso": "2026-05-27T18:40:00-04:00",
-      "game_pk": "823376",
-      "status_code": "P"
-    },
-    "824756": {
-      "away_team": "Atlanta Braves",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Bryce Elder",
-      "home_pitcher": "Connelly Early",
-      "game_time": "May 27, 6:45 PM ET",
-      "game_iso": "2026-05-27T18:45:00-04:00",
-      "game_pk": "824756",
-      "status_code": "P"
-    },
     "823626": {
       "away_team": "Cincinnati Reds",
       "home_team": "New York Mets",
@@ -88,7 +48,7 @@
       "game_time": "May 27, 10:10 PM ET",
       "game_iso": "2026-05-27T22:10:00-04:00",
       "game_pk": "823947",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
