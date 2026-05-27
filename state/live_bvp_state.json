@@ -7,6 +7,24 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-26T19:47:57.321786-04:00"
     },
+    "822898": {
+      "active_pitcher_id": 596001,
+      "active_pitcher_name": "Jakob Junis",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T21:56:12.029667-04:00"
+    },
+    "823216": {
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T21:56:17.942908-04:00"
+    },
+    "823294": {
+      "active_pitcher_id": 681190,
+      "active_pitcher_name": "Randy V\u00e1squez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T21:56:16.114458-04:00"
+    },
     "823379": {
       "active_pitcher_id": 677952,
       "active_pitcher_name": "Braxton Ashcraft",
@@ -14,22 +32,30 @@
       "last_checked_at": "2026-05-26T18:37:14.103077-04:00"
     },
     "823624": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 621345,
+      "active_pitcher_name": "A.J. Minter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-26T19:47:59.382715-04:00"
+      "last_checked_at": "2026-05-26T21:56:01.249275-04:00"
     },
     "823785": {
-      "active_pitcher_id": 690986,
-      "active_pitcher_name": "Kyle Harrison",
+      "active_pitcher_id": 682842,
+      "active_pitcher_name": "Abner Uribe",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-26T19:48:07.725918-04:00"
+      "last_checked_at": "2026-05-26T21:56:10.027091-04:00"
+    },
+    "823949": {
+      "active_pitcher_id": 641778,
+      "active_pitcher_name": "Eric Lauer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T21:56:19.781650-04:00"
     },
     "824106": {
-      "active_pitcher_id": 663559,
-      "active_pitcher_name": "Bailey Falter",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-26T19:48:05.730095-04:00"
+      "active_pitcher_id": 642232,
+      "active_pitcher_name": "Ryan Yarbrough",
+      "alerted_pairs": [
+        "642232:677951"
+      ],
+      "last_checked_at": "2026-05-26T21:56:05.358144-04:00"
     },
     "824275": {
       "active_pitcher_id": 686799,
@@ -44,12 +70,12 @@
       "last_checked_at": "2026-05-26T19:47:51.042941-04:00"
     },
     "824597": {
-      "active_pitcher_id": 657746,
-      "active_pitcher_name": "Joe Ryan",
+      "active_pitcher_id": 656794,
+      "active_pitcher_name": "Sean Newcomb",
       "alerted_pairs": [
         "657746:643217"
       ],
-      "last_checked_at": "2026-05-26T19:48:01.354965-04:00"
+      "last_checked_at": "2026-05-26T21:56:03.356206-04:00"
     },
     "824758": {
       "active_pitcher_id": 675911,
@@ -62,6 +88,12 @@
       "active_pitcher_name": "Shane Baz",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-26T18:37:10.636031-04:00"
+    },
+    "825004": {
+      "active_pitcher_id": 695611,
+      "active_pitcher_name": "Gage Jump",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-26T21:56:14.278977-04:00"
     }
   }
 }
