@@ -7,6 +7,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-27T15:48:17.829092-04:00"
     },
+    "822897": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-27T20:13:08.736894-04:00"
+    },
     "823217": {
       "active_pitcher_id": 657044,
       "active_pitcher_name": "Ryan Thompson",
@@ -20,16 +26,16 @@
       "last_checked_at": "2026-05-27T17:32:18.184676-04:00"
     },
     "823376": {
-      "active_pitcher_id": 592791,
-      "active_pitcher_name": "Jameson Taillon",
+      "active_pitcher_id": 681895,
+      "active_pitcher_name": "Evan Sisk",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T19:02:54.401552-04:00"
+      "last_checked_at": "2026-05-27T20:12:58.857666-04:00"
     },
     "823626": {
-      "active_pitcher_id": 623211,
-      "active_pitcher_name": "Huascar Brazob\u00e1n",
+      "active_pitcher_id": 804636,
+      "active_pitcher_name": "Jonah Tong",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T19:02:59.547868-04:00"
+      "last_checked_at": "2026-05-27T20:13:01.627268-04:00"
     },
     "823783": {
       "active_pitcher_id": 668941,
@@ -37,17 +43,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-05-27T15:48:20.945693-04:00"
     },
-    "824270": {
-      "active_pitcher_id": 663554,
-      "active_pitcher_name": "Casey Mize",
+    "824104": {
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T19:02:51.826630-04:00"
+      "last_checked_at": "2026-05-27T20:13:06.273855-04:00"
+    },
+    "824270": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-27T20:12:56.576938-04:00"
     },
     "824432": {
       "active_pitcher_id": 668909,
       "active_pitcher_name": "Gavin Williams",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-27T13:36:14.625650-04:00"
+    },
+    "824596": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-27T20:13:04.108799-04:00"
     },
     "824756": {
       "active_pitcher_id": 813349,
@@ -56,10 +74,10 @@
       "last_checked_at": "2026-05-27T19:02:56.938590-04:00"
     },
     "824836": {
-      "active_pitcher_id": 571927,
-      "active_pitcher_name": "Steven Matz",
+      "active_pitcher_id": 694346,
+      "active_pitcher_name": "Trey Gibson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-27T19:02:49.214917-04:00"
+      "last_checked_at": "2026-05-27T20:12:54.263525-04:00"
     },
     "825003": {
       "active_pitcher_id": 660761,
