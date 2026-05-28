@@ -8,9 +8,9 @@
         "Mike Trout",
         "Vaughn Grissom",
         "Jorge Soler",
-        "Wade Meckler",
+        "Jose Siri",
         "Jo Adell",
-        "Adam Frazier",
+        "Oswald Peraza",
         "Sebasti\u00e1n Rivero",
         "Donovan Walton"
       ],
@@ -27,9 +27,9 @@
       ],
       "away_roster": [
         "Adam Frazier",
-        "Donovan Walton",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
+        "Donovan Walton",
         "Zach Neto",
         "Jorge Soler",
         "Nick Madrigal",
@@ -65,10 +65,10 @@
         "Tyler Holton",
         "Kevin McGonigle",
         "Kyle Finnegan",
-        "Kenley Jansen",
         "Jack Flaherty",
         "Zack Short",
         "Spencer Torkelson",
+        "Drew Sommers",
         "Keider Montero",
         "Jake Rogers",
         "Enmanuel De Jesus",
@@ -100,15 +100,15 @@
         "Ryan Kreidler"
       ],
       "home_lineup": [
-        "Chase Meidroth",
+        "Sam Antonacci",
         "Munetaka Murakami",
         "Miguel Vargas",
-        "Randal Grichuk",
         "Colson Montgomery",
-        "Edgar Quero",
-        "Derek Hill",
-        "Sam Antonacci",
-        "Luisangel Acu\u00f1a"
+        "Chase Meidroth",
+        "Tristan Peters",
+        "Randal Grichuk",
+        "Rikuu Nishida",
+        "Edgar Quero"
       ],
       "away_roster": [
         "Taj Bradley",
@@ -173,7 +173,17 @@
     "Atlanta Braves @ Boston Red Sox | 824757": {
       "away_team": "Atlanta Braves",
       "home_team": "Boston Red Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Mauricio Dub\u00f3n",
+        "Matt Olson",
+        "Ozzie Albies",
+        "Austin Riley",
+        "Michael Harris II",
+        "Jorge Mateo",
+        "Dominic Smith",
+        "Sandy Le\u00f3n"
+      ],
       "home_lineup": [
         "Jarren Duran",
         "Ceddanne Rafaela",
@@ -221,7 +231,6 @@
         "Connor Wong",
         "Brayan Bello",
         "Wilyer Abreu",
-        "Garrett Whitlock",
         "Andruw Monasterio",
         "Sonny Gray",
         "Isiah Kiner-Falefa",
@@ -232,6 +241,7 @@
         "Carlos Narv\u00e1ez",
         "Jarren Duran",
         "Nick Sogard",
+        "Tyler Samaniego",
         "Payton Tolle",
         "Ceddanne Rafaela",
         "Jovani Mor\u00e1n",
