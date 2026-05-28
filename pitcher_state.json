@@ -8,7 +8,7 @@
       "game_time": "May 28, 1:10 PM ET",
       "game_iso": "2026-05-28T13:10:00-04:00",
       "game_pk": "824272",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824595": {
       "away_team": "Minnesota Twins",
@@ -18,7 +18,7 @@
       "game_time": "May 28, 2:10 PM ET",
       "game_iso": "2026-05-28T14:10:00-04:00",
       "game_pk": "824595",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824757": {
       "away_team": "Atlanta Braves",
@@ -28,7 +28,7 @@
       "game_time": "May 28, 4:10 PM ET",
       "game_iso": "2026-05-28T16:10:00-04:00",
       "game_pk": "824757",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824834": {
       "away_team": "Toronto Blue Jays",
