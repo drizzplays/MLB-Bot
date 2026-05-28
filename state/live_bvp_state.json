@@ -1,4 +1,17 @@
 {
   "date": "2026-05-28",
-  "games": {}
+  "games": {
+    "824272": {
+      "active_pitcher_id": 696147,
+      "active_pitcher_name": "Sam Bachman",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-28T15:19:02.218246-04:00"
+    },
+    "824595": {
+      "active_pitcher_id": 663436,
+      "active_pitcher_name": "Davis Martin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-28T15:19:05.277958-04:00"
+    }
+  }
 }
