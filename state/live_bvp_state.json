@@ -1,6 +1,12 @@
 {
   "date": "2026-05-28",
   "games": {
+    "823378": {
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-28T18:55:35.217601-04:00"
+    },
     "824272": {
       "active_pitcher_id": 696147,
       "active_pitcher_name": "Sam Bachman",
@@ -14,10 +20,16 @@
       "last_checked_at": "2026-05-28T15:19:05.277958-04:00"
     },
     "824757": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
+      "active_pitcher_id": 670245,
+      "active_pitcher_name": "Ryan Watson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T17:28:11.055724-04:00"
+      "last_checked_at": "2026-05-28T18:55:31.556544-04:00"
+    },
+    "824834": {
+      "active_pitcher_id": 571578,
+      "active_pitcher_name": "Patrick Corbin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-28T18:55:33.505143-04:00"
     }
   }
 }
