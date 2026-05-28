@@ -12,6 +12,12 @@
       "active_pitcher_name": "Davis Martin",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-28T15:19:05.277958-04:00"
+    },
+    "824757": {
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-28T17:28:11.055724-04:00"
     }
   }
 }
