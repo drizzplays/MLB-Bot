@@ -471,6 +471,76 @@ def build(old_game, new_game):
     return {"message": discord_message, "payload": payload}
 
 
+def build_batch_alert(alerts):
+    """Collapse multiple lineup alerts from one bot run into one website notification.
+
+    Each child payload is preserved under `lineup_updates` / `items`, so the
+    website can still update every affected lineup page while only creating one
+    user-facing notification.
+    """
+    if not alerts:
+        return None
+
+    if len(alerts) == 1:
+        return alerts[0]
+
+    payloads = [alert["payload"] for alert in alerts]
+
+    summary_lines = []
+    total_lineups = 0
+    posted_team_labels = []
+    game_pks = []
+
+    for payload in payloads:
+        teams = payload.get("posted_teams") or []
+        total_lineups += len(teams)
+        posted_team_labels.extend(teams)
+        if payload.get("game_pk"):
+            game_pks.append(str(payload.get("game_pk")))
+
+        summary_lines.append(
+            f"{payload.get('matchup', 'MLB game')}: "
+            f"{', '.join(teams) if teams else 'lineup posted'}"
+        )
+
+    batch_digest = hashlib.sha1(
+        json.dumps(
+            [payload.get("event_id") for payload in payloads],
+            sort_keys=True,
+            ensure_ascii=False,
+        ).encode("utf-8")
+    ).hexdigest()[:12]
+
+    title = f"{total_lineups} MLB lineups posted"
+    message = "Multiple MLB lineups updated:\n" + "\n".join(f"- {line}" for line in summary_lines)
+
+    discord_message = (
+        f"**Lineups Posted**\n"
+        f"{total_lineups} lineup updates across {len(payloads)} game(s).\n\n"
+        + "\n".join(f"- {line}" for line in summary_lines)
+    )
+
+    batch_payload = {
+        "type": "lineup_posted_batch",
+        "category": "lineup_changes",
+        "notification_category": "lineup_changes",
+        "source": "lineup_posted_bot",
+        "title": title,
+        "message": message,
+        "priority": "normal",
+        "event_id": f"lineup-posted-batch:{','.join(game_pks)}:{batch_digest}",
+        "batch": True,
+        "batch_count": len(payloads),
+        "lineup_count": total_lineups,
+        "posted_teams": sorted(set(posted_team_labels)),
+        "lineup_updates": payloads,
+        "items": payloads,
+        "notification_behavior": "single_summary",
+    }
+
+    return {"message": discord_message, "payload": batch_payload}
+
+
 def run():
     print(
         "[notify] Config: "
@@ -491,6 +561,8 @@ def run():
     print(f"Loaded old state keys: {list(old_state.keys())}")
 
     total_alerts = 0
+    sent_notifications = 0
+    pending_alerts = []
     new_state = {}
 
     for target_date in dates_to_check:
@@ -509,13 +581,22 @@ def run():
             old_game = old_games.get(game_key, {})
             alert = build(old_game, game_data)
             if alert:
-                deliver_alert(alert["message"], alert["payload"])
+                pending_alerts.append(alert)
                 total_alerts += 1
-                print(f"Sent alert for: {game_key}")
+                print(f"Queued alert for: {game_key}")
 
             date_state[game_key] = preserve_posted_lineups(old_game, game_data)
 
         new_state[date_key] = date_state
+
+    if pending_alerts:
+        batch_alert = build_batch_alert(pending_alerts)
+        deliver_alert(batch_alert["message"], batch_alert["payload"])
+        sent_notifications += 1
+        print(
+            f"Sent {'batch' if len(pending_alerts) > 1 else 'single'} lineup notification "
+            f"for {len(pending_alerts)} alert(s)."
+        )
 
     print("About to save lineup state...")
     preview = json.dumps(new_state, indent=2)
@@ -524,7 +605,7 @@ def run():
     save_state(new_state)
 
     print("Lineup state saved.")
-    print(f"Done. Total alerts sent: {total_alerts}")
+    print(f"Done. Total lineup alerts found: {total_alerts}; notifications sent: {sent_notifications}")
 
 
 if __name__ == "__main__":
