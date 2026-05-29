@@ -128,7 +128,7 @@
       "game_time": "May 29, 9:40 PM ET",
       "game_iso": "2026-05-29T21:40:00-04:00",
       "game_pk": "825002",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823135": {
       "away_team": "Arizona Diamondbacks",
@@ -138,7 +138,7 @@
       "game_time": "May 29, 10:10 PM ET",
       "game_iso": "2026-05-29T22:10:00-04:00",
       "game_pk": "823135",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823946": {
       "away_team": "Philadelphia Phillies",
@@ -148,7 +148,7 @@
       "game_time": "May 29, 10:15 PM ET",
       "game_iso": "2026-05-29T22:15:00-04:00",
       "game_pk": "823946",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
