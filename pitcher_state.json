@@ -8,7 +8,7 @@
       "game_time": "May 29, 6:40 PM ET",
       "game_iso": "2026-05-29T18:40:00-04:00",
       "game_pk": "824515",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822732": {
       "away_team": "San Diego Padres",
@@ -18,7 +18,7 @@
       "game_time": "May 29, 6:45 PM ET",
       "game_iso": "2026-05-29T18:45:00-04:00",
       "game_pk": "822732",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823377": {
       "away_team": "Minnesota Twins",
@@ -28,7 +28,7 @@
       "game_time": "May 29, 6:45 PM ET",
       "game_iso": "2026-05-29T18:45:00-04:00",
       "game_pk": "823377",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824835": {
       "away_team": "Toronto Blue Jays",
@@ -38,7 +38,7 @@
       "game_time": "May 29, 7:05 PM ET",
       "game_iso": "2026-05-29T19:05:00-04:00",
       "game_pk": "824835",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824433": {
       "away_team": "Boston Red Sox",
@@ -48,7 +48,7 @@
       "game_time": "May 29, 7:10 PM ET",
       "game_iso": "2026-05-29T19:10:00-04:00",
       "game_pk": "824433",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822978": {
       "away_team": "Los Angeles Angels",
@@ -58,7 +58,7 @@
       "game_time": "May 29, 7:10 PM ET",
       "game_iso": "2026-05-29T19:10:00-04:00",
       "game_pk": "822978",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823623": {
       "away_team": "Miami Marlins",
@@ -68,7 +68,7 @@
       "game_time": "May 29, 7:10 PM ET",
       "game_iso": "2026-05-29T19:10:00-04:00",
       "game_pk": "823623",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823055": {
       "away_team": "Chicago Cubs",
@@ -78,7 +78,7 @@
       "game_time": "May 29, 7:15 PM ET",
       "game_iso": "2026-05-29T19:15:00-04:00",
       "game_pk": "823055",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824594": {
       "away_team": "Detroit Tigers",
@@ -88,7 +88,7 @@
       "game_time": "May 29, 7:40 PM ET",
       "game_iso": "2026-05-29T19:40:00-04:00",
       "game_pk": "824594",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822894": {
       "away_team": "Kansas City Royals",
@@ -98,7 +98,7 @@
       "game_time": "May 29, 8:05 PM ET",
       "game_iso": "2026-05-29T20:05:00-04:00",
       "game_pk": "822894",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824191": {
       "away_team": "Milwaukee Brewers",
@@ -108,7 +108,7 @@
       "game_time": "May 29, 8:10 PM ET",
       "game_iso": "2026-05-29T20:10:00-04:00",
       "game_pk": "824191",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824353": {
       "away_team": "San Francisco Giants",
@@ -118,7 +118,7 @@
       "game_time": "May 29, 8:40 PM ET",
       "game_iso": "2026-05-29T20:40:00-04:00",
       "game_pk": "824353",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825002": {
       "away_team": "New York Yankees",
