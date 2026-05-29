@@ -1023,7 +1023,17 @@
     "New York Yankees @ Athletics | 825002": {
       "away_team": "New York Yankees",
       "home_team": "Athletics",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trent Grisham",
+        "Ben Rice",
+        "Aaron Judge",
+        "Cody Bellinger",
+        "Jazz Chisholm Jr.",
+        "Paul Goldschmidt",
+        "Ryan McMahon",
+        "J.C. Escarra",
+        "Jos\u00e9 Caballero"
+      ],
       "home_lineup": [
         "Colby Thomas",
         "Nick Kurtz",
@@ -1051,8 +1061,8 @@
         "Ben Rice",
         "Brent Headrick",
         "Will Warren",
-        "Fernando Cruz",
         "J.C. Escarra",
+        "Fernando Cruz",
         "Anthony Volpe",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
@@ -1098,7 +1108,17 @@
     "Arizona Diamondbacks @ Seattle Mariners | 823135": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Seattle Mariners",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ketel Marte",
+        "Corbin Carroll",
+        "Geraldo Perdomo",
+        "Gabriel Moreno",
+        "Adrian Del Castillo",
+        "Ryan Waldschmidt",
+        "Ildemaro Vargas",
+        "Jose Fernandez",
+        "Tommy Troy"
+      ],
       "home_lineup": [
         "J.P. Crawford",
         "Julio Rodr\u00edguez",
@@ -1118,8 +1138,8 @@
         "Adrian Del Castillo",
         "Nolan Arenado",
         "Tommy Troy",
-        "Merrill Kelly",
         "Ryan Waldschmidt",
+        "Merrill Kelly",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
