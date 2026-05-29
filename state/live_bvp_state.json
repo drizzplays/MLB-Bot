@@ -1,41 +1,4 @@
 {
-  "date": "2026-05-28",
-  "games": {
-    "822896": {
-      "active_pitcher_id": 543135,
-      "active_pitcher_name": "Nathan Eovaldi",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T20:15:23.449371-04:00"
-    },
-    "823378": {
-      "active_pitcher_id": 682254,
-      "active_pitcher_name": "Mason Montgomery",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T20:15:21.571136-04:00"
-    },
-    "824272": {
-      "active_pitcher_id": 696147,
-      "active_pitcher_name": "Sam Bachman",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T15:19:02.218246-04:00"
-    },
-    "824595": {
-      "active_pitcher_id": 663436,
-      "active_pitcher_name": "Davis Martin",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T15:19:05.277958-04:00"
-    },
-    "824757": {
-      "active_pitcher_id": 670245,
-      "active_pitcher_name": "Ryan Watson",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T18:55:31.556544-04:00"
-    },
-    "824834": {
-      "active_pitcher_id": 664991,
-      "active_pitcher_name": "Grant Wolfram",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-05-28T20:15:19.594133-04:00"
-    }
-  }
+  "date": "2026-05-29",
+  "games": {}
 }
