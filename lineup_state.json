@@ -108,7 +108,7 @@
         "Jorbit Vivas",
         "Dylan Crews",
         "Drew Millas",
-        "Nasim Nu\u00f1ez"
+        "Curtis Mead"
       ],
       "away_roster": [
         "Yuki Matsui",
@@ -176,13 +176,13 @@
       "away_lineup": [
         "Carter Jensen",
         "Bobby Witt Jr.",
-        "Maikel Garcia",
+        "Tyler Tolbert",
         "Vinnie Pasquantino",
         "Salvador Perez",
         "Jac Caglianone",
         "Isaac Collins",
-        "Michael Massey",
-        "Kyle Isbel"
+        "Lane Thomas",
+        "Nick Loftin"
       ],
       "home_lineup": [
         "Joc Pederson",
@@ -190,7 +190,7 @@
         "Brandon Nimmo",
         "Jake Burger",
         "Ezequiel Duran",
-        "Alejandro Osuna",
+        "Sam Haggerty",
         "Danny Jansen",
         "Nicky Lopez",
         "Michael Helman"
@@ -198,8 +198,8 @@
       "away_roster": [
         "Carter Jensen",
         "Eli Morgan",
-        "Mason Black",
         "Tyler Tolbert",
+        "Mason Black",
         "Isaac Collins",
         "Salvador Perez",
         "Luinder Avila",
@@ -245,8 +245,8 @@
         "Gavin Collyer",
         "Jacob deGrom",
         "Brandon Nimmo",
-        "Danny Jansen",
         "Sam Haggerty",
+        "Danny Jansen",
         "Jakob Junis",
         "Nathan Eovaldi",
         "Chris Martin"
@@ -264,7 +264,7 @@
         "Vladimir Guerrero Jr.",
         "Daulton Varsho",
         "Kazuma Okamoto",
-        "Jes\u00fas S\u00e1nchez",
+        "Myles Straw",
         "Ernie Clement",
         "Andr\u00e9s Gim\u00e9nez",
         "Tyler Heineman"
@@ -278,7 +278,7 @@
         "Coby Mayo",
         "Leody Taveras",
         "Jackson Holliday",
-        "Jeremiah Jackson"
+        "Colton Cowser"
       ],
       "away_roster": [
         "Spencer Miles",
@@ -356,7 +356,7 @@
       ],
       "home_lineup": [
         "Spencer Horwitz",
-        "Brandon Lowe",
+        "Tyler Callihan",
         "Bryan Reynolds",
         "Nick Gonzales",
         "Oneil Cruz",
@@ -433,8 +433,8 @@
         "Ceddanne Rafaela",
         "Wilyer Abreu",
         "Willson Contreras",
-        "Nick Sogard",
-        "Andruw Monasterio",
+        "Marcelo Mayer",
+        "Masataka Yoshida",
         "Isiah Kiner-Falefa",
         "Connor Wong",
         "Caleb Durbin"
@@ -444,7 +444,7 @@
         "Jos\u00e9 Ram\u00edrez",
         "Chase DeLauter",
         "Kyle Manzardo",
-        "Angel Mart\u00ednez",
+        "Stuart Fairchild",
         "Daniel Schneemann",
         "Petey Halpin",
         "Austin Hedges",
@@ -514,7 +514,7 @@
       "away_team": "Los Angeles Angels",
       "home_team": "Tampa Bay Rays",
       "away_lineup": [
-        "Zach Neto",
+        "Nick Madrigal",
         "Mike Trout",
         "Vaughn Grissom",
         "Jorge Soler",
@@ -528,7 +528,7 @@
         "Yandy D\u00edaz",
         "Jonathan Aranda",
         "Junior Caminero",
-        "Ryan Vilade",
+        "Victor Mesa Jr.",
         "Chandler Simpson",
         "Ben Williamson",
         "Nick Fortes",
@@ -585,8 +585,8 @@
         "Craig Kimbrel",
         "Yandy D\u00edaz",
         "Ben Williamson",
-        "Bryan Baker",
         "Victor Mesa Jr.",
+        "Bryan Baker",
         "Junior Caminero",
         "Drew Rasmussen",
         "Cedric Mullins"
@@ -701,7 +701,7 @@
         "Taylor Trammell",
         "Isaac Paredes",
         "Cam Smith",
-        "Braden Shewmake",
+        "Nick Allen",
         "Jake Meyers",
         "Christian V\u00e1zquez"
       ],
@@ -768,7 +768,17 @@
     "Chicago Cubs @ St. Louis Cardinals | 823054": {
       "away_team": "Chicago Cubs",
       "home_team": "St. Louis Cardinals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Nico Hoerner",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Seiya Suzuki",
+        "Mois\u00e9s Ballesteros",
+        "Miguel Amaya",
+        "Dansby Swanson"
+      ],
       "home_lineup": [
         "JJ Wetherholt",
         "Iv\u00e1n Herrera",
@@ -802,8 +812,8 @@
         "Ryan Rolison",
         "Trent Thornton",
         "Kevin Alc\u00e1ntara",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Phil Maton",
         "Nico Hoerner",
         "Ben Brown"
@@ -855,15 +865,15 @@
         "Sandy Le\u00f3n"
       ],
       "home_lineup": [
-        "Dane Myers",
+        "Blake Dunn",
         "Elly De La Cruz",
         "Sal Stewart",
         "Eugenio Su\u00e1rez",
         "Spencer Steer",
         "JJ Bleday",
-        "Blake Dunn",
         "Tyler Stephenson",
-        "Matt McLain"
+        "Matt McLain",
+        "TJ Friedl"
       ],
       "away_roster": [
         "Chadwick Tromp",
@@ -896,8 +906,8 @@
       "home_roster": [
         "Yunior Marte",
         "Elly De La Cruz",
-        "Dane Myers",
         "Sal Stewart",
+        "Dane Myers",
         "Lyon Richardson",
         "Tejay Antone",
         "Tony Santillan",
@@ -1005,7 +1015,17 @@
       "away_team": "New York Yankees",
       "home_team": "Athletics",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Colby Thomas",
+        "Nick Kurtz",
+        "Shea Langeliers",
+        "Brent Rooker",
+        "Tyler Soderstrom",
+        "Henry Bolte",
+        "Zack Gelof",
+        "Darell Hernaiz",
+        "Alika Williams"
+      ],
       "away_roster": [
         "Paul Blackburn",
         "Jos\u00e9 Caballero",
@@ -1037,7 +1057,6 @@
       "home_roster": [
         "Lawrence Butler",
         "Jonah Heim",
-        "Luis Severino",
         "Brent Rooker",
         "J.T. Ginn",
         "Zack Gelof",
@@ -1046,6 +1065,7 @@
         "Scott Barlow",
         "Carlos Cortes",
         "Jos\u00e9 Suarez",
+        "Michael Kelly",
         "Jacob Lopez",
         "Alika Williams",
         "Joel Kuhnel",
@@ -1070,7 +1090,17 @@
       "away_team": "Arizona Diamondbacks",
       "home_team": "Seattle Mariners",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "J.P. Crawford",
+        "Julio Rodr\u00edguez",
+        "Josh Naylor",
+        "Randy Arozarena",
+        "Luke Raley",
+        "Cole Young",
+        "Dominic Canzone",
+        "Mitch Garver",
+        "Colt Emerson"
+      ],
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
@@ -1105,8 +1135,8 @@
         "Cole Young",
         "Jos\u00e9 A. Ferrer",
         "Alex Hoppe",
-        "Randy Arozarena",
         "J.P. Crawford",
+        "Randy Arozarena",
         "Patrick Wisdom",
         "Dominic Canzone",
         "Jhonny Pereda",
@@ -1135,7 +1165,17 @@
       "away_team": "Philadelphia Phillies",
       "home_team": "Los Angeles Dodgers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Kyle Tucker",
+        "Will Smith",
+        "Miguel Rojas",
+        "Alex Call",
+        "Santiago Espinal"
+      ],
       "away_roster": [
         "Brandon Marsh",
         "Jes\u00fas Luzardo",
@@ -1169,18 +1209,18 @@
         "Dalton Rushing",
         "Alex Vesia",
         "Kyle Tucker",
+        "Ryan Ward",
         "Max Muncy",
         "Freddie Freeman",
         "Edgardo Henriquez",
         "Eric Lauer",
-        "Hyeseong Kim",
         "Tanner Scott",
+        "Santiago Espinal",
         "Kyle Hurt",
         "Shohei Ohtani",
         "Will Klein",
         "Justin Wrobleski",
         "Jonathan Hern\u00e1ndez",
-        "Teoscar Hern\u00e1ndez",
         "Andy Pages",
         "Mookie Betts",
         "Alex Call",
