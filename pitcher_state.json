@@ -38,7 +38,7 @@
       "game_time": "May 30, 10:05 PM ET",
       "game_iso": "2026-05-30T22:05:00-04:00",
       "game_pk": "825000",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823132": {
       "away_team": "Arizona Diamondbacks",
@@ -58,7 +58,7 @@
       "game_time": "May 30, 10:10 PM ET",
       "game_iso": "2026-05-30T22:10:00-04:00",
       "game_pk": "823945",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
