@@ -8,7 +8,7 @@
       "game_time": "May 30, 2:10 PM ET",
       "game_iso": "2026-05-30T14:10:00-04:00",
       "game_pk": "824593",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822731": {
       "away_team": "San Diego Padres",
@@ -88,7 +88,7 @@
       "game_time": "May 30, 4:10 PM ET",
       "game_iso": "2026-05-30T16:10:00-04:00",
       "game_pk": "824190",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823054": {
       "away_team": "Chicago Cubs",
