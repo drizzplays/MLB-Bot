@@ -100,11 +100,11 @@
         "Rodolfo Dur\u00e1n"
       ],
       "home_lineup": [
-        "James Wood",
+        "Clayton Beeter",
         "Luis Garc\u00eda Jr.",
         "Daylen Lile",
         "CJ Abrams",
-        "Jos\u00e9 Tena",
+        "Jacob Young",
         "Jorbit Vivas",
         "Dylan Crews",
         "Drew Millas",
@@ -192,7 +192,7 @@
         "Ezequiel Duran",
         "Sam Haggerty",
         "Danny Jansen",
-        "Nicky Lopez",
+        "Justin Foscue",
         "Michael Helman"
       ],
       "away_roster": [
@@ -345,14 +345,14 @@
       "home_team": "Pittsburgh Pirates",
       "away_lineup": [
         "Byron Buxton",
-        "Trevor Larnach",
+        "Brooks Lee",
         "Josh Bell",
         "Kody Clemens",
         "Austin Martin",
-        "Victor Caratini",
+        "James Outman",
         "Orlando Arcia",
         "Luke Keaschall",
-        "Tristan Gray"
+        "Ryan Kreidler"
       ],
       "home_lineup": [
         "Spencer Horwitz",
@@ -443,9 +443,9 @@
         "Travis Bazzana",
         "Jos\u00e9 Ram\u00edrez",
         "Chase DeLauter",
-        "Kyle Manzardo",
+        "Rhys Hoskins",
         "Stuart Fairchild",
-        "Daniel Schneemann",
+        "David Fry",
         "Petey Halpin",
         "Austin Hedges",
         "Brayan Rocchio"
@@ -514,11 +514,11 @@
       "away_team": "Los Angeles Angels",
       "home_team": "Tampa Bay Rays",
       "away_lineup": [
-        "Nick Madrigal",
+        "Adam Frazier",
         "Mike Trout",
         "Vaughn Grissom",
         "Jorge Soler",
-        "Wade Meckler",
+        "Jose Siri",
         "Jo Adell",
         "Oswald Peraza",
         "Donovan Walton",
@@ -537,9 +537,9 @@
       ],
       "away_roster": [
         "Adam Frazier",
+        "Jose Siri",
         "Oswald Peraza",
         "Donovan Walton",
-        "Jose Siri",
         "Zach Neto",
         "Jorge Soler",
         "Nick Madrigal",
@@ -691,7 +691,7 @@
         "Jake Bauers",
         "Andrew Vaughn",
         "Garrett Mitchell",
-        "Joey Ortiz",
+        "Gary S\u00e1nchez",
         "David Hamilton"
       ],
       "home_lineup": [
@@ -949,12 +949,23 @@
         "Eric Haase",
         "Drew Gilbert"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jake McCarthy",
+        "TJ Rumfield",
+        "Hunter Goodman",
+        "Willi Castro",
+        "Troy Johnston",
+        "Ezequiel Tovar",
+        "Sterlin Thompson",
+        "Edouard Julien",
+        "Brett Sullivan"
+      ],
       "away_roster": [
         "Casey Schmitt",
         "JT Brubaker",
         "Trevor McDonald",
         "Victor Bericoto",
+        "Will Brennan",
         "Jesus Rodriguez",
         "Logan Webb",
         "Keaton Winn",
@@ -966,7 +977,6 @@
         "Sam Hentges",
         "Rafael Devers",
         "Joel Peguero",
-        "Harrison Bader",
         "Eric Haase",
         "Adrian Houser",
         "Willy Adames",
@@ -983,7 +993,6 @@
         "Keegan Thompson",
         "Blas Casta\u00f1o",
         "Chad Stevens",
-        "Welinton Herrera",
         "Jake McCarthy",
         "Troy Johnston",
         "Braxton Fulford",
@@ -995,11 +1004,11 @@
         "Edouard Julien",
         "Hunter Goodman",
         "Tomoyuki Sugano",
+        "Brett Sullivan",
         "Zach Agnos",
         "Tanner Gordon",
-        "Brett Sullivan",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Seth Halvorsen",
         "Antonio Senzatela",
@@ -1014,7 +1023,17 @@
     "New York Yankees @ Athletics | 825000": {
       "away_team": "New York Yankees",
       "home_team": "Athletics",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trent Grisham",
+        "Ben Rice",
+        "Aaron Judge",
+        "Cody Bellinger",
+        "Jazz Chisholm Jr.",
+        "Paul Goldschmidt",
+        "Ryan McMahon",
+        "Austin Wells",
+        "Anthony Volpe"
+      ],
       "home_lineup": [
         "Colby Thomas",
         "Nick Kurtz",
@@ -1042,9 +1061,9 @@
         "Ben Rice",
         "Brent Headrick",
         "Will Warren",
+        "Anthony Volpe",
         "Fernando Cruz",
         "J.C. Escarra",
-        "Anthony Volpe",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
         "Jake Bird",
@@ -1164,7 +1183,17 @@
     "Philadelphia Phillies @ Los Angeles Dodgers | 823945": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Brandon Marsh",
+        "Alec Bohm",
+        "Bryson Stott",
+        "J.T. Realmuto",
+        "Adolis Garc\u00eda",
+        "Justin Crawford"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
@@ -1192,8 +1221,8 @@
         "Jonathan Bowlan",
         "Chase Shugart",
         "Tim Mayza",
-        "Nolan Hoffman",
         "Bryson Stott",
+        "Nolan Hoffman",
         "Kyle Schwarber",
         "Rafael March\u00e1n",
         "Garrett Stubbs",
