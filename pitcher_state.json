@@ -1,15 +1,5 @@
 {
   "2026-05-30": {
-    "824593": {
-      "away_team": "Detroit Tigers",
-      "home_team": "Chicago White Sox",
-      "away_pitcher": "Framber Valdez",
-      "home_pitcher": "Anthony Kay",
-      "game_time": "May 30, 2:10 PM ET",
-      "game_iso": "2026-05-30T14:10:00-04:00",
-      "game_pk": "824593",
-      "status_code": "P"
-    },
     "822731": {
       "away_team": "San Diego Padres",
       "home_team": "Washington Nationals",
@@ -108,7 +98,7 @@
       "game_time": "May 30, 7:15 PM ET",
       "game_iso": "2026-05-30T19:15:00-04:00",
       "game_pk": "824513",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824352": {
       "away_team": "San Francisco Giants",
