@@ -1,4 +1,11 @@
 {
   "date": "2026-05-30",
-  "games": {}
+  "games": {
+    "824593": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-30T15:25:41.333936-04:00"
+    }
+  }
 }
