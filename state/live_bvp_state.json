@@ -2,10 +2,10 @@
   "date": "2026-05-30",
   "games": {
     "822731": {
-      "active_pitcher_id": 650633,
-      "active_pitcher_name": "Michael King",
+      "active_pitcher_id": 695418,
+      "active_pitcher_name": "Brad Lord",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-30T16:33:35.182945-04:00"
+      "last_checked_at": "2026-05-30T17:39:59.778147-04:00"
     },
     "822893": {
       "active_pitcher_id": 607625,
@@ -20,18 +20,18 @@
       "last_checked_at": "2026-05-30T16:33:48.704700-04:00"
     },
     "823375": {
-      "active_pitcher_id": 656605,
-      "active_pitcher_name": "Mitch Keller",
+      "active_pitcher_id": 670990,
+      "active_pitcher_name": "Yohan Ram\u00edrez",
       "alerted_pairs": [
         "656605:606115"
       ],
-      "last_checked_at": "2026-05-30T16:33:41.891541-04:00"
+      "last_checked_at": "2026-05-30T17:40:06.289559-04:00"
     },
     "823622": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+      "active_pitcher_id": 663969,
+      "active_pitcher_name": "Tyler Phillips",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-30T16:33:50.885294-04:00"
+      "last_checked_at": "2026-05-30T17:40:12.585322-04:00"
     },
     "824190": {
       "active_pitcher_id": 663567,
@@ -40,10 +40,10 @@
       "last_checked_at": "2026-05-30T16:33:53.079914-04:00"
     },
     "824431": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+      "active_pitcher_id": 670036,
+      "active_pitcher_name": "Matt Festa",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-30T16:33:46.626133-04:00"
+      "last_checked_at": "2026-05-30T17:40:09.422883-04:00"
     },
     "824593": {
       "active_pitcher_id": 670950,
@@ -52,10 +52,10 @@
       "last_checked_at": "2026-05-30T16:33:32.432780-04:00"
     },
     "824833": {
-      "active_pitcher_id": 702056,
-      "active_pitcher_name": "Trey Yesavage",
+      "active_pitcher_id": 684320,
+      "active_pitcher_name": "Yariel Rodr\u00edguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-30T16:33:39.665926-04:00"
+      "last_checked_at": "2026-05-30T17:40:02.968342-04:00"
     }
   }
 }
