@@ -2,10 +2,10 @@
   "date": "2026-05-31",
   "games": {
     "822729": {
-      "active_pitcher_id": 641793,
-      "active_pitcher_name": "Zack Littell",
+      "active_pitcher_id": 592094,
+      "active_pitcher_name": "Jason Adam",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:20.425061-04:00"
+      "last_checked_at": "2026-05-31T15:57:47.100124-04:00"
     },
     "822895": {
       "active_pitcher_id": 683004,
@@ -16,52 +16,76 @@
       "last_checked_at": "2026-05-31T14:40:40.073270-04:00"
     },
     "822976": {
-      "active_pitcher_id": 663556,
-      "active_pitcher_name": "Shane McClanahan",
+      "active_pitcher_id": 519141,
+      "active_pitcher_name": "Drew Pomeranz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:27.643041-04:00"
+      "last_checked_at": "2026-05-31T15:57:54.063886-04:00"
+    },
+    "823133": {
+      "active_pitcher_id": 682243,
+      "active_pitcher_name": "Bryce Miller",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-31T15:58:09.356141-04:00"
     },
     "823373": {
-      "active_pitcher_id": 805673,
-      "active_pitcher_name": "Zebby Matthews",
+      "active_pitcher_id": 702474,
+      "active_pitcher_name": "Mike Paredes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:22.751409-04:00"
+      "last_checked_at": "2026-05-31T15:57:49.427243-04:00"
     },
     "823621": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 687531,
+      "active_pitcher_name": "William Kempner",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:32.753187-04:00"
+      "last_checked_at": "2026-05-31T15:57:58.594828-04:00"
+    },
+    "823944": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-31T15:58:11.330115-04:00"
     },
     "824187": {
-      "active_pitcher_id": 837227,
-      "active_pitcher_name": "Tatsuya Imai",
+      "active_pitcher_id": 695001,
+      "active_pitcher_name": "Alimber Santa",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:37.599299-04:00"
+      "last_checked_at": "2026-05-31T15:58:03.033527-04:00"
+    },
+    "824354": {
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-31T15:58:05.407399-04:00"
     },
     "824430": {
-      "active_pitcher_id": 624133,
-      "active_pitcher_name": "Ranger Suarez",
+      "active_pitcher_id": 594027,
+      "active_pitcher_name": "Tyron Guerrero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:25.122812-04:00"
+      "last_checked_at": "2026-05-31T15:57:51.732486-04:00"
     },
     "824512": {
-      "active_pitcher_id": 675911,
-      "active_pitcher_name": "Spencer Strider",
+      "active_pitcher_id": 625643,
+      "active_pitcher_name": "Reynaldo L\u00f3pez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:30.348822-04:00"
+      "last_checked_at": "2026-05-31T15:57:56.307755-04:00"
     },
     "824592": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+      "active_pitcher_id": 623454,
+      "active_pitcher_name": "Drew Anderson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T14:40:35.041356-04:00"
+      "last_checked_at": "2026-05-31T15:58:00.785786-04:00"
     },
     "824832": {
       "active_pitcher_id": 669330,
       "active_pitcher_name": "Tyler Wells",
       "alerted_pairs": [],
       "last_checked_at": "2026-05-31T14:40:17.444364-04:00"
+    },
+    "825001": {
+      "active_pitcher_id": 682052,
+      "active_pitcher_name": "Jacob Lopez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-31T15:58:07.371402-04:00"
     }
   }
 }
