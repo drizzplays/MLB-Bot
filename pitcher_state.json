@@ -1,45 +1,5 @@
 {
   "2026-05-31": {
-    "824592": {
-      "away_team": "Detroit Tigers",
-      "home_team": "Chicago White Sox",
-      "away_pitcher": "Keider Montero",
-      "home_pitcher": "Sean Burke",
-      "game_time": "May 31, 2:10 PM ET",
-      "game_iso": "2026-05-31T14:10:00-04:00",
-      "game_pk": "824592",
-      "status_code": "P"
-    },
-    "824187": {
-      "away_team": "Milwaukee Brewers",
-      "home_team": "Houston Astros",
-      "away_pitcher": "Jacob Misiorowski",
-      "home_pitcher": "Tatsuya Imai",
-      "game_time": "May 31, 2:10 PM ET",
-      "game_iso": "2026-05-31T14:10:00-04:00",
-      "game_pk": "824187",
-      "status_code": "P"
-    },
-    "822895": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Texas Rangers",
-      "away_pitcher": "Michael Wacha",
-      "home_pitcher": "Jack Leiter",
-      "game_time": "May 31, 2:35 PM ET",
-      "game_iso": "2026-05-31T14:35:00-04:00",
-      "game_pk": "822895",
-      "status_code": "P"
-    },
-    "824354": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Robbie Ray",
-      "home_pitcher": "Tanner Gordon",
-      "game_time": "May 31, 3:10 PM ET",
-      "game_iso": "2026-05-31T15:10:00-04:00",
-      "game_pk": "824354",
-      "status_code": "P"
-    },
     "825001": {
       "away_team": "New York Yankees",
       "home_team": "Athletics",
