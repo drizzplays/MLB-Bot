@@ -1,4 +1,11 @@
 {
   "date": "2026-05-31",
-  "games": {}
+  "games": {
+    "824832": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-05-31T13:19:13.079612-04:00"
+    }
+  }
 }
