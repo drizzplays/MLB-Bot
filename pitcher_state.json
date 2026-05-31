@@ -1,35 +1,5 @@
 {
   "2026-05-31": {
-    "825001": {
-      "away_team": "New York Yankees",
-      "home_team": "Athletics",
-      "away_pitcher": "Will Warren",
-      "home_pitcher": "Jacob Lopez",
-      "game_time": "May 31, 4:05 PM ET",
-      "game_iso": "2026-05-31T16:05:00-04:00",
-      "game_pk": "825001",
-      "status_code": "P"
-    },
-    "823133": {
-      "away_team": "Arizona Diamondbacks",
-      "home_team": "Seattle Mariners",
-      "away_pitcher": "Merrill Kelly",
-      "home_pitcher": "Bryce Miller",
-      "game_time": "May 31, 4:10 PM ET",
-      "game_iso": "2026-05-31T16:10:00-04:00",
-      "game_pk": "823133",
-      "status_code": "P"
-    },
-    "823944": {
-      "away_team": "Philadelphia Phillies",
-      "home_team": "Los Angeles Dodgers",
-      "away_pitcher": "Andrew Painter",
-      "home_pitcher": "Yoshinobu Yamamoto",
-      "game_time": "May 31, 4:10 PM ET",
-      "game_iso": "2026-05-31T16:10:00-04:00",
-      "game_pk": "823944",
-      "status_code": "P"
-    },
     "823053": {
       "away_team": "Chicago Cubs",
       "home_team": "St. Louis Cardinals",
@@ -38,7 +8,7 @@
       "game_time": "May 31, 7:20 PM ET",
       "game_iso": "2026-05-31T19:20:00-04:00",
       "game_pk": "823053",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
