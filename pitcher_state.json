@@ -1,15 +1,5 @@
 {
   "2026-05-30": {
-    "824352": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Adrian Houser",
-      "home_pitcher": "Ryan Feltner",
-      "game_time": "May 30, 9:10 PM ET",
-      "game_iso": "2026-05-30T21:10:00-04:00",
-      "game_pk": "824352",
-      "status_code": "P"
-    },
     "825000": {
       "away_team": "New York Yankees",
       "home_team": "Athletics",
