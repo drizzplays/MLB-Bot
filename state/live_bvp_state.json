@@ -22,10 +22,10 @@
       "last_checked_at": "2026-05-31T15:57:54.063886-04:00"
     },
     "823133": {
-      "active_pitcher_id": 682243,
-      "active_pitcher_name": "Bryce Miller",
+      "active_pitcher_id": 622491,
+      "active_pitcher_name": "Luis Castillo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T15:58:09.356141-04:00"
+      "last_checked_at": "2026-05-31T18:29:27.198630-04:00"
     },
     "823373": {
       "active_pitcher_id": 702474,
@@ -40,10 +40,10 @@
       "last_checked_at": "2026-05-31T15:57:58.594828-04:00"
     },
     "823944": {
-      "active_pitcher_id": 691725,
-      "active_pitcher_name": "Andrew Painter",
+      "active_pitcher_id": 683618,
+      "active_pitcher_name": "Edgardo Henriquez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T17:11:05.802490-04:00"
+      "last_checked_at": "2026-05-31T18:29:30.209727-04:00"
     },
     "824187": {
       "active_pitcher_id": 695001,
@@ -52,10 +52,10 @@
       "last_checked_at": "2026-05-31T15:58:03.033527-04:00"
     },
     "824354": {
-      "active_pitcher_id": 688642,
-      "active_pitcher_name": "Zach Agnos",
+      "active_pitcher_id": 666711,
+      "active_pitcher_name": "Joel Peguero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T17:11:00.874532-04:00"
+      "last_checked_at": "2026-05-31T18:29:21.104267-04:00"
     },
     "824430": {
       "active_pitcher_id": 594027,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-05-31T14:40:17.444364-04:00"
     },
     "825001": {
-      "active_pitcher_id": 547184,
-      "active_pitcher_name": "Michael Kelly",
+      "active_pitcher_id": 657612,
+      "active_pitcher_name": "Tim Hill",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T17:11:03.099778-04:00"
+      "last_checked_at": "2026-05-31T18:29:24.176973-04:00"
     }
   }
 }
