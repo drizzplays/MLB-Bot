@@ -769,7 +769,7 @@
       "away_team": "Kansas City Royals",
       "home_team": "Texas Rangers",
       "away_lineup": [
-        "Carter Jensen",
+        "Starling Marte",
         "Bobby Witt Jr.",
         "Vinnie Pasquantino",
         "Salvador Perez",
@@ -1114,7 +1114,7 @@
         "Brandon Marsh",
         "Alec Bohm",
         "Bryson Stott",
-        "J.T. Realmuto",
+        "Rafael March\u00e1n",
         "Adolis Garc\u00eda",
         "Justin Crawford"
       ],
@@ -1192,7 +1192,17 @@
     "Chicago Cubs @ St. Louis Cardinals | 823053": {
       "away_team": "Chicago Cubs",
       "home_team": "St. Louis Cardinals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Nico Hoerner",
+        "Pete Crow-Armstrong",
+        "Alex Bregman",
+        "Seiya Suzuki",
+        "Ian Happ",
+        "Carson Kelly",
+        "Michael Busch",
+        "Kevin Alc\u00e1ntara",
+        "Dansby Swanson"
+      ],
       "home_lineup": [
         "JJ Wetherholt",
         "Iv\u00e1n Herrera",
@@ -1215,8 +1225,8 @@
         "Shota Imanaga",
         "Alex Bregman",
         "Pedro Ram\u00edrez",
-        "Michael Busch",
         "Carson Kelly",
+        "Michael Busch",
         "Jameson Taillon",
         "Pete Crow-Armstrong",
         "Jacob Webb",
@@ -1226,8 +1236,8 @@
         "Ryan Rolison",
         "Trent Thornton",
         "Kevin Alc\u00e1ntara",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Phil Maton",
         "Nico Hoerner",
         "Ben Brown"
