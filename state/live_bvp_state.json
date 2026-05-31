@@ -8,12 +8,12 @@
       "last_checked_at": "2026-05-31T15:57:47.100124-04:00"
     },
     "822895": {
-      "active_pitcher_id": 683004,
-      "active_pitcher_name": "Jack Leiter",
+      "active_pitcher_id": 669212,
+      "active_pitcher_name": "Eli Morgan",
       "alerted_pairs": [
         "683004:521692"
       ],
-      "last_checked_at": "2026-05-31T14:40:40.073270-04:00"
+      "last_checked_at": "2026-05-31T17:10:58.203311-04:00"
     },
     "822976": {
       "active_pitcher_id": 519141,
@@ -40,10 +40,10 @@
       "last_checked_at": "2026-05-31T15:57:58.594828-04:00"
     },
     "823944": {
-      "active_pitcher_id": 808967,
-      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "active_pitcher_id": 691725,
+      "active_pitcher_name": "Andrew Painter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T15:58:11.330115-04:00"
+      "last_checked_at": "2026-05-31T17:11:05.802490-04:00"
     },
     "824187": {
       "active_pitcher_id": 695001,
@@ -52,10 +52,10 @@
       "last_checked_at": "2026-05-31T15:58:03.033527-04:00"
     },
     "824354": {
-      "active_pitcher_id": 592662,
-      "active_pitcher_name": "Robbie Ray",
+      "active_pitcher_id": 688642,
+      "active_pitcher_name": "Zach Agnos",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T15:58:05.407399-04:00"
+      "last_checked_at": "2026-05-31T17:11:00.874532-04:00"
     },
     "824430": {
       "active_pitcher_id": 594027,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-05-31T14:40:17.444364-04:00"
     },
     "825001": {
-      "active_pitcher_id": 682052,
-      "active_pitcher_name": "Jacob Lopez",
+      "active_pitcher_id": 547184,
+      "active_pitcher_name": "Michael Kelly",
       "alerted_pairs": [],
-      "last_checked_at": "2026-05-31T15:58:07.371402-04:00"
+      "last_checked_at": "2026-05-31T17:11:03.099778-04:00"
     }
   }
 }
