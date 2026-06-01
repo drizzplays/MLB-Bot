@@ -1,4 +1,43 @@
 {
   "date": "2026-06-01",
-  "games": {}
+  "games": {
+    "822730": {
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T19:45:41.714850-04:00"
+    },
+    "822974": {
+      "active_pitcher_id": 680744,
+      "active_pitcher_name": "Ty Madden",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T19:45:39.325189-04:00"
+    },
+    "823050": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T19:45:54.764556-04:00"
+    },
+    "823702": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [
+        "657746:643217"
+      ],
+      "last_checked_at": "2026-06-01T19:45:46.912982-04:00"
+    },
+    "823781": {
+      "active_pitcher_id": 675660,
+      "active_pitcher_name": "Shane Drohan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T19:45:52.483010-04:00"
+    },
+    "824510": {
+      "active_pitcher_id": 679883,
+      "active_pitcher_name": "Luinder Avila",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T19:45:44.477584-04:00"
+    }
+  }
 }
