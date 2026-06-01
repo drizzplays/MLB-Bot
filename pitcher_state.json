@@ -33,12 +33,12 @@
     "823702": {
       "away_team": "Chicago White Sox",
       "home_team": "Minnesota Twins",
-      "away_pitcher": "TBD",
+      "away_pitcher": "David Sandlin",
       "home_pitcher": "Joe Ryan",
       "game_time": "Jun 1, 7:40 PM ET",
       "game_iso": "2026-06-01T19:40:00-04:00",
       "game_pk": "823702",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823781": {
       "away_team": "San Francisco Giants",
@@ -48,7 +48,7 @@
       "game_time": "Jun 1, 7:40 PM ET",
       "game_iso": "2026-06-01T19:40:00-04:00",
       "game_pk": "823781",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823050": {
       "away_team": "Texas Rangers",
@@ -58,7 +58,7 @@
       "game_time": "Jun 1, 7:45 PM ET",
       "game_iso": "2026-06-01T19:45:00-04:00",
       "game_pk": "823050",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824027": {
       "away_team": "Colorado Rockies",
@@ -68,7 +68,7 @@
       "game_time": "Jun 1, 9:38 PM ET",
       "game_iso": "2026-06-01T21:38:00-04:00",
       "game_pk": "824027",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825078": {
       "away_team": "Los Angeles Dodgers",
@@ -78,7 +78,7 @@
       "game_time": "Jun 1, 9:40 PM ET",
       "game_iso": "2026-06-01T21:40:00-04:00",
       "game_pk": "825078",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823131": {
       "away_team": "New York Mets",
@@ -88,7 +88,7 @@
       "game_time": "Jun 1, 9:40 PM ET",
       "game_iso": "2026-06-01T21:40:00-04:00",
       "game_pk": "823131",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
