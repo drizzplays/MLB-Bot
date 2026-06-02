@@ -14,30 +14,50 @@
       "last_checked_at": "2026-06-01T19:45:39.325189-04:00"
     },
     "823050": {
-      "active_pitcher_id": 700241,
-      "active_pitcher_name": "Michael McGreevy",
+      "active_pitcher_id": 596001,
+      "active_pitcher_name": "Jakob Junis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-01T19:45:54.764556-04:00"
+      "last_checked_at": "2026-06-01T22:05:20.502788-04:00"
+    },
+    "823131": {
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T22:05:29.121639-04:00"
     },
     "823702": {
-      "active_pitcher_id": 657746,
-      "active_pitcher_name": "Joe Ryan",
+      "active_pitcher_id": 670950,
+      "active_pitcher_name": "Trevor Richards",
       "alerted_pairs": [
         "657746:643217"
       ],
-      "last_checked_at": "2026-06-01T19:45:46.912982-04:00"
+      "last_checked_at": "2026-06-01T22:05:16.017361-04:00"
     },
     "823781": {
-      "active_pitcher_id": 675660,
-      "active_pitcher_name": "Shane Drohan",
+      "active_pitcher_id": 681982,
+      "active_pitcher_name": "Grant Anderson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-01T19:45:52.483010-04:00"
+      "last_checked_at": "2026-06-01T22:05:18.227674-04:00"
+    },
+    "824027": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-01T22:05:22.668821-04:00"
     },
     "824510": {
       "active_pitcher_id": 679883,
       "active_pitcher_name": "Luinder Avila",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-01T19:45:44.477584-04:00"
+    },
+    "825078": {
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
+      "alerted_pairs": [
+        "593958:500743"
+      ],
+      "last_checked_at": "2026-06-01T22:05:24.695725-04:00"
     }
   }
 }
