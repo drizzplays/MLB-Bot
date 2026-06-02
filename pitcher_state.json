@@ -78,7 +78,7 @@
       "game_time": "Jun 2, 7:40 PM ET",
       "game_iso": "2026-06-02T19:40:00-04:00",
       "game_pk": "823700",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823782": {
       "away_team": "San Francisco Giants",
@@ -88,7 +88,7 @@
       "game_time": "Jun 2, 7:40 PM ET",
       "game_iso": "2026-06-02T19:40:00-04:00",
       "game_pk": "823782",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823052": {
       "away_team": "Texas Rangers",
@@ -98,7 +98,7 @@
       "game_time": "Jun 2, 7:45 PM ET",
       "game_iso": "2026-06-02T19:45:00-04:00",
       "game_pk": "823052",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824675": {
       "away_team": "Athletics",
@@ -108,7 +108,7 @@
       "game_time": "Jun 2, 8:05 PM ET",
       "game_iso": "2026-06-02T20:05:00-04:00",
       "game_pk": "824675",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824189": {
       "away_team": "Pittsburgh Pirates",
@@ -128,7 +128,7 @@
       "game_time": "Jun 2, 9:38 PM ET",
       "game_iso": "2026-06-02T21:38:00-04:00",
       "game_pk": "824026",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825079": {
       "away_team": "Los Angeles Dodgers",
@@ -138,7 +138,7 @@
       "game_time": "Jun 2, 9:40 PM ET",
       "game_iso": "2026-06-02T21:40:00-04:00",
       "game_pk": "825079",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823129": {
       "away_team": "New York Mets",
