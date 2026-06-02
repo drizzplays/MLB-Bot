@@ -8,7 +8,7 @@
       "game_time": "Jun 2, 6:40 PM ET",
       "game_iso": "2026-06-02T18:40:00-04:00",
       "game_pk": "822971",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823460": {
       "away_team": "San Diego Padres",
@@ -18,7 +18,7 @@
       "game_time": "Jun 2, 6:40 PM ET",
       "game_iso": "2026-06-02T18:40:00-04:00",
       "game_pk": "823460",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824754": {
       "away_team": "Baltimore Orioles",
@@ -28,17 +28,17 @@
       "game_time": "Jun 2, 6:45 PM ET",
       "game_iso": "2026-06-02T18:45:00-04:00",
       "game_pk": "824754",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822728": {
       "away_team": "Miami Marlins",
       "home_team": "Washington Nationals",
       "away_pitcher": "Lake Bachar",
-      "home_pitcher": "Miles Mikolas",
+      "home_pitcher": "Richard Lovelady",
       "game_time": "Jun 2, 6:45 PM ET",
       "game_iso": "2026-06-02T18:45:00-04:00",
       "game_pk": "822728",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823541": {
       "away_team": "Cleveland Guardians",
@@ -48,7 +48,7 @@
       "game_time": "Jun 2, 7:05 PM ET",
       "game_iso": "2026-06-02T19:05:00-04:00",
       "game_pk": "823541",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824511": {
       "away_team": "Kansas City Royals",
@@ -58,7 +58,7 @@
       "game_time": "Jun 2, 7:10 PM ET",
       "game_iso": "2026-06-02T19:10:00-04:00",
       "game_pk": "824511",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824918": {
       "away_team": "Toronto Blue Jays",
@@ -68,7 +68,7 @@
       "game_time": "Jun 2, 7:15 PM ET",
       "game_iso": "2026-06-02T19:15:00-04:00",
       "game_pk": "824918",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823700": {
       "away_team": "Chicago White Sox",
@@ -118,7 +118,7 @@
       "game_time": "Jun 2, 8:10 PM ET",
       "game_iso": "2026-06-02T20:10:00-04:00",
       "game_pk": "824189",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824026": {
       "away_team": "Colorado Rockies",
