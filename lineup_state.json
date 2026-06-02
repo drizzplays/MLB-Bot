@@ -6,10 +6,10 @@
       "away_lineup": [
         "Kevin McGonigle",
         "Dillon Dingler",
-        "Kerry Carpenter",
+        "Matt Vierling",
         "Riley Greene",
         "Spencer Torkelson",
-        "Colt Keith",
+        "Zack Short",
         "Wenceel P\u00e9rez",
         "Hao-Yu  Lee",
         "Zach McKinstry"
@@ -22,8 +22,8 @@
         "Ryan Vilade",
         "Victor Mesa Jr.",
         "Cedric Mullins",
-        "Hunter Feduccia",
-        "Oliver Dunn"
+        "Nick Fortes",
+        "Ben Williamson"
       ],
       "away_roster": [
         "Framber Valdez",
@@ -31,15 +31,15 @@
         "Hao-Yu  Lee",
         "Beau Brieske",
         "Ty Madden",
-        "Drew Anderson",
         "Jahmai Jones",
+        "Drew Anderson",
         "Riley Greene",
         "Tyler Holton",
         "Kevin McGonigle",
         "Kerry Carpenter",
         "Kyle Finnegan",
-        "Jack Flaherty",
         "Zack Short",
+        "Jack Flaherty",
         "Spencer Torkelson",
         "Drew Sommers",
         "Keider Montero",
@@ -94,28 +94,28 @@
         "Kyle Stowers",
         "Xavier Edwards",
         "Leo Jim\u00e9nez",
-        "Owen Caissie",
+        "Esteury Ruiz",
         "Jakob Marsee",
         "Joe Mack",
         "Connor Norby"
       ],
       "home_lineup": [
         "James Wood",
-        "Luis Garc\u00eda Jr.",
+        "Andr\u00e9s Chaparro",
         "Curtis Mead",
         "CJ Abrams",
         "Daylen Lile",
         "Jacob Young",
         "Jos\u00e9 Tena",
         "Keibert Ruiz",
-        "Nasim Nu\u00f1ez"
+        "Jorbit Vivas"
       ],
       "away_roster": [
         "Tyler Zuber",
         "Lake Bachar",
         "Zach Brzykcy",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Christopher Morel",
         "Sandy Alcantara",
         "Tyler Phillips",
@@ -185,7 +185,7 @@
         "Kyle Isbel"
       ],
       "home_lineup": [
-        "Blake Dunn",
+        "Will Benson",
         "JJ Bleday",
         "Sal Stewart",
         "Eugenio Su\u00e1rez",
@@ -273,8 +273,8 @@
         "Byron Buxton",
         "Brooks Lee",
         "Kody Clemens",
-        "Josh Bell",
-        "Trevor Larnach",
+        "Ryan Kreidler",
+        "James Outman",
         "Austin Martin",
         "Victor Caratini",
         "Luke Keaschall",
@@ -345,22 +345,22 @@
       "home_team": "Milwaukee Brewers",
       "away_lineup": [
         "Casey Schmitt",
-        "Rafael Devers",
+        "Daniel Susac",
         "Luis Arraez",
-        "Willy Adames",
+        "Buddy Kennedy",
         "Jung Hoo Lee",
-        "Matt Chapman",
+        "Victor Bericoto",
         "Bryce Eldridge",
         "Eric Haase",
-        "Jonah Cox"
+        "Drew Gilbert"
       ],
       "home_lineup": [
         "Christian Yelich",
         "Jackson Chourio",
-        "Brice Turang",
+        "Joey Ortiz",
         "William Contreras",
         "Jake Bauers",
-        "Andrew Vaughn",
+        "Blake Perkins",
         "Sal Frelick",
         "Luis Rengifo",
         "David Hamilton"
@@ -447,8 +447,8 @@
         "Bryan Torres",
         "Masyn Winn",
         "Nolan Gorman",
-        "Jimmy Crooks",
-        "Victor Scott II"
+        "Nelson Vel\u00e1zquez",
+        "Jos\u00e9 Ferm\u00edn"
       ],
       "away_roster": [
         "Evan Carter",
@@ -525,19 +525,20 @@
         "Kyle Karros"
       ],
       "home_lineup": [
-        "Zach Neto",
+        "Jorge Soler",
         "Mike Trout",
         "Vaughn Grissom",
-        "Jorge Soler",
         "Jo Adell",
         "Oswald Peraza",
         "Jose Siri",
+        "Nick Madrigal",
         "Logan O'Hoppe",
-        "Nick Madrigal"
+        "Donovan Walton"
       ],
       "away_roster": [
         "Ryan Feltner",
         "Keegan Thompson",
+        "TJ Shook",
         "Blas Casta\u00f1o",
         "Chad Stevens",
         "Jake McCarthy",
@@ -551,7 +552,6 @@
         "Edouard Julien",
         "Hunter Goodman",
         "Tomoyuki Sugano",
-        "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
         "Ezequiel Tovar",
@@ -1243,6 +1243,7 @@
         "Trevor Richards",
         "Drew Romo",
         "Seranthony Dom\u00ednguez",
+        "Chris Murphy",
         "Edgar Quero",
         "Andrew Benintendi",
         "Sean Burke",
@@ -1252,7 +1253,6 @@
         "Sam Antonacci",
         "Derek Hill",
         "Miguel Vargas",
-        "Tyler Gilbert",
         "Tyler Davis"
       ],
       "home_roster": [
