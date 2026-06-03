@@ -1,4 +1,26 @@
 {
   "date": "2026-06-03",
-  "games": {}
+  "games": {
+    "822727": {
+      "active_pitcher_id": 676974,
+      "active_pitcher_name": "Max Meyer",
+      "alerted_pairs": [
+        "676974:660688",
+        "676974:696285"
+      ],
+      "last_checked_at": "2026-06-03T14:58:29.543695-04:00"
+    },
+    "822973": {
+      "active_pitcher_id": 669438,
+      "active_pitcher_name": "Mason Englert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-03T14:58:35.123866-04:00"
+    },
+    "823701": {
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-03T14:58:37.215128-04:00"
+    }
+  }
 }
