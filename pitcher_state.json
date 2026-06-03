@@ -1,35 +1,5 @@
 {
   "2026-06-03": {
-    "822727": {
-      "away_team": "Miami Marlins",
-      "home_team": "Washington Nationals",
-      "away_pitcher": "Max Meyer",
-      "home_pitcher": "Andrew Alvarez",
-      "game_time": "Jun 3, 1:05 PM ET",
-      "game_iso": "2026-06-03T13:05:00-04:00",
-      "game_pk": "822727",
-      "status_code": "P"
-    },
-    "822973": {
-      "away_team": "Detroit Tigers",
-      "home_team": "Tampa Bay Rays",
-      "away_pitcher": "Troy Melton",
-      "home_pitcher": "Nick Martinez",
-      "game_time": "Jun 3, 1:10 PM ET",
-      "game_iso": "2026-06-03T13:10:00-04:00",
-      "game_pk": "822973",
-      "status_code": "P"
-    },
-    "823701": {
-      "away_team": "Chicago White Sox",
-      "home_team": "Minnesota Twins",
-      "away_pitcher": "Erick Fedde",
-      "home_pitcher": "Taj Bradley",
-      "game_time": "Jun 3, 1:40 PM ET",
-      "game_iso": "2026-06-03T13:40:00-04:00",
-      "game_pk": "823701",
-      "status_code": "P"
-    },
     "823130": {
       "away_team": "New York Mets",
       "home_team": "Seattle Mariners",
@@ -38,7 +8,7 @@
       "game_time": "Jun 3, 3:40 PM ET",
       "game_iso": "2026-06-03T15:40:00-04:00",
       "game_pk": "823130",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823456": {
       "away_team": "San Diego Padres",
@@ -58,7 +28,7 @@
       "game_time": "Jun 3, 6:45 PM ET",
       "game_iso": "2026-06-03T18:45:00-04:00",
       "game_pk": "824755",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823540": {
       "away_team": "Cleveland Guardians",
@@ -78,7 +48,7 @@
       "game_time": "Jun 3, 7:10 PM ET",
       "game_iso": "2026-06-03T19:10:00-04:00",
       "game_pk": "824509",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824917": {
       "away_team": "Toronto Blue Jays",
