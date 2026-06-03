@@ -8,7 +8,7 @@
       "game_time": "Jun 3, 1:05 PM ET",
       "game_iso": "2026-06-03T13:05:00-04:00",
       "game_pk": "822727",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822973": {
       "away_team": "Detroit Tigers",
@@ -18,7 +18,7 @@
       "game_time": "Jun 3, 1:10 PM ET",
       "game_iso": "2026-06-03T13:10:00-04:00",
       "game_pk": "822973",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823701": {
       "away_team": "Chicago White Sox",
@@ -28,7 +28,7 @@
       "game_time": "Jun 3, 1:40 PM ET",
       "game_iso": "2026-06-03T13:40:00-04:00",
       "game_pk": "823701",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823130": {
       "away_team": "New York Mets",
