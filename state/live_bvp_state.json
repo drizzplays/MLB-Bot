@@ -1,4 +1,77 @@
 {
   "date": "2026-06-02",
-  "games": {}
+  "games": {
+    "822728": {
+      "active_pitcher_id": 571945,
+      "active_pitcher_name": "Miles Mikolas",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:42.437604-04:00"
+    },
+    "822971": {
+      "active_pitcher_id": 592155,
+      "active_pitcher_name": "Cam Booser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:34.367758-04:00"
+    },
+    "823052": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:57.569805-04:00"
+    },
+    "823460": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:37.411701-04:00"
+    },
+    "823541": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:45.435587-04:00"
+    },
+    "823700": {
+      "active_pitcher_id": 663436,
+      "active_pitcher_name": "Davis Martin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:52.759763-04:00"
+    },
+    "823782": {
+      "active_pitcher_id": 686790,
+      "active_pitcher_name": "Trevor McDonald",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:55.196717-04:00"
+    },
+    "824189": {
+      "active_pitcher_id": 681347,
+      "active_pitcher_name": "Mike Burrows",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:05:02.572082-04:00"
+    },
+    "824511": {
+      "active_pitcher_id": 671096,
+      "active_pitcher_name": "Andrew Abbott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:47.919504-04:00"
+    },
+    "824675": {
+      "active_pitcher_id": 592791,
+      "active_pitcher_name": "Jameson Taillon",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:59.994466-04:00"
+    },
+    "824754": {
+      "active_pitcher_id": 813349,
+      "active_pitcher_name": "Connelly Early",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:39.873407-04:00"
+    },
+    "824918": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-02T20:04:50.365136-04:00"
+    }
+  }
 }
