@@ -1,11 +1,18 @@
 import json
+import hashlib
+import hmac
 import os
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
 
-WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
+ROYALTYWAGERS_WEBHOOK = os.getenv("ROYALTYWAGERS_WEBHOOK", "")
+WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
+WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
+ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
+ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 STATE_FILE = "pitcher_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
@@ -82,9 +89,79 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def send(content):
+def send_discord_message(content):
+    if not ENABLE_DISCORD_NOTIFY:
+        print("[notify] Discord disabled by ENABLE_DISCORD_NOTIFY.")
+        return False
+    if not WEBHOOK_URL:
+        raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / PITCHER_WEBHOOK_URL secret.")
+
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
+    print("[notify] Discord pitcher alert sent.")
+
+    if ROYALTYWAGERS_WEBHOOK:
+        try:
+            r2 = requests.post(ROYALTYWAGERS_WEBHOOK, json={"content": content}, timeout=20)
+            r2.raise_for_status()
+            print("[notify] Discord pitcher alert sent to RoyaltyWagers webhook.")
+        except Exception as exc:
+            print(f"[notify] RoyaltyWagers webhook failed: {exc}")
+    else:
+        print("[notify] RoyaltyWagers webhook not set; skipped secondary Discord send.")
+
+    return True
+
+
+def send_website_notification(payload):
+    if not ENABLE_WEBSITE_NOTIFY:
+        print("[notify] Website notifications disabled by ENABLE_WEBSITE_NOTIFY.")
+        return False
+    if not WEBSITE_NOTIFY_URL:
+        print("[notify] Website notifications disabled: WEBSITE_NOTIFY_URL is not set.")
+        return False
+
+    body = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    headers = {"content-type": "application/json"}
+
+    if WEBSITE_NOTIFY_SECRET:
+        signature = hmac.new(WEBSITE_NOTIFY_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
+        headers["x-sbh-signature"] = f"sha256={signature}"
+        print(f"[notify] Signature header set: true secret_len={len(WEBSITE_NOTIFY_SECRET)}")
+    else:
+        print("[notify] WEBSITE_NOTIFY_SECRET is not set; posting unsigned website notification.")
+
+    r = requests.post(WEBSITE_NOTIFY_URL, data=body, headers=headers, timeout=20)
+    response_preview = (r.text or "").replace("\n", " ")[:500]
+    print(f"[notify] Website response HTTP {r.status_code}: {response_preview}")
+    if not r.ok:
+        raise RuntimeError(f"Website notification HTTP {r.status_code}: {response_preview}")
+
+    print(f"[notify] Website pitcher alert accepted: HTTP {r.status_code}.")
+    return True
+
+
+def deliver_alert(content, payload):
+    errors = []
+    delivery = {"discord": False, "website": False}
+
+    try:
+        delivery["discord"] = bool(send_discord_message(content))
+    except Exception as exc:
+        errors.append(f"Discord: {exc}")
+
+    try:
+        delivery["website"] = bool(send_website_notification(payload))
+    except Exception as exc:
+        errors.append(f"Website notification: {exc}")
+
+    if errors:
+        print("Alert delivery warning: " + "; ".join(errors))
+    print(f"[notify] Delivery result: discord={delivery['discord']} website={delivery['website']}")
+    if not any(delivery.values()) and errors:
+        raise RuntimeError("; ".join(errors))
+
+    return delivery
 
 
 def game_status_code(game):
@@ -248,12 +325,36 @@ def build(old_game, new_game):
     if not changes:
         return None
 
-    return (
+    message = (
         f"**Pitcher Update**\n"
         f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
         f"First pitch: {new_game['game_time']}\n\n"
         + "\n".join(f"- {x}" for x in changes)
     )
+
+    change_digest = hashlib.sha1(
+        json.dumps(changes, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    ).hexdigest()[:12]
+
+    payload = {
+        "type": "pitcher_change",
+        "category": "pitching_changes",
+        "notification_category": "pitching_changes",
+        "source": "pitcher_change_bot",
+        "title": "Pitcher Update",
+        "message": message,
+        "priority": "high",
+        "event_id": f"pitcher-change:{new_game.get('game_pk')}:{change_digest}",
+        "game_pk": new_game.get("game_pk"),
+        "away_team": team_label(new_game["away_team"]),
+        "home_team": team_label(new_game["home_team"]),
+        "matchup": f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}",
+        "game_time": new_game.get("game_time"),
+        "game_iso": new_game.get("game_iso"),
+        "changes": changes,
+    }
+
+    return {"message": message, "payload": payload}
 
 
 def run():
@@ -264,6 +365,13 @@ def run():
     if CHECK_TOMORROW:
         dates_to_check.append(today + timedelta(days=1))
 
+    print(
+        "[notify] Config: "
+        f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(WEBHOOK_URL)} "
+        f"royalty_webhook_set={bool(ROYALTYWAGERS_WEBHOOK)} "
+        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
+        f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')}"
+    )
     print(f"Loaded state keys: {list(state.keys())}")
     print(f"Tomorrow check enabled: {CHECK_TOMORROW}")
 
@@ -291,7 +399,7 @@ def run():
 
             alert = build(old_game, game_data)
             if alert:
-                send(alert)
+                deliver_alert(alert["message"], alert["payload"])
                 total_alerts += 1
                 print(f"Sent alert for: {game_key}")
 

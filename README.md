@@ -22,14 +22,16 @@ Add this repo secret:
 
 ```text
 DISCORD_WEBHOOK_BVP
+ROYALTYWAGERS_WEBHOOK  # optional secondary Discord webhook
 ```
 
-Value: your Discord webhook URL.
+Value: your Discord webhook URL. `ROYALTYWAGERS_WEBHOOK` is optional, but if you want the same alerts posted into the RoyaltyWagers Discord, this secret must exist and be passed by the workflow.
 
 For pitcher-change notifications, add:
 
 ```text
 PITCHER_WEBHOOK_URL
+ROYALTYWAGERS_WEBHOOK  # optional secondary Discord webhook
 WEBSITE_NOTIFY_URL
 WEBSITE_NOTIFY_SECRET
 ```
