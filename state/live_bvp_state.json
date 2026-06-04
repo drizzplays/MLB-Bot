@@ -17,10 +17,10 @@
       "last_checked_at": "2026-06-03T14:58:35.123866-04:00"
     },
     "823051": {
-      "active_pitcher_id": 669022,
-      "active_pitcher_name": "MacKenzie Gore",
+      "active_pitcher_id": 695239,
+      "active_pitcher_name": "Robby Ahlstrom",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-03T19:59:01.366635-04:00"
+      "last_checked_at": "2026-06-03T22:11:21.101013-04:00"
     },
     "823130": {
       "active_pitcher_id": 695380,
@@ -52,11 +52,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-03T19:58:59.230541-04:00"
     },
-    "824188": {
-      "active_pitcher_id": 681293,
-      "active_pitcher_name": "Spencer Arrighetti",
+    "824024": {
+      "active_pitcher_id": 547179,
+      "active_pitcher_name": "Michael Lorenzen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-03T19:59:05.610705-04:00"
+      "last_checked_at": "2026-06-03T22:11:27.941228-04:00"
+    },
+    "824188": {
+      "active_pitcher_id": 695001,
+      "active_pitcher_name": "Alimber Santa",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-03T22:11:25.685390-04:00"
     },
     "824509": {
       "active_pitcher_id": 663568,
@@ -65,10 +71,10 @@
       "last_checked_at": "2026-06-03T19:58:54.871482-04:00"
     },
     "824671": {
-      "active_pitcher_id": 607067,
-      "active_pitcher_name": "Colin Rea",
+      "active_pitcher_id": 573204,
+      "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-03T19:59:03.561664-04:00"
+      "last_checked_at": "2026-06-03T22:11:23.306654-04:00"
     },
     "824755": {
       "active_pitcher_id": 544150,
@@ -81,6 +87,12 @@
       "active_pitcher_name": "Grant Holmes",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-03T19:58:57.028344-04:00"
+    },
+    "825077": {
+      "active_pitcher_id": 660271,
+      "active_pitcher_name": "Shohei Ohtani",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-03T22:11:29.954929-04:00"
     }
   }
 }
