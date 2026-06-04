@@ -1,4 +1,29 @@
 {
   "date": "2026-06-04",
-  "games": {}
+  "games": {
+    "823457": {
+      "active_pitcher_id": 608337,
+      "active_pitcher_name": "Lucas Giolito",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-04T14:03:23.203223-04:00"
+    },
+    "823542": {
+      "active_pitcher_id": 677944,
+      "active_pitcher_name": "Slade Cecconi",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-04T14:03:27.527574-04:00"
+    },
+    "823779": {
+      "active_pitcher_id": 689441,
+      "active_pitcher_name": "Coleman Crow",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-04T14:03:29.619404-04:00"
+    },
+    "824753": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-04T14:03:25.398535-04:00"
+    }
+  }
 }
