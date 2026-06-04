@@ -8,6 +8,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
+ROYALTYWAGERS_WEBHOOK = os.getenv("ROYALTYWAGERS_WEBHOOK", "")
 WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
 WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
 ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
@@ -82,6 +83,13 @@ def send_discord_message(content):
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
     print("[notify] Discord pitcher alert sent.")
+    if ROYALTYWAGERS_WEBHOOK:
+        try:
+            r2 = requests.post(ROYALTYWAGERS_WEBHOOK, json={"content": content}, timeout=20)
+            r2.raise_for_status()
+            print("[notify] Discord pitcher alert sent to secondary webhook.")
+        except Exception as exc:
+            print(f"[notify] Secondary webhook failed: {exc}")
     return True
 
 

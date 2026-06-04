@@ -16,6 +16,7 @@ LIVE_BASE = "https://statsapi.mlb.com/api/v1.1"
 STATE_FILE = Path(os.getenv("BVP_STATE_FILE", "state/live_bvp_state.json"))
 
 DISCORD_WEBHOOK = os.getenv("DISCORD_WEBHOOK_BVP") or os.getenv("DISCORD_WEBHOOK_URL")
+ROYALTYWAGERS_WEBHOOK = os.getenv("ROYALTYWAGERS_WEBHOOK", "")
 WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
 WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
 ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
@@ -118,6 +119,13 @@ def send_discord(content: str) -> bool:
     response = requests.post(DISCORD_WEBHOOK, json={"content": content}, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
     log("[notify] Discord live BvP alert sent.")
+    if ROYALTYWAGERS_WEBHOOK:
+        try:
+            r2 = requests.post(ROYALTYWAGERS_WEBHOOK, json={"content": content}, timeout=REQUEST_TIMEOUT)
+            r2.raise_for_status()
+            log("[notify] Discord live BvP alert sent to secondary webhook.")
+        except Exception as exc:
+            log(f"[notify] Secondary webhook failed: {exc}")
     return True
 
 
