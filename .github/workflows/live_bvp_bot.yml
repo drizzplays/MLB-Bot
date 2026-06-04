@@ -2,7 +2,7 @@ name: Live Pitcher BvP Bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "1,11,21,31,41,51 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: live-bvp-bot
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   run-live-bvp-bot:
@@ -41,6 +41,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Print schedule debug
+        run: |
+          echo "Triggered at UTC: $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "Triggered at ET: $(TZ=America/New_York date '+%Y-%m-%d %H:%M:%S %Z')"
 
       - name: Run live BvP bot
         run: python live_bvp_bot.py

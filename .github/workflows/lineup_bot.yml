@@ -2,12 +2,12 @@ name: Run Lineup Posted Bot every 10 minutes
 
 on:
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
 
 concurrency:
   group: lineup-bot
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -15,6 +15,7 @@ permissions:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
 
     steps:
       - name: Checkout repo
@@ -29,6 +30,11 @@ jobs:
 
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
+
+      - name: Print schedule debug
+        run: |
+          echo "Triggered at UTC: $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "Triggered at ET: $(TZ=America/New_York date '+%Y-%m-%d %H:%M:%S %Z')"
 
       - name: Ensure lineup state file exists
         run: |
