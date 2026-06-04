@@ -1,44 +1,14 @@
 {
   "2026-06-04": {
-    "824753": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Trevor Rogers",
-      "home_pitcher": "Brayan Bello",
-      "game_time": "Jun 4, 1:35 PM ET",
-      "game_iso": "2026-06-04T13:35:00-04:00",
-      "game_pk": "824753",
-      "status_code": "P"
-    },
-    "823542": {
-      "away_team": "Cleveland Guardians",
-      "home_team": "New York Yankees",
-      "away_pitcher": "Slade Cecconi",
-      "home_pitcher": "Carlos Rod\u00f3n",
-      "game_time": "Jun 4, 1:35 PM ET",
-      "game_iso": "2026-06-04T13:35:00-04:00",
-      "game_pk": "823542",
-      "status_code": "P"
-    },
-    "823779": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Adrian Houser",
-      "home_pitcher": "Coleman Crow",
-      "game_time": "Jun 4, 2:10 PM ET",
-      "game_iso": "2026-06-04T14:10:00-04:00",
-      "game_pk": "823779",
-      "status_code": "P"
-    },
     "824919": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Atlanta Braves",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Mason Fluharty",
       "home_pitcher": "Chris Sale",
       "game_time": "Jun 4, 7:15 PM ET",
       "game_iso": "2026-06-04T19:15:00-04:00",
       "game_pk": "824919",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823698": {
       "away_team": "Kansas City Royals",
