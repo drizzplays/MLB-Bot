@@ -196,47 +196,85 @@ def compare_games(old_games, new_games):
         if not old_game:
             continue
 
-        changes = []
+        pitcher_updates = []
 
-        if old_game.get("away_pitcher") != new_game.get("away_pitcher"):
-            changes.append(
-                f"{team_label(new_game['away_team'])}: "
-                f"{old_game.get('away_pitcher', 'TBD')} -> "
-                f"{new_game.get('away_pitcher', 'TBD')}"
+        def add_update(side, team_name, old_pitcher, new_pitcher):
+            if old_pitcher == new_pitcher or new_pitcher in ("", "TBD"):
+                return
+
+            team = team_label(team_name)
+            is_initial_post = old_pitcher in ("", "TBD")
+            label = (
+                f"{team}: pitcher posted - {new_pitcher}"
+                if is_initial_post
+                else f"{team}: {old_pitcher} -> {new_pitcher}"
+            )
+            pitcher_updates.append(
+                {
+                    "team": team,
+                    "side": side,
+                    "old_pitcher": old_pitcher or "TBD",
+                    "new_pitcher": new_pitcher,
+                    "change_type": "posted" if is_initial_post else "changed",
+                    "label": label,
+                }
             )
 
-        if old_game.get("home_pitcher") != new_game.get("home_pitcher"):
-            changes.append(
-                f"{team_label(new_game['home_team'])}: "
-                f"{old_game.get('home_pitcher', 'TBD')} -> "
-                f"{new_game.get('home_pitcher', 'TBD')}"
-            )
+        add_update(
+            "away",
+            new_game["away_team"],
+            old_game.get("away_pitcher", "TBD"),
+            new_game.get("away_pitcher", "TBD"),
+        )
+        add_update(
+            "home",
+            new_game["home_team"],
+            old_game.get("home_pitcher", "TBD"),
+            new_game.get("home_pitcher", "TBD"),
+        )
 
+        changes = [item["label"] for item in pitcher_updates]
         if changes:
-            msg = (
+            matchup = f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}"
+            changes_text = "\n".join(changes)
+            discord_message = (
                 f"**Pitcher Update**\n"
-                f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
+                f"**{matchup}**\n"
                 f"First pitch: {new_game['game_time_et']}\n\n"
                 + "\n".join(f"- {x}" for x in changes)
             )
+            website_message = (
+                f"{matchup}\n"
+                f"{new_game['game_time_et']}\n"
+                f"Pitcher update: " + "; ".join(changes)
+            )
+            change_digest = hashlib.sha1(
+                json.dumps(pitcher_updates, ensure_ascii=False, sort_keys=True).encode("utf-8")
+            ).hexdigest()[:12]
             alerts.append(
                 {
-                    "message": msg,
+                    "message": discord_message,
                     "payload": {
                         "type": "pitcher_change",
                         "category": "pitching_changes",
                         "notification_category": "pitching_changes",
                         "source": "pitcher_change_bot",
                         "title": "Pitcher Update",
-                        "message": msg,
+                        "message": website_message,
+                        "discord_message": discord_message,
                         "priority": "high",
-                        "event_id": f"pitcher-change:{new_game.get('game_pk')}:{','.join(changes)}",
+                        "event_id": f"pitcher-change:{new_game.get('game_pk')}:{change_digest}",
                         "game_pk": new_game.get("game_pk"),
                         "away_team": team_label(new_game["away_team"]),
                         "home_team": team_label(new_game["home_team"]),
-                        "matchup": f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}",
+                        "matchup": matchup,
                         "game_time": new_game.get("game_time_et"),
                         "changes": changes,
+                        "changes_text": changes_text,
+                        "change_count": len(changes),
+                        "pitcher_updates": pitcher_updates,
+                        "away_pitcher": new_game.get("away_pitcher"),
+                        "home_pitcher": new_game.get("home_pitcher"),
                     },
                 }
             )

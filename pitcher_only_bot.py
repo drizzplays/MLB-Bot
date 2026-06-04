@@ -280,35 +280,45 @@ def get_games(target_date):
     return games
 
 
-def pitcher_changes(old_game, new_game):
-    changes = []
+def pitcher_change_items(old_game, new_game):
+    updates = []
 
     old_away = old_game.get("away_pitcher", "TBD") if old_game else "TBD"
     new_away = new_game.get("away_pitcher", "TBD")
     old_home = old_game.get("home_pitcher", "TBD") if old_game else "TBD"
     new_home = new_game.get("home_pitcher", "TBD")
 
-    if old_away != new_away and new_away not in ("", "TBD"):
-        if old_away in ("", "TBD"):
-            changes.append(
-                f"{team_label(new_game['away_team'])}: pitcher posted - {new_away}"
-            )
-        else:
-            changes.append(
-                f"{team_label(new_game['away_team'])}: {old_away} -> {new_away}"
-            )
+    def add_update(side, team_name, old_pitcher, new_pitcher):
+        if old_pitcher == new_pitcher or new_pitcher in ("", "TBD"):
+            return
 
-    if old_home != new_home and new_home not in ("", "TBD"):
-        if old_home in ("", "TBD"):
-            changes.append(
-                f"{team_label(new_game['home_team'])}: pitcher posted - {new_home}"
-            )
-        else:
-            changes.append(
-                f"{team_label(new_game['home_team'])}: {old_home} -> {new_home}"
-            )
+        team = team_label(team_name)
+        is_initial_post = old_pitcher in ("", "TBD")
+        label = (
+            f"{team}: pitcher posted - {new_pitcher}"
+            if is_initial_post
+            else f"{team}: {old_pitcher} -> {new_pitcher}"
+        )
 
-    return changes
+        updates.append(
+            {
+                "team": team,
+                "side": side,
+                "old_pitcher": old_pitcher or "TBD",
+                "new_pitcher": new_pitcher,
+                "change_type": "posted" if is_initial_post else "changed",
+                "label": label,
+            }
+        )
+
+    add_update("away", new_game["away_team"], old_away, new_away)
+    add_update("home", new_game["home_team"], old_home, new_home)
+
+    return updates
+
+
+def pitcher_changes(old_game, new_game):
+    return [item["label"] for item in pitcher_change_items(old_game, new_game)]
 
 
 def build(old_game, new_game):
@@ -321,19 +331,29 @@ def build(old_game, new_game):
     if not is_within_pitcher_alert_window(new_game.get("game_iso")):
         return None
 
-    changes = pitcher_changes(old_game, new_game)
+    pitcher_updates = pitcher_change_items(old_game, new_game)
+    changes = [item["label"] for item in pitcher_updates]
     if not changes:
         return None
 
-    message = (
+    matchup = f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}"
+    changes_text = "\n".join(changes)
+
+    discord_message = (
         f"**Pitcher Update**\n"
-        f"**{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}**\n"
+        f"**{matchup}**\n"
         f"First pitch: {new_game['game_time']}\n\n"
         + "\n".join(f"- {x}" for x in changes)
     )
 
+    website_message = (
+        f"{matchup}\n"
+        f"{new_game['game_time']}\n"
+        f"Pitcher update: " + "; ".join(changes)
+    )
+
     change_digest = hashlib.sha1(
-        json.dumps(changes, ensure_ascii=False, sort_keys=True).encode("utf-8")
+        json.dumps(pitcher_updates, ensure_ascii=False, sort_keys=True).encode("utf-8")
     ).hexdigest()[:12]
 
     payload = {
@@ -342,19 +362,25 @@ def build(old_game, new_game):
         "notification_category": "pitching_changes",
         "source": "pitcher_change_bot",
         "title": "Pitcher Update",
-        "message": message,
+        "message": website_message,
+        "discord_message": discord_message,
         "priority": "high",
         "event_id": f"pitcher-change:{new_game.get('game_pk')}:{change_digest}",
         "game_pk": new_game.get("game_pk"),
         "away_team": team_label(new_game["away_team"]),
         "home_team": team_label(new_game["home_team"]),
-        "matchup": f"{team_label(new_game['away_team'])} @ {team_label(new_game['home_team'])}",
+        "matchup": matchup,
         "game_time": new_game.get("game_time"),
         "game_iso": new_game.get("game_iso"),
         "changes": changes,
+        "changes_text": changes_text,
+        "change_count": len(changes),
+        "pitcher_updates": pitcher_updates,
+        "away_pitcher": new_game.get("away_pitcher"),
+        "home_pitcher": new_game.get("home_pitcher"),
     }
 
-    return {"message": message, "payload": payload}
+    return {"message": discord_message, "payload": payload}
 
 
 def run():
