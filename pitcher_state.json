@@ -3,7 +3,7 @@
     "824919": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Atlanta Braves",
-      "away_pitcher": "False just tracking",
+      "away_pitcher": "Mason Fluharty",
       "home_pitcher": "Chris Sale",
       "game_time": "Jun 4, 7:15 PM ET",
       "game_iso": "2026-06-04T19:15:00-04:00",
@@ -18,7 +18,7 @@
       "game_time": "Jun 4, 7:40 PM ET",
       "game_iso": "2026-06-04T19:40:00-04:00",
       "game_pk": "823698",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824672": {
       "away_team": "Athletics",
@@ -28,7 +28,7 @@
       "game_time": "Jun 4, 8:05 PM ET",
       "game_iso": "2026-06-04T20:05:00-04:00",
       "game_pk": "824672",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824185": {
       "away_team": "Pittsburgh Pirates",
@@ -38,7 +38,7 @@
       "game_time": "Jun 4, 8:10 PM ET",
       "game_iso": "2026-06-04T20:10:00-04:00",
       "game_pk": "824185",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825076": {
       "away_team": "Los Angeles Dodgers",
@@ -48,7 +48,7 @@
       "game_time": "Jun 4, 9:40 PM ET",
       "game_iso": "2026-06-04T21:40:00-04:00",
       "game_pk": "825076",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
