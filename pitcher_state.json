@@ -1,15 +1,5 @@
 {
   "2026-06-04": {
-    "823457": {
-      "away_team": "San Diego Padres",
-      "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Lucas Giolito",
-      "home_pitcher": "Zack Wheeler",
-      "game_time": "Jun 4, 1:05 PM ET",
-      "game_iso": "2026-06-04T13:05:00-04:00",
-      "game_pk": "823457",
-      "status_code": "P"
-    },
     "824753": {
       "away_team": "Baltimore Orioles",
       "home_team": "Boston Red Sox",
@@ -28,7 +18,7 @@
       "game_time": "Jun 4, 1:35 PM ET",
       "game_iso": "2026-06-04T13:35:00-04:00",
       "game_pk": "823542",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823779": {
       "away_team": "San Francisco Giants",
@@ -38,7 +28,7 @@
       "game_time": "Jun 4, 2:10 PM ET",
       "game_iso": "2026-06-04T14:10:00-04:00",
       "game_pk": "823779",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824919": {
       "away_team": "Toronto Blue Jays",
