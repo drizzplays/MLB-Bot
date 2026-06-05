@@ -1,35 +1,4 @@
 {
-  "date": "2026-06-04",
-  "games": {
-    "823457": {
-      "active_pitcher_id": 608337,
-      "active_pitcher_name": "Lucas Giolito",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-04T14:03:23.203223-04:00"
-    },
-    "823542": {
-      "active_pitcher_id": 677944,
-      "active_pitcher_name": "Slade Cecconi",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-04T14:03:27.527574-04:00"
-    },
-    "823779": {
-      "active_pitcher_id": 681982,
-      "active_pitcher_name": "Grant Anderson",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-04T16:22:34.693949-04:00"
-    },
-    "824753": {
-      "active_pitcher_id": 669432,
-      "active_pitcher_name": "Trevor Rogers",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-04T14:03:25.398535-04:00"
-    },
-    "824919": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-04T19:05:56.186347-04:00"
-    }
-  }
+  "date": "2026-06-05",
+  "games": {}
 }
