@@ -1,4 +1,11 @@
 {
   "date": "2026-06-05",
-  "games": {}
+  "games": {
+    "824673": {
+      "active_pitcher_id": 665795,
+      "active_pitcher_name": "Edward Cabrera",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T16:17:11.698846-04:00"
+    }
+  }
 }
