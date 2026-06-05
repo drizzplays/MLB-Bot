@@ -88,7 +88,7 @@
       "game_time": "Jun 5, 8:15 PM ET",
       "game_iso": "2026-06-05T20:15:00-04:00",
       "game_pk": "822892",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823699": {
       "away_team": "Kansas City Royals",
@@ -118,7 +118,7 @@
       "game_time": "Jun 5, 9:40 PM ET",
       "game_iso": "2026-06-05T21:40:00-04:00",
       "game_pk": "825073",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823293": {
       "away_team": "New York Mets",
@@ -128,7 +128,7 @@
       "game_time": "Jun 5, 9:40 PM ET",
       "game_iso": "2026-06-05T21:40:00-04:00",
       "game_pk": "823293",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823943": {
       "away_team": "Los Angeles Angels",
