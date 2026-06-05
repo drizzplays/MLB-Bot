@@ -1,15 +1,5 @@
 {
   "2026-06-05": {
-    "824673": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Robbie Ray",
-      "home_pitcher": "Edward Cabrera",
-      "game_time": "Jun 5, 2:20 PM ET",
-      "game_iso": "2026-06-05T14:20:00-04:00",
-      "game_pk": "824673",
-      "status_code": "P"
-    },
     "824271": {
       "away_team": "Seattle Mariners",
       "home_team": "Detroit Tigers",
@@ -18,7 +8,7 @@
       "game_time": "Jun 5, 6:40 PM ET",
       "game_iso": "2026-06-05T18:40:00-04:00",
       "game_pk": "824271",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823455": {
       "away_team": "Chicago White Sox",
@@ -28,7 +18,7 @@
       "game_time": "Jun 5, 6:40 PM ET",
       "game_iso": "2026-06-05T18:40:00-04:00",
       "game_pk": "823455",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823538": {
       "away_team": "Boston Red Sox",
@@ -38,7 +28,7 @@
       "game_time": "Jun 5, 7:05 PM ET",
       "game_iso": "2026-06-05T19:05:00-04:00",
       "game_pk": "823538",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822810": {
       "away_team": "Baltimore Orioles",
@@ -48,7 +38,7 @@
       "game_time": "Jun 5, 7:07 PM ET",
       "game_iso": "2026-06-05T19:07:00-04:00",
       "game_pk": "822810",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823860": {
       "away_team": "Tampa Bay Rays",
@@ -58,7 +48,7 @@
       "game_time": "Jun 5, 7:10 PM ET",
       "game_iso": "2026-06-05T19:10:00-04:00",
       "game_pk": "823860",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824914": {
       "away_team": "Pittsburgh Pirates",
@@ -68,7 +58,7 @@
       "game_time": "Jun 5, 7:15 PM ET",
       "game_iso": "2026-06-05T19:15:00-04:00",
       "game_pk": "824914",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824186": {
       "away_team": "Athletics",
@@ -78,7 +68,7 @@
       "game_time": "Jun 5, 8:10 PM ET",
       "game_iso": "2026-06-05T20:10:00-04:00",
       "game_pk": "824186",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823049": {
       "away_team": "Cincinnati Reds",
@@ -88,7 +78,7 @@
       "game_time": "Jun 5, 8:15 PM ET",
       "game_iso": "2026-06-05T20:15:00-04:00",
       "game_pk": "823049",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822892": {
       "away_team": "Cleveland Guardians",
@@ -108,7 +98,7 @@
       "game_time": "Jun 5, 8:15 PM ET",
       "game_iso": "2026-06-05T20:15:00-04:00",
       "game_pk": "823699",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824350": {
       "away_team": "Milwaukee Brewers",
@@ -118,7 +108,7 @@
       "game_time": "Jun 5, 8:40 PM ET",
       "game_iso": "2026-06-05T20:40:00-04:00",
       "game_pk": "824350",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825073": {
       "away_team": "Washington Nationals",
