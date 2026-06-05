@@ -1,6 +1,12 @@
 {
   "date": "2026-06-05",
   "games": {
+    "822810": {
+      "active_pitcher_id": 702056,
+      "active_pitcher_name": "Trey Yesavage",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T19:54:26.474219-04:00"
+    },
     "823455": {
       "active_pitcher_id": 666200,
       "active_pitcher_name": "Jes\u00fas Luzardo",
@@ -8,22 +14,34 @@
       "last_checked_at": "2026-06-05T18:50:08.613822-04:00"
     },
     "823538": {
-      "active_pitcher_id": 677960,
-      "active_pitcher_name": "Ryan Weathers",
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-05T18:50:10.360385-04:00"
+      "last_checked_at": "2026-06-05T19:54:24.504340-04:00"
+    },
+    "823860": {
+      "active_pitcher_id": 656876,
+      "active_pitcher_name": "Drew Rasmussen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T19:54:28.256652-04:00"
     },
     "824271": {
-      "active_pitcher_id": 664285,
-      "active_pitcher_name": "Framber Valdez",
+      "active_pitcher_id": 693433,
+      "active_pitcher_name": "Bryan Woo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-05T18:50:06.878973-04:00"
+      "last_checked_at": "2026-06-05T19:54:22.704037-04:00"
     },
     "824673": {
       "active_pitcher_id": 573204,
       "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-05T17:48:21.959075-04:00"
+    },
+    "824914": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T19:54:30.066619-04:00"
     }
   }
 }
