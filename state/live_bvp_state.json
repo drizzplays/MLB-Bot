@@ -1,6 +1,24 @@
 {
   "date": "2026-06-05",
   "games": {
+    "823455": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T18:50:08.613822-04:00"
+    },
+    "823538": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T18:50:10.360385-04:00"
+    },
+    "824271": {
+      "active_pitcher_id": 664285,
+      "active_pitcher_name": "Framber Valdez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T18:50:06.878973-04:00"
+    },
     "824673": {
       "active_pitcher_id": 573204,
       "active_pitcher_name": "Caleb Thielbar",
