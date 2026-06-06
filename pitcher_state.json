@@ -1,15 +1,5 @@
 {
   "2026-06-06": {
-    "822808": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "Toronto Blue Jays",
-      "away_pitcher": "Kyle Bradish",
-      "home_pitcher": "Braydon Fisher",
-      "game_time": "Jun 6, 3:07 PM ET",
-      "game_iso": "2026-06-06T15:07:00-04:00",
-      "game_pk": "822808",
-      "status_code": "P"
-    },
     "823454": {
       "away_team": "Chicago White Sox",
       "home_team": "Philadelphia Phillies",
@@ -68,7 +58,7 @@
       "game_time": "Jun 6, 7:35 PM ET",
       "game_iso": "2026-06-06T19:35:00-04:00",
       "game_pk": "822891",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823539": {
       "away_team": "Boston Red Sox",
@@ -78,17 +68,17 @@
       "game_time": "Jun 6, 7:35 PM ET",
       "game_iso": "2026-06-06T19:35:00-04:00",
       "game_pk": "823539",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824351": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Colorado Rockies",
       "away_pitcher": "Jacob Misiorowski",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Zach Agnos",
       "game_time": "Jun 6, 9:10 PM ET",
       "game_iso": "2026-06-06T21:10:00-04:00",
       "game_pk": "824351",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823942": {
       "away_team": "Los Angeles Angels",
