@@ -428,7 +428,17 @@
     "Chicago White Sox @ Philadelphia Phillies | 823454": {
       "away_team": "Chicago White Sox",
       "home_team": "Philadelphia Phillies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Sam Antonacci",
+        "Miguel Vargas",
+        "Andrew Benintendi",
+        "Colson Montgomery",
+        "Chase Meidroth",
+        "Jacob Gonzalez",
+        "Tristan Peters",
+        "Drew Romo",
+        "Rikuu Nishida"
+      ],
       "home_lineup": [
         "Kyle Schwarber",
         "Trea Turner",
@@ -453,8 +463,8 @@
         "Grant Taylor",
         "Rikuu Nishida",
         "Colson Montgomery",
-        "Trevor Richards",
         "Drew Romo",
+        "Trevor Richards",
         "Seranthony Dom\u00ednguez",
         "Edgar Quero",
         "Andrew Benintendi",
@@ -503,8 +513,28 @@
     "Washington Nationals @ Arizona Diamondbacks | 825075": {
       "away_team": "Washington Nationals",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "James Wood",
+        "Curtis Mead",
+        "Andr\u00e9s Chaparro",
+        "CJ Abrams",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Jacob Young",
+        "Nasim Nu\u00f1ez",
+        "Keibert Ruiz"
+      ],
+      "home_lineup": [
+        "Ketel Marte",
+        "Corbin Carroll",
+        "Gabriel Moreno",
+        "Nolan Arenado",
+        "Pavin Smith",
+        "Ryan Waldschmidt",
+        "Geraldo Perdomo",
+        "LuJames Groover",
+        "Tommy Troy"
+      ],
       "away_roster": [
         "CJ Abrams",
         "Nasim Nu\u00f1ez",
@@ -535,28 +565,28 @@
       ],
       "home_roster": [
         "Eduardo Rodriguez",
+        "LuJames Groover",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Adrian Del Castillo",
         "Nolan Arenado",
         "Tommy Troy",
-        "Merrill Kelly",
         "Ryan Waldschmidt",
+        "Drey Jameson",
+        "Merrill Kelly",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
         "Ildemaro Vargas",
         "Ryne Nelson",
         "Geraldo Perdomo",
-        "Jose Fernandez",
         "Paul Sewald",
         "Michael Soroka",
         "Gabriel Moreno",
         "Corbin Carroll",
-        "Taylor Clarke",
         "Zac Gallen",
         "Aramis Garcia",
         "Ryan Thompson",
+        "Philip Abner",
         "Brandyn Garcia",
         "Pavin Smith",
         "Jorge Barrosa"
@@ -568,7 +598,17 @@
     "Athletics @ Houston Astros | 824184": {
       "away_team": "Athletics",
       "home_team": "Houston Astros",
-      "away_lineup": [],
+      "away_lineup": [
+        "Carlos Cortes",
+        "Shea Langeliers",
+        "Nick Kurtz",
+        "Brent Rooker",
+        "Tyler Soderstrom",
+        "Henry Bolte",
+        "Zack Gelof",
+        "Jeff McNeil",
+        "Darell Hernaiz"
+      ],
       "home_lineup": [
         "Jeremy Pe\u00f1a",
         "Yordan Alvarez",
@@ -654,7 +694,17 @@
         "Tyler Callihan",
         "Jared Triolo"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Mauricio Dub\u00f3n",
+        "Matt Olson",
+        "Ozzie Albies",
+        "Dominic Smith",
+        "Austin Riley",
+        "Mike Yastrzemski",
+        "Austin Wynns",
+        "Ha-Seong Kim"
+      ],
       "away_roster": [
         "Paul Skenes",
         "Spencer Horwitz",
@@ -689,8 +739,8 @@
         "Dylan Lee",
         "Robert Suarez",
         "Michael Harris II",
-        "Jorge Mateo",
         "Austin Wynns",
+        "Jorge Mateo",
         "Mauricio Dub\u00f3n",
         "Carlos Carrasco",
         "Didier Fuentes",
@@ -705,8 +755,8 @@
         "Raisel Iglesias",
         "Austin Riley",
         "Grant Holmes",
-        "Sandy Le\u00f3n",
         "Mike Yastrzemski",
+        "Sandy Le\u00f3n",
         "Ha-Seong Kim",
         "Bryce Elder",
         "Mart\u00edn P\u00e9rez"
@@ -718,7 +768,17 @@
     "Tampa Bay Rays @ Miami Marlins | 823859": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Miami Marlins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Richie Palacios",
+        "Ben Williamson",
+        "Cedric Mullins",
+        "Taylor Walls",
+        "Victor Mesa Jr.",
+        "Nick Fortes"
+      ],
       "home_lineup": [
         "Xavier Edwards",
         "Otto Lopez",
@@ -752,8 +812,8 @@
         "Griffin Jax",
         "Yandy D\u00edaz",
         "Ben Williamson",
-        "Bryan Baker",
         "Victor Mesa Jr.",
+        "Bryan Baker",
         "Junior Caminero",
         "Drew Rasmussen",
         "Cedric Mullins"
