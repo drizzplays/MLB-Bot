@@ -2,10 +2,10 @@
   "date": "2026-06-06",
   "games": {
     "822808": {
-      "active_pitcher_id": 693686,
-      "active_pitcher_name": "Spencer Miles",
+      "active_pitcher_id": 544150,
+      "active_pitcher_name": "Albert Su\u00e1rez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-06T16:36:11.395004-04:00"
+      "last_checked_at": "2026-06-06T17:41:41.272392-04:00"
     },
     "823048": {
       "active_pitcher_id": 666277,
@@ -14,10 +14,10 @@
       "last_checked_at": "2026-06-06T16:36:07.032544-04:00"
     },
     "823454": {
-      "active_pitcher_id": 685126,
-      "active_pitcher_name": "Brandon Eisert",
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-06T16:36:13.526261-04:00"
+      "last_checked_at": "2026-06-06T17:41:44.405540-04:00"
     },
     "823697": {
       "active_pitcher_id": 679358,
@@ -52,16 +52,16 @@
       "last_checked_at": "2026-06-06T16:36:09.228746-04:00"
     },
     "824915": {
-      "active_pitcher_id": 675911,
-      "active_pitcher_name": "Spencer Strider",
+      "active_pitcher_id": 689266,
+      "active_pitcher_name": "Dylan Dodd",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-06T16:36:18.605173-04:00"
+      "last_checked_at": "2026-06-06T17:41:50.539028-04:00"
     },
     "825075": {
-      "active_pitcher_id": 641793,
-      "active_pitcher_name": "Zack Littell",
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-06T16:36:15.225808-04:00"
+      "last_checked_at": "2026-06-06T17:41:47.397555-04:00"
     }
   }
 }
