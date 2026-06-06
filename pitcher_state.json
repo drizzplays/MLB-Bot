@@ -18,7 +18,7 @@
       "game_time": "Jun 6, 2:10 PM ET",
       "game_iso": "2026-06-06T14:10:00-04:00",
       "game_pk": "823697",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823048": {
       "away_team": "Cincinnati Reds",
@@ -38,17 +38,17 @@
       "game_time": "Jun 6, 2:20 PM ET",
       "game_iso": "2026-06-06T14:20:00-04:00",
       "game_pk": "824669",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822808": {
       "away_team": "Baltimore Orioles",
       "home_team": "Toronto Blue Jays",
       "away_pitcher": "Kyle Bradish",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Braydon Fisher",
       "game_time": "Jun 6, 3:07 PM ET",
       "game_iso": "2026-06-06T15:07:00-04:00",
       "game_pk": "822808",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823454": {
       "away_team": "Chicago White Sox",
@@ -58,7 +58,7 @@
       "game_time": "Jun 6, 4:05 PM ET",
       "game_iso": "2026-06-06T16:05:00-04:00",
       "game_pk": "823454",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825075": {
       "away_team": "Washington Nationals",
@@ -78,7 +78,7 @@
       "game_time": "Jun 6, 4:10 PM ET",
       "game_iso": "2026-06-06T16:10:00-04:00",
       "game_pk": "824184",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824915": {
       "away_team": "Pittsburgh Pirates",
