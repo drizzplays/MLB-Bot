@@ -1,11 +1,37 @@
 {
   "date": "2026-06-06",
   "games": {
-    "824269": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+    "822808": {
+      "active_pitcher_id": 680755,
+      "active_pitcher_name": "Braydon Fisher",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-06T13:52:38.229050-04:00"
+      "last_checked_at": "2026-06-06T15:16:31.024360-04:00"
+    },
+    "823048": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-06T15:16:22.726826-04:00"
+    },
+    "823697": {
+      "active_pitcher_id": 679883,
+      "active_pitcher_name": "Luinder Avila",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-06T15:16:20.119788-04:00"
+    },
+    "824269": {
+      "active_pitcher_id": 678606,
+      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-06T15:16:17.266184-04:00"
+    },
+    "824669": {
+      "active_pitcher_id": 694738,
+      "active_pitcher_name": "Landen Roupp",
+      "alerted_pairs": [
+        "694738:624424"
+      ],
+      "last_checked_at": "2026-06-06T15:16:25.223540-04:00"
     }
   }
 }
