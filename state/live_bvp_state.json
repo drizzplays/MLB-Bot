@@ -7,6 +7,24 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-05T19:54:26.474219-04:00"
     },
+    "822892": {
+      "active_pitcher_id": 656641,
+      "active_pitcher_name": "Jacob Latz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T22:47:23.979354-04:00"
+    },
+    "823049": {
+      "active_pitcher_id": 690928,
+      "active_pitcher_name": "Hunter Dobbins",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T22:47:20.997526-04:00"
+    },
+    "823293": {
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T22:47:38.920028-04:00"
+    },
     "823455": {
       "active_pitcher_id": 666200,
       "active_pitcher_name": "Jes\u00fas Luzardo",
@@ -19,17 +37,37 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-05T19:54:24.504340-04:00"
     },
+    "823699": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T22:47:26.998103-04:00"
+    },
     "823860": {
       "active_pitcher_id": 656876,
       "active_pitcher_name": "Drew Rasmussen",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-05T19:54:28.256652-04:00"
     },
+    "823943": {
+      "active_pitcher_id": 808963,
+      "active_pitcher_name": "Roki Sasaki",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T22:47:41.403294-04:00"
+    },
     "824271": {
       "active_pitcher_id": 693433,
       "active_pitcher_name": "Bryan Woo",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-05T19:54:22.704037-04:00"
+    },
+    "824350": {
+      "active_pitcher_id": 622608,
+      "active_pitcher_name": "Antonio Senzatela",
+      "alerted_pairs": [
+        "622608:668930"
+      ],
+      "last_checked_at": "2026-06-05T22:47:29.539907-04:00"
     },
     "824673": {
       "active_pitcher_id": 573204,
@@ -42,6 +80,12 @@
       "active_pitcher_name": "Mart\u00edn P\u00e9rez",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-05T19:54:30.066619-04:00"
+    },
+    "825073": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-05T22:47:36.372752-04:00"
     }
   }
 }
