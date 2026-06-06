@@ -1,35 +1,5 @@
 {
   "2026-06-06": {
-    "823697": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Minnesota Twins",
-      "away_pitcher": "Luinder Avila",
-      "home_pitcher": "Joe Ryan",
-      "game_time": "Jun 6, 2:10 PM ET",
-      "game_iso": "2026-06-06T14:10:00-04:00",
-      "game_pk": "823697",
-      "status_code": "P"
-    },
-    "823048": {
-      "away_team": "Cincinnati Reds",
-      "home_team": "St. Louis Cardinals",
-      "away_pitcher": "Nick Lodolo",
-      "home_pitcher": "Matthew Liberatore",
-      "game_time": "Jun 6, 2:15 PM ET",
-      "game_iso": "2026-06-06T14:15:00-04:00",
-      "game_pk": "823048",
-      "status_code": "P"
-    },
-    "824669": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Landen Roupp",
-      "home_pitcher": "Ben Brown",
-      "game_time": "Jun 6, 2:20 PM ET",
-      "game_iso": "2026-06-06T14:20:00-04:00",
-      "game_pk": "824669",
-      "status_code": "P"
-    },
     "822808": {
       "away_team": "Baltimore Orioles",
       "home_team": "Toronto Blue Jays",
