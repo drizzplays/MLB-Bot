@@ -1,14 +1,154 @@
 {
-  "2026-06-05": {
-    "823943": {
+  "2026-06-06": {
+    "824269": {
+      "away_team": "Seattle Mariners",
+      "home_team": "Detroit Tigers",
+      "away_pitcher": "Bryce Miller",
+      "home_pitcher": "Keider Montero",
+      "game_time": "Jun 6, 1:10 PM ET",
+      "game_iso": "2026-06-06T13:10:00-04:00",
+      "game_pk": "824269",
+      "status_code": "S"
+    },
+    "823697": {
+      "away_team": "Kansas City Royals",
+      "home_team": "Minnesota Twins",
+      "away_pitcher": "Luinder Avila",
+      "home_pitcher": "Joe Ryan",
+      "game_time": "Jun 6, 2:10 PM ET",
+      "game_iso": "2026-06-06T14:10:00-04:00",
+      "game_pk": "823697",
+      "status_code": "S"
+    },
+    "823048": {
+      "away_team": "Cincinnati Reds",
+      "home_team": "St. Louis Cardinals",
+      "away_pitcher": "Nick Lodolo",
+      "home_pitcher": "Matthew Liberatore",
+      "game_time": "Jun 6, 2:15 PM ET",
+      "game_iso": "2026-06-06T14:15:00-04:00",
+      "game_pk": "823048",
+      "status_code": "S"
+    },
+    "824669": {
+      "away_team": "San Francisco Giants",
+      "home_team": "Chicago Cubs",
+      "away_pitcher": "Landen Roupp",
+      "home_pitcher": "Ben Brown",
+      "game_time": "Jun 6, 2:20 PM ET",
+      "game_iso": "2026-06-06T14:20:00-04:00",
+      "game_pk": "824669",
+      "status_code": "S"
+    },
+    "822808": {
+      "away_team": "Baltimore Orioles",
+      "home_team": "Toronto Blue Jays",
+      "away_pitcher": "Kyle Bradish",
+      "home_pitcher": "TBD",
+      "game_time": "Jun 6, 3:07 PM ET",
+      "game_iso": "2026-06-06T15:07:00-04:00",
+      "game_pk": "822808",
+      "status_code": "S"
+    },
+    "823454": {
+      "away_team": "Chicago White Sox",
+      "home_team": "Philadelphia Phillies",
+      "away_pitcher": "Brandon Eisert",
+      "home_pitcher": "Andrew Painter",
+      "game_time": "Jun 6, 4:05 PM ET",
+      "game_iso": "2026-06-06T16:05:00-04:00",
+      "game_pk": "823454",
+      "status_code": "S"
+    },
+    "825075": {
+      "away_team": "Washington Nationals",
+      "home_team": "Arizona Diamondbacks",
+      "away_pitcher": "Zack Littell",
+      "home_pitcher": "Eduardo Rodriguez",
+      "game_time": "Jun 6, 4:10 PM ET",
+      "game_iso": "2026-06-06T16:10:00-04:00",
+      "game_pk": "825075",
+      "status_code": "S"
+    },
+    "824184": {
+      "away_team": "Athletics",
+      "home_team": "Houston Astros",
+      "away_pitcher": "Kade Morris",
+      "home_pitcher": "Tatsuya Imai",
+      "game_time": "Jun 6, 4:10 PM ET",
+      "game_iso": "2026-06-06T16:10:00-04:00",
+      "game_pk": "824184",
+      "status_code": "S"
+    },
+    "824915": {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Atlanta Braves",
+      "away_pitcher": "Braxton Ashcraft",
+      "home_pitcher": "Spencer Strider",
+      "game_time": "Jun 6, 4:10 PM ET",
+      "game_iso": "2026-06-06T16:10:00-04:00",
+      "game_pk": "824915",
+      "status_code": "S"
+    },
+    "823859": {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Miami Marlins",
+      "away_pitcher": "Shane McClanahan",
+      "home_pitcher": "Lake Bachar",
+      "game_time": "Jun 6, 4:10 PM ET",
+      "game_iso": "2026-06-06T16:10:00-04:00",
+      "game_pk": "823859",
+      "status_code": "S"
+    },
+    "822891": {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Texas Rangers",
+      "away_pitcher": "Tanner Bibee",
+      "home_pitcher": "Jack Leiter",
+      "game_time": "Jun 6, 7:35 PM ET",
+      "game_iso": "2026-06-06T19:35:00-04:00",
+      "game_pk": "822891",
+      "status_code": "S"
+    },
+    "823539": {
+      "away_team": "Boston Red Sox",
+      "home_team": "New York Yankees",
+      "away_pitcher": "Ranger Suarez",
+      "home_pitcher": "Will Warren",
+      "game_time": "Jun 6, 7:35 PM ET",
+      "game_iso": "2026-06-06T19:35:00-04:00",
+      "game_pk": "823539",
+      "status_code": "S"
+    },
+    "824351": {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Colorado Rockies",
+      "away_pitcher": "Jacob Misiorowski",
+      "home_pitcher": "TBD",
+      "game_time": "Jun 6, 9:10 PM ET",
+      "game_iso": "2026-06-06T21:10:00-04:00",
+      "game_pk": "824351",
+      "status_code": "S"
+    },
+    "823942": {
       "away_team": "Los Angeles Angels",
       "home_team": "Los Angeles Dodgers",
-      "away_pitcher": "Reid Detmers",
-      "home_pitcher": "Roki Sasaki",
-      "game_time": "Jun 5, 10:10 PM ET",
-      "game_iso": "2026-06-05T22:10:00-04:00",
-      "game_pk": "823943",
-      "status_code": "P"
+      "away_pitcher": "Jack Kochanowicz",
+      "home_pitcher": "Yoshinobu Yamamoto",
+      "game_time": "Jun 6, 10:10 PM ET",
+      "game_iso": "2026-06-06T22:10:00-04:00",
+      "game_pk": "823942",
+      "status_code": "S"
+    },
+    "823292": {
+      "away_team": "New York Mets",
+      "home_team": "San Diego Padres",
+      "away_pitcher": "Nolan McLean",
+      "home_pitcher": "Griffin Canning",
+      "game_time": "Jun 6, 10:10 PM ET",
+      "game_iso": "2026-06-06T22:10:00-04:00",
+      "game_pk": "823292",
+      "status_code": "S"
     }
   }
 }
