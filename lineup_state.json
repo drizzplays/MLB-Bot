@@ -4,11 +4,11 @@
       "away_team": "Pittsburgh Pirates",
       "home_team": "Atlanta Braves",
       "away_lineup": [
-        "Spencer Horwitz",
+        "Davis Wendzel",
         "Nick Gonzales",
         "Bryan Reynolds",
         "Ryan O'Hearn",
-        "Marcell Ozuna",
+        "Oneil Cruz",
         "Tyler Callihan",
         "Jake Mangum",
         "Jared Triolo",
@@ -48,9 +48,9 @@
         "Tyler Callihan",
         "Brandan Bidois",
         "Ryan O'Hearn",
+        "Davis Wendzel",
         "Nick Gonzales",
         "Marcell Ozuna",
-        "Davis Wendzel",
         "Braxton Ashcraft"
       ],
       "home_roster": [
@@ -91,13 +91,13 @@
       "away_lineup": [
         "Sam Antonacci",
         "Miguel Vargas",
-        "Andrew Benintendi",
+        "Edgar Quero",
         "Colson Montgomery",
         "Chase Meidroth",
         "Randal Grichuk",
         "Tristan Peters",
         "Drew Romo",
-        "Rikuu Nishida"
+        "Derek Hill"
       ],
       "home_lineup": [
         "Kyle Schwarber",
@@ -181,19 +181,19 @@
         "Masataka Yoshida",
         "Mickey Gasper",
         "Caleb Durbin",
-        "Anthony Seigler",
-        "Marcelo Mayer"
+        "Andruw Monasterio",
+        "Isiah Kiner-Falefa"
       ],
       "home_lineup": [
         "Paul Goldschmidt",
         "Ben Rice",
         "Cody Bellinger",
-        "Amed Rosario",
+        "Ryan McMahon",
         "Trent Grisham",
         "Anthony Volpe",
         "Jazz Chisholm Jr.",
         "Jos\u00e9 Caballero",
-        "Ali S\u00e1nchez"
+        "J.C. Escarra"
       ],
       "away_roster": [
         "Willson Contreras",
@@ -205,8 +205,8 @@
         "Joe La Sorsa",
         "Connor Wong",
         "Wilyer Abreu",
-        "Sonny Gray",
         "Andruw Monasterio",
+        "Sonny Gray",
         "Isiah Kiner-Falefa",
         "Justin Slaten",
         "Mickey Gasper",
@@ -240,8 +240,8 @@
         "Brent Headrick",
         "Will Warren",
         "Anthony Volpe",
-        "Fernando Cruz",
         "J.C. Escarra",
+        "Fernando Cruz",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
         "Jake Bird",
@@ -263,7 +263,7 @@
         "Gunnar Henderson",
         "Adley Rutschman",
         "Pete Alonso",
-        "Samuel Basallo",
+        "Sam Huff",
         "Colton Cowser",
         "Tyler O'Neill",
         "Jackson Holliday",
@@ -273,7 +273,7 @@
         "George Springer",
         "Yohendrick Pi\u00f1ango",
         "Vladimir Guerrero Jr.",
-        "Jes\u00fas S\u00e1nchez",
+        "Daulton Varsho",
         "Ernie Clement",
         "Brandon Valenzuela",
         "Kazuma Okamoto",
@@ -314,8 +314,8 @@
         "Louis Varland",
         "Simeon Woods Richardson",
         "Ernie Clement",
-        "Charles McAdoo",
         "Daulton Varsho",
+        "Charles McAdoo",
         "Andr\u00e9s Gim\u00e9nez",
         "Kevin Gausman",
         "Brandon Valenzuela",
@@ -348,14 +348,14 @@
         "Julio Rodr\u00edguez",
         "Josh Naylor",
         "Randy Arozarena",
-        "Luke Raley",
+        "Victor Robles",
         "Rob Refsnyder",
         "Patrick Wisdom",
         "Colt Emerson",
         "Jhonny Pereda"
       ],
       "home_lineup": [
-        "Kerry Carpenter",
+        "Matt Vierling",
         "Kevin McGonigle",
         "Gleyber Torres",
         "Riley Greene",
@@ -444,7 +444,7 @@
         "Otto Lopez",
         "Kyle Stowers",
         "Xavier Edwards",
-        "Heriberto Hern\u00e1ndez",
+        "Connor Norby",
         "Esteury Ruiz",
         "Jakob Marsee",
         "Joe Mack",
@@ -515,7 +515,7 @@
       "home_team": "Houston Astros",
       "away_lineup": [
         "Nick Kurtz",
-        "Carlos Cortes",
+        "Henry Bolte",
         "Shea Langeliers",
         "Tyler Soderstrom",
         "Brent Rooker",
@@ -532,8 +532,8 @@
         "Cam Smith",
         "Jake Meyers",
         "Christian V\u00e1zquez",
-        "Brice Matthews",
-        "Taylor Trammell"
+        "LaMonte Wade Jr.",
+        "Jose Altuve"
       ],
       "away_roster": [
         "Lawrence Butler",
@@ -600,7 +600,7 @@
       "home_team": "Minnesota Twins",
       "away_lineup": [
         "Lane Thomas",
-        "Bobby Witt Jr.",
+        "Michael Massey",
         "Maikel Garcia",
         "Starling Marte",
         "Vinnie Pasquantino",
@@ -616,7 +616,7 @@
         "Kody Clemens",
         "Josh Bell",
         "Royce Lewis",
-        "Ryan Kreidler",
+        "Trevor Larnach",
         "Luke Keaschall",
         "Alex Jackson"
       ],
@@ -687,7 +687,7 @@
         "Blake Dunn",
         "JJ Bleday",
         "Sal Stewart",
-        "Nathaniel Lowe",
+        "Dane Myers",
         "Spencer Steer",
         "Will Benson",
         "Matt McLain",
@@ -702,7 +702,7 @@
         "Lars Nootbaar",
         "Bryan Torres",
         "Jos\u00e9 Ferm\u00edn",
-        "Nolan Gorman",
+        "Nelson Vel\u00e1zquez",
         "Victor Scott II"
       ],
       "away_roster": [
@@ -758,8 +758,8 @@
         "Dustin May",
         "Masyn Winn",
         "Iv\u00e1n Herrera",
-        "Jimmy Crooks",
-        "Nelson Vel\u00e1zquez"
+        "Nelson Vel\u00e1zquez",
+        "Jimmy Crooks"
       ],
       "game_time": "Jun 7, 2:15 PM ET",
       "game_iso": "2026-06-07T14:15:00-04:00",
@@ -775,9 +775,9 @@
         "Kyle Manzardo",
         "Daniel Schneemann",
         "Angel Mart\u00ednez",
-        "Steven Kwan",
+        "Stuart Fairchild",
         "Patrick Bailey",
-        "Brayan Rocchio"
+        "David Fry"
       ],
       "home_lineup": [
         "Wyatt Langford",
