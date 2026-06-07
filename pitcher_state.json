@@ -1,55 +1,5 @@
 {
   "2026-06-07": {
-    "823537": {
-      "away_team": "Boston Red Sox",
-      "home_team": "New York Yankees",
-      "away_pitcher": "Ranger Suarez",
-      "home_pitcher": "Cam Schlittler",
-      "game_time": "Jun 7, 1:35 PM ET",
-      "game_iso": "2026-06-07T13:35:00-04:00",
-      "game_pk": "823537",
-      "status_code": "P"
-    },
-    "824183": {
-      "away_team": "Athletics",
-      "home_team": "Houston Astros",
-      "away_pitcher": "Gage Jump",
-      "home_pitcher": "Mike Burrows",
-      "game_time": "Jun 7, 2:10 PM ET",
-      "game_iso": "2026-06-07T14:10:00-04:00",
-      "game_pk": "824183",
-      "status_code": "P"
-    },
-    "823696": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Minnesota Twins",
-      "away_pitcher": "Noah Cameron",
-      "home_pitcher": "Connor Prielipp",
-      "game_time": "Jun 7, 2:10 PM ET",
-      "game_iso": "2026-06-07T14:10:00-04:00",
-      "game_pk": "823696",
-      "status_code": "P"
-    },
-    "823047": {
-      "away_team": "Cincinnati Reds",
-      "home_team": "St. Louis Cardinals",
-      "away_pitcher": "Rhett Lowder",
-      "home_pitcher": "Michael McGreevy",
-      "game_time": "Jun 7, 2:15 PM ET",
-      "game_iso": "2026-06-07T14:15:00-04:00",
-      "game_pk": "823047",
-      "status_code": "P"
-    },
-    "822890": {
-      "away_team": "Cleveland Guardians",
-      "home_team": "Texas Rangers",
-      "away_pitcher": "Joey Cantillo",
-      "home_pitcher": "Jacob deGrom",
-      "game_time": "Jun 7, 2:35 PM ET",
-      "game_iso": "2026-06-07T14:35:00-04:00",
-      "game_pk": "822890",
-      "status_code": "P"
-    },
     "824349": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Colorado Rockies",
