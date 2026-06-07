@@ -68,7 +68,7 @@
       "game_time": "Jun 7, 2:10 PM ET",
       "game_iso": "2026-06-07T14:10:00-04:00",
       "game_pk": "824183",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823696": {
       "away_team": "Kansas City Royals",
@@ -78,7 +78,7 @@
       "game_time": "Jun 7, 2:10 PM ET",
       "game_iso": "2026-06-07T14:10:00-04:00",
       "game_pk": "823696",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823047": {
       "away_team": "Cincinnati Reds",
@@ -98,7 +98,7 @@
       "game_time": "Jun 7, 2:35 PM ET",
       "game_iso": "2026-06-07T14:35:00-04:00",
       "game_pk": "822890",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824349": {
       "away_team": "Milwaukee Brewers",
@@ -108,7 +108,7 @@
       "game_time": "Jun 7, 3:10 PM ET",
       "game_iso": "2026-06-07T15:10:00-04:00",
       "game_pk": "824349",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825074": {
       "away_team": "Washington Nationals",
