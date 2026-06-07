@@ -8,16 +8,22 @@
       "last_checked_at": "2026-06-06T17:41:41.272392-04:00"
     },
     "822891": {
-      "active_pitcher_id": 676440,
-      "active_pitcher_name": "Tanner Bibee",
+      "active_pitcher_id": 695239,
+      "active_pitcher_name": "Robby Ahlstrom",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-06T19:46:34.988725-04:00"
+      "last_checked_at": "2026-06-06T21:58:25.530381-04:00"
     },
     "823048": {
       "active_pitcher_id": 666277,
       "active_pitcher_name": "George Soriano",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-06T16:36:07.032544-04:00"
+    },
+    "823292": {
+      "active_pitcher_id": 656288,
+      "active_pitcher_name": "Griffin Canning",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-06T21:58:33.986493-04:00"
     },
     "823454": {
       "active_pitcher_id": 663767,
@@ -37,6 +43,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-06T18:45:44.808228-04:00"
     },
+    "823942": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-06T21:58:31.129086-04:00"
+    },
     "824184": {
       "active_pitcher_id": 665660,
       "active_pitcher_name": "Elvis Alvarado",
@@ -48,6 +60,12 @@
       "active_pitcher_name": "Jos\u00e9 A. Ferrer",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-06T15:16:17.266184-04:00"
+    },
+    "824351": {
+      "active_pitcher_id": 694819,
+      "active_pitcher_name": "Jacob Misiorowski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-06T21:58:28.356413-04:00"
     },
     "824669": {
       "active_pitcher_id": 657097,
