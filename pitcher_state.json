@@ -1,25 +1,5 @@
 {
   "2026-06-07": {
-    "824916": {
-      "away_team": "Pittsburgh Pirates",
-      "home_team": "Atlanta Braves",
-      "away_pitcher": "Mason Montgomery",
-      "home_pitcher": "Bryce Elder",
-      "game_time": "Jun 7, 1:35 PM ET",
-      "game_iso": "2026-06-07T13:35:00-04:00",
-      "game_pk": "824916",
-      "status_code": "P"
-    },
-    "823453": {
-      "away_team": "Chicago White Sox",
-      "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Tyler Gilbert",
-      "home_pitcher": "Aaron Nola",
-      "game_time": "Jun 7, 1:35 PM ET",
-      "game_iso": "2026-06-07T13:35:00-04:00",
-      "game_pk": "823453",
-      "status_code": "P"
-    },
     "823537": {
       "away_team": "Boston Red Sox",
       "home_team": "New York Yankees",
@@ -28,36 +8,6 @@
       "game_time": "Jun 7, 1:35 PM ET",
       "game_iso": "2026-06-07T13:35:00-04:00",
       "game_pk": "823537",
-      "status_code": "P"
-    },
-    "822807": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "Toronto Blue Jays",
-      "away_pitcher": "Shane Baz",
-      "home_pitcher": "Kevin Gausman",
-      "game_time": "Jun 7, 1:37 PM ET",
-      "game_iso": "2026-06-07T13:37:00-04:00",
-      "game_pk": "822807",
-      "status_code": "P"
-    },
-    "824268": {
-      "away_team": "Seattle Mariners",
-      "home_team": "Detroit Tigers",
-      "away_pitcher": "Luis Castillo",
-      "home_pitcher": "Jack Flaherty",
-      "game_time": "Jun 7, 1:40 PM ET",
-      "game_iso": "2026-06-07T13:40:00-04:00",
-      "game_pk": "824268",
-      "status_code": "P"
-    },
-    "823857": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Griffin Jax",
-      "home_pitcher": "Sandy Alcantara",
-      "game_time": "Jun 7, 1:40 PM ET",
-      "game_iso": "2026-06-07T13:40:00-04:00",
-      "game_pk": "823857",
       "status_code": "P"
     },
     "824183": {
@@ -118,7 +68,7 @@
       "game_time": "Jun 7, 3:15 PM ET",
       "game_iso": "2026-06-07T15:15:00-04:00",
       "game_pk": "825074",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823941": {
       "away_team": "Los Angeles Angels",
@@ -128,7 +78,7 @@
       "game_time": "Jun 7, 4:10 PM ET",
       "game_iso": "2026-06-07T16:10:00-04:00",
       "game_pk": "823941",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823291": {
       "away_team": "New York Mets",
@@ -138,7 +88,7 @@
       "game_time": "Jun 7, 4:10 PM ET",
       "game_iso": "2026-06-07T16:10:00-04:00",
       "game_pk": "823291",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824670": {
       "away_team": "San Francisco Giants",
