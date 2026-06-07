@@ -1,45 +1,5 @@
 {
   "2026-06-07": {
-    "824349": {
-      "away_team": "Milwaukee Brewers",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Shane Drohan",
-      "home_pitcher": "Kyle Freeland",
-      "game_time": "Jun 7, 3:10 PM ET",
-      "game_iso": "2026-06-07T15:10:00-04:00",
-      "game_pk": "824349",
-      "status_code": "P"
-    },
-    "825074": {
-      "away_team": "Washington Nationals",
-      "home_team": "Arizona Diamondbacks",
-      "away_pitcher": "Cade Cavalli",
-      "home_pitcher": "Michael Soroka",
-      "game_time": "Jun 7, 3:15 PM ET",
-      "game_iso": "2026-06-07T15:15:00-04:00",
-      "game_pk": "825074",
-      "status_code": "P"
-    },
-    "823941": {
-      "away_team": "Los Angeles Angels",
-      "home_team": "Los Angeles Dodgers",
-      "away_pitcher": "Jos\u00e9 Soriano",
-      "home_pitcher": "Emmet Sheehan",
-      "game_time": "Jun 7, 4:10 PM ET",
-      "game_iso": "2026-06-07T16:10:00-04:00",
-      "game_pk": "823941",
-      "status_code": "P"
-    },
-    "823291": {
-      "away_team": "New York Mets",
-      "home_team": "San Diego Padres",
-      "away_pitcher": "Huascar Brazob\u00e1n",
-      "home_pitcher": "Randy V\u00e1squez",
-      "game_time": "Jun 7, 4:10 PM ET",
-      "game_iso": "2026-06-07T16:10:00-04:00",
-      "game_pk": "823291",
-      "status_code": "P"
-    },
     "824670": {
       "away_team": "San Francisco Giants",
       "home_team": "Chicago Cubs",
