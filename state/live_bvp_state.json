@@ -19,6 +19,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-07T14:59:10.149193-04:00"
     },
+    "823291": {
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T17:37:56.773808-04:00"
+    },
     "823453": {
       "active_pitcher_id": 605400,
       "active_pitcher_name": "Aaron Nola",
@@ -43,6 +49,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-07T14:59:04.406058-04:00"
     },
+    "823941": {
+      "active_pitcher_id": 681911,
+      "active_pitcher_name": "Alex Vesia",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T17:37:54.477762-04:00"
+    },
     "824183": {
       "active_pitcher_id": 695611,
       "active_pitcher_name": "Gage Jump",
@@ -56,16 +68,22 @@
       "last_checked_at": "2026-06-07T14:59:02.486734-04:00"
     },
     "824349": {
-      "active_pitcher_id": 607536,
-      "active_pitcher_name": "Kyle Freeland",
+      "active_pitcher_id": 694477,
+      "active_pitcher_name": "Chad Patrick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-07T14:59:13.898780-04:00"
+      "last_checked_at": "2026-06-07T17:37:50.020879-04:00"
     },
     "824916": {
       "active_pitcher_id": 696149,
       "active_pitcher_name": "Bubba Chandler",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-07T14:58:54.608319-04:00"
+    },
+    "825074": {
+      "active_pitcher_id": 681402,
+      "active_pitcher_name": "Gus Varland",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T17:37:52.160410-04:00"
     }
   }
 }
