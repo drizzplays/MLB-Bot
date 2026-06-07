@@ -1,4 +1,71 @@
 {
   "date": "2026-06-07",
-  "games": {}
+  "games": {
+    "822807": {
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:00.602104-04:00"
+    },
+    "822890": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:12.041282-04:00"
+    },
+    "823047": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:10.149193-04:00"
+    },
+    "823453": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:58:56.804169-04:00"
+    },
+    "823537": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:58:58.719947-04:00"
+    },
+    "823696": {
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:08.263081-04:00"
+    },
+    "823857": {
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:04.406058-04:00"
+    },
+    "824183": {
+      "active_pitcher_id": 695611,
+      "active_pitcher_name": "Gage Jump",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:06.318143-04:00"
+    },
+    "824268": {
+      "active_pitcher_id": 622491,
+      "active_pitcher_name": "Luis Castillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:02.486734-04:00"
+    },
+    "824349": {
+      "active_pitcher_id": 607536,
+      "active_pitcher_name": "Kyle Freeland",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:59:13.898780-04:00"
+    },
+    "824916": {
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-07T14:58:54.608319-04:00"
+    }
+  }
 }
