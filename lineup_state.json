@@ -610,7 +610,7 @@
         "Tyler Tolbert"
       ],
       "home_lineup": [
-        "Austin Martin",
+        "Tristan Gray",
         "Brooks Lee",
         "Orlando Arcia",
         "Kody Clemens",
@@ -618,7 +618,7 @@
         "Royce Lewis",
         "Trevor Larnach",
         "Luke Keaschall",
-        "Alex Jackson"
+        "Victor Caratini"
       ],
       "away_roster": [
         "Carter Jensen",
@@ -655,8 +655,8 @@
         "Kody Clemens",
         "Brooks Lee",
         "Austin Martin",
-        "Anthony Banda",
         "Tristan Gray",
+        "Anthony Banda",
         "Josh Bell",
         "Mike Paredes",
         "Connor Prielipp",
@@ -775,14 +775,14 @@
         "Kyle Manzardo",
         "Daniel Schneemann",
         "Angel Mart\u00ednez",
-        "Stuart Fairchild",
+        "David Fry",
         "Patrick Bailey",
-        "David Fry"
+        "Stuart Fairchild"
       ],
       "home_lineup": [
-        "Wyatt Langford",
+        "Nicky Lopez",
         "Josh Jung",
-        "Brandon Nimmo",
+        "Evan Carter",
         "Justin Foscue",
         "Ezequiel Duran",
         "Joc Pederson",
@@ -861,7 +861,7 @@
         "Gary S\u00e1nchez",
         "Garrett Mitchell",
         "Luis Rengifo",
-        "Blake Perkins",
+        "Sal Frelick",
         "Joey Ortiz"
       ],
       "home_lineup": [
@@ -871,8 +871,8 @@
         "Hunter Goodman",
         "Kyle Karros",
         "Jake McCarthy",
-        "Braxton Fulford",
-        "Chad Stevens",
+        "Edouard Julien",
+        "Sterlin Thompson",
         "Troy Johnston"
       ],
       "away_roster": [
@@ -957,8 +957,8 @@
         "Pavin Smith",
         "Ryan Waldschmidt",
         "Geraldo Perdomo",
-        "LuJames Groover",
-        "Tommy Troy"
+        "Ildemaro Vargas",
+        "Jorge Barrosa"
       ],
       "away_roster": [
         "CJ Abrams",
@@ -1193,8 +1193,28 @@
     "San Francisco Giants @ Chicago Cubs | 824670": {
       "away_team": "San Francisco Giants",
       "home_team": "Chicago Cubs",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Casey Schmitt",
+        "Rafael Devers",
+        "Luis Arraez",
+        "Willy Adames",
+        "Jung Hoo Lee",
+        "Bryce Eldridge",
+        "Matt Chapman",
+        "Daniel Susac",
+        "Drew Gilbert"
+      ],
+      "home_lineup": [
+        "Pete Crow-Armstrong",
+        "Mois\u00e9s Ballesteros",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Seiya Suzuki",
+        "Nico Hoerner",
+        "Pedro Ram\u00edrez",
+        "Carson Kelly"
+      ],
       "away_roster": [
         "Casey Schmitt",
         "JT Brubaker",
@@ -1206,10 +1226,10 @@
         "Buddy Kennedy",
         "Keaton Winn",
         "Matt Chapman",
-        "Wilkin Ramos",
+        "Carson Seymour",
         "Caleb Kilian",
-        "Drew Gilbert",
         "Jung Hoo Lee",
+        "Drew Gilbert",
         "Sam Hentges",
         "Rafael Devers",
         "Tristan Beck",
@@ -1228,9 +1248,9 @@
         "Michael Conforto",
         "Hoby Milner",
         "Ian Happ",
-        "Ethan Roberts",
+        "Edward Cabrera",
+        "Javier Assad",
         "Caleb Thielbar",
-        "Tyler Ferguson",
         "Shota Imanaga",
         "Alex Bregman",
         "Pedro Ram\u00edrez",
