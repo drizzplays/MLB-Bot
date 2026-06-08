@@ -1,4 +1,23 @@
 {
   "date": "2026-06-08",
-  "games": {}
+  "games": {
+    "822972": {
+      "active_pitcher_id": 693855,
+      "active_pitcher_name": "Ian Seymour",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T18:45:12.010796-04:00"
+    },
+    "824427": {
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T18:45:14.379255-04:00"
+    },
+    "824829": {
+      "active_pitcher_id": 676106,
+      "active_pitcher_name": "Emerson Hancock",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T18:45:09.532418-04:00"
+    }
+  }
 }
