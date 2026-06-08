@@ -1,23 +1,29 @@
 {
   "date": "2026-06-08",
   "games": {
-    "822972": {
-      "active_pitcher_id": 693855,
-      "active_pitcher_name": "Ian Seymour",
+    "822806": {
+      "active_pitcher_id": 571578,
+      "active_pitcher_name": "Patrick Corbin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-08T18:45:12.010796-04:00"
+      "last_checked_at": "2026-06-08T19:52:21.182558-04:00"
+    },
+    "822972": {
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T19:52:17.378411-04:00"
     },
     "824427": {
-      "active_pitcher_id": 668909,
-      "active_pitcher_name": "Gavin Williams",
+      "active_pitcher_id": 701542,
+      "active_pitcher_name": "Will Warren",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-08T18:45:14.379255-04:00"
+      "last_checked_at": "2026-06-08T19:52:19.454966-04:00"
     },
     "824829": {
-      "active_pitcher_id": 676106,
-      "active_pitcher_name": "Emerson Hancock",
+      "active_pitcher_id": 689296,
+      "active_pitcher_name": "Anthony Nunez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-08T18:45:09.532418-04:00"
+      "last_checked_at": "2026-06-08T19:52:15.621991-04:00"
     }
   }
 }
