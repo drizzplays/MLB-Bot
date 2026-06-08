@@ -4,7 +4,7 @@
       "away_team": "Seattle Mariners",
       "home_team": "Baltimore Orioles",
       "away_pitcher": "Emerson Hancock",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Trey Gibson",
       "game_time": "Jun 8, 6:35 PM ET",
       "game_iso": "2026-06-08T18:35:00-04:00",
       "game_pk": "824829",
@@ -28,7 +28,7 @@
       "game_time": "Jun 8, 6:40 PM ET",
       "game_iso": "2026-06-08T18:40:00-04:00",
       "game_pk": "824427",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822806": {
       "away_team": "Philadelphia Phillies",
