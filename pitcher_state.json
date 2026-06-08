@@ -1,35 +1,5 @@
 {
   "2026-06-08": {
-    "824829": {
-      "away_team": "Seattle Mariners",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Emerson Hancock",
-      "home_pitcher": "Trey Gibson",
-      "game_time": "Jun 8, 6:35 PM ET",
-      "game_iso": "2026-06-08T18:35:00-04:00",
-      "game_pk": "824829",
-      "status_code": "P"
-    },
-    "822972": {
-      "away_team": "Boston Red Sox",
-      "home_team": "Tampa Bay Rays",
-      "away_pitcher": "Connelly Early",
-      "home_pitcher": "Ian Seymour",
-      "game_time": "Jun 8, 6:40 PM ET",
-      "game_iso": "2026-06-08T18:40:00-04:00",
-      "game_pk": "822972",
-      "status_code": "P"
-    },
-    "824427": {
-      "away_team": "New York Yankees",
-      "home_team": "Cleveland Guardians",
-      "away_pitcher": "Will Warren",
-      "home_pitcher": "Gavin Williams",
-      "game_time": "Jun 8, 6:40 PM ET",
-      "game_iso": "2026-06-08T18:40:00-04:00",
-      "game_pk": "824427",
-      "status_code": "P"
-    },
     "822806": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Toronto Blue Jays",
@@ -48,7 +18,7 @@
       "game_time": "Jun 8, 9:38 PM ET",
       "game_iso": "2026-06-08T21:38:00-04:00",
       "game_pk": "824025",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823289": {
       "away_team": "Cincinnati Reds",
@@ -58,17 +28,17 @@
       "game_time": "Jun 8, 9:40 PM ET",
       "game_iso": "2026-06-08T21:40:00-04:00",
       "game_pk": "823289",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823218": {
       "away_team": "Washington Nationals",
       "home_team": "San Francisco Giants",
-      "away_pitcher": "Miles Mikolas",
+      "away_pitcher": "Richard Lovelady",
       "home_pitcher": "Logan Webb",
       "game_time": "Jun 8, 9:45 PM ET",
       "game_iso": "2026-06-08T21:45:00-04:00",
       "game_pk": "823218",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824998": {
       "away_team": "Milwaukee Brewers",
@@ -78,7 +48,7 @@
       "game_time": "Jun 8, 10:05 PM ET",
       "game_iso": "2026-06-08T22:05:00-04:00",
       "game_pk": "824998",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
