@@ -1,4 +1,59 @@
 {
   "date": "2026-06-09",
-  "games": {}
+  "games": {
+    "822805": {
+      "active_pitcher_id": 554430,
+      "active_pitcher_name": "Zack Wheeler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:34.666296-04:00"
+    },
+    "822969": {
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:27.708230-04:00"
+    },
+    "823374": {
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:25.455070-04:00"
+    },
+    "823620": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:36.929204-04:00"
+    },
+    "823858": {
+      "active_pitcher_id": 676974,
+      "active_pitcher_name": "Max Meyer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:29.987494-04:00"
+    },
+    "824105": {
+      "active_pitcher_id": 663568,
+      "active_pitcher_name": "Stephen Kolek",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:39.131779-04:00"
+    },
+    "824429": {
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:32.369619-04:00"
+    },
+    "824591": {
+      "active_pitcher_id": 685126,
+      "active_pitcher_name": "Brandon Eisert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:41.435901-04:00"
+    },
+    "824830": {
+      "active_pitcher_id": 669302,
+      "active_pitcher_name": "Logan Gilbert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T19:38:23.348334-04:00"
+    }
+  }
 }
