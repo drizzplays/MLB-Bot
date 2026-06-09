@@ -8,7 +8,7 @@
       "game_time": "Jun 9, 6:35 PM ET",
       "game_iso": "2026-06-09T18:35:00-04:00",
       "game_pk": "824830",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823374": {
       "away_team": "Los Angeles Dodgers",
@@ -18,7 +18,7 @@
       "game_time": "Jun 9, 6:40 PM ET",
       "game_iso": "2026-06-09T18:40:00-04:00",
       "game_pk": "823374",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822969": {
       "away_team": "Boston Red Sox",
@@ -28,7 +28,7 @@
       "game_time": "Jun 9, 6:40 PM ET",
       "game_iso": "2026-06-09T18:40:00-04:00",
       "game_pk": "822969",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824267": {
       "away_team": "Minnesota Twins",
@@ -38,7 +38,7 @@
       "game_time": "Jun 9, 6:40 PM ET",
       "game_iso": "2026-06-09T18:40:00-04:00",
       "game_pk": "824267",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823858": {
       "away_team": "Arizona Diamondbacks",
@@ -48,7 +48,7 @@
       "game_time": "Jun 9, 6:40 PM ET",
       "game_iso": "2026-06-09T18:40:00-04:00",
       "game_pk": "823858",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824429": {
       "away_team": "New York Yankees",
@@ -58,7 +58,7 @@
       "game_time": "Jun 9, 6:40 PM ET",
       "game_iso": "2026-06-09T18:40:00-04:00",
       "game_pk": "824429",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822805": {
       "away_team": "Philadelphia Phillies",
@@ -68,7 +68,7 @@
       "game_time": "Jun 9, 7:07 PM ET",
       "game_iso": "2026-06-09T19:07:00-04:00",
       "game_pk": "822805",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823620": {
       "away_team": "St. Louis Cardinals",
@@ -78,7 +78,7 @@
       "game_time": "Jun 9, 7:10 PM ET",
       "game_iso": "2026-06-09T19:10:00-04:00",
       "game_pk": "823620",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824105": {
       "away_team": "Texas Rangers",
@@ -88,17 +88,17 @@
       "game_time": "Jun 9, 7:40 PM ET",
       "game_iso": "2026-06-09T19:40:00-04:00",
       "game_pk": "824105",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824591": {
       "away_team": "Atlanta Braves",
       "home_team": "Chicago White Sox",
       "away_pitcher": "Grant Holmes",
-      "home_pitcher": "Erick Fedde",
+      "home_pitcher": "Brandon Eisert",
       "game_time": "Jun 9, 7:40 PM ET",
       "game_iso": "2026-06-09T19:40:00-04:00",
       "game_pk": "824591",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824347": {
       "away_team": "Chicago Cubs",
@@ -108,7 +108,7 @@
       "game_time": "Jun 9, 8:40 PM ET",
       "game_iso": "2026-06-09T20:40:00-04:00",
       "game_pk": "824347",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824023": {
       "away_team": "Houston Astros",
