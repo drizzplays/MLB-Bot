@@ -13,6 +13,24 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-08T19:52:17.378411-04:00"
     },
+    "823218": {
+      "active_pitcher_id": 657277,
+      "active_pitcher_name": "Logan Webb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T22:46:05.957541-04:00"
+    },
+    "823289": {
+      "active_pitcher_id": 621111,
+      "active_pitcher_name": "Walker Buehler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T22:46:03.928180-04:00"
+    },
+    "824025": {
+      "active_pitcher_id": 681293,
+      "active_pitcher_name": "Spencer Arrighetti",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T22:46:01.928296-04:00"
+    },
     "824427": {
       "active_pitcher_id": 701542,
       "active_pitcher_name": "Will Warren",
@@ -24,6 +42,12 @@
       "active_pitcher_name": "Anthony Nunez",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-08T19:52:15.621991-04:00"
+    },
+    "824998": {
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-08T22:46:07.871403-04:00"
     }
   }
 }
