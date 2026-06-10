@@ -8,7 +8,7 @@
       "game_time": "Jun 10, 1:10 PM ET",
       "game_iso": "2026-06-10T13:10:00-04:00",
       "game_pk": "822970",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824428": {
       "away_team": "New York Yankees",
@@ -38,7 +38,7 @@
       "game_time": "Jun 10, 4:10 PM ET",
       "game_iso": "2026-06-10T16:10:00-04:00",
       "game_pk": "823287",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824831": {
       "away_team": "Seattle Mariners",
