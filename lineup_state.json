@@ -176,7 +176,7 @@
       "away_lineup": [
         "James Wood",
         "Curtis Mead",
-        "Andr\u00e9s Chaparro",
+        "Luis Garc\u00eda Jr.",
         "Dylan Crews",
         "Daylen Lile",
         "Jacob Young",
@@ -193,7 +193,7 @@
         "Bryce Eldridge",
         "Daniel Susac",
         "Drew Gilbert",
-        "Jonah Cox"
+        "Eric Haase"
       ],
       "away_roster": [
         "Nasim Nu\u00f1ez",
@@ -263,20 +263,20 @@
         "JJ Bleday",
         "Sal Stewart",
         "Spencer Steer",
-        "Nathaniel Lowe",
+        "Edwin Arroyo",
         "Eugenio Su\u00e1rez",
         "Dane Myers",
         "Noelvi Marte",
-        "P.J. Higgins"
+        "Tyler Stephenson"
       ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jackson Merrill",
         "Manny Machado",
-        "Gavin Sheets",
-        "Will Wagner",
+        "Jase Bowen",
+        "Miguel Andujar",
         "Samad Taylor",
-        "Bryce Johnson",
+        "Ty France",
         "Rodolfo Dur\u00e1n",
         "Sung-Mun Song"
       ],
@@ -1023,15 +1023,25 @@
     "Chicago Cubs @ Colorado Rockies | 824348": {
       "away_team": "Chicago Cubs",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Mois\u00e9s Ballesteros",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Seiya Suzuki",
+        "Nico Hoerner",
+        "Michael Conforto",
+        "Dansby Swanson"
+      ],
       "home_lineup": [
         "Willi Castro",
         "Kyle Karros",
         "TJ Rumfield",
         "Hunter Goodman",
         "Ezequiel Tovar",
-        "Jake McCarthy",
         "Cole Carrigg",
+        "Troy Johnston",
         "Braxton Fulford",
         "Chad Stevens"
       ],
@@ -1039,8 +1049,8 @@
         "Daniel Palencia",
         "Michael Conforto",
         "Hoby Milner",
-        "Edward Cabrera",
         "Ian Happ",
+        "Edward Cabrera",
         "Ethan Roberts",
         "Javier Assad",
         "Caleb Thielbar",
@@ -1056,8 +1066,8 @@
         "Mois\u00e9s Ballesteros",
         "Seiya Suzuki",
         "Ryan Rolison",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Phil Maton",
         "Nico Hoerner",
         "Ben Brown",
@@ -1098,8 +1108,28 @@
     "Milwaukee Brewers @ Athletics | 824996": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Athletics",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Christian Yelich",
+        "Jackson Chourio",
+        "Brice Turang",
+        "Andrew Vaughn",
+        "Jake Bauers",
+        "Gary S\u00e1nchez",
+        "Sal Frelick",
+        "David Hamilton",
+        "Joey Ortiz"
+      ],
+      "home_lineup": [
+        "Nick Kurtz",
+        "Tyler Soderstrom",
+        "Shea Langeliers",
+        "Carlos Cortes",
+        "Zack Gelof",
+        "Lawrence Butler",
+        "Henry Bolte",
+        "Jeff McNeil",
+        "Alika Williams"
+      ],
       "away_roster": [
         "Chad Patrick",
         "Luis Rengifo",
@@ -1122,8 +1152,8 @@
         "Brandon Sproat",
         "Blake Perkins",
         "William Contreras",
-        "Robert Gasser",
         "Brice Turang",
+        "Robert Gasser",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "Trevor Megill"
@@ -1163,7 +1193,17 @@
     "Houston Astros @ Los Angeles Angels | 824022": {
       "away_team": "Houston Astros",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jose Altuve",
+        "Yordan Alvarez",
+        "Christian Walker",
+        "Isaac Paredes",
+        "Cam Smith",
+        "Jake Meyers",
+        "Shay Whitcomb",
+        "Brice Matthews",
+        "Christian V\u00e1zquez"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
