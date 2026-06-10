@@ -1,25 +1,5 @@
 {
   "2026-06-10": {
-    "822970": {
-      "away_team": "Boston Red Sox",
-      "home_team": "Tampa Bay Rays",
-      "away_pitcher": "Jake Bennett",
-      "home_pitcher": "Drew Rasmussen",
-      "game_time": "Jun 10, 1:10 PM ET",
-      "game_iso": "2026-06-10T13:10:00-04:00",
-      "game_pk": "822970",
-      "status_code": "P"
-    },
-    "824428": {
-      "away_team": "New York Yankees",
-      "home_team": "Cleveland Guardians",
-      "away_pitcher": "Carlos Rod\u00f3n",
-      "home_pitcher": "Parker Messick",
-      "game_time": "Jun 10, 1:10 PM ET",
-      "game_iso": "2026-06-10T13:10:00-04:00",
-      "game_pk": "824428",
-      "status_code": "P"
-    },
     "823215": {
       "away_team": "Washington Nationals",
       "home_team": "San Francisco Giants",
@@ -28,7 +8,7 @@
       "game_time": "Jun 10, 3:45 PM ET",
       "game_iso": "2026-06-10T15:45:00-04:00",
       "game_pk": "823215",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823287": {
       "away_team": "Cincinnati Reds",
@@ -58,7 +38,7 @@
       "game_time": "Jun 10, 6:40 PM ET",
       "game_iso": "2026-06-10T18:40:00-04:00",
       "game_pk": "823372",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824266": {
       "away_team": "Minnesota Twins",
@@ -68,7 +48,7 @@
       "game_time": "Jun 10, 6:40 PM ET",
       "game_iso": "2026-06-10T18:40:00-04:00",
       "game_pk": "824266",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823856": {
       "away_team": "Arizona Diamondbacks",
@@ -78,7 +58,7 @@
       "game_time": "Jun 10, 6:40 PM ET",
       "game_iso": "2026-06-10T18:40:00-04:00",
       "game_pk": "823856",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822804": {
       "away_team": "Philadelphia Phillies",
@@ -98,7 +78,7 @@
       "game_time": "Jun 10, 7:10 PM ET",
       "game_iso": "2026-06-10T19:10:00-04:00",
       "game_pk": "823618",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824103": {
       "away_team": "Texas Rangers",
@@ -128,7 +108,7 @@
       "game_time": "Jun 10, 8:40 PM ET",
       "game_iso": "2026-06-10T20:40:00-04:00",
       "game_pk": "824348",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824996": {
       "away_team": "Milwaukee Brewers",
