@@ -1,6 +1,12 @@
 {
   "date": "2026-06-10",
   "games": {
+    "822804": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-10T19:24:52.614780-04:00"
+    },
     "822970": {
       "active_pitcher_id": 656876,
       "active_pitcher_name": "Drew Rasmussen",
@@ -19,11 +25,41 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-10T17:57:14.561525-04:00"
     },
+    "823372": {
+      "active_pitcher_id": 660271,
+      "active_pitcher_name": "Shohei Ohtani",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-10T19:24:46.455595-04:00"
+    },
+    "823618": {
+      "active_pitcher_id": 681810,
+      "active_pitcher_name": "Austin Warren",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-10T19:24:54.853808-04:00"
+    },
+    "823856": {
+      "active_pitcher_id": 669194,
+      "active_pitcher_name": "Ryne Nelson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-10T19:24:50.489210-04:00"
+    },
+    "824266": {
+      "active_pitcher_id": 702474,
+      "active_pitcher_name": "Mike Paredes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-10T19:24:48.467306-04:00"
+    },
     "824428": {
       "active_pitcher_id": 642232,
       "active_pitcher_name": "Ryan Yarbrough",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-10T15:53:07.419104-04:00"
+    },
+    "824831": {
+      "active_pitcher_id": 669923,
+      "active_pitcher_name": "George Kirby",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-10T19:24:44.208479-04:00"
     }
   }
 }
