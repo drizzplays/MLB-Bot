@@ -13,11 +13,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-09T19:38:27.708230-04:00"
     },
-    "823374": {
-      "active_pitcher_id": 694973,
-      "active_pitcher_name": "Paul Skenes",
+    "823214": {
+      "active_pitcher_id": 605288,
+      "active_pitcher_name": "Adrian Houser",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-09T19:38:25.455070-04:00"
+      "last_checked_at": "2026-06-09T21:51:34.057351-04:00"
+    },
+    "823290": {
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T21:51:32.053625-04:00"
+    },
+    "823374": {
+      "active_pitcher_id": 656945,
+      "active_pitcher_name": "Tanner Scott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T21:51:16.613337-04:00"
     },
     "823620": {
       "active_pitcher_id": 669160,
@@ -26,16 +38,34 @@
       "last_checked_at": "2026-06-09T19:38:36.929204-04:00"
     },
     "823858": {
-      "active_pitcher_id": 676974,
-      "active_pitcher_name": "Max Meyer",
+      "active_pitcher_id": 664126,
+      "active_pitcher_name": "Pete Fairbanks",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-09T19:38:29.987494-04:00"
+      "last_checked_at": "2026-06-09T21:51:21.885850-04:00"
+    },
+    "824023": {
+      "active_pitcher_id": 678906,
+      "active_pitcher_name": "Kai-Wei Teng",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T21:51:30.134158-04:00"
     },
     "824105": {
-      "active_pitcher_id": 663568,
-      "active_pitcher_name": "Stephen Kolek",
+      "active_pitcher_id": 663738,
+      "active_pitcher_name": "Daniel Lynch IV",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-09T19:38:39.131779-04:00"
+      "last_checked_at": "2026-06-09T21:51:24.093040-04:00"
+    },
+    "824267": {
+      "active_pitcher_id": 675512,
+      "active_pitcher_name": "Troy Melton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T21:51:19.061468-04:00"
+    },
+    "824347": {
+      "active_pitcher_id": 608372,
+      "active_pitcher_name": "Tomoyuki Sugano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T21:51:28.243733-04:00"
     },
     "824429": {
       "active_pitcher_id": 543037,
@@ -44,16 +74,22 @@
       "last_checked_at": "2026-06-09T19:38:32.369619-04:00"
     },
     "824591": {
-      "active_pitcher_id": 685126,
-      "active_pitcher_name": "Brandon Eisert",
+      "active_pitcher_id": 699823,
+      "active_pitcher_name": "Tyler Davis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-09T19:38:41.435901-04:00"
+      "last_checked_at": "2026-06-09T21:51:26.330249-04:00"
     },
     "824830": {
       "active_pitcher_id": 669302,
       "active_pitcher_name": "Logan Gilbert",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-09T19:38:23.348334-04:00"
+    },
+    "824999": {
+      "active_pitcher_id": 669372,
+      "active_pitcher_name": "J.T. Ginn",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-09T21:51:35.987960-04:00"
     }
   }
 }
