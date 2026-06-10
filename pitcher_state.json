@@ -1,25 +1,5 @@
 {
   "2026-06-10": {
-    "823215": {
-      "away_team": "Washington Nationals",
-      "home_team": "San Francisco Giants",
-      "away_pitcher": "Foster Griffin",
-      "home_pitcher": "Robbie Ray",
-      "game_time": "Jun 10, 3:45 PM ET",
-      "game_iso": "2026-06-10T15:45:00-04:00",
-      "game_pk": "823215",
-      "status_code": "P"
-    },
-    "823287": {
-      "away_team": "Cincinnati Reds",
-      "home_team": "San Diego Padres",
-      "away_pitcher": "Brady Singer",
-      "home_pitcher": "Michael King",
-      "game_time": "Jun 10, 4:10 PM ET",
-      "game_iso": "2026-06-10T16:10:00-04:00",
-      "game_pk": "823287",
-      "status_code": "P"
-    },
     "824831": {
       "away_team": "Seattle Mariners",
       "home_team": "Baltimore Orioles",
@@ -28,7 +8,7 @@
       "game_time": "Jun 10, 6:35 PM ET",
       "game_iso": "2026-06-10T18:35:00-04:00",
       "game_pk": "824831",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823372": {
       "away_team": "Los Angeles Dodgers",
@@ -43,7 +23,7 @@
     "824266": {
       "away_team": "Minnesota Twins",
       "home_team": "Detroit Tigers",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Mike Paredes",
       "home_pitcher": "Framber Valdez",
       "game_time": "Jun 10, 6:40 PM ET",
       "game_iso": "2026-06-10T18:40:00-04:00",
@@ -68,7 +48,7 @@
       "game_time": "Jun 10, 7:07 PM ET",
       "game_iso": "2026-06-10T19:07:00-04:00",
       "game_pk": "822804",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823618": {
       "away_team": "St. Louis Cardinals",
@@ -88,17 +68,17 @@
       "game_time": "Jun 10, 7:40 PM ET",
       "game_iso": "2026-06-10T19:40:00-04:00",
       "game_pk": "824103",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824590": {
       "away_team": "Atlanta Braves",
       "home_team": "Chicago White Sox",
       "away_pitcher": "Chris Sale",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Davis Martin",
       "game_time": "Jun 10, 7:40 PM ET",
       "game_iso": "2026-06-10T19:40:00-04:00",
       "game_pk": "824590",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824348": {
       "away_team": "Chicago Cubs",
@@ -128,7 +108,7 @@
       "game_time": "Jun 10, 9:38 PM ET",
       "game_iso": "2026-06-10T21:38:00-04:00",
       "game_pk": "824022",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
