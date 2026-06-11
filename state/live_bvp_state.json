@@ -13,11 +13,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-11T14:25:33.176529-04:00"
     },
+    "824101": {
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-11T16:42:02.649318-04:00"
+    },
     "824265": {
       "active_pitcher_id": 805673,
       "active_pitcher_name": "Zebby Matthews",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-11T14:25:31.310970-04:00"
+    },
+    "824346": {
+      "active_pitcher_id": 665795,
+      "active_pitcher_name": "Edward Cabrera",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-11T16:42:04.355877-04:00"
     }
   }
 }
