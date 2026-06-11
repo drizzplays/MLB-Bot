@@ -1,6 +1,12 @@
 {
   "date": "2026-06-11",
   "games": {
+    "823371": {
+      "active_pitcher_id": 656605,
+      "active_pitcher_name": "Mitch Keller",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-11T18:31:08.943985-04:00"
+    },
     "823619": {
       "active_pitcher_id": 690928,
       "active_pitcher_name": "Hunter Dobbins",
@@ -14,10 +20,10 @@
       "last_checked_at": "2026-06-11T14:25:33.176529-04:00"
     },
     "824101": {
-      "active_pitcher_id": 677958,
-      "active_pitcher_name": "Kumar Rocker",
+      "active_pitcher_id": 694360,
+      "active_pitcher_name": "Beck Way",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T16:42:02.649318-04:00"
+      "last_checked_at": "2026-06-11T18:31:06.413323-04:00"
     },
     "824265": {
       "active_pitcher_id": 805673,
