@@ -1,25 +1,5 @@
 {
   "2026-06-11": {
-    "823371": {
-      "away_team": "Los Angeles Dodgers",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Justin Wrobleski",
-      "home_pitcher": "Mitch Keller",
-      "game_time": "Jun 11, 6:40 PM ET",
-      "game_iso": "2026-06-11T18:40:00-04:00",
-      "game_pk": "823371",
-      "status_code": "P"
-    },
-    "824827": {
-      "away_team": "Seattle Mariners",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Bryan Woo",
-      "home_pitcher": "Kyle Bradish",
-      "game_time": "Jun 11, 7:05 PM ET",
-      "game_iso": "2026-06-11T19:05:00-04:00",
-      "game_pk": "824827",
-      "status_code": "P"
-    },
     "824589": {
       "away_team": "Atlanta Braves",
       "home_team": "Chicago White Sox",
