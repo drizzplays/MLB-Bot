@@ -2,10 +2,10 @@
   "date": "2026-06-11",
   "games": {
     "823371": {
-      "active_pitcher_id": 656605,
-      "active_pitcher_name": "Mitch Keller",
+      "active_pitcher_id": 670990,
+      "active_pitcher_name": "Yohan Ram\u00edrez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T18:31:08.943985-04:00"
+      "last_checked_at": "2026-06-11T20:07:02.759859-04:00"
     },
     "823619": {
       "active_pitcher_id": 690928,
@@ -36,6 +36,12 @@
       "active_pitcher_name": "Edward Cabrera",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-11T16:42:04.355877-04:00"
+    },
+    "824827": {
+      "active_pitcher_id": 693433,
+      "active_pitcher_name": "Bryan Woo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-11T20:07:05.852763-04:00"
     }
   }
 }
