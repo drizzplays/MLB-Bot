@@ -78,7 +78,7 @@
       "game_time": "Jun 12, 7:37 PM ET",
       "game_iso": "2026-06-12T19:37:00-04:00",
       "game_pk": "822803",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824588": {
       "away_team": "Los Angeles Dodgers",
@@ -93,12 +93,12 @@
     "823778": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Andrew Painter",
+      "away_pitcher": "Tanner Banks",
       "home_pitcher": "Jacob Misiorowski",
       "game_time": "Jun 12, 7:40 PM ET",
       "game_iso": "2026-06-12T19:40:00-04:00",
       "game_pk": "823778",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824102": {
       "away_team": "Houston Astros",
@@ -118,7 +118,7 @@
       "game_time": "Jun 12, 8:10 PM ET",
       "game_iso": "2026-06-12T20:10:00-04:00",
       "game_pk": "823695",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824020": {
       "away_team": "Tampa Bay Rays",
