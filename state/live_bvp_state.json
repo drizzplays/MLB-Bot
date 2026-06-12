@@ -1,47 +1,4 @@
 {
-  "date": "2026-06-11",
-  "games": {
-    "823371": {
-      "active_pitcher_id": 670990,
-      "active_pitcher_name": "Yohan Ram\u00edrez",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T20:07:02.759859-04:00"
-    },
-    "823619": {
-      "active_pitcher_id": 690928,
-      "active_pitcher_name": "Hunter Dobbins",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T14:25:29.499444-04:00"
-    },
-    "823855": {
-      "active_pitcher_id": 518876,
-      "active_pitcher_name": "Merrill Kelly",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T14:25:33.176529-04:00"
-    },
-    "824101": {
-      "active_pitcher_id": 694360,
-      "active_pitcher_name": "Beck Way",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T18:31:06.413323-04:00"
-    },
-    "824265": {
-      "active_pitcher_id": 805673,
-      "active_pitcher_name": "Zebby Matthews",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T14:25:31.310970-04:00"
-    },
-    "824346": {
-      "active_pitcher_id": 665795,
-      "active_pitcher_name": "Edward Cabrera",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T16:42:04.355877-04:00"
-    },
-    "824827": {
-      "active_pitcher_id": 693433,
-      "active_pitcher_name": "Bryan Woo",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-11T20:07:05.852763-04:00"
-    }
-  }
+  "date": "2026-06-12",
+  "games": {}
 }
