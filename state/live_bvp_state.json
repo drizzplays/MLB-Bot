@@ -1,4 +1,35 @@
 {
   "date": "2026-06-12",
-  "games": {}
+  "games": {
+    "823370": {
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T19:21:36.534946-04:00"
+    },
+    "824425": {
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T19:21:41.210276-04:00"
+    },
+    "824507": {
+      "active_pitcher_id": 666157,
+      "active_pitcher_name": "Nick Lodolo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T19:21:46.159711-04:00"
+    },
+    "824752": {
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T19:21:43.528224-04:00"
+    },
+    "824826": {
+      "active_pitcher_id": 656288,
+      "active_pitcher_name": "Griffin Canning",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T19:21:38.811725-04:00"
+    }
+  }
 }
