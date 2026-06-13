@@ -8,7 +8,7 @@
       "game_time": "Jun 13, 2:10 PM ET",
       "game_iso": "2026-06-13T14:10:00-04:00",
       "game_pk": "823694",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822802": {
       "away_team": "New York Yankees",
@@ -18,7 +18,7 @@
       "game_time": "Jun 13, 3:07 PM ET",
       "game_iso": "2026-06-13T15:07:00-04:00",
       "game_pk": "822802",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824828": {
       "away_team": "San Diego Padres",
