@@ -1,4 +1,11 @@
 {
   "date": "2026-06-13",
-  "games": {}
+  "games": {
+    "823694": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T13:58:58.343381-04:00"
+    }
+  }
 }
