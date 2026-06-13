@@ -1,6 +1,12 @@
 {
   "date": "2026-06-13",
   "games": {
+    "822802": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T15:42:15.309176-04:00"
+    },
     "823694": {
       "active_pitcher_id": 687570,
       "active_pitcher_name": "Connor Prielipp",
