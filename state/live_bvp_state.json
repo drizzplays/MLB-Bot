@@ -1,17 +1,67 @@
 {
   "date": "2026-06-13",
   "games": {
-    "822802": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+    "822725": {
+      "active_pitcher_id": 676917,
+      "active_pitcher_name": "Cade Cavalli",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T15:42:15.309176-04:00"
+      "last_checked_at": "2026-06-13T16:55:14.813638-04:00"
+    },
+    "822802": {
+      "active_pitcher_id": 592332,
+      "active_pitcher_name": "Kevin Gausman",
+      "alerted_pairs": [
+        "592332:676609"
+      ],
+      "last_checked_at": "2026-06-13T16:55:08.434743-04:00"
+    },
+    "823369": {
+      "active_pitcher_id": 667463,
+      "active_pitcher_name": "John King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:16.695475-04:00"
+    },
+    "823616": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:24.393117-04:00"
     },
     "823694": {
-      "active_pitcher_id": 687570,
-      "active_pitcher_name": "Connor Prielipp",
+      "active_pitcher_id": 676617,
+      "active_pitcher_name": "Riley O'Brien",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T13:58:58.343381-04:00"
+      "last_checked_at": "2026-06-13T16:55:06.395061-04:00"
+    },
+    "824426": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:20.492607-04:00"
+    },
+    "824508": {
+      "active_pitcher_id": 647336,
+      "active_pitcher_name": "Michael Soroka",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:18.603907-04:00"
+    },
+    "824587": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:26.326769-04:00"
+    },
+    "824749": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:22.434779-04:00"
+    },
+    "824828": {
+      "active_pitcher_id": 694346,
+      "active_pitcher_name": "Trey Gibson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-13T16:55:12.887048-04:00"
     }
   }
 }
