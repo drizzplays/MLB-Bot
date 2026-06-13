@@ -2,10 +2,10 @@
   "date": "2026-06-13",
   "games": {
     "822725": {
-      "active_pitcher_id": 676917,
-      "active_pitcher_name": "Cade Cavalli",
+      "active_pitcher_id": 642100,
+      "active_pitcher_name": "Gabe Speier",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:14.813638-04:00"
+      "last_checked_at": "2026-06-13T18:00:06.062781-04:00"
     },
     "822802": {
       "active_pitcher_id": 592332,
@@ -16,16 +16,16 @@
       "last_checked_at": "2026-06-13T16:55:08.434743-04:00"
     },
     "823369": {
-      "active_pitcher_id": 667463,
-      "active_pitcher_name": "John King",
+      "active_pitcher_id": 656848,
+      "active_pitcher_name": "Michael Petersen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:16.695475-04:00"
+      "last_checked_at": "2026-06-13T18:00:08.369418-04:00"
     },
     "823616": {
-      "active_pitcher_id": 527048,
-      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "active_pitcher_id": 681810,
+      "active_pitcher_name": "Austin Warren",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:24.393117-04:00"
+      "last_checked_at": "2026-06-13T18:00:17.070192-04:00"
     },
     "823694": {
       "active_pitcher_id": 676617,
@@ -34,34 +34,34 @@
       "last_checked_at": "2026-06-13T16:55:06.395061-04:00"
     },
     "824426": {
-      "active_pitcher_id": 676282,
-      "active_pitcher_name": "Joey Cantillo",
+      "active_pitcher_id": 683769,
+      "active_pitcher_name": "Hunter Gaddis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:20.492607-04:00"
+      "last_checked_at": "2026-06-13T18:00:12.765445-04:00"
     },
     "824508": {
-      "active_pitcher_id": 647336,
-      "active_pitcher_name": "Michael Soroka",
+      "active_pitcher_id": 695534,
+      "active_pitcher_name": "Chase Petty",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:18.603907-04:00"
+      "last_checked_at": "2026-06-13T18:00:10.504397-04:00"
     },
     "824587": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:26.326769-04:00"
+      "last_checked_at": "2026-06-13T18:00:19.536612-04:00"
     },
     "824749": {
-      "active_pitcher_id": 594798,
-      "active_pitcher_name": "Jacob deGrom",
+      "active_pitcher_id": 676477,
+      "active_pitcher_name": "Garrett Whitlock",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:22.434779-04:00"
+      "last_checked_at": "2026-06-13T18:00:14.886031-04:00"
     },
     "824828": {
-      "active_pitcher_id": 694346,
-      "active_pitcher_name": "Trey Gibson",
+      "active_pitcher_id": 673513,
+      "active_pitcher_name": "Yuki Matsui",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-13T16:55:12.887048-04:00"
+      "last_checked_at": "2026-06-13T18:00:03.788752-04:00"
     }
   }
 }
