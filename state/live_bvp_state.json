@@ -1,11 +1,55 @@
 {
   "date": "2026-06-12",
   "games": {
+    "822726": {
+      "active_pitcher_id": 682243,
+      "active_pitcher_name": "Bryce Miller",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:01.025389-04:00"
+    },
+    "822803": {
+      "active_pitcher_id": 687396,
+      "active_pitcher_name": "Brent Headrick",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:11.022463-04:00"
+    },
     "823370": {
       "active_pitcher_id": 677952,
       "active_pitcher_name": "Braxton Ashcraft",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-12T19:21:36.534946-04:00"
+    },
+    "823617": {
+      "active_pitcher_id": 675911,
+      "active_pitcher_name": "Spencer Strider",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:09.241847-04:00"
+    },
+    "823695": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [
+        "657746:691023"
+      ],
+      "last_checked_at": "2026-06-12T21:37:19.245997-04:00"
+    },
+    "823778": {
+      "active_pitcher_id": 641835,
+      "active_pitcher_name": "Tim Mayza",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:15.101313-04:00"
+    },
+    "824020": {
+      "active_pitcher_id": 691951,
+      "active_pitcher_name": "Sam Aldegheri",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:23.125169-04:00"
+    },
+    "824102": {
+      "active_pitcher_id": 674444,
+      "active_pitcher_name": "Steven Cruz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:17.184287-04:00"
     },
     "824425": {
       "active_pitcher_id": 676440,
@@ -14,22 +58,28 @@
       "last_checked_at": "2026-06-12T19:21:41.210276-04:00"
     },
     "824507": {
-      "active_pitcher_id": 666157,
-      "active_pitcher_name": "Nick Lodolo",
+      "active_pitcher_id": 622088,
+      "active_pitcher_name": "Tejay Antone",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-12T19:21:46.159711-04:00"
+      "last_checked_at": "2026-06-12T21:37:06.983283-04:00"
+    },
+    "824588": {
+      "active_pitcher_id": 683618,
+      "active_pitcher_name": "Edgardo Henriquez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-12T21:37:13.038122-04:00"
     },
     "824752": {
-      "active_pitcher_id": 543243,
-      "active_pitcher_name": "Sonny Gray",
+      "active_pitcher_id": 543056,
+      "active_pitcher_name": "Danny Coulombe",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-12T19:21:43.528224-04:00"
+      "last_checked_at": "2026-06-12T21:37:04.855532-04:00"
     },
     "824826": {
-      "active_pitcher_id": 656288,
-      "active_pitcher_name": "Griffin Canning",
+      "active_pitcher_id": 666974,
+      "active_pitcher_name": "Yennier Cano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-12T19:21:38.811725-04:00"
+      "last_checked_at": "2026-06-12T21:37:02.798535-04:00"
     }
   }
 }
