@@ -8,10 +8,16 @@
       "last_checked_at": "2026-06-14T14:50:45.818314-04:00"
     },
     "822801": {
-      "active_pitcher_id": 693686,
-      "active_pitcher_name": "Spencer Miles",
+      "active_pitcher_id": 656546,
+      "active_pitcher_name": "Jeff Hoffman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:50:48.435139-04:00"
+      "last_checked_at": "2026-06-14T16:12:04.867033-04:00"
+    },
+    "823212": {
+      "active_pitcher_id": 657277,
+      "active_pitcher_name": "Logan Webb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T16:12:22.591542-04:00"
     },
     "823368": {
       "active_pitcher_id": 676604,
@@ -20,52 +26,58 @@
       "last_checked_at": "2026-06-14T14:50:40.727712-04:00"
     },
     "823615": {
-      "active_pitcher_id": 693821,
-      "active_pitcher_name": "Bryce Elder",
+      "active_pitcher_id": 683627,
+      "active_pitcher_name": "Anthony Molina",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:50:54.041998-04:00"
+      "last_checked_at": "2026-06-14T16:12:09.270497-04:00"
     },
     "823693": {
-      "active_pitcher_id": 700241,
-      "active_pitcher_name": "Michael McGreevy",
+      "active_pitcher_id": 668941,
+      "active_pitcher_name": "JoJo Romero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:50:59.258589-04:00"
+      "last_checked_at": "2026-06-14T16:12:13.640285-04:00"
     },
     "823777": {
-      "active_pitcher_id": 650911,
-      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "active_pitcher_id": 676879,
+      "active_pitcher_name": "Aaron Ashby",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:51:04.982149-04:00"
+      "last_checked_at": "2026-06-14T16:12:18.234431-04:00"
+    },
+    "824021": {
+      "active_pitcher_id": 680570,
+      "active_pitcher_name": "Grayson Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T16:12:24.490045-04:00"
     },
     "824099": {
-      "active_pitcher_id": 681293,
-      "active_pitcher_name": "Spencer Arrighetti",
+      "active_pitcher_id": 663568,
+      "active_pitcher_name": "Stephen Kolek",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:50:56.665175-04:00"
+      "last_checked_at": "2026-06-14T16:12:11.713703-04:00"
     },
     "824506": {
-      "active_pitcher_id": 668678,
-      "active_pitcher_name": "Zac Gallen",
+      "active_pitcher_id": 687209,
+      "active_pitcher_name": "Zach Maxwell",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:50:51.404939-04:00"
+      "last_checked_at": "2026-06-14T16:12:06.786314-04:00"
     },
     "824586": {
-      "active_pitcher_id": 656794,
-      "active_pitcher_name": "Sean Newcomb",
+      "active_pitcher_id": 595014,
+      "active_pitcher_name": "Blake Treinen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:51:01.929416-04:00"
+      "last_checked_at": "2026-06-14T16:12:15.860454-04:00"
     },
     "824823": {
-      "active_pitcher_id": 621111,
-      "active_pitcher_name": "Walker Buehler",
+      "active_pitcher_id": 666974,
+      "active_pitcher_name": "Yennier Cano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:50:43.451915-04:00"
+      "last_checked_at": "2026-06-14T16:12:02.886301-04:00"
     },
     "824994": {
-      "active_pitcher_id": 605488,
-      "active_pitcher_name": "Jeffrey Springs",
+      "active_pitcher_id": 608372,
+      "active_pitcher_name": "Tomoyuki Sugano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T14:51:07.529420-04:00"
+      "last_checked_at": "2026-06-14T16:12:20.697801-04:00"
     }
   }
 }
