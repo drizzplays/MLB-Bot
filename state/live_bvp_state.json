@@ -2,28 +2,70 @@
   "date": "2026-06-14",
   "games": {
     "822722": {
-      "active_pitcher_id": 676571,
-      "active_pitcher_name": "PJ Poulin",
+      "active_pitcher_id": 678606,
+      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T13:24:36.697085-04:00"
+      "last_checked_at": "2026-06-14T14:50:45.818314-04:00"
     },
     "822801": {
-      "active_pitcher_id": 571578,
-      "active_pitcher_name": "Patrick Corbin",
+      "active_pitcher_id": 693686,
+      "active_pitcher_name": "Spencer Miles",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T13:24:38.836273-04:00"
+      "last_checked_at": "2026-06-14T14:50:48.435139-04:00"
     },
     "823368": {
-      "active_pitcher_id": 676974,
-      "active_pitcher_name": "Max Meyer",
+      "active_pitcher_id": 676604,
+      "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T13:24:32.109002-04:00"
+      "last_checked_at": "2026-06-14T14:50:40.727712-04:00"
+    },
+    "823615": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:50:54.041998-04:00"
+    },
+    "823693": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:50:59.258589-04:00"
+    },
+    "823777": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:51:04.982149-04:00"
+    },
+    "824099": {
+      "active_pitcher_id": 681293,
+      "active_pitcher_name": "Spencer Arrighetti",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:50:56.665175-04:00"
+    },
+    "824506": {
+      "active_pitcher_id": 668678,
+      "active_pitcher_name": "Zac Gallen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:50:51.404939-04:00"
+    },
+    "824586": {
+      "active_pitcher_id": 656794,
+      "active_pitcher_name": "Sean Newcomb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:51:01.929416-04:00"
     },
     "824823": {
-      "active_pitcher_id": 669432,
-      "active_pitcher_name": "Trevor Rogers",
+      "active_pitcher_id": 621111,
+      "active_pitcher_name": "Walker Buehler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-14T13:24:34.415784-04:00"
+      "last_checked_at": "2026-06-14T14:50:43.451915-04:00"
+    },
+    "824994": {
+      "active_pitcher_id": 605488,
+      "active_pitcher_name": "Jeffrey Springs",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-14T14:51:07.529420-04:00"
     }
   }
 }
