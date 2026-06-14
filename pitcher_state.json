@@ -8,7 +8,7 @@
       "game_time": "Jun 14, 12:15 PM ET",
       "game_iso": "2026-06-14T12:15:00-04:00",
       "game_pk": "823368",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824823": {
       "away_team": "San Diego Padres",
@@ -18,7 +18,7 @@
       "game_time": "Jun 14, 1:35 PM ET",
       "game_iso": "2026-06-14T13:35:00-04:00",
       "game_pk": "824823",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822722": {
       "away_team": "Seattle Mariners",
@@ -48,7 +48,7 @@
       "game_time": "Jun 14, 1:40 PM ET",
       "game_iso": "2026-06-14T13:40:00-04:00",
       "game_pk": "824506",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824424": {
       "away_team": "Detroit Tigers",
@@ -58,7 +58,7 @@
       "game_time": "Jun 14, 1:40 PM ET",
       "game_iso": "2026-06-14T13:40:00-04:00",
       "game_pk": "824424",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823615": {
       "away_team": "Atlanta Braves",
@@ -88,7 +88,7 @@
       "game_time": "Jun 14, 2:10 PM ET",
       "game_iso": "2026-06-14T14:10:00-04:00",
       "game_pk": "823693",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824586": {
       "away_team": "Los Angeles Dodgers",
