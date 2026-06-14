@@ -362,7 +362,7 @@
         "Eugenio Su\u00e1rez",
         "Noelvi Marte",
         "Matt McLain",
-        "Jose Trevino",
+        "Will Benson",
         "Edwin Arroyo"
       ],
       "away_roster": [
@@ -855,10 +855,10 @@
       "home_team": "Athletics",
       "away_lineup": [
         "Willi Castro",
-        "Tyler Freeman",
+        "Sterlin Thompson",
         "TJ Rumfield",
-        "Hunter Goodman",
-        "Ezequiel Tovar",
+        "Brett Sullivan",
+        "Edouard Julien",
         "Cole Carrigg",
         "Kyle Karros",
         "Troy Johnston",
@@ -866,8 +866,8 @@
       ],
       "home_lineup": [
         "Lawrence Butler",
-        "Nick Kurtz",
-        "Tyler Soderstrom",
+        "Colby Thomas",
+        "Henry Bolte",
         "Carlos Cortes",
         "Zack Gelof",
         "Jonah Heim",
@@ -892,8 +892,8 @@
         "Edouard Julien",
         "Hunter Goodman",
         "Tomoyuki Sugano",
-        "Zach Agnos",
         "Brett Sullivan",
+        "Zach Agnos",
         "Ezequiel Tovar",
         "Michael Lorenzen",
         "TJ Rumfield",
@@ -1037,7 +1037,7 @@
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
-        "Wade Meckler",
+        "Jose Siri",
         "Jo Adell",
         "Nolan Schanuel",
         "Denzer Guzman",
@@ -1074,9 +1074,9 @@
         "Cedric Mullins"
       ],
       "home_roster": [
+        "Jose Siri",
         "Donovan Walton",
         "Oswald Peraza",
-        "Jose Siri",
         "Zach Neto",
         "Trey Mancini",
         "Nick Madrigal",
@@ -1354,6 +1354,7 @@
         "Mason Black",
         "Tyler Tolbert",
         "Isaac Collins",
+        "Mitch Spence",
         "Salvador Perez",
         "Luinder Avila",
         "Nick Loftin",
@@ -1546,7 +1547,7 @@
       "away_roster": [
         "Ryan Feltner",
         "Blas Casta\u00f1o",
-        "Chad Stevens",
+        "Eiberson Castellano",
         "Jake McCarthy",
         "Troy Johnston",
         "Braxton Fulford",
@@ -1555,6 +1556,7 @@
         "Willi Castro",
         "Brennan Bernardino",
         "Cole Carrigg",
+        "Tyler Freeman",
         "Juan Mejia",
         "Edouard Julien",
         "Hunter Goodman",
@@ -1568,7 +1570,6 @@
         "Antonio Senzatela",
         "Jaden Hill",
         "Sterlin Thompson",
-        "Jeff Criswell",
         "Kyle Karros"
       ],
       "home_roster": [
@@ -1637,17 +1638,16 @@
         "Luke Keaschall"
       ],
       "home_roster": [
-        "Evan Carter",
         "Wyatt Langford",
         "Kumar Rocker",
         "Jake Burger",
         "Peyton Gray",
         "Tyler Alexander",
+        "Alejandro Osuna",
         "Jack Leiter",
         "Joc Pederson",
-        "Luis Curvelo",
         "Jacob Latz",
-        "Jalen Beeks",
+        "Joe Ross",
         "Corey Seager",
         "Cal Quantrill",
         "Nicky Lopez",
@@ -1657,12 +1657,13 @@
         "Kyle Higashioka",
         "Ezequiel Duran",
         "MacKenzie Gore",
-        "Michael Helman",
         "Jacob deGrom",
         "Brandon Nimmo",
         "Jakob Junis",
+        "Cody Freeman",
         "Elias D\u00edaz",
-        "Nathan Eovaldi"
+        "Nathan Eovaldi",
+        "Cole Winn"
       ],
       "game_time": "Jun 15, 8:05 PM ET",
       "game_iso": "2026-06-15T20:05:00-04:00",
