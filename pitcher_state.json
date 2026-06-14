@@ -1,45 +1,5 @@
 {
   "2026-06-14": {
-    "824099": {
-      "away_team": "Houston Astros",
-      "home_team": "Kansas City Royals",
-      "away_pitcher": "Spencer Arrighetti",
-      "home_pitcher": "Stephen Kolek",
-      "game_time": "Jun 14, 2:10 PM ET",
-      "game_iso": "2026-06-14T14:10:00-04:00",
-      "game_pk": "824099",
-      "status_code": "P"
-    },
-    "823693": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Minnesota Twins",
-      "away_pitcher": "Michael McGreevy",
-      "home_pitcher": "Taj Bradley",
-      "game_time": "Jun 14, 2:10 PM ET",
-      "game_iso": "2026-06-14T14:10:00-04:00",
-      "game_pk": "823693",
-      "status_code": "P"
-    },
-    "824586": {
-      "away_team": "Los Angeles Dodgers",
-      "home_team": "Chicago White Sox",
-      "away_pitcher": "Emmet Sheehan",
-      "home_pitcher": "Bryan Hudson",
-      "game_time": "Jun 14, 2:10 PM ET",
-      "game_iso": "2026-06-14T14:10:00-04:00",
-      "game_pk": "824586",
-      "status_code": "P"
-    },
-    "823777": {
-      "away_team": "Philadelphia Phillies",
-      "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Cristopher S\u00e1nchez",
-      "home_pitcher": "Kyle Harrison",
-      "game_time": "Jun 14, 2:10 PM ET",
-      "game_iso": "2026-06-14T14:10:00-04:00",
-      "game_pk": "823777",
-      "status_code": "P"
-    },
     "824994": {
       "away_team": "Colorado Rockies",
       "home_team": "Athletics",
