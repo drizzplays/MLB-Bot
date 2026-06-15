@@ -53,7 +53,7 @@
     "822887": {
       "away_team": "Minnesota Twins",
       "home_team": "Texas Rangers",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Mike Paredes",
       "home_pitcher": "MacKenzie Gore",
       "game_time": "Jun 15, 8:05 PM ET",
       "game_iso": "2026-06-15T20:05:00-04:00",
@@ -63,7 +63,7 @@
     "824181": {
       "away_team": "Detroit Tigers",
       "home_team": "Houston Astros",
-      "away_pitcher": "Troy Melton",
+      "away_pitcher": "Drew Anderson",
       "home_pitcher": "Kai-Wei Teng",
       "game_time": "Jun 15, 8:10 PM ET",
       "game_iso": "2026-06-15T20:10:00-04:00",
@@ -78,7 +78,7 @@
       "game_time": "Jun 15, 9:40 PM ET",
       "game_iso": "2026-06-15T21:40:00-04:00",
       "game_pk": "825071",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824993": {
       "away_team": "Pittsburgh Pirates",
@@ -88,7 +88,7 @@
       "game_time": "Jun 15, 9:40 PM ET",
       "game_iso": "2026-06-15T21:40:00-04:00",
       "game_pk": "824993",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823938": {
       "away_team": "Tampa Bay Rays",
@@ -98,7 +98,7 @@
       "game_time": "Jun 15, 10:10 PM ET",
       "game_iso": "2026-06-15T22:10:00-04:00",
       "game_pk": "823938",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
