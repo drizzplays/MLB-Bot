@@ -489,7 +489,6 @@
         "Jack Leiter",
         "Jacob Latz",
         "Joe Ross",
-        "Corey Seager",
         "Cal Quantrill",
         "Nicky Lopez",
         "Josh Jung",
@@ -500,6 +499,7 @@
         "MacKenzie Gore",
         "Jacob deGrom",
         "Brandon Nimmo",
+        "Josh Smith",
         "Jakob Junis",
         "Cody Freeman",
         "Elias D\u00edaz",
@@ -683,7 +683,17 @@
     "Pittsburgh Pirates @ Athletics | 824993": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Athletics",
-      "away_lineup": [],
+      "away_lineup": [
+        "Spencer Horwitz",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Ryan O'Hearn",
+        "Nick Gonzales",
+        "Endy Rodr\u00edguez",
+        "Tyler Callihan",
+        "Jake Mangum",
+        "Esmerlyn Valdez"
+      ],
       "home_lineup": [
         "Nick Kurtz",
         "Shea Langeliers",
@@ -705,8 +715,8 @@
         "Evan Sisk",
         "Gregory Soto",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -737,7 +747,6 @@
         "Alika Williams",
         "Max Muncy",
         "Tyler Soderstrom",
-        "Brady Basso",
         "Gage Jump",
         "Elvis Alvarado",
         "Nick Kurtz",
@@ -749,6 +758,7 @@
         "Mark Leiter Jr.",
         "Jack Perkins",
         "Jeffrey Springs",
+        "Luis Morales",
         "Jacob Wilson"
       ],
       "game_time": "Jun 15, 9:40 PM ET",
@@ -758,7 +768,17 @@
     "Tampa Bay Rays @ Los Angeles Dodgers | 823938": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Ryan Vilade",
+        "Ben Williamson",
+        "Austin Slater",
+        "Cedric Mullins",
+        "Nick Fortes",
+        "Taylor Walls"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
