@@ -1,11 +1,47 @@
 {
   "date": "2026-06-15",
   "games": {
-    "823452": {
-      "active_pitcher_id": 554430,
-      "active_pitcher_name": "Zack Wheeler",
+    "822724": {
+      "active_pitcher_id": 696131,
+      "active_pitcher_name": "Mason Black",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-15T18:26:25.764343-04:00"
+      "last_checked_at": "2026-06-15T20:09:55.990991-04:00"
+    },
+    "822887": {
+      "active_pitcher_id": 669022,
+      "active_pitcher_name": "MacKenzie Gore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-15T20:10:04.513522-04:00"
+    },
+    "823046": {
+      "active_pitcher_id": 608337,
+      "active_pitcher_name": "Lucas Giolito",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-15T20:10:00.256972-04:00"
+    },
+    "823452": {
+      "active_pitcher_id": 687473,
+      "active_pitcher_name": "Ryan Gusto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-15T20:09:53.958263-04:00"
+    },
+    "824181": {
+      "active_pitcher_id": 678906,
+      "active_pitcher_name": "Kai-Wei Teng",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-15T20:10:06.533473-04:00"
+    },
+    "824505": {
+      "active_pitcher_id": 702752,
+      "active_pitcher_name": "Jonathan Pintaro",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-15T20:09:58.001661-04:00"
+    },
+    "824666": {
+      "active_pitcher_id": 684007,
+      "active_pitcher_name": "Shota Imanaga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-15T20:10:02.559673-04:00"
     }
   }
 }
