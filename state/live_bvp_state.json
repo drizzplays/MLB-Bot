@@ -1,4 +1,41 @@
 {
   "date": "2026-06-16",
-  "games": {}
+  "games": {
+    "822723": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-16T19:12:38.262592-04:00"
+    },
+    "823451": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-16T19:12:35.632569-04:00"
+    },
+    "823535": {
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-16T19:12:43.289292-04:00"
+    },
+    "824504": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-16T19:12:45.787177-04:00"
+    },
+    "824750": {
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-16T19:12:40.748796-04:00"
+    },
+    "824912": {
+      "active_pitcher_id": 656550,
+      "active_pitcher_name": "Grant Holmes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-16T19:12:48.272654-04:00"
+    }
+  }
 }
