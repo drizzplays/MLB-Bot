@@ -2,22 +2,52 @@
   "date": "2026-06-17",
   "games": {
     "822721": {
-      "active_pitcher_id": 679883,
-      "active_pitcher_name": "Luinder Avila",
+      "active_pitcher_id": 656638,
+      "active_pitcher_name": "Alex Lange",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-17T13:37:54.327956-04:00"
+      "last_checked_at": "2026-06-17T15:50:44.424691-04:00"
+    },
+    "823044": {
+      "active_pitcher_id": 656288,
+      "active_pitcher_name": "Griffin Canning",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T15:50:51.785520-04:00"
     },
     "823450": {
-      "active_pitcher_id": 691725,
-      "active_pitcher_name": "Andrew Painter",
+      "active_pitcher_id": 667463,
+      "active_pitcher_name": "John King",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-17T13:37:56.580020-04:00"
+      "last_checked_at": "2026-06-17T15:50:46.215698-04:00"
+    },
+    "823940": {
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T15:50:53.743687-04:00"
+    },
+    "824178": {
+      "active_pitcher_id": 640448,
+      "active_pitcher_name": "Kyle Finnegan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T15:50:49.884478-04:00"
     },
     "824503": {
       "active_pitcher_id": 666157,
       "active_pitcher_name": "Nick Lodolo",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-17T13:37:52.123723-04:00"
+    },
+    "824912": {
+      "active_pitcher_id": 681916,
+      "active_pitcher_name": "Dylan Smith",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T15:50:47.965473-04:00"
+    },
+    "825072": {
+      "active_pitcher_id": 691951,
+      "active_pitcher_name": "Sam Aldegheri",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T15:50:55.482225-04:00"
     }
   }
 }
