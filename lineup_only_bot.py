@@ -9,11 +9,11 @@ from urllib.parse import urlparse
 import requests
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
-ROYALTYWAGERS_WEBHOOK = os.getenv("ROYALTYWAGERS_WEBHOOK", "")
 WEBSITE_NOTIFY_URL = os.getenv("WEBSITE_NOTIFY_URL", "")
 WEBSITE_NOTIFY_SECRET = os.getenv("WEBSITE_NOTIFY_SECRET") or os.getenv("SBH_WEBHOOK_SECRET", "")
 ENABLE_DISCORD_NOTIFY = os.getenv("ENABLE_DISCORD_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
 ENABLE_WEBSITE_NOTIFY = os.getenv("ENABLE_WEBSITE_NOTIFY", "true").strip().lower() not in {"0", "false", "no", "off"}
+ENABLE_WEBSITE_LINEUP_SNAPSHOT = os.getenv("ENABLE_WEBSITE_LINEUP_SNAPSHOT", "true").strip().lower() not in {"0", "false", "no", "off"}
 STATE_FILE = "lineup_state.json"
 ET = ZoneInfo("America/New_York")
 MLB_SCHEDULE_URL = "https://statsapi.mlb.com/api/v1/schedule"
@@ -93,13 +93,6 @@ def send_discord(content):
         raise RuntimeError("Missing Discord webhook. Add DISCORD_WEBHOOK_URL / LINEUP_WEBHOOK_URL secret.")
     r = requests.post(WEBHOOK_URL, json={"content": content}, timeout=20)
     r.raise_for_status()
-    if ROYALTYWAGERS_WEBHOOK:
-        try:
-            r2 = requests.post(ROYALTYWAGERS_WEBHOOK, json={"content": content}, timeout=20)
-            r2.raise_for_status()
-            print("[notify] Discord lineup alert sent to secondary webhook.")
-        except Exception as exc:
-            print(f"[notify] Secondary webhook failed: {exc}")
     return True
 
 
@@ -350,6 +343,199 @@ def preserve_posted_lineups(old_game, new_game):
     return merged
 
 
+def lineup_side_status(lineup):
+    return "confirmed" if lineup else "pending"
+
+
+def game_lineup_status(away_lineup, home_lineup):
+    away_confirmed = bool(away_lineup)
+    home_confirmed = bool(home_lineup)
+
+    if away_confirmed and home_confirmed:
+        return "confirmed"
+    if away_confirmed or home_confirmed:
+        return "partial"
+    return "pending"
+
+
+def build_lineup_status_snapshot(date_states):
+    """Build a website-only sync payload with every checked game, including pending lineups.
+
+    This is separate from the Discord/user-facing lineup-posted alert. It lets the website
+    see the full MLB slate, count total games, and identify exactly which team lineups are
+    still missing before they are confirmed.
+    """
+    games_payload = []
+    date_summaries = []
+    missing_lineups = []
+    total_games = 0
+    complete_games = 0
+    partial_games = 0
+    pending_games = 0
+    confirmed_lineups = 0
+    pending_lineups = 0
+
+    for date_key, games in sorted(date_states.items()):
+        date_total_games = 0
+        date_complete_games = 0
+        date_partial_games = 0
+        date_pending_games = 0
+        date_confirmed_lineups = 0
+        date_pending_lineups = 0
+
+        ordered_games = sorted(
+            games.items(),
+            key=lambda item: item[1].get("game_iso") or item[1].get("game_time") or item[0],
+        )
+
+        for game_key, game in ordered_games:
+            away_team = game.get("away_team", "Away")
+            home_team = game.get("home_team", "Home")
+            away_label = team_label(away_team)
+            home_label = team_label(home_team)
+            away_lineup = game.get("away_lineup") or []
+            home_lineup = game.get("home_lineup") or []
+            away_status = lineup_side_status(away_lineup)
+            home_status = lineup_side_status(home_lineup)
+            overall_status = game_lineup_status(away_lineup, home_lineup)
+            matchup = f"{away_label} @ {home_label}"
+
+            missing_sides = []
+            if away_status == "pending":
+                missing_sides.append(
+                    {
+                        "side": "away",
+                        "team": away_label,
+                        "team_full_name": away_team,
+                        "game_pk": game.get("game_pk"),
+                        "matchup": matchup,
+                    }
+                )
+            if home_status == "pending":
+                missing_sides.append(
+                    {
+                        "side": "home",
+                        "team": home_label,
+                        "team_full_name": home_team,
+                        "game_pk": game.get("game_pk"),
+                        "matchup": matchup,
+                    }
+                )
+
+            game_payload = {
+                "date": date_key,
+                "game_key": game_key,
+                "game_pk": game.get("game_pk"),
+                "matchup": matchup,
+                "away_team": away_label,
+                "home_team": home_label,
+                "away_team_full_name": away_team,
+                "home_team_full_name": home_team,
+                "game_time": game.get("game_time"),
+                "game_iso": game.get("game_iso"),
+                "lineup_status": overall_status,
+                "away_lineup_status": away_status,
+                "home_lineup_status": home_status,
+                "away_lineup_confirmed": away_status == "confirmed",
+                "home_lineup_confirmed": home_status == "confirmed",
+                "away_lineup": away_lineup,
+                "home_lineup": home_lineup,
+                "missing_sides": missing_sides,
+            }
+            games_payload.append(game_payload)
+            missing_lineups.extend(missing_sides)
+
+            date_total_games += 1
+            date_confirmed_lineups += int(away_status == "confirmed") + int(home_status == "confirmed")
+            date_pending_lineups += int(away_status == "pending") + int(home_status == "pending")
+
+            if overall_status == "confirmed":
+                date_complete_games += 1
+            elif overall_status == "partial":
+                date_partial_games += 1
+            else:
+                date_pending_games += 1
+
+        date_summaries.append(
+            {
+                "date": date_key,
+                "total_games": date_total_games,
+                "complete_games": date_complete_games,
+                "partial_games": date_partial_games,
+                "pending_games": date_pending_games,
+                "confirmed_lineups": date_confirmed_lineups,
+                "pending_lineups": date_pending_lineups,
+            }
+        )
+
+        total_games += date_total_games
+        complete_games += date_complete_games
+        partial_games += date_partial_games
+        pending_games += date_pending_games
+        confirmed_lineups += date_confirmed_lineups
+        pending_lineups += date_pending_lineups
+
+    snapshot_digest = lineup_digest(
+        {
+            "dates": date_summaries,
+            "games": games_payload,
+            "missing_lineups": missing_lineups,
+        }
+    )
+    checked_dates = [item["date"] for item in date_summaries]
+
+    message = (
+        f"MLB lineup status: {total_games} game(s), "
+        f"{complete_games} complete, {partial_games} partial, {pending_games} pending. "
+        f"Confirmed lineups: {confirmed_lineups}; pending lineups: {pending_lineups}."
+    )
+
+    return {
+        "type": "lineup_status_snapshot",
+        "category": "lineup_changes",
+        "notification_category": "lineup_changes",
+        "source": "lineup_posted_bot",
+        "title": "MLB Lineup Status Snapshot",
+        "message": message,
+        "priority": "low",
+        "event_id": f"lineup-status-snapshot:{','.join(checked_dates)}:{snapshot_digest}",
+        "sync_id": f"lineup-status-snapshot:{','.join(checked_dates)}",
+        "notification_behavior": "state_sync",
+        "suppress_user_notification": True,
+        "snapshot": True,
+        "snapshot_digest": snapshot_digest,
+        "dates_checked": checked_dates,
+        "date_summaries": date_summaries,
+        "total_games": total_games,
+        "complete_games": complete_games,
+        "partial_games": partial_games,
+        "pending_games": pending_games,
+        "confirmed_lineups": confirmed_lineups,
+        "pending_lineups": pending_lineups,
+        "missing_lineups": missing_lineups,
+        "lineup_games": games_payload,
+        "games": games_payload,
+    }
+
+
+def deliver_lineup_status_snapshot(payload):
+    if not ENABLE_WEBSITE_LINEUP_SNAPSHOT:
+        print("[notify] Website lineup snapshot disabled by ENABLE_WEBSITE_LINEUP_SNAPSHOT.")
+        return False
+
+    try:
+        sent = bool(send_website_notification(payload))
+        if sent:
+            print(
+                "[notify] Website lineup status snapshot sent: "
+                f"games={payload.get('total_games')} pending_lineups={payload.get('pending_lineups')}"
+            )
+        return sent
+    except Exception as exc:
+        print(f"[notify] Website lineup status snapshot failed: {exc}")
+        return False
+
+
 def build(old_game, new_game):
     if not is_pregame(new_game.get("game_iso")):
         debug("[BUILD] Skipped: game already started")
@@ -553,7 +739,7 @@ def run():
     print(
         "[notify] Config: "
         f"discord_enabled={ENABLE_DISCORD_NOTIFY} discord_webhook_set={bool(WEBHOOK_URL)} "
-        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
+        f"website_enabled={ENABLE_WEBSITE_NOTIFY} website_snapshot_enabled={ENABLE_WEBSITE_LINEUP_SNAPSHOT} website_url_set={bool(WEBSITE_NOTIFY_URL)} "
         f"website_target={website_target_label()} "
         f"website_secret_len={len(WEBSITE_NOTIFY_SECRET or '')}"
     )
@@ -596,6 +782,10 @@ def run():
             date_state[game_key] = preserve_posted_lineups(old_game, game_data)
 
         new_state[date_key] = date_state
+
+    snapshot_payload = build_lineup_status_snapshot(new_state)
+    if snapshot_payload:
+        deliver_lineup_status_snapshot(snapshot_payload)
 
     if pending_alerts:
         batch_alert = build_batch_alert(pending_alerts)

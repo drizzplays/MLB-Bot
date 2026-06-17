@@ -57,13 +57,25 @@ The pitcher-change bot sends:
 }
 ```
 
-The lineup bot now alerts when a team lineup is first posted. It sends:
+The lineup bot alerts when a team lineup is first posted. It sends the user-facing posted-lineup alert to the primary lineup Discord hook only. It no longer sends lineup alerts to `ROYALTYWAGERS_WEBHOOK`.
 
 ```json
 {
   "type": "lineup_posted",
   "category": "lineup_changes",
   "notification_category": "lineup_changes"
+}
+```
+
+The lineup bot also sends a website-only slate sync every run so the website can show every checked game, confirmed lineups, pending lineups, complete games, partial games, and the exact teams still missing lineups before confirmation.
+
+```json
+{
+  "type": "lineup_status_snapshot",
+  "category": "lineup_changes",
+  "notification_category": "lineup_changes",
+  "notification_behavior": "state_sync",
+  "suppress_user_notification": true
 }
 ```
 
