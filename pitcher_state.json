@@ -8,7 +8,7 @@
       "game_time": "Jun 17, 12:40 PM ET",
       "game_iso": "2026-06-17T12:40:00-04:00",
       "game_pk": "824503",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822721": {
       "away_team": "Kansas City Royals",
@@ -18,7 +18,7 @@
       "game_time": "Jun 17, 1:05 PM ET",
       "game_iso": "2026-06-17T13:05:00-04:00",
       "game_pk": "822721",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823450": {
       "away_team": "Miami Marlins",
@@ -28,7 +28,7 @@
       "game_time": "Jun 17, 1:05 PM ET",
       "game_iso": "2026-06-17T13:05:00-04:00",
       "game_pk": "823450",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824178": {
       "away_team": "Detroit Tigers",
