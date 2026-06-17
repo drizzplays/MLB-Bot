@@ -19,6 +19,18 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-17T15:50:46.215698-04:00"
     },
+    "823536": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T19:25:06.208659-04:00"
+    },
+    "823774": {
+      "active_pitcher_id": 687075,
+      "active_pitcher_name": "Brandon Sproat",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T19:25:10.496308-04:00"
+    },
     "823940": {
       "active_pitcher_id": 681911,
       "active_pitcher_name": "Alex Vesia",
@@ -37,11 +49,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-17T13:37:52.123723-04:00"
     },
+    "824746": {
+      "active_pitcher_id": 680755,
+      "active_pitcher_name": "Braydon Fisher",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T19:25:03.946699-04:00"
+    },
     "824912": {
       "active_pitcher_id": 681916,
       "active_pitcher_name": "Dylan Smith",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-17T15:50:47.965473-04:00"
+    },
+    "824913": {
+      "active_pitcher_id": 702275,
+      "active_pitcher_name": "JR Ritchie",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T19:25:08.377995-04:00"
     },
     "825072": {
       "active_pitcher_id": 664199,
