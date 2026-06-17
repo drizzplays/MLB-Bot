@@ -47,9 +47,9 @@ jobs:
       - name: Run lineup posted bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.LINEUP_WEBHOOK_URL }}
-          ROYALTYWAGERS_WEBHOOK: ${{ secrets.ROYALTYWAGERS_WEBHOOK }}
           ENABLE_DISCORD_NOTIFY: "true"
           ENABLE_WEBSITE_NOTIFY: "true"
+          ENABLE_WEBSITE_LINEUP_SNAPSHOT: "true"
           WEBSITE_NOTIFY_URL: ${{ secrets.WEBSITE_NOTIFY_URL }}
           WEBSITE_NOTIFY_SECRET: ${{ secrets.WEBSITE_NOTIFY_SECRET }}
         run: python lineup_only_bot.py
