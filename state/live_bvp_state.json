@@ -1,11 +1,29 @@
 {
   "date": "2026-06-18",
   "games": {
-    "824748": {
-      "active_pitcher_id": 543243,
-      "active_pitcher_name": "Sonny Gray",
+    "822889": {
+      "active_pitcher_id": 683004,
+      "active_pitcher_name": "Jack Leiter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T13:40:57.511754-04:00"
+      "last_checked_at": "2026-06-18T15:55:42.203046-04:00"
+    },
+    "823125": {
+      "active_pitcher_id": 693433,
+      "active_pitcher_name": "Bryan Woo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-18T15:55:44.067076-04:00"
+    },
+    "823772": {
+      "active_pitcher_id": 800048,
+      "active_pitcher_name": "Parker Messick",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-18T15:55:40.259159-04:00"
+    },
+    "824748": {
+      "active_pitcher_id": 547973,
+      "active_pitcher_name": "Aroldis Chapman",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-18T15:55:37.848271-04:00"
     }
   }
 }
