@@ -1,4 +1,11 @@
 {
   "date": "2026-06-18",
-  "games": {}
+  "games": {
+    "824748": {
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-18T13:40:57.511754-04:00"
+    }
+  }
 }
