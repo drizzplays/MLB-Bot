@@ -18,7 +18,7 @@
       "game_time": "Jun 18, 2:10 PM ET",
       "game_iso": "2026-06-18T14:10:00-04:00",
       "game_pk": "823772",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822889": {
       "away_team": "Minnesota Twins",
@@ -28,7 +28,7 @@
       "game_time": "Jun 18, 2:35 PM ET",
       "game_iso": "2026-06-18T14:35:00-04:00",
       "game_pk": "822889",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823125": {
       "away_team": "Baltimore Orioles",
