@@ -13,6 +13,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-17T15:50:51.785520-04:00"
     },
+    "823127": {
+      "active_pitcher_id": 669923,
+      "active_pitcher_name": "George Kirby",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T22:00:31.529782-04:00"
+    },
     "823450": {
       "active_pitcher_id": 667463,
       "active_pitcher_name": "John King",
@@ -20,16 +26,16 @@
       "last_checked_at": "2026-06-17T15:50:46.215698-04:00"
     },
     "823536": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+      "active_pitcher_id": 670950,
+      "active_pitcher_name": "Trevor Richards",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-17T19:25:06.208659-04:00"
+      "last_checked_at": "2026-06-17T22:00:17.149605-04:00"
     },
     "823774": {
-      "active_pitcher_id": 687075,
-      "active_pitcher_name": "Brandon Sproat",
+      "active_pitcher_id": 702021,
+      "active_pitcher_name": "Will Dion",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-17T19:25:10.496308-04:00"
+      "last_checked_at": "2026-06-17T22:00:23.262975-04:00"
     },
     "823940": {
       "active_pitcher_id": 681911,
@@ -49,6 +55,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-17T13:37:52.123723-04:00"
     },
+    "824668": {
+      "active_pitcher_id": 571948,
+      "active_pitcher_name": "Hoby Milner",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T22:00:25.969713-04:00"
+    },
     "824746": {
       "active_pitcher_id": 680755,
       "active_pitcher_name": "Braydon Fisher",
@@ -62,10 +74,16 @@
       "last_checked_at": "2026-06-17T15:50:47.965473-04:00"
     },
     "824913": {
-      "active_pitcher_id": 702275,
-      "active_pitcher_name": "JR Ritchie",
+      "active_pitcher_id": 657424,
+      "active_pitcher_name": "Matt Gage",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-17T19:25:08.377995-04:00"
+      "last_checked_at": "2026-06-17T22:00:20.390182-04:00"
+    },
+    "824992": {
+      "active_pitcher_id": 650644,
+      "active_pitcher_name": "Aaron Civale",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-17T22:00:29.059173-04:00"
     },
     "825072": {
       "active_pitcher_id": 664199,
