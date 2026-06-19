@@ -416,7 +416,7 @@
       "game_time": "Jun 19, 9:45 PM ET",
       "game_iso": "2026-06-19T21:45:00-04:00",
       "game_pk": "825069",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823936": {
       "away_team": "Baltimore Orioles",
@@ -492,7 +492,7 @@
       "game_time": "Jun 19, 10:10 PM ET",
       "game_iso": "2026-06-19T22:10:00-04:00",
       "game_pk": "823124",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
