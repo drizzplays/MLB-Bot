@@ -1,11 +1,41 @@
 {
   "date": "2026-06-19",
   "games": {
+    "822966": {
+      "active_pitcher_id": 643377,
+      "active_pitcher_name": "Griffin Jax",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T19:17:01.359006-04:00"
+    },
+    "823534": {
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T19:16:59.478820-04:00"
+    },
+    "823853": {
+      "active_pitcher_id": 669199,
+      "active_pitcher_name": "Lake Bachar",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T19:17:03.062553-04:00"
+    },
+    "824264": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T19:16:57.698643-04:00"
+    },
     "824663": {
       "active_pitcher_id": 571948,
       "active_pitcher_name": "Hoby Milner",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-19T17:12:40.040916-04:00"
+    },
+    "824910": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T19:17:04.828763-04:00"
     }
   }
 }
