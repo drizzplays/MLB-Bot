@@ -46,6 +46,7 @@ jobs:
           ROYALTYWAGERS_WEBHOOK: ${{ secrets.ROYALTYWAGERS_WEBHOOK }}
           ENABLE_DISCORD_NOTIFY: "true"
           ENABLE_WEBSITE_NOTIFY: "true"
+          ENABLE_WEBSITE_PITCHER_SNAPSHOT: "true"
           WEBSITE_NOTIFY_URL: ${{ secrets.WEBSITE_NOTIFY_URL }}
           WEBSITE_NOTIFY_SECRET: ${{ secrets.WEBSITE_NOTIFY_SECRET }}
         run: python pitcher_only_bot.py
