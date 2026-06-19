@@ -1,4 +1,11 @@
 {
   "date": "2026-06-19",
-  "games": {}
+  "games": {
+    "824663": {
+      "active_pitcher_id": 663893,
+      "active_pitcher_name": "Brendon Little",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T15:58:56.549955-04:00"
+    }
+  }
 }
