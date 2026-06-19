@@ -1,47 +1,4 @@
 {
-  "date": "2026-06-18",
-  "games": {
-    "822889": {
-      "active_pitcher_id": 683004,
-      "active_pitcher_name": "Jack Leiter",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T15:55:42.203046-04:00"
-    },
-    "823125": {
-      "active_pitcher_id": 660825,
-      "active_pitcher_name": "Eduard Bazardo",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T18:03:27.733569-04:00"
-    },
-    "823448": {
-      "active_pitcher_id": 640455,
-      "active_pitcher_name": "Sean Manaea",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T19:57:58.845858-04:00"
-    },
-    "823533": {
-      "active_pitcher_id": 677960,
-      "active_pitcher_name": "Ryan Weathers",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T19:58:00.626933-04:00"
-    },
-    "823772": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T15:55:40.259159-04:00"
-    },
-    "824098": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T19:58:02.369477-04:00"
-    },
-    "824748": {
-      "active_pitcher_id": 547973,
-      "active_pitcher_name": "Aroldis Chapman",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-06-18T15:55:37.848271-04:00"
-    }
-  }
+  "date": "2026-06-19",
+  "games": {}
 }
