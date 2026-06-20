@@ -1,43 +1,5 @@
 {
   "2026-06-20": {
-    "824665": {
-      "away_team": "Toronto Blue Jays",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Patrick Corbin",
-      "home_pitcher": "Colin Rea",
-      "away_pitcher_id": "571578",
-      "home_pitcher_id": "607067",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 3,
-        "era": "4.57",
-        "whip": "1.48",
-        "strikeouts": 43,
-        "innings_pitched": "61.0",
-        "games_started": 13
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 5,
-        "era": "5.35",
-        "whip": "1.46",
-        "strikeouts": 56,
-        "innings_pitched": "74.0",
-        "games_started": 11
-      },
-      "game_time": "Jun 20, 2:20 PM ET",
-      "game_iso": "2026-06-20T14:20:00-04:00",
-      "game_pk": "824665",
-      "status_code": "P"
-    },
     "822885": {
       "away_team": "San Diego Padres",
       "home_team": "Texas Rangers",
@@ -226,7 +188,7 @@
       "game_time": "Jun 20, 7:15 PM ET",
       "game_iso": "2026-06-20T19:15:00-04:00",
       "game_pk": "824180",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823447": {
       "away_team": "New York Mets",
@@ -264,7 +226,7 @@
       "game_time": "Jun 20, 7:15 PM ET",
       "game_iso": "2026-06-20T19:15:00-04:00",
       "game_pk": "823447",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824342": {
       "away_team": "Pittsburgh Pirates",
@@ -302,7 +264,7 @@
       "game_time": "Jun 20, 9:10 PM ET",
       "game_iso": "2026-06-20T21:10:00-04:00",
       "game_pk": "824342",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824988": {
       "away_team": "Los Angeles Angels",
