@@ -265,9 +265,9 @@
         "Xander Bogaerts",
         "Jackson Merrill",
         "Ty France",
-        "Nick Solak",
+        "Will Wagner",
         "Gavin Sheets",
-        "Blake Hunt"
+        "Rodolfo Dur\u00e1n"
       ],
       "home_lineup": [
         "Joc Pederson",
@@ -275,10 +275,10 @@
         "Wyatt Langford",
         "Brandon Nimmo",
         "Ezequiel Duran",
-        "Jarred Kelenic",
+        "Justin Foscue",
         "Jake Burger",
-        "Nicky Lopez",
-        "Kyle Higashioka"
+        "Cody Freeman",
+        "Elias D\u00edaz"
       ],
       "away_roster": [
         "Yuki Matsui",
@@ -322,8 +322,8 @@
         "Cal Quantrill",
         "Nicky Lopez",
         "Josh Jung",
-        "Robby Ahlstrom",
         "Justin Foscue",
+        "Robby Ahlstrom",
         "Kyle Higashioka",
         "Ezequiel Duran",
         "MacKenzie Gore",
@@ -346,16 +346,16 @@
       "away_lineup": [
         "James Wood",
         "Curtis Mead",
-        "Andr\u00e9s Chaparro",
+        "Luis Garc\u00eda Jr.",
         "CJ Abrams",
         "Dylan Crews",
         "Daylen Lile",
-        "Jacob Young",
+        "Clayton Beeter",
         "Nasim Nu\u00f1ez",
         "Keibert Ruiz"
       ],
       "home_lineup": [
-        "Yandy D\u00edaz",
+        "Jonny DeLuca",
         "Jonathan Aranda",
         "Cedric Mullins",
         "Junior Caminero",
@@ -437,7 +437,7 @@
         "Willy Adames",
         "Casey Schmitt",
         "Drew Gilbert",
-        "Eric Haase"
+        "Daniel Susac"
       ],
       "home_lineup": [
         "Jakob Marsee",
@@ -446,7 +446,7 @@
         "Xavier Edwards",
         "Heriberto Hern\u00e1ndez",
         "Owen Caissie",
-        "Leo Jim\u00e9nez",
+        "Javier Sanoja",
         "Joe Mack",
         "Esteury Ruiz"
       ],
@@ -490,8 +490,8 @@
         "Jakob Marsee",
         "Calvin Faucher",
         "Max Meyer",
-        "John King",
         "Javier Sanoja",
+        "John King",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
@@ -531,9 +531,9 @@
         "Ozzie Albies",
         "Michael Harris II",
         "Austin Riley",
-        "Eli White",
+        "Mike Yastrzemski",
         "Joey Bart",
-        "Jorge Mateo"
+        "Ha-Seong Kim"
       ],
       "away_roster": [
         "Chad Patrick",
@@ -843,9 +843,18 @@
     "Los Angeles Angels @ Athletics | 824988": {
       "away_team": "Los Angeles Angels",
       "home_team": "Athletics",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Nolan Schanuel",
+        "Vaughn Grissom",
+        "Jo Adell",
+        "Wade Meckler",
+        "Denzer Guzman",
+        "Donovan Walton",
+        "Jose Siri",
+        "Tyler Heineman"
+      ],
       "home_lineup": [
-        "Zack Gelof",
         "Nick Kurtz",
         "Shea Langeliers",
         "Tyler Soderstrom",
@@ -853,14 +862,15 @@
         "Jonah Heim",
         "Lawrence Butler",
         "Henry Bolte",
-        "Max Muncy"
+        "Max Muncy",
+        "Jeff McNeil"
       ],
       "away_roster": [
-        "Oswald Peraza",
-        "Jose Siri",
         "Donovan Walton",
-        "Christian Moore",
+        "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
+        "Christian Moore",
         "Nick Madrigal",
         "Chase Silseth",
         "Ryan Johnson",
@@ -888,8 +898,8 @@
         "Jonah Heim",
         "J.T. Ginn",
         "Zack Gelof",
-        "Geoff Hartlieb",
         "Jeff McNeil",
+        "Geoff Hartlieb",
         "Justin Sterner",
         "Mason Barnett",
         "Scott Barlow",
@@ -918,7 +928,17 @@
     "Baltimore Orioles @ Los Angeles Dodgers | 823937": {
       "away_team": "Baltimore Orioles",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Taylor Ward",
+        "Gunnar Henderson",
+        "Pete Alonso",
+        "Samuel Basallo",
+        "Leody Taveras",
+        "Colton Cowser",
+        "Coby Mayo",
+        "Jackson Holliday",
+        "Blaze Alexander"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
@@ -940,8 +960,8 @@
         "Brandon Young",
         "Gunnar Henderson",
         "Leody Taveras",
-        "Shane Baz",
         "Taylor Ward",
+        "Shane Baz",
         "Kyle Bradish",
         "Albert Su\u00e1rez",
         "Adley Rutschman",
@@ -993,7 +1013,17 @@
     "Boston Red Sox @ Seattle Mariners | 823126": {
       "away_team": "Boston Red Sox",
       "home_team": "Seattle Mariners",
-      "away_lineup": [],
+      "away_lineup": [
+        "Anthony Seigler",
+        "Masataka Yoshida",
+        "Wilyer Abreu",
+        "Willson Contreras",
+        "Jarren Duran",
+        "Caleb Durbin",
+        "Marcelo Mayer",
+        "Carlos Narv\u00e1ez",
+        "Nate Eaton"
+      ],
       "home_lineup": [
         "J.P. Crawford",
         "Cal Raleigh",
@@ -1011,12 +1041,12 @@
         "Tyron Guerrero",
         "Connelly Early",
         "Greg Weissert",
+        "Anthony Seigler",
         "Connor Wong",
         "Wilyer Abreu",
         "Garrett Whitlock",
         "Sonny Gray",
         "Andruw Monasterio",
-        "Isiah Kiner-Falefa",
         "Justin Slaten",
         "Mickey Gasper",
         "Caleb Durbin",
@@ -1486,7 +1516,7 @@
       "away_roster": [
         "Shawn Armstrong",
         "Will Dion",
-        "Kahlil Watson",
+        "Chase DeLauter",
         "Austin Hedges",
         "Travis Bazzana",
         "Daniel Schneemann",
@@ -1657,7 +1687,6 @@
         "Pete Crow-Armstrong",
         "Jacob Webb",
         "Miguel Amaya",
-        "Mois\u00e9s Ballesteros",
         "Seiya Suzuki",
         "Gavin Hollowell",
         "Ryan Rolison",
@@ -2108,6 +2137,7 @@
         "Zack Wheeler",
         "Jhoan Duran",
         "Edmundo Sosa",
+        "Seth Johnson",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -2117,12 +2147,11 @@
         "Kyle Schwarber",
         "Rafael March\u00e1n",
         "Garrett Stubbs",
-        "Tanner Banks",
+        "Max Lazar",
         "Aaron Nola",
-        "Brad Keller",
         "Trea Turner",
         "Derek Hill",
-        "Andrew Painter"
+        "Bryse Wilson"
       ],
       "game_time": "Jun 21, 7:20 PM ET",
       "game_iso": "2026-06-21T19:20:00-04:00",
