@@ -2,16 +2,16 @@
   "date": "2026-06-20",
   "games": {
     "822885": {
-      "active_pitcher_id": 621111,
-      "active_pitcher_name": "Walker Buehler",
+      "active_pitcher_id": 670970,
+      "active_pitcher_name": "Adrian Morejon",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-20T17:13:21.555401-04:00"
+      "last_checked_at": "2026-06-20T18:36:31.210554-04:00"
     },
     "822967": {
-      "active_pitcher_id": 676917,
-      "active_pitcher_name": "Cade Cavalli",
+      "active_pitcher_id": 695418,
+      "active_pitcher_name": "Brad Lord",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-20T17:13:23.542946-04:00"
+      "last_checked_at": "2026-06-20T18:36:33.417033-04:00"
     },
     "823532": {
       "active_pitcher_id": 622088,
@@ -20,10 +20,10 @@
       "last_checked_at": "2026-06-20T15:53:39.377540-04:00"
     },
     "823854": {
-      "active_pitcher_id": 686790,
-      "active_pitcher_name": "Trevor McDonald",
+      "active_pitcher_id": 676604,
+      "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-20T17:13:25.501303-04:00"
+      "last_checked_at": "2026-06-20T18:36:35.436740-04:00"
     },
     "824263": {
       "active_pitcher_id": 699823,
