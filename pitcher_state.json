@@ -118,9 +118,9 @@
       "away_team": "San Diego Padres",
       "home_team": "Texas Rangers",
       "away_pitcher": "Walker Buehler",
-      "home_pitcher": "Nathan Eovaldi",
+      "home_pitcher": "MacKenzie Gore",
       "away_pitcher_id": "621111",
-      "home_pitcher_id": "543135",
+      "home_pitcher_id": "669022",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
@@ -139,18 +139,18 @@
       },
       "home_pitcher_stats": {
         "season": "2026",
-        "wins": 6,
-        "losses": 7,
-        "era": "4.23",
-        "whip": "1.17",
-        "strikeouts": 83,
-        "innings_pitched": "87.1",
-        "games_started": 14
+        "wins": 4,
+        "losses": 6,
+        "era": "4.27",
+        "whip": "1.31",
+        "strikeouts": 86,
+        "innings_pitched": "78.0",
+        "games_started": 15
       },
       "game_time": "Jun 20, 4:05 PM ET",
       "game_iso": "2026-06-20T16:05:00-04:00",
       "game_pk": "822885",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822967": {
       "away_team": "Washington Nationals",
@@ -188,7 +188,7 @@
       "game_time": "Jun 20, 4:10 PM ET",
       "game_iso": "2026-06-20T16:10:00-04:00",
       "game_pk": "822967",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823854": {
       "away_team": "San Francisco Giants",
@@ -226,7 +226,7 @@
       "game_time": "Jun 20, 4:10 PM ET",
       "game_iso": "2026-06-20T16:10:00-04:00",
       "game_pk": "823854",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824909": {
       "away_team": "Milwaukee Brewers",
