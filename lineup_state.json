@@ -92,7 +92,7 @@
         "Blake Dunn",
         "JJ Bleday",
         "Sal Stewart",
-        "Nathaniel Lowe",
+        "Dane Myers",
         "Spencer Steer",
         "Noelvi Marte",
         "Matt McLain",
@@ -101,14 +101,14 @@
       ],
       "home_lineup": [
         "Ben Rice",
-        "Amed Rosario",
+        "J.C. Escarra",
         "Paul Goldschmidt",
         "Cody Bellinger",
         "Jasson Dom\u00ednguez",
         "Jos\u00e9 Caballero",
         "Jazz Chisholm Jr.",
         "Anthony Volpe",
-        "Ali S\u00e1nchez"
+        "Spencer Jones"
       ],
       "away_roster": [
         "Sal Stewart",
@@ -155,9 +155,9 @@
         "Ben Rice",
         "Brent Headrick",
         "Will Warren",
+        "J.C. Escarra",
         "Anthony Volpe",
         "Fernando Cruz",
-        "J.C. Escarra",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
         "Jake Bird",
@@ -175,13 +175,13 @@
       "home_team": "Chicago Cubs",
       "away_lineup": [
         "George Springer",
-        "Nathan Lukes",
+        "Yohendrick Pi\u00f1ango",
         "Vladimir Guerrero Jr.",
         "Brandon Valenzuela",
         "Kazuma Okamoto",
         "Daulton Varsho",
         "Davis Schneider",
-        "Andr\u00e9s Gim\u00e9nez",
+        "Ernie Clement",
         "Myles Straw"
       ],
       "home_lineup": [
@@ -598,7 +598,17 @@
     "Cleveland Guardians @ Houston Astros | 824180": {
       "away_team": "Cleveland Guardians",
       "home_team": "Houston Astros",
-      "away_lineup": [],
+      "away_lineup": [
+        "Travis Bazzana",
+        "Kyle Manzardo",
+        "Brayan Rocchio",
+        "Rhys Hoskins",
+        "Daniel Schneemann",
+        "Kahlil Watson",
+        "Steven Kwan",
+        "Patrick Bailey",
+        "Petey Halpin"
+      ],
       "home_lineup": [
         "Jeremy Pe\u00f1a",
         "Yordan Alvarez",
@@ -673,7 +683,17 @@
     "New York Mets @ Philadelphia Phillies | 823447": {
       "away_team": "New York Mets",
       "home_team": "Philadelphia Phillies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Carson Benge",
+        "Bo Bichette",
+        "Juan Soto",
+        "Marcus Semien",
+        "Eric Wagaman",
+        "Francisco Alvarez",
+        "Mark Vientos",
+        "Luis Torrens",
+        "Zack Short"
+      ],
       "home_lineup": [
         "Trea Turner",
         "Kyle Schwarber",
@@ -689,8 +709,8 @@
         "Luis Torrens",
         "Bo Bichette",
         "Francisco Alvarez",
-        "Sean Manaea",
         "Mark Vientos",
+        "Sean Manaea",
         "Tobias Myers",
         "Austin Warren",
         "Brett Baty",
@@ -749,7 +769,17 @@
       "away_team": "Pittsburgh Pirates",
       "home_team": "Colorado Rockies",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jake McCarthy",
+        "Willi Castro",
+        "TJ Rumfield",
+        "Hunter Goodman",
+        "Troy Johnston",
+        "Cole Carrigg",
+        "Edouard Julien",
+        "Ezequiel Tovar",
+        "Sterlin Thompson"
+      ],
       "away_roster": [
         "Paul Skenes",
         "Spencer Horwitz",
@@ -782,6 +812,7 @@
         "Ryan Feltner",
         "Blas Casta\u00f1o",
         "Victor Vodnik",
+        "Jimmy Herget",
         "Jake McCarthy",
         "Troy Johnston",
         "Braxton Fulford",
@@ -797,10 +828,9 @@
         "Tomoyuki Sugano",
         "Zach Agnos",
         "Brett Sullivan",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
-        "Seth Halvorsen",
         "Antonio Senzatela",
         "Jaden Hill",
         "Sterlin Thompson",
@@ -1107,6 +1137,7 @@
       ],
       "home_roster": [
         "Paul Blackburn",
+        "Elmer Rodr\u00edguez",
         "Ali S\u00e1nchez",
         "Jos\u00e9 Caballero",
         "Carlos Rod\u00f3n",
@@ -1405,7 +1436,7 @@
       "away_roster": [
         "Shawn Armstrong",
         "Will Dion",
-        "Kahlil Watson",
+        "Chase DeLauter",
         "Austin Hedges",
         "Travis Bazzana",
         "Daniel Schneemann",
@@ -1576,7 +1607,6 @@
         "Pete Crow-Armstrong",
         "Jacob Webb",
         "Miguel Amaya",
-        "Mois\u00e9s Ballesteros",
         "Seiya Suzuki",
         "Gavin Hollowell",
         "Ryan Rolison",
@@ -2037,8 +2067,8 @@
         "Rafael March\u00e1n",
         "Garrett Stubbs",
         "Tanner Banks",
+        "Max Lazar",
         "Aaron Nola",
-        "Brad Keller",
         "Trea Turner",
         "Derek Hill",
         "Andrew Painter"
