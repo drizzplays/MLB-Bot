@@ -1,6 +1,12 @@
 {
   "date": "2026-06-19",
   "games": {
+    "822886": {
+      "active_pitcher_id": 673513,
+      "active_pitcher_name": "Yuki Matsui",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T21:32:53.721539-04:00"
+    },
     "822966": {
       "active_pitcher_id": 643377,
       "active_pitcher_name": "Griffin Jax",
@@ -8,22 +14,40 @@
       "last_checked_at": "2026-06-19T19:17:01.359006-04:00"
     },
     "823534": {
-      "active_pitcher_id": 695076,
-      "active_pitcher_name": "Rhett Lowder",
+      "active_pitcher_id": 687209,
+      "active_pitcher_name": "Zach Maxwell",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-19T19:16:59.478820-04:00"
+      "last_checked_at": "2026-06-19T21:32:47.165124-04:00"
     },
     "823853": {
-      "active_pitcher_id": 669199,
-      "active_pitcher_name": "Lake Bachar",
+      "active_pitcher_id": 676534,
+      "active_pitcher_name": "Calvin Faucher",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-19T19:17:03.062553-04:00"
+      "last_checked_at": "2026-06-19T21:32:49.399125-04:00"
+    },
+    "824097": {
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T21:32:58.369104-04:00"
+    },
+    "824179": {
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T21:32:55.880120-04:00"
     },
     "824264": {
       "active_pitcher_id": 669373,
       "active_pitcher_name": "Tarik Skubal",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-19T19:16:57.698643-04:00"
+    },
+    "824345": {
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T21:33:00.830132-04:00"
     },
     "824663": {
       "active_pitcher_id": 571948,
@@ -32,10 +56,22 @@
       "last_checked_at": "2026-06-19T17:12:40.040916-04:00"
     },
     "824910": {
-      "active_pitcher_id": 527048,
-      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "active_pitcher_id": 684974,
+      "active_pitcher_name": "Craig Yoho",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-19T19:17:04.828763-04:00"
+      "last_checked_at": "2026-06-19T21:32:51.616140-04:00"
+    },
+    "824990": {
+      "active_pitcher_id": 605488,
+      "active_pitcher_name": "Jeffrey Springs",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T21:33:03.303691-04:00"
+    },
+    "825069": {
+      "active_pitcher_id": 647336,
+      "active_pitcher_name": "Michael Soroka",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-19T21:33:05.600211-04:00"
     }
   }
 }
