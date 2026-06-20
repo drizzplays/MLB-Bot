@@ -3,17 +3,26 @@
     "824263": {
       "away_team": "Chicago White Sox",
       "home_team": "Detroit Tigers",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Sean Newcomb",
       "home_pitcher": "Troy Melton",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "656794",
       "home_pitcher_id": "675512",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 0,
+        "losses": 1,
+        "era": "2.76",
+        "whip": "1.04",
+        "strikeouts": 40,
+        "innings_pitched": "42.1",
+        "games_started": 0
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 3,
@@ -27,7 +36,7 @@
       "game_time": "Jun 20, 1:10 PM ET",
       "game_iso": "2026-06-20T13:10:00-04:00",
       "game_pk": "824263",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823532": {
       "away_team": "Cincinnati Reds",
@@ -65,7 +74,7 @@
       "game_time": "Jun 20, 1:35 PM ET",
       "game_iso": "2026-06-20T13:35:00-04:00",
       "game_pk": "823532",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824665": {
       "away_team": "Toronto Blue Jays",
@@ -103,7 +112,7 @@
       "game_time": "Jun 20, 2:20 PM ET",
       "game_iso": "2026-06-20T14:20:00-04:00",
       "game_pk": "824665",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822885": {
       "away_team": "San Diego Padres",
