@@ -1,157 +1,5 @@
 {
   "2026-06-20": {
-    "822885": {
-      "away_team": "San Diego Padres",
-      "home_team": "Texas Rangers",
-      "away_pitcher": "Walker Buehler",
-      "home_pitcher": "MacKenzie Gore",
-      "away_pitcher_id": "621111",
-      "home_pitcher_id": "669022",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 3,
-        "era": "4.14",
-        "whip": "1.34",
-        "strikeouts": 58,
-        "innings_pitched": "67.1",
-        "games_started": 14
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "4.27",
-        "whip": "1.31",
-        "strikeouts": 86,
-        "innings_pitched": "78.0",
-        "games_started": 15
-      },
-      "game_time": "Jun 20, 4:05 PM ET",
-      "game_iso": "2026-06-20T16:05:00-04:00",
-      "game_pk": "822885",
-      "status_code": "P"
-    },
-    "822967": {
-      "away_team": "Washington Nationals",
-      "home_team": "Tampa Bay Rays",
-      "away_pitcher": "Cade Cavalli",
-      "home_pitcher": "Ian Seymour",
-      "away_pitcher_id": "676917",
-      "home_pitcher_id": "693855",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 4,
-        "era": "3.98",
-        "whip": "1.39",
-        "strikeouts": 81,
-        "innings_pitched": "74.2",
-        "games_started": 15
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 0,
-        "era": "4.93",
-        "whip": "1.28",
-        "strikeouts": 41,
-        "innings_pitched": "38.1",
-        "games_started": 2
-      },
-      "game_time": "Jun 20, 4:10 PM ET",
-      "game_iso": "2026-06-20T16:10:00-04:00",
-      "game_pk": "822967",
-      "status_code": "P"
-    },
-    "823854": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Trevor McDonald",
-      "home_pitcher": "Max Meyer",
-      "away_pitcher_id": "686790",
-      "home_pitcher_id": "676974",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 4,
-        "era": "4.64",
-        "whip": "1.29",
-        "strikeouts": 41,
-        "innings_pitched": "42.2",
-        "games_started": 8
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 0,
-        "era": "2.75",
-        "whip": "1.12",
-        "strikeouts": 95,
-        "innings_pitched": "85.0",
-        "games_started": 15
-      },
-      "game_time": "Jun 20, 4:10 PM ET",
-      "game_iso": "2026-06-20T16:10:00-04:00",
-      "game_pk": "823854",
-      "status_code": "P"
-    },
-    "824909": {
-      "away_team": "Milwaukee Brewers",
-      "home_team": "Atlanta Braves",
-      "away_pitcher": "Kyle Harrison",
-      "home_pitcher": "Chris Sale",
-      "away_pitcher_id": "690986",
-      "home_pitcher_id": "519242",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 1,
-        "era": "2.47",
-        "whip": "1.10",
-        "strikeouts": 80,
-        "innings_pitched": "65.2",
-        "games_started": 13
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 5,
-        "era": "2.30",
-        "whip": "1.05",
-        "strikeouts": 92,
-        "innings_pitched": "78.1",
-        "games_started": 13
-      },
-      "game_time": "Jun 20, 4:10 PM ET",
-      "game_iso": "2026-06-20T16:10:00-04:00",
-      "game_pk": "824909",
-      "status_code": "P"
-    },
     "824180": {
       "away_team": "Cleveland Guardians",
       "home_team": "Houston Astros",
@@ -378,7 +226,7 @@
       "game_time": "Jun 20, 10:10 PM ET",
       "game_iso": "2026-06-20T22:10:00-04:00",
       "game_pk": "823126",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825068": {
       "away_team": "Minnesota Twins",
@@ -416,7 +264,7 @@
       "game_time": "Jun 20, 10:10 PM ET",
       "game_iso": "2026-06-20T22:10:00-04:00",
       "game_pk": "825068",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
