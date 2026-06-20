@@ -1,4 +1,23 @@
 {
   "date": "2026-06-20",
-  "games": {}
+  "games": {
+    "823532": {
+      "active_pitcher_id": 671096,
+      "active_pitcher_name": "Andrew Abbott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T14:08:07.599577-04:00"
+    },
+    "824263": {
+      "active_pitcher_id": 699823,
+      "active_pitcher_name": "Tyler Davis",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T14:08:04.893993-04:00"
+    },
+    "824665": {
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T14:08:10.099085-04:00"
+    }
+  }
 }
