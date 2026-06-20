@@ -94,9 +94,9 @@
         "Chase Meidroth",
         "Colson Montgomery",
         "Edgar Quero",
-        "Junior Perez",
+        "Braden Montgomery",
         "Sam Antonacci",
-        "Luisangel Acu\u00f1a",
+        "Andrew Benintendi",
         "Tristan Peters"
       ],
       "home_lineup": [
@@ -107,8 +107,8 @@
         "Spencer Torkelson",
         "Kerry Carpenter",
         "Hao-Yu  Lee",
-        "Colt Keith",
-        "Trei Cruz"
+        "Zach McKinstry",
+        "James Outman"
       ],
       "away_roster": [
         "Jacob Gonzalez",
@@ -144,8 +144,8 @@
         "Tarik Skubal",
         "Casey Mize",
         "Hao-Yu  Lee",
-        "Drew Anderson",
         "Jahmai Jones",
+        "Drew Anderson",
         "Riley Greene",
         "Jacob Waguespack",
         "Tyler Holton",
@@ -260,8 +260,8 @@
       "home_team": "Tampa Bay Rays",
       "away_lineup": [
         "James Wood",
-        "Luis Garc\u00eda Jr.",
-        "Jos\u00e9 Tena",
+        "Curtis Mead",
+        "Dylan Crews",
         "CJ Abrams",
         "Keibert Ruiz",
         "Daylen Lile",
@@ -361,8 +361,8 @@
         "Kyle Stowers",
         "Otto Lopez",
         "Jakob Marsee",
-        "Connor Norby",
-        "Joe Mack",
+        "Xavier Edwards",
+        "Esteury Ruiz",
         "Javier Sanoja"
       ],
       "away_roster": [
@@ -434,10 +434,10 @@
         "Brice Turang",
         "William Contreras",
         "Garrett Mitchell",
-        "Andrew Vaughn",
-        "Blake Perkins",
-        "Cooper Pratt",
-        "Joey Ortiz"
+        "David Hamilton",
+        "Jake Bauers",
+        "Sal Frelick",
+        "Gary S\u00e1nchez"
       ],
       "home_lineup": [
         "Drake Baldwin",
@@ -521,8 +521,8 @@
         "Gavin Sheets",
         "Xander Bogaerts",
         "Ty France",
-        "Will Wagner",
-        "Rodolfo Dur\u00e1n"
+        "Jase Bowen",
+        "Blake Hunt"
       ],
       "home_lineup": [
         "Joc Pederson",
@@ -530,7 +530,7 @@
         "Wyatt Langford",
         "Brandon Nimmo",
         "Ezequiel Duran",
-        "Alejandro Osuna",
+        "Jarred Kelenic",
         "Jake Burger",
         "Nicky Lopez",
         "Elias D\u00edaz"
@@ -576,8 +576,8 @@
         "Cal Quantrill",
         "Nicky Lopez",
         "Josh Jung",
-        "Robby Ahlstrom",
         "Justin Foscue",
+        "Robby Ahlstrom",
         "Kyle Higashioka",
         "Ezequiel Duran",
         "MacKenzie Gore",
@@ -586,8 +586,8 @@
         "Jakob Junis",
         "Cody Freeman",
         "Elias D\u00edaz",
-        "Nathan Eovaldi",
         "Jarred Kelenic",
+        "Nathan Eovaldi",
         "Cole Winn"
       ],
       "game_time": "Jun 19, 8:05 PM ET",
@@ -604,7 +604,7 @@
         "Rhys Hoskins",
         "Daniel Schneemann",
         "Gabriel Arias",
-        "Kahlil Watson",
+        "Petey Halpin",
         "Patrick Bailey",
         "Steven Kwan"
       ],
@@ -613,10 +613,10 @@
         "Yordan Alvarez",
         "Christian Walker",
         "Isaac Paredes",
-        "Jose Altuve",
+        "Raynel Delgado",
         "Yainer Diaz",
         "Cam Smith",
-        "Joey Loperfido",
+        "Brice Matthews",
         "Jake Meyers"
       ],
       "away_roster": [
@@ -689,9 +689,9 @@
         "Jordan Walker",
         "Lars Nootbaar",
         "Masyn Winn",
-        "Jimmy Crooks",
-        "Blaze Jordan",
-        "Nathan Church"
+        "Nelson Vel\u00e1zquez",
+        "Bryan Torres",
+        "Jos\u00e9 Ferm\u00edn"
       ],
       "home_lineup": [
         "Carter Jensen",
@@ -770,13 +770,13 @@
       "away_lineup": [
         "Spencer Horwitz",
         "Nick Gonzales",
-        "Bryan Reynolds",
         "Ryan O'Hearn",
-        "Marcell Ozuna",
+        "Henry Davis",
         "Brandon Lowe",
         "Endy Rodr\u00edguez",
+        "Tyler Callihan",
         "Jared Triolo",
-        "Billy Cook"
+        "Jake Mangum"
       ],
       "home_lineup": [
         "Jake McCarthy",
@@ -785,7 +785,7 @@
         "TJ Rumfield",
         "Tyler Freeman",
         "Cole Carrigg",
-        "Sterlin Thompson",
+        "Braxton Fulford",
         "Ezequiel Tovar",
         "Kyle Karros"
       ],
@@ -799,8 +799,8 @@
         "Evan Sisk",
         "Gregory Soto",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -872,7 +872,7 @@
         "Carlos Cortes",
         "Lawrence Butler",
         "Henry Bolte",
-        "Jeff McNeil"
+        "Max Muncy"
       ],
       "away_roster": [
         "Oswald Peraza",
@@ -938,7 +938,7 @@
       "away_team": "Minnesota Twins",
       "home_team": "Arizona Diamondbacks",
       "away_lineup": [
-        "Trevor Larnach",
+        "Austin Martin",
         "Byron Buxton",
         "Kody Clemens",
         "Josh Bell",
@@ -1033,7 +1033,17 @@
         "Jackson Holliday",
         "Jeremiah Jackson"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Kyle Tucker",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Max Muncy",
+        "Tommy Edman",
+        "Ryan Ward",
+        "Dalton Rushing",
+        "Alex Freeland"
+      ],
       "away_roster": [
         "Jeremiah Jackson",
         "Keegan Akin",
@@ -1103,8 +1113,8 @@
         "Wilyer Abreu",
         "Willson Contreras",
         "Jarren Duran",
-        "Isiah Kiner-Falefa",
         "Caleb Durbin",
+        "Marcelo Mayer",
         "Carlos Narv\u00e1ez",
         "Andruw Monasterio"
       ],
@@ -1527,7 +1537,6 @@
         "Sam Hentges",
         "Rafael Devers",
         "Tristan Beck",
-        "Carson Whisenhunt",
         "Eric Haase",
         "Adrian Houser",
         "Willy Adames",
@@ -1613,7 +1622,6 @@
         "Jorge Mateo",
         "Mauricio Dub\u00f3n",
         "Rowdy Tellez",
-        "Carlos Carrasco",
         "Didier Fuentes",
         "Drake Baldwin",
         "Chris Sale",
@@ -1627,6 +1635,7 @@
         "Austin Riley",
         "Grant Holmes",
         "Sandy Le\u00f3n",
+        "Anthony Molina",
         "Mike Yastrzemski",
         "Ha-Seong Kim",
         "Bryce Elder",
@@ -1756,8 +1765,8 @@
         "Rafael March\u00e1n",
         "Garrett Stubbs",
         "Tanner Banks",
-        "Max Lazar",
         "Aaron Nola",
+        "Brad Keller",
         "Trea Turner",
         "Derek Hill",
         "Andrew Painter"
@@ -1803,7 +1812,6 @@
         "Ryan Feltner",
         "Blas Casta\u00f1o",
         "Victor Vodnik",
-        "Jimmy Herget",
         "Jake McCarthy",
         "Troy Johnston",
         "Braxton Fulford",
@@ -1822,6 +1830,7 @@
         "Michael Lorenzen",
         "Ezequiel Tovar",
         "TJ Rumfield",
+        "Seth Halvorsen",
         "Antonio Senzatela",
         "Jaden Hill",
         "Sterlin Thompson",
@@ -1880,7 +1889,6 @@
         "Tyler Soderstrom",
         "Gage Jump",
         "Elvis Alvarado",
-        "Aaron Civale",
         "Nick Kurtz",
         "Hogan Harris",
         "Luis Medina",
@@ -1890,6 +1898,7 @@
         "Mark Leiter Jr.",
         "Jack Perkins",
         "Jeffrey Springs",
+        "Luis Morales",
         "Jacob Wilson"
       ],
       "game_time": "Jun 20, 10:05 PM ET",
