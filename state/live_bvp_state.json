@@ -1,11 +1,17 @@
 {
   "date": "2026-06-20",
   "games": {
-    "823532": {
-      "active_pitcher_id": 671096,
-      "active_pitcher_name": "Andrew Abbott",
+    "822885": {
+      "active_pitcher_id": 669022,
+      "active_pitcher_name": "MacKenzie Gore",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-20T14:08:07.599577-04:00"
+      "last_checked_at": "2026-06-20T15:53:42.261736-04:00"
+    },
+    "823532": {
+      "active_pitcher_id": 622088,
+      "active_pitcher_name": "Tejay Antone",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T15:53:39.377540-04:00"
     },
     "824263": {
       "active_pitcher_id": 699823,
