@@ -13,6 +13,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-20T18:36:33.417033-04:00"
     },
+    "823447": {
+      "active_pitcher_id": 642547,
+      "active_pitcher_name": "Freddy Peralta",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T19:47:50.693163-04:00"
+    },
     "823532": {
       "active_pitcher_id": 622088,
       "active_pitcher_name": "Tejay Antone",
@@ -24,6 +30,14 @@
       "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-20T18:36:35.436740-04:00"
+    },
+    "824180": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [
+        "676282:701358"
+      ],
+      "last_checked_at": "2026-06-20T19:47:44.544484-04:00"
     },
     "824263": {
       "active_pitcher_id": 699823,
