@@ -1,4 +1,47 @@
 {
   "date": "2026-06-21",
-  "games": {}
+  "games": {
+    "822968": {
+      "active_pitcher_id": 674841,
+      "active_pitcher_name": "Andrew Alvarez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:36.561048-04:00"
+    },
+    "823531": {
+      "active_pitcher_id": 695684,
+      "active_pitcher_name": "Elmer Rodr\u00edguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:31.154300-04:00"
+    },
+    "823852": {
+      "active_pitcher_id": 657277,
+      "active_pitcher_name": "Logan Webb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:41.512885-04:00"
+    },
+    "824095": {
+      "active_pitcher_id": 663568,
+      "active_pitcher_name": "Stephen Kolek",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:46.534737-04:00"
+    },
+    "824177": {
+      "active_pitcher_id": 678906,
+      "active_pitcher_name": "Kai-Wei Teng",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:43.960837-04:00"
+    },
+    "824260": {
+      "active_pitcher_id": 672456,
+      "active_pitcher_name": "Keider Montero",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:39.076939-04:00"
+    },
+    "824908": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-21T14:05:33.894179-04:00"
+    }
+  }
 }
