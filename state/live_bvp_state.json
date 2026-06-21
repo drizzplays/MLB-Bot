@@ -14,12 +14,12 @@
       "last_checked_at": "2026-06-21T15:58:56.375459-04:00"
     },
     "823123": {
-      "active_pitcher_id": 669302,
-      "active_pitcher_name": "Logan Gilbert",
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
       "alerted_pairs": [
         "669302:678882"
       ],
-      "last_checked_at": "2026-06-21T15:59:20.337865-04:00"
+      "last_checked_at": "2026-06-21T17:18:26.515965-04:00"
     },
     "823531": {
       "active_pitcher_id": 687396,
@@ -34,10 +34,10 @@
       "last_checked_at": "2026-06-21T14:05:41.512885-04:00"
     },
     "823934": {
-      "active_pitcher_id": 686218,
-      "active_pitcher_name": "Emmet Sheehan",
+      "active_pitcher_id": 687064,
+      "active_pitcher_name": "Brandon Young",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-21T15:59:17.840235-04:00"
+      "last_checked_at": "2026-06-21T17:18:24.139713-04:00"
     },
     "824095": {
       "active_pitcher_id": 674444,
@@ -58,10 +58,10 @@
       "last_checked_at": "2026-06-21T15:58:59.353093-04:00"
     },
     "824343": {
-      "active_pitcher_id": 683003,
-      "active_pitcher_name": "Jared Jones",
+      "active_pitcher_id": 681895,
+      "active_pitcher_name": "Evan Sisk",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-21T15:59:10.373386-04:00"
+      "last_checked_at": "2026-06-21T17:18:18.689645-04:00"
     },
     "824908": {
       "active_pitcher_id": 625643,
@@ -76,10 +76,10 @@
       "last_checked_at": "2026-06-21T15:59:15.372088-04:00"
     },
     "825067": {
-      "active_pitcher_id": 703615,
-      "active_pitcher_name": "Jose Cabrera",
+      "active_pitcher_id": 656464,
+      "active_pitcher_name": "Kevin Ginkel",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-21T15:59:12.921871-04:00"
+      "last_checked_at": "2026-06-21T17:18:21.487440-04:00"
     }
   }
 }
