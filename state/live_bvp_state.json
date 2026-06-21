@@ -13,6 +13,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-20T18:36:33.417033-04:00"
     },
+    "823126": {
+      "active_pitcher_id": 676106,
+      "active_pitcher_name": "Emerson Hancock",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T22:07:02.190871-04:00"
+    },
     "823447": {
       "active_pitcher_id": 642547,
       "active_pitcher_name": "Freddy Peralta",
@@ -31,6 +37,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-20T18:36:35.436740-04:00"
     },
+    "823937": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T22:07:00.130467-04:00"
+    },
     "824180": {
       "active_pitcher_id": 676282,
       "active_pitcher_name": "Joey Cantillo",
@@ -45,6 +57,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-20T14:08:04.893993-04:00"
     },
+    "824342": {
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T22:06:56.064260-04:00"
+    },
     "824665": {
       "active_pitcher_id": 686973,
       "active_pitcher_name": "Louis Varland",
@@ -56,6 +74,18 @@
       "active_pitcher_name": "Kyle Harrison",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-20T17:13:27.471604-04:00"
+    },
+    "824988": {
+      "active_pitcher_id": 669372,
+      "active_pitcher_name": "J.T. Ginn",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T22:06:58.095595-04:00"
+    },
+    "825068": {
+      "active_pitcher_id": 668678,
+      "active_pitcher_name": "Zac Gallen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-20T22:07:04.160420-04:00"
     }
   }
 }
