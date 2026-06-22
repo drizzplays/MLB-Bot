@@ -1,4 +1,35 @@
 {
   "date": "2026-06-22",
-  "games": {}
+  "games": {
+    "822800": {
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T19:03:41.428828-04:00"
+    },
+    "822964": {
+      "active_pitcher_id": 656876,
+      "active_pitcher_name": "Drew Rasmussen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T19:03:37.949965-04:00"
+    },
+    "823851": {
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T19:03:39.669998-04:00"
+    },
+    "824261": {
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T19:03:36.204863-04:00"
+    },
+    "824502": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T19:03:43.318755-04:00"
+    }
+  }
 }
