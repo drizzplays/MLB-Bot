@@ -117,17 +117,26 @@
     "822720": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Washington Nationals",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Tim Mayza",
       "home_pitcher": "Foster Griffin",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "641835",
       "home_pitcher_id": "656492",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 2,
+        "losses": 1,
+        "era": "2.97",
+        "whip": "0.99",
+        "strikeouts": 33,
+        "innings_pitched": "33.1",
+        "games_started": 1
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 7,
@@ -179,7 +188,7 @@
       "game_time": "Jun 22, 7:07 PM ET",
       "game_iso": "2026-06-22T19:07:00-04:00",
       "game_pk": "822800",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823613": {
       "away_team": "Chicago Cubs",
@@ -217,22 +226,31 @@
       "game_time": "Jun 22, 7:10 PM ET",
       "game_iso": "2026-06-22T19:10:00-04:00",
       "game_pk": "823613",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824502": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Cincinnati Reds",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Brandon Woodruff",
       "home_pitcher": "Brady Singer",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "605540",
       "home_pitcher_id": "663903",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 2,
+        "losses": 1,
+        "era": "3.60",
+        "whip": "1.03",
+        "strikeouts": 25,
+        "innings_pitched": "30.0",
+        "games_started": 6
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 3,
@@ -322,7 +340,7 @@
       "game_time": "Jun 22, 7:40 PM ET",
       "game_iso": "2026-06-22T19:40:00-04:00",
       "game_pk": "824585",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823040": {
       "away_team": "Arizona Diamondbacks",
@@ -360,7 +378,7 @@
       "game_time": "Jun 22, 7:45 PM ET",
       "game_iso": "2026-06-22T19:45:00-04:00",
       "game_pk": "823040",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824344": {
       "away_team": "Boston Red Sox",
@@ -398,7 +416,7 @@
       "game_time": "Jun 22, 8:40 PM ET",
       "game_iso": "2026-06-22T20:40:00-04:00",
       "game_pk": "824344",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824016": {
       "away_team": "Baltimore Orioles",
@@ -436,7 +454,7 @@
       "game_time": "Jun 22, 9:38 PM ET",
       "game_iso": "2026-06-22T21:38:00-04:00",
       "game_pk": "824016",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823288": {
       "away_team": "Atlanta Braves",
