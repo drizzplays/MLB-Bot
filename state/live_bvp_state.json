@@ -1,11 +1,53 @@
 {
   "date": "2026-06-23",
   "games": {
-    "822799": {
-      "active_pitcher_id": 689254,
-      "active_pitcher_name": "Mason Fluharty",
+    "822718": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-23T17:56:41.986071-04:00"
+      "last_checked_at": "2026-06-23T19:07:30.471744-04:00"
+    },
+    "822799": {
+      "active_pitcher_id": 643511,
+      "active_pitcher_name": "Tyler Rogers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:19.297257-04:00"
+    },
+    "822963": {
+      "active_pitcher_id": 679883,
+      "active_pitcher_name": "Luinder Avila",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:24.000141-04:00"
+    },
+    "823365": {
+      "active_pitcher_id": 669923,
+      "active_pitcher_name": "George Kirby",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:21.897841-04:00"
+    },
+    "823614": {
+      "active_pitcher_id": 673540,
+      "active_pitcher_name": "Kodai Senga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:32.588150-04:00"
+    },
+    "823849": {
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:26.194137-04:00"
+    },
+    "824262": {
+      "active_pitcher_id": 607074,
+      "active_pitcher_name": "Carlos Rod\u00f3n",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:28.320477-04:00"
+    },
+    "824501": {
+      "active_pitcher_id": 666157,
+      "active_pitcher_name": "Nick Lodolo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T19:07:34.696375-04:00"
     }
   }
 }
