@@ -1,17 +1,37 @@
 {
   "date": "2026-06-22",
   "games": {
-    "822800": {
-      "active_pitcher_id": 656302,
-      "active_pitcher_name": "Dylan Cease",
+    "822720": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-22T19:03:41.428828-04:00"
+      "last_checked_at": "2026-06-22T20:18:20.879260-04:00"
+    },
+    "822800": {
+      "active_pitcher_id": 686613,
+      "active_pitcher_name": "Hunter Brown",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T20:18:23.049478-04:00"
     },
     "822964": {
-      "active_pitcher_id": 656876,
-      "active_pitcher_name": "Drew Rasmussen",
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-22T19:03:37.949965-04:00"
+      "last_checked_at": "2026-06-22T20:18:18.741080-04:00"
+    },
+    "823040": {
+      "active_pitcher_id": 669467,
+      "active_pitcher_name": "Andre Pallante",
+      "alerted_pairs": [
+        "669467:680728"
+      ],
+      "last_checked_at": "2026-06-22T20:18:31.557861-04:00"
+    },
+    "823692": {
+      "active_pitcher_id": 641778,
+      "active_pitcher_name": "Eric Lauer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T20:18:27.296272-04:00"
     },
     "823851": {
       "active_pitcher_id": 677958,
@@ -20,16 +40,22 @@
       "last_checked_at": "2026-06-22T19:03:39.669998-04:00"
     },
     "824261": {
-      "active_pitcher_id": 543037,
-      "active_pitcher_name": "Gerrit Cole",
+      "active_pitcher_id": 623454,
+      "active_pitcher_name": "Drew Anderson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-22T19:03:36.204863-04:00"
+      "last_checked_at": "2026-06-22T20:18:16.218668-04:00"
     },
     "824502": {
-      "active_pitcher_id": 663903,
-      "active_pitcher_name": "Brady Singer",
+      "active_pitcher_id": 605540,
+      "active_pitcher_name": "Brandon Woodruff",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-22T19:03:43.318755-04:00"
+      "last_checked_at": "2026-06-22T20:18:25.164472-04:00"
+    },
+    "824585": {
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-22T20:18:29.480634-04:00"
     }
   }
 }
