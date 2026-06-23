@@ -1,34 +1,5 @@
 {
   "2026-06-23": {
-    "822799": {
-      "away_team": "Houston Astros",
-      "home_team": "Toronto Blue Jays",
-      "away_pitcher": "Peter Lambert",
-      "home_pitcher": "Shane Bieber",
-      "away_pitcher_id": "663567",
-      "home_pitcher_id": "669456",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 4,
-        "era": "3.23",
-        "whip": "1.11",
-        "strikeouts": 58,
-        "innings_pitched": "64.0",
-        "games_started": 11
-      },
-      "home_pitcher_stats": null,
-      "game_time": "Jun 23, 4:07 PM ET",
-      "game_iso": "2026-06-23T16:07:00-04:00",
-      "game_pk": "822799",
-      "status_code": "P"
-    },
     "823365": {
       "away_team": "Seattle Mariners",
       "home_team": "Pittsburgh Pirates",
@@ -65,7 +36,7 @@
       "game_time": "Jun 23, 6:40 PM ET",
       "game_iso": "2026-06-23T18:40:00-04:00",
       "game_pk": "823365",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822963": {
       "away_team": "Kansas City Royals",
@@ -103,7 +74,7 @@
       "game_time": "Jun 23, 6:40 PM ET",
       "game_iso": "2026-06-23T18:40:00-04:00",
       "game_pk": "822963",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823849": {
       "away_team": "Texas Rangers",
@@ -141,7 +112,7 @@
       "game_time": "Jun 23, 6:40 PM ET",
       "game_iso": "2026-06-23T18:40:00-04:00",
       "game_pk": "823849",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824262": {
       "away_team": "New York Yankees",
@@ -179,15 +150,15 @@
       "game_time": "Jun 23, 6:40 PM ET",
       "game_iso": "2026-06-23T18:40:00-04:00",
       "game_pk": "824262",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822718": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Washington Nationals",
       "away_pitcher": "Jes\u00fas Luzardo",
-      "home_pitcher": "Zack Littell",
+      "home_pitcher": "PJ Poulin",
       "away_pitcher_id": "666200",
-      "home_pitcher_id": "641793",
+      "home_pitcher_id": "676571",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
@@ -206,18 +177,18 @@
       },
       "home_pitcher_stats": {
         "season": "2026",
-        "wins": 6,
-        "losses": 6,
-        "era": "5.45",
-        "whip": "1.38",
-        "strikeouts": 41,
-        "innings_pitched": "71.0",
-        "games_started": 11
+        "wins": 3,
+        "losses": 0,
+        "era": "3.07",
+        "whip": "1.43",
+        "strikeouts": 19,
+        "innings_pitched": "29.1",
+        "games_started": 9
       },
       "game_time": "Jun 23, 6:45 PM ET",
       "game_iso": "2026-06-23T18:45:00-04:00",
       "game_pk": "822718",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823614": {
       "away_team": "Chicago Cubs",
@@ -255,7 +226,7 @@
       "game_time": "Jun 23, 7:10 PM ET",
       "game_iso": "2026-06-23T19:10:00-04:00",
       "game_pk": "823614",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824501": {
       "away_team": "Milwaukee Brewers",
@@ -293,7 +264,7 @@
       "game_time": "Jun 23, 7:10 PM ET",
       "game_iso": "2026-06-23T19:10:00-04:00",
       "game_pk": "824501",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823690": {
       "away_team": "Los Angeles Dodgers",
@@ -331,7 +302,7 @@
       "game_time": "Jun 23, 7:40 PM ET",
       "game_iso": "2026-06-23T19:40:00-04:00",
       "game_pk": "823690",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824584": {
       "away_team": "Cleveland Guardians",
@@ -369,7 +340,7 @@
       "game_time": "Jun 23, 7:40 PM ET",
       "game_iso": "2026-06-23T19:40:00-04:00",
       "game_pk": "824584",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823043": {
       "away_team": "Arizona Diamondbacks",
@@ -407,7 +378,7 @@
       "game_time": "Jun 23, 7:45 PM ET",
       "game_iso": "2026-06-23T19:45:00-04:00",
       "game_pk": "823043",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824340": {
       "away_team": "Boston Red Sox",
@@ -445,7 +416,7 @@
       "game_time": "Jun 23, 8:40 PM ET",
       "game_iso": "2026-06-23T20:40:00-04:00",
       "game_pk": "824340",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824017": {
       "away_team": "Baltimore Orioles",
