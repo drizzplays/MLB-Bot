@@ -1,4 +1,17 @@
 {
   "date": "2026-06-24",
-  "games": {}
+  "games": {
+    "823613": {
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T13:31:19.966358-04:00"
+    },
+    "823850": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T13:31:17.885499-04:00"
+    }
+  }
 }
