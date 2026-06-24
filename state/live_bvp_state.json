@@ -14,10 +14,16 @@
       "last_checked_at": "2026-06-23T19:07:19.297257-04:00"
     },
     "822963": {
-      "active_pitcher_id": 679883,
-      "active_pitcher_name": "Luinder Avila",
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-23T19:07:24.000141-04:00"
+      "last_checked_at": "2026-06-23T20:08:22.395616-04:00"
+    },
+    "823043": {
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T20:08:38.506324-04:00"
     },
     "823365": {
       "active_pitcher_id": 669923,
@@ -26,28 +32,40 @@
       "last_checked_at": "2026-06-23T19:07:21.897841-04:00"
     },
     "823614": {
-      "active_pitcher_id": 673540,
-      "active_pitcher_name": "Kodai Senga",
+      "active_pitcher_id": 665795,
+      "active_pitcher_name": "Edward Cabrera",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-23T19:07:32.588150-04:00"
+      "last_checked_at": "2026-06-23T20:08:29.646044-04:00"
+    },
+    "823690": {
+      "active_pitcher_id": 696070,
+      "active_pitcher_name": "Kendry Rojas",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T20:08:33.940241-04:00"
     },
     "823849": {
-      "active_pitcher_id": 645261,
-      "active_pitcher_name": "Sandy Alcantara",
+      "active_pitcher_id": 692030,
+      "active_pitcher_name": "Jose Corniell",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-23T19:07:26.194137-04:00"
+      "last_checked_at": "2026-06-23T20:08:24.551032-04:00"
     },
     "824262": {
-      "active_pitcher_id": 607074,
-      "active_pitcher_name": "Carlos Rod\u00f3n",
+      "active_pitcher_id": 663554,
+      "active_pitcher_name": "Casey Mize",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-23T19:07:28.320477-04:00"
+      "last_checked_at": "2026-06-23T20:08:27.357622-04:00"
     },
     "824501": {
-      "active_pitcher_id": 666157,
-      "active_pitcher_name": "Nick Lodolo",
+      "active_pitcher_id": 687075,
+      "active_pitcher_name": "Brandon Sproat",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-23T19:07:34.696375-04:00"
+      "last_checked_at": "2026-06-23T20:08:31.784130-04:00"
+    },
+    "824584": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-23T20:08:36.168968-04:00"
     }
   }
 }
