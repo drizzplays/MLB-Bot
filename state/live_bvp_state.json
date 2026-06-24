@@ -2,16 +2,22 @@
   "date": "2026-06-24",
   "games": {
     "823613": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 573204,
+      "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T13:31:19.966358-04:00"
+      "last_checked_at": "2026-06-24T15:16:05.581549-04:00"
     },
     "823850": {
       "active_pitcher_id": 594798,
       "active_pitcher_name": "Jacob deGrom",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-24T13:31:17.885499-04:00"
+    },
+    "824341": {
+      "active_pitcher_id": 607536,
+      "active_pitcher_name": "Kyle Freeland",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T15:16:07.721194-04:00"
     }
   }
 }
