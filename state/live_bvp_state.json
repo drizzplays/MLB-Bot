@@ -13,11 +13,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-24T13:31:17.885499-04:00"
     },
-    "824341": {
-      "active_pitcher_id": 607536,
-      "active_pitcher_name": "Kyle Freeland",
+    "824018": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T15:16:07.721194-04:00"
+      "last_checked_at": "2026-06-24T16:59:19.618271-04:00"
+    },
+    "824341": {
+      "active_pitcher_id": 622608,
+      "active_pitcher_name": "Antonio Senzatela",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T16:59:17.000022-04:00"
+    },
+    "824583": {
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T16:59:14.357493-04:00"
     }
   }
 }
