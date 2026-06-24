@@ -1,11 +1,53 @@
 {
   "date": "2026-06-24",
   "games": {
+    "822719": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:58.002449-04:00"
+    },
+    "822798": {
+      "active_pitcher_id": 702056,
+      "active_pitcher_name": "Trey Yesavage",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:59.706839-04:00"
+    },
+    "822965": {
+      "active_pitcher_id": 643377,
+      "active_pitcher_name": "Griffin Jax",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:54.523902-04:00"
+    },
+    "823041": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:41:04.854942-04:00"
+    },
+    "823367": {
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:52.813650-04:00"
+    },
+    "823611": {
+      "active_pitcher_id": 684007,
+      "active_pitcher_name": "Shota Imanaga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:48.856511-04:00"
+    },
     "823613": {
       "active_pitcher_id": 573204,
       "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-24T15:16:05.581549-04:00"
+    },
+    "823691": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:41:03.154829-04:00"
     },
     "823850": {
       "active_pitcher_id": 594798,
@@ -19,17 +61,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-24T18:21:19.562332-04:00"
     },
+    "824259": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:56.284540-04:00"
+    },
     "824341": {
       "active_pitcher_id": 622608,
       "active_pitcher_name": "Antonio Senzatela",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-24T16:59:17.000022-04:00"
     },
-    "824583": {
-      "active_pitcher_id": 607200,
-      "active_pitcher_name": "Erick Fedde",
+    "824500": {
+      "active_pitcher_id": 675660,
+      "active_pitcher_name": "Shane Drohan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T18:21:16.891404-04:00"
+      "last_checked_at": "2026-06-24T19:41:01.418211-04:00"
+    },
+    "824583": {
+      "active_pitcher_id": 671922,
+      "active_pitcher_name": "Cade Smith",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T19:40:50.634505-04:00"
     }
   }
 }
