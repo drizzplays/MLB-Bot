@@ -36,7 +36,7 @@
       "game_time": "Jun 24, 7:10 PM ET",
       "game_iso": "2026-06-24T19:10:00-04:00",
       "game_pk": "823611",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823367": {
       "away_team": "Seattle Mariners",
@@ -389,7 +389,7 @@
       "game_time": "Jun 24, 9:45 PM ET",
       "game_iso": "2026-06-24T21:45:00-04:00",
       "game_pk": "823208",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
