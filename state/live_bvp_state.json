@@ -1,4 +1,11 @@
 {
   "date": "2026-06-25",
-  "games": {}
+  "games": {
+    "822961": {
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T12:07:29.434880-04:00"
+    }
+  }
 }
