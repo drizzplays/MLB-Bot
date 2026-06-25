@@ -1,6 +1,18 @@
 {
   "date": "2026-06-25",
   "games": {
+    "822717": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T19:41:28.028944-04:00"
+    },
+    "822797": {
+      "active_pitcher_id": 592332,
+      "active_pitcher_name": "Kevin Gausman",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T19:41:30.571667-04:00"
+    },
     "822961": {
       "active_pitcher_id": 518886,
       "active_pitcher_name": "Craig Kimbrel",
@@ -18,6 +30,24 @@
       "active_pitcher_name": "Evan Sisk",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-25T14:23:07.603517-04:00"
+    },
+    "823612": {
+      "active_pitcher_id": 571510,
+      "active_pitcher_name": "Matthew Boyd",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T19:41:33.116019-04:00"
+    },
+    "824258": {
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T19:41:25.344646-04:00"
+    },
+    "824747": {
+      "active_pitcher_id": 813349,
+      "active_pitcher_name": "Connelly Early",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T19:41:35.759430-04:00"
     }
   }
 }
