@@ -2,10 +2,16 @@
   "date": "2026-06-25",
   "games": {
     "822961": {
-      "active_pitcher_id": 668984,
-      "active_pitcher_name": "Casey Legumina",
+      "active_pitcher_id": 518886,
+      "active_pitcher_name": "Craig Kimbrel",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-25T12:07:29.434880-04:00"
+      "last_checked_at": "2026-06-25T14:23:05.618394-04:00"
+    },
+    "823366": {
+      "active_pitcher_id": 681895,
+      "active_pitcher_name": "Evan Sisk",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-25T14:23:07.603517-04:00"
     }
   }
 }
