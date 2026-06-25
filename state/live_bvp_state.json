@@ -2,16 +2,16 @@
   "date": "2026-06-24",
   "games": {
     "822719": {
-      "active_pitcher_id": 605400,
-      "active_pitcher_name": "Aaron Nola",
+      "active_pitcher_id": 663992,
+      "active_pitcher_name": "Richard Lovelady",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T19:40:58.002449-04:00"
+      "last_checked_at": "2026-06-24T21:36:42.525415-04:00"
     },
     "822798": {
-      "active_pitcher_id": 702056,
-      "active_pitcher_name": "Trey Yesavage",
+      "active_pitcher_id": 689254,
+      "active_pitcher_name": "Mason Fluharty",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T19:40:59.706839-04:00"
+      "last_checked_at": "2026-06-24T21:36:45.148005-04:00"
     },
     "822965": {
       "active_pitcher_id": 643377,
@@ -20,10 +20,22 @@
       "last_checked_at": "2026-06-24T19:40:54.523902-04:00"
     },
     "823041": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 642528,
+      "active_pitcher_name": "Jonathan Lo\u00e1isiga",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T19:41:04.854942-04:00"
+      "last_checked_at": "2026-06-24T21:36:52.919840-04:00"
+    },
+    "823208": {
+      "active_pitcher_id": 641816,
+      "active_pitcher_name": "Tyler Mahle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T21:36:58.161883-04:00"
+    },
+    "823284": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-24T21:36:55.537979-04:00"
     },
     "823367": {
       "active_pitcher_id": 677952,
@@ -32,10 +44,10 @@
       "last_checked_at": "2026-06-24T19:40:52.813650-04:00"
     },
     "823611": {
-      "active_pitcher_id": 684007,
-      "active_pitcher_name": "Shota Imanaga",
+      "active_pitcher_id": 621345,
+      "active_pitcher_name": "A.J. Minter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T19:40:48.856511-04:00"
+      "last_checked_at": "2026-06-24T21:36:39.446274-04:00"
     },
     "823613": {
       "active_pitcher_id": 573204,
@@ -44,10 +56,10 @@
       "last_checked_at": "2026-06-24T15:16:05.581549-04:00"
     },
     "823691": {
-      "active_pitcher_id": 657746,
-      "active_pitcher_name": "Joe Ryan",
+      "active_pitcher_id": 607455,
+      "active_pitcher_name": "Anthony Banda",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T19:41:03.154829-04:00"
+      "last_checked_at": "2026-06-24T21:36:50.349581-04:00"
     },
     "823850": {
       "active_pitcher_id": 594798,
@@ -74,10 +86,10 @@
       "last_checked_at": "2026-06-24T16:59:17.000022-04:00"
     },
     "824500": {
-      "active_pitcher_id": 675660,
-      "active_pitcher_name": "Shane Drohan",
+      "active_pitcher_id": 681982,
+      "active_pitcher_name": "Grant Anderson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-24T19:41:01.418211-04:00"
+      "last_checked_at": "2026-06-24T21:36:47.720318-04:00"
     },
     "824583": {
       "active_pitcher_id": 671922,
