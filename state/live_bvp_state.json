@@ -1,4 +1,33 @@
 {
   "date": "2026-06-26",
-  "games": {}
+  "games": {
+    "822796": {
+      "active_pitcher_id": 571578,
+      "active_pitcher_name": "Patrick Corbin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-26T18:53:45.348974-04:00"
+    },
+    "823363": {
+      "active_pitcher_id": 671096,
+      "active_pitcher_name": "Andrew Abbott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-26T18:53:38.180558-04:00"
+    },
+    "824255": {
+      "active_pitcher_id": 681293,
+      "active_pitcher_name": "Spencer Arrighetti",
+      "alerted_pairs": [
+        "681293:690993"
+      ],
+      "last_checked_at": "2026-06-26T18:53:33.241597-04:00"
+    },
+    "824824": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
+      "alerted_pairs": [
+        "669432:695578"
+      ],
+      "last_checked_at": "2026-06-26T18:53:40.615779-04:00"
+    }
+  }
 }
