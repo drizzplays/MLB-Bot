@@ -36,7 +36,7 @@
       "game_time": "Jun 26, 6:40 PM ET",
       "game_iso": "2026-06-26T18:40:00-04:00",
       "game_pk": "824255",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823363": {
       "away_team": "Cincinnati Reds",
@@ -74,7 +74,7 @@
       "game_time": "Jun 26, 6:40 PM ET",
       "game_iso": "2026-06-26T18:40:00-04:00",
       "game_pk": "823363",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824824": {
       "away_team": "Washington Nationals",
@@ -112,7 +112,7 @@
       "game_time": "Jun 26, 7:05 PM ET",
       "game_iso": "2026-06-26T19:05:00-04:00",
       "game_pk": "824824",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822796": {
       "away_team": "Texas Rangers",
@@ -150,7 +150,7 @@
       "game_time": "Jun 26, 7:07 PM ET",
       "game_iso": "2026-06-26T19:07:00-04:00",
       "game_pk": "822796",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824423": {
       "away_team": "Seattle Mariners",
@@ -188,7 +188,7 @@
       "game_time": "Jun 26, 7:10 PM ET",
       "game_iso": "2026-06-26T19:10:00-04:00",
       "game_pk": "824423",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822962": {
       "away_team": "Arizona Diamondbacks",
@@ -226,7 +226,7 @@
       "game_time": "Jun 26, 7:10 PM ET",
       "game_iso": "2026-06-26T19:10:00-04:00",
       "game_pk": "822962",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823610": {
       "away_team": "Philadelphia Phillies",
@@ -255,7 +255,7 @@
       "game_time": "Jun 26, 7:10 PM ET",
       "game_iso": "2026-06-26T19:10:00-04:00",
       "game_pk": "823610",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824743": {
       "away_team": "New York Yankees",
@@ -293,7 +293,7 @@
       "game_time": "Jun 26, 7:10 PM ET",
       "game_iso": "2026-06-26T19:10:00-04:00",
       "game_pk": "824743",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824582": {
       "away_team": "Kansas City Royals",
@@ -322,7 +322,7 @@
       "game_time": "Jun 26, 7:40 PM ET",
       "game_iso": "2026-06-26T19:40:00-04:00",
       "game_pk": "824582",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823773": {
       "away_team": "Chicago Cubs",
@@ -398,7 +398,7 @@
       "game_time": "Jun 26, 8:10 PM ET",
       "game_iso": "2026-06-26T20:10:00-04:00",
       "game_pk": "823688",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823039": {
       "away_team": "Miami Marlins",
@@ -436,7 +436,7 @@
       "game_time": "Jun 26, 8:15 PM ET",
       "game_iso": "2026-06-26T20:15:00-04:00",
       "game_pk": "823039",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824014": {
       "away_team": "Athletics",
