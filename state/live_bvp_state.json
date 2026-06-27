@@ -1,4 +1,17 @@
 {
   "date": "2026-06-27",
-  "games": {}
+  "games": {
+    "824257": {
+      "active_pitcher_id": 664285,
+      "active_pitcher_name": "Framber Valdez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T13:47:29.278193-04:00"
+    },
+    "824745": {
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T13:47:31.404451-04:00"
+    }
+  }
 }
