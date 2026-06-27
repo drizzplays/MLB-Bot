@@ -513,8 +513,28 @@
     "Arizona Diamondbacks @ Tampa Bay Rays | 822960": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Tampa Bay Rays",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Ketel Marte",
+        "Geraldo Perdomo",
+        "Corbin Carroll",
+        "Gabriel Moreno",
+        "Adrian Del Castillo",
+        "Nolan Arenado",
+        "Max Kepler",
+        "LuJames Groover",
+        "Tommy Troy"
+      ],
+      "home_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Victor Mesa Jr.",
+        "Chandler Simpson",
+        "Cedric Mullins",
+        "Taylor Walls",
+        "Richie Palacios",
+        "Hunter Feduccia"
+      ],
       "away_roster": [
         "Eduardo Rodriguez",
         "LuJames Groover",
@@ -565,8 +585,8 @@
         "Craig Kimbrel",
         "Yandy D\u00edaz",
         "Ben Williamson",
-        "Bryan Baker",
         "Victor Mesa Jr.",
+        "Bryan Baker",
         "Junior Caminero",
         "Drew Rasmussen",
         "Cedric Mullins"
@@ -1426,8 +1446,8 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Stuart Fairchild",
-        "Rhys Hoskins"
+        "Rhys Hoskins",
+        "Cooper Ingle"
       ],
       "game_time": "Jun 28, 1:40 PM ET",
       "game_iso": "2026-06-28T13:40:00-04:00",
