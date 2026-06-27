@@ -179,7 +179,7 @@
         "Corey Seager",
         "Brandon Nimmo",
         "Jake Burger",
-        "Jarred Kelenic",
+        "Ezequiel Duran",
         "Alejandro Osuna",
         "Elias D\u00edaz",
         "Nicky Lopez"
@@ -598,7 +598,17 @@
     "Washington Nationals @ Baltimore Orioles | 824825": {
       "away_team": "Washington Nationals",
       "home_team": "Baltimore Orioles",
-      "away_lineup": [],
+      "away_lineup": [
+        "James Wood",
+        "Luis Garc\u00eda Jr.",
+        "Jos\u00e9 Tena",
+        "CJ Abrams",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Jorbit Vivas",
+        "Nasim Nu\u00f1ez",
+        "Drew Millas"
+      ],
       "home_lineup": [
         "Taylor Ward",
         "Gunnar Henderson",
@@ -623,8 +633,8 @@
         "Clayton Beeter",
         "Brad Lord",
         "Curtis Mead",
-        "Daylen Lile",
         "Jos\u00e9 Tena",
+        "Daylen Lile",
         "James Wood",
         "Cade Cavalli",
         "Jacob Young",
@@ -844,7 +854,17 @@
       "away_team": "Chicago Cubs",
       "home_team": "Milwaukee Brewers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jackson Chourio",
+        "Brice Turang",
+        "William Contreras",
+        "Andrew Vaughn",
+        "Gary S\u00e1nchez",
+        "Blake Perkins",
+        "Sal Frelick",
+        "Cooper Pratt",
+        "Joey Ortiz"
+      ],
       "away_roster": [
         "Vince Velasquez",
         "Michael Conforto",
@@ -893,8 +913,8 @@
         "Brandon Sproat",
         "Blake Perkins",
         "William Contreras",
-        "Robert Gasser",
         "Brice Turang",
+        "Robert Gasser",
         "Brandon Woodruff",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
@@ -993,7 +1013,17 @@
     "Los Angeles Dodgers @ San Diego Padres | 823283": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Max Muncy",
+        "Tommy Edman",
+        "Kyle Tucker",
+        "Dalton Rushing",
+        "Alex Freeland"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Dalton Rushing",
