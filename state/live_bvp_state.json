@@ -7,11 +7,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-27T17:17:23.574022-04:00"
     },
-    "823364": {
-      "active_pitcher_id": 683003,
-      "active_pitcher_name": "Jared Jones",
+    "822960": {
+      "active_pitcher_id": 642121,
+      "active_pitcher_name": "Cole Sulser",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T17:17:26.500273-04:00"
+      "last_checked_at": "2026-06-27T18:31:10.036781-04:00"
+    },
+    "823364": {
+      "active_pitcher_id": 670990,
+      "active_pitcher_name": "Yohan Ram\u00edrez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T18:31:05.275235-04:00"
     },
     "823609": {
       "active_pitcher_id": 681035,
@@ -26,10 +32,10 @@
       "last_checked_at": "2026-06-27T14:55:25.848420-04:00"
     },
     "824581": {
-      "active_pitcher_id": 663436,
-      "active_pitcher_name": "Davis Martin",
+      "active_pitcher_id": 663738,
+      "active_pitcher_name": "Daniel Lynch IV",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T16:06:06.743872-04:00"
+      "last_checked_at": "2026-06-27T18:31:07.750028-04:00"
     },
     "824745": {
       "active_pitcher_id": 686580,
