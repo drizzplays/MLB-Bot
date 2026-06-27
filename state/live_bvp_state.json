@@ -8,28 +8,52 @@
       "last_checked_at": "2026-06-27T17:17:23.574022-04:00"
     },
     "822960": {
-      "active_pitcher_id": 642121,
-      "active_pitcher_name": "Cole Sulser",
+      "active_pitcher_id": 703615,
+      "active_pitcher_name": "Jose Cabrera",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T18:31:10.036781-04:00"
+      "last_checked_at": "2026-06-27T19:35:53.670858-04:00"
+    },
+    "823038": {
+      "active_pitcher_id": 669467,
+      "active_pitcher_name": "Andre Pallante",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T19:36:07.057091-04:00"
     },
     "823364": {
-      "active_pitcher_id": 670990,
-      "active_pitcher_name": "Yohan Ram\u00edrez",
+      "active_pitcher_id": 642397,
+      "active_pitcher_name": "Gregory Soto",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T18:31:05.275235-04:00"
+      "last_checked_at": "2026-06-27T19:35:47.823976-04:00"
     },
     "823609": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+      "active_pitcher_id": 679775,
+      "active_pitcher_name": "Kyle Backhus",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T17:17:29.075748-04:00"
+      "last_checked_at": "2026-06-27T19:35:50.804077-04:00"
+    },
+    "823689": {
+      "active_pitcher_id": 702474,
+      "active_pitcher_name": "Mike Paredes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T19:36:01.655963-04:00"
+    },
+    "823770": {
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T19:36:04.276592-04:00"
     },
     "824257": {
       "active_pitcher_id": 805123,
       "active_pitcher_name": "AJ Blubaugh",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-27T14:55:25.848420-04:00"
+    },
+    "824421": {
+      "active_pitcher_id": 669302,
+      "active_pitcher_name": "Logan Gilbert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T19:35:59.019171-04:00"
     },
     "824581": {
       "active_pitcher_id": 663738,
@@ -42,6 +66,12 @@
       "active_pitcher_name": "Justin Slaten",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-27T14:55:28.062783-04:00"
+    },
+    "824825": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T19:35:56.391257-04:00"
     }
   }
 }
