@@ -1,17 +1,23 @@
 {
   "date": "2026-06-27",
   "games": {
-    "824257": {
-      "active_pitcher_id": 664285,
-      "active_pitcher_name": "Framber Valdez",
+    "822794": {
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T13:47:29.278193-04:00"
+      "last_checked_at": "2026-06-27T14:55:30.160555-04:00"
+    },
+    "824257": {
+      "active_pitcher_id": 805123,
+      "active_pitcher_name": "AJ Blubaugh",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T14:55:25.848420-04:00"
     },
     "824745": {
-      "active_pitcher_id": 687562,
-      "active_pitcher_name": "Jake Bennett",
+      "active_pitcher_id": 686580,
+      "active_pitcher_name": "Justin Slaten",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T13:47:31.404451-04:00"
+      "last_checked_at": "2026-06-27T14:55:28.062783-04:00"
     }
   }
 }
