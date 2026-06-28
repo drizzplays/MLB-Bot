@@ -14,10 +14,24 @@
       "last_checked_at": "2026-06-27T19:35:53.670858-04:00"
     },
     "823038": {
-      "active_pitcher_id": 669467,
-      "active_pitcher_name": "Andre Pallante",
+      "active_pitcher_id": 669622,
+      "active_pitcher_name": "Anthony Bender",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T19:36:07.057091-04:00"
+      "last_checked_at": "2026-06-27T21:37:35.069977-04:00"
+    },
+    "823207": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [
+        "693821:646240"
+      ],
+      "last_checked_at": "2026-06-27T21:37:39.735628-04:00"
+    },
+    "823283": {
+      "active_pitcher_id": 681190,
+      "active_pitcher_name": "Randy V\u00e1squez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T21:37:37.457928-04:00"
     },
     "823364": {
       "active_pitcher_id": 642397,
@@ -32,16 +46,22 @@
       "last_checked_at": "2026-06-27T19:35:50.804077-04:00"
     },
     "823689": {
-      "active_pitcher_id": 702474,
-      "active_pitcher_name": "Mike Paredes",
+      "active_pitcher_id": 657514,
+      "active_pitcher_name": "Brennan Bernardino",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T19:36:01.655963-04:00"
+      "last_checked_at": "2026-06-27T21:37:30.534363-04:00"
     },
     "823770": {
-      "active_pitcher_id": 690986,
-      "active_pitcher_name": "Kyle Harrison",
+      "active_pitcher_id": 592826,
+      "active_pitcher_name": "Vince Velasquez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T19:36:04.276592-04:00"
+      "last_checked_at": "2026-06-27T21:37:32.831601-04:00"
+    },
+    "824015": {
+      "active_pitcher_id": 672282,
+      "active_pitcher_name": "Reid Detmers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-27T21:37:43.666788-04:00"
     },
     "824257": {
       "active_pitcher_id": 805123,
@@ -50,10 +70,10 @@
       "last_checked_at": "2026-06-27T14:55:25.848420-04:00"
     },
     "824421": {
-      "active_pitcher_id": 669302,
-      "active_pitcher_name": "Logan Gilbert",
+      "active_pitcher_id": 678606,
+      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T19:35:59.019171-04:00"
+      "last_checked_at": "2026-06-27T21:37:28.288010-04:00"
     },
     "824581": {
       "active_pitcher_id": 663738,
@@ -68,10 +88,10 @@
       "last_checked_at": "2026-06-27T14:55:28.062783-04:00"
     },
     "824825": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 687377,
+      "active_pitcher_name": "Orlando Ribalta",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-27T19:35:56.391257-04:00"
+      "last_checked_at": "2026-06-27T21:37:25.962616-04:00"
     }
   }
 }
