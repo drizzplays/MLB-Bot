@@ -1,4 +1,75 @@
 {
   "date": "2026-06-28",
-  "games": {}
+  "games": {
+    "822795": {
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:43.166113-04:00"
+    },
+    "822959": {
+      "active_pitcher_id": 656876,
+      "active_pitcher_name": "Drew Rasmussen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:49.064448-04:00"
+    },
+    "823037": {
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:03:01.126592-04:00"
+    },
+    "823362": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [
+        "663903:656811"
+      ],
+      "last_checked_at": "2026-06-28T14:02:38.317304-04:00"
+    },
+    "823608": {
+      "active_pitcher_id": 668964,
+      "active_pitcher_name": "Tobias Myers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:51.100265-04:00"
+    },
+    "823686": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:53.744397-04:00"
+    },
+    "823769": {
+      "active_pitcher_id": 605540,
+      "active_pitcher_name": "Brandon Woodruff",
+      "alerted_pairs": [
+        "605540:673548"
+      ],
+      "last_checked_at": "2026-06-28T14:02:57.815429-04:00"
+    },
+    "824256": {
+      "active_pitcher_id": 656427,
+      "active_pitcher_name": "Jack Flaherty",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:45.187666-04:00"
+    },
+    "824422": {
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:47.224513-04:00"
+    },
+    "824580": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:55.837601-04:00"
+    },
+    "824821": {
+      "active_pitcher_id": 641793,
+      "active_pitcher_name": "Zack Littell",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-28T14:02:36.223069-04:00"
+    }
+  }
 }
