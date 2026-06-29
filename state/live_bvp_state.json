@@ -1,4 +1,17 @@
 {
   "date": "2026-06-29",
-  "games": {}
+  "games": {
+    "823444": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T18:41:36.453398-04:00"
+    },
+    "824822": {
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T18:41:34.380388-04:00"
+    }
+  }
 }
