@@ -1,81 +1,5 @@
 {
   "2026-06-29": {
-    "824822": {
-      "away_team": "Chicago White Sox",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Sean Burke",
-      "home_pitcher": "Shane Baz",
-      "away_pitcher_id": "680732",
-      "home_pitcher_id": "669358",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "3.71",
-        "whip": "1.21",
-        "strikeouts": 87,
-        "innings_pitched": "87.1",
-        "games_started": 12
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 8,
-        "era": "4.31",
-        "whip": "1.38",
-        "strikeouts": 81,
-        "innings_pitched": "94.0",
-        "games_started": 16
-      },
-      "game_time": "Jun 29, 6:35 PM ET",
-      "game_iso": "2026-06-29T18:35:00-04:00",
-      "game_pk": "824822",
-      "status_code": "P"
-    },
-    "823444": {
-      "away_team": "Pittsburgh Pirates",
-      "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Braxton Ashcraft",
-      "home_pitcher": "Aaron Nola",
-      "away_pitcher_id": "677952",
-      "home_pitcher_id": "605400",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 3,
-        "era": "3.07",
-        "whip": "1.09",
-        "strikeouts": 107,
-        "innings_pitched": "96.2",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 4,
-        "era": "5.58",
-        "whip": "1.45",
-        "strikeouts": 82,
-        "innings_pitched": "80.2",
-        "games_started": 16
-      },
-      "game_time": "Jun 29, 6:40 PM ET",
-      "game_iso": "2026-06-29T18:40:00-04:00",
-      "game_pk": "823444",
-      "status_code": "P"
-    },
     "823529": {
       "away_team": "Detroit Tigers",
       "home_team": "New York Yankees",
@@ -454,7 +378,7 @@
       "game_time": "Jun 29, 9:40 PM ET",
       "game_iso": "2026-06-29T21:40:00-04:00",
       "game_pk": "823121",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825065": {
       "away_team": "San Francisco Giants",
@@ -492,7 +416,7 @@
       "game_time": "Jun 29, 9:40 PM ET",
       "game_iso": "2026-06-29T21:40:00-04:00",
       "game_pk": "825065",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
