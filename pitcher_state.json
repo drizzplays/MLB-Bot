@@ -36,7 +36,7 @@
       "game_time": "Jun 29, 6:35 PM ET",
       "game_iso": "2026-06-29T18:35:00-04:00",
       "game_pk": "824822",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823444": {
       "away_team": "Pittsburgh Pirates",
@@ -74,7 +74,7 @@
       "game_time": "Jun 29, 6:40 PM ET",
       "game_iso": "2026-06-29T18:40:00-04:00",
       "game_pk": "823444",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823529": {
       "away_team": "Detroit Tigers",
@@ -112,7 +112,7 @@
       "game_time": "Jun 29, 7:05 PM ET",
       "game_iso": "2026-06-29T19:05:00-04:00",
       "game_pk": "823529",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822792": {
       "away_team": "New York Mets",
@@ -150,7 +150,7 @@
       "game_time": "Jun 29, 7:07 PM ET",
       "game_iso": "2026-06-29T19:07:00-04:00",
       "game_pk": "822792",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824741": {
       "away_team": "Washington Nationals",
@@ -188,7 +188,7 @@
       "game_time": "Jun 29, 7:10 PM ET",
       "game_iso": "2026-06-29T19:10:00-04:00",
       "game_pk": "824741",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824420": {
       "away_team": "Texas Rangers",
@@ -226,7 +226,7 @@
       "game_time": "Jun 29, 7:10 PM ET",
       "game_iso": "2026-06-29T19:10:00-04:00",
       "game_pk": "824420",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823771": {
       "away_team": "Cincinnati Reds",
@@ -264,7 +264,7 @@
       "game_time": "Jun 29, 7:40 PM ET",
       "game_iso": "2026-06-29T19:40:00-04:00",
       "game_pk": "823771",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824662": {
       "away_team": "San Diego Padres",
@@ -378,7 +378,7 @@
       "game_time": "Jun 29, 8:40 PM ET",
       "game_iso": "2026-06-29T20:40:00-04:00",
       "game_pk": "824339",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824986": {
       "away_team": "Los Angeles Dodgers",
