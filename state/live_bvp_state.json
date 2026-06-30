@@ -7,6 +7,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-29T19:44:37.554475-04:00"
     },
+    "823121": {
+      "active_pitcher_id": 696270,
+      "active_pitcher_name": "Ryan Johnson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T21:52:09.864825-04:00"
+    },
     "823444": {
       "active_pitcher_id": 677952,
       "active_pitcher_name": "Braxton Ashcraft",
@@ -24,16 +30,34 @@
       "last_checked_at": "2026-06-29T19:44:33.843471-04:00"
     },
     "823771": {
-      "active_pitcher_id": 688107,
-      "active_pitcher_name": "Robert Gasser",
+      "active_pitcher_id": 694477,
+      "active_pitcher_name": "Chad Patrick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-29T19:44:42.652698-04:00"
+      "last_checked_at": "2026-06-29T21:51:57.391701-04:00"
+    },
+    "824176": {
+      "active_pitcher_id": 663878,
+      "active_pitcher_name": "Nate Pearson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T21:52:02.405438-04:00"
+    },
+    "824339": {
+      "active_pitcher_id": 807743,
+      "active_pitcher_name": "Sean Sullivan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T21:52:05.450149-04:00"
     },
     "824420": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+      "active_pitcher_id": 656641,
+      "active_pitcher_name": "Jacob Latz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-29T19:44:40.940969-04:00"
+      "last_checked_at": "2026-06-29T21:51:54.830443-04:00"
+    },
+    "824662": {
+      "active_pitcher_id": 684007,
+      "active_pitcher_name": "Shota Imanaga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T21:51:59.808767-04:00"
     },
     "824741": {
       "active_pitcher_id": 571945,
@@ -46,6 +70,18 @@
       "active_pitcher_name": "Sean Burke",
       "alerted_pairs": [],
       "last_checked_at": "2026-06-29T19:44:27.373177-04:00"
+    },
+    "824986": {
+      "active_pitcher_id": 641778,
+      "active_pitcher_name": "Eric Lauer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T21:52:07.709269-04:00"
+    },
+    "825065": {
+      "active_pitcher_id": 641816,
+      "active_pitcher_name": "Tyler Mahle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-29T21:52:12.559257-04:00"
     }
   }
 }
