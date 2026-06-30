@@ -378,7 +378,7 @@
       "game_time": "Jun 30, 8:05 PM ET",
       "game_iso": "2026-06-30T20:05:00-04:00",
       "game_pk": "824661",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824175": {
       "away_team": "Minnesota Twins",
@@ -416,7 +416,7 @@
       "game_time": "Jun 30, 8:10 PM ET",
       "game_iso": "2026-06-30T20:10:00-04:00",
       "game_pk": "824175",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824338": {
       "away_team": "Miami Marlins",
@@ -454,7 +454,7 @@
       "game_time": "Jun 30, 8:40 PM ET",
       "game_iso": "2026-06-30T20:40:00-04:00",
       "game_pk": "824338",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824984": {
       "away_team": "Los Angeles Dodgers",
@@ -492,7 +492,7 @@
       "game_time": "Jun 30, 9:40 PM ET",
       "game_iso": "2026-06-30T21:40:00-04:00",
       "game_pk": "824984",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823122": {
       "away_team": "Los Angeles Angels",
@@ -530,19 +530,19 @@
       "game_time": "Jun 30, 9:40 PM ET",
       "game_iso": "2026-06-30T21:40:00-04:00",
       "game_pk": "823122",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825066": {
       "away_team": "San Francisco Giants",
       "home_team": "Arizona Diamondbacks",
       "away_pitcher": "Landen Roupp",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Brandon Pfaadt",
       "away_pitcher_id": "694738",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "694297",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -555,11 +555,20 @@
         "innings_pitched": "86.1",
         "games_started": 16
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 0,
+        "losses": 1,
+        "era": "5.92",
+        "whip": "1.50",
+        "strikeouts": 31,
+        "innings_pitched": "38.0",
+        "games_started": 3
+      },
       "game_time": "Jun 30, 9:40 PM ET",
       "game_iso": "2026-06-30T21:40:00-04:00",
       "game_pk": "825066",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
