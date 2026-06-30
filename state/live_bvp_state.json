@@ -1,4 +1,59 @@
 {
   "date": "2026-06-30",
-  "games": {}
+  "games": {
+    "822793": {
+      "active_pitcher_id": 592332,
+      "active_pitcher_name": "Kevin Gausman",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:38:56.056533-04:00"
+    },
+    "823445": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:38:51.332853-04:00"
+    },
+    "823528": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:38:53.736971-04:00"
+    },
+    "823768": {
+      "active_pitcher_id": 687075,
+      "active_pitcher_name": "Brandon Sproat",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:39:05.296315-04:00"
+    },
+    "824096": {
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:39:03.010525-04:00"
+    },
+    "824418": {
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:38:49.027479-04:00"
+    },
+    "824742": {
+      "active_pitcher_id": 813349,
+      "active_pitcher_name": "Connelly Early",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:38:58.360509-04:00"
+    },
+    "824819": {
+      "active_pitcher_id": 607200,
+      "active_pitcher_name": "Erick Fedde",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:38:47.057753-04:00"
+    },
+    "824907": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T19:39:00.667684-04:00"
+    }
+  }
 }
