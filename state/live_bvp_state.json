@@ -1,11 +1,17 @@
 {
   "date": "2026-07-01",
   "games": {
-    "823530": {
-      "active_pitcher_id": 675512,
-      "active_pitcher_name": "Troy Melton",
+    "822791": {
+      "active_pitcher_id": 642547,
+      "active_pitcher_name": "Freddy Peralta",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-01T14:05:20.345684-04:00"
+      "last_checked_at": "2026-07-01T16:07:44.598165-04:00"
+    },
+    "823530": {
+      "active_pitcher_id": 518585,
+      "active_pitcher_name": "Fernando Cruz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T16:07:39.214581-04:00"
     },
     "824419": {
       "active_pitcher_id": 676282,
@@ -14,16 +20,16 @@
       "last_checked_at": "2026-07-01T14:05:16.551690-04:00"
     },
     "824660": {
-      "active_pitcher_id": 607067,
-      "active_pitcher_name": "Colin Rea",
+      "active_pitcher_id": 663423,
+      "active_pitcher_name": "Trent Thornton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-01T14:05:22.240588-04:00"
+      "last_checked_at": "2026-07-01T16:07:42.070629-04:00"
     },
     "824740": {
-      "active_pitcher_id": 801139,
-      "active_pitcher_name": "Payton Tolle",
+      "active_pitcher_id": 683000,
+      "active_pitcher_name": "Riley Cornelio",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-01T14:05:18.433007-04:00"
+      "last_checked_at": "2026-07-01T16:07:36.643104-04:00"
     },
     "824818": {
       "active_pitcher_id": 663542,
