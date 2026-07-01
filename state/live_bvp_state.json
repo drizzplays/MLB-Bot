@@ -7,6 +7,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-30T19:38:56.056533-04:00"
     },
+    "823122": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T21:55:52.303796-04:00"
+    },
     "823445": {
       "active_pitcher_id": 650911,
       "active_pitcher_name": "Cristopher S\u00e1nchez",
@@ -20,16 +26,28 @@
       "last_checked_at": "2026-06-30T19:38:53.736971-04:00"
     },
     "823768": {
-      "active_pitcher_id": 687075,
-      "active_pitcher_name": "Brandon Sproat",
+      "active_pitcher_id": 657649,
+      "active_pitcher_name": "Jared Koenig",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-30T19:39:05.296315-04:00"
+      "last_checked_at": "2026-06-30T21:55:38.955721-04:00"
     },
     "824096": {
-      "active_pitcher_id": 702070,
-      "active_pitcher_name": "Noah Cameron",
+      "active_pitcher_id": 592155,
+      "active_pitcher_name": "Cam Booser",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-30T19:39:03.010525-04:00"
+      "last_checked_at": "2026-06-30T21:55:36.257487-04:00"
+    },
+    "824175": {
+      "active_pitcher_id": 660853,
+      "active_pitcher_name": "Enyel De Los Santos",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T21:55:44.503165-04:00"
+    },
+    "824338": {
+      "active_pitcher_id": 685299,
+      "active_pitcher_name": "Tanner Gordon",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T21:55:47.161928-04:00"
     },
     "824418": {
       "active_pitcher_id": 676440,
@@ -37,11 +55,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-06-30T19:38:49.027479-04:00"
     },
-    "824742": {
-      "active_pitcher_id": 813349,
-      "active_pitcher_name": "Connelly Early",
+    "824661": {
+      "active_pitcher_id": 665871,
+      "active_pitcher_name": "Javier Assad",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-30T19:38:58.360509-04:00"
+      "last_checked_at": "2026-06-30T21:55:41.870293-04:00"
+    },
+    "824742": {
+      "active_pitcher_id": 687377,
+      "active_pitcher_name": "Orlando Ribalta",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T21:55:30.637482-04:00"
     },
     "824819": {
       "active_pitcher_id": 607200,
@@ -50,10 +74,22 @@
       "last_checked_at": "2026-06-30T19:38:47.057753-04:00"
     },
     "824907": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 681676,
+      "active_pitcher_name": "Ryan Fernandez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-06-30T19:39:00.667684-04:00"
+      "last_checked_at": "2026-06-30T21:55:33.335670-04:00"
+    },
+    "824984": {
+      "active_pitcher_id": 680736,
+      "active_pitcher_name": "Justin Wrobleski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T21:55:49.706481-04:00"
+    },
+    "825066": {
+      "active_pitcher_id": 694738,
+      "active_pitcher_name": "Landen Roupp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-06-30T21:55:54.842736-04:00"
     }
   }
 }
