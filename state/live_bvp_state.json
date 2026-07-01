@@ -1,4 +1,35 @@
 {
   "date": "2026-07-01",
-  "games": {}
+  "games": {
+    "823530": {
+      "active_pitcher_id": 675512,
+      "active_pitcher_name": "Troy Melton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T14:05:20.345684-04:00"
+    },
+    "824419": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T14:05:16.551690-04:00"
+    },
+    "824660": {
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T14:05:22.240588-04:00"
+    },
+    "824740": {
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T14:05:18.433007-04:00"
+    },
+    "824818": {
+      "active_pitcher_id": 663542,
+      "active_pitcher_name": "Bryan Hudson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T14:05:14.005039-04:00"
+    }
+  }
 }
