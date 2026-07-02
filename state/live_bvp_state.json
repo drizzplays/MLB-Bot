@@ -19,6 +19,24 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-01T16:07:39.214581-04:00"
     },
+    "823767": {
+      "active_pitcher_id": 675660,
+      "active_pitcher_name": "Shane Drohan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T20:04:03.621626-04:00"
+    },
+    "824094": {
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T20:04:00.211757-04:00"
+    },
+    "824174": {
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T20:04:01.939073-04:00"
+    },
     "824419": {
       "active_pitcher_id": 676282,
       "active_pitcher_name": "Joey Cantillo",
@@ -42,6 +60,12 @@
       "active_pitcher_name": "Bryan Hudson",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-01T14:05:14.005039-04:00"
+    },
+    "824905": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-01T20:03:58.515085-04:00"
     }
   }
 }
