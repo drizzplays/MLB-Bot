@@ -1,43 +1,5 @@
 {
   "2026-07-02": {
-    "824416": {
-      "away_team": "Chicago White Sox",
-      "home_team": "Cleveland Guardians",
-      "away_pitcher": "Davis Martin",
-      "home_pitcher": "Slade Cecconi",
-      "away_pitcher_id": "663436",
-      "home_pitcher_id": "677944",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 3,
-        "era": "3.00",
-        "whip": "1.18",
-        "strikeouts": 90,
-        "innings_pitched": "93.0",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "4.18",
-        "whip": "1.36",
-        "strikeouts": 70,
-        "innings_pitched": "90.1",
-        "games_started": 17
-      },
-      "game_time": "Jul 2, 6:40 PM ET",
-      "game_iso": "2026-07-02T18:40:00-04:00",
-      "game_pk": "824416",
-      "status_code": "P"
-    },
     "824906": {
       "away_team": "St. Louis Cardinals",
       "home_team": "Atlanta Braves",
@@ -226,7 +188,7 @@
       "game_time": "Jul 2, 10:10 PM ET",
       "game_iso": "2026-07-02T22:10:00-04:00",
       "game_pk": "823935",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
