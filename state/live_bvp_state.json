@@ -2,10 +2,16 @@
   "date": "2026-07-02",
   "games": {
     "823442": {
-      "active_pitcher_id": 660604,
-      "active_pitcher_name": "Alan Rangel",
+      "active_pitcher_id": 669387,
+      "active_pitcher_name": "Carmen Mlodzinski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-02T12:24:33.599417-04:00"
+      "last_checked_at": "2026-07-02T14:11:40.035644-04:00"
+    },
+    "823765": {
+      "active_pitcher_id": 694819,
+      "active_pitcher_name": "Jacob Misiorowski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-02T14:11:42.715503-04:00"
     }
   }
 }
