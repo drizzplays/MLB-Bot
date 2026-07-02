@@ -13,11 +13,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-02T15:54:18.298747-04:00"
     },
+    "824093": {
+      "active_pitcher_id": 663568,
+      "active_pitcher_name": "Stephen Kolek",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-02T19:31:36.071512-04:00"
+    },
     "824335": {
       "active_pitcher_id": 657514,
       "active_pitcher_name": "Brennan Bernardino",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-02T17:00:44.123968-04:00"
+    },
+    "824416": {
+      "active_pitcher_id": 663436,
+      "active_pitcher_name": "Davis Martin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-02T19:31:31.710008-04:00"
+    },
+    "824906": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-02T19:31:33.884800-04:00"
     }
   }
 }
