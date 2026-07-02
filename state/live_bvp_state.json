@@ -1,4 +1,11 @@
 {
   "date": "2026-07-02",
-  "games": {}
+  "games": {
+    "823442": {
+      "active_pitcher_id": 660604,
+      "active_pitcher_name": "Alan Rangel",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-02T12:24:33.599417-04:00"
+    }
+  }
 }
