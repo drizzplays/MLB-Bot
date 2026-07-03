@@ -7,11 +7,37 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-03T18:45:37.916527-04:00"
     },
+    "823527": {
+      "active_pitcher_id": 702474,
+      "active_pitcher_name": "Mike Paredes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-03T19:46:12.196732-04:00"
+    },
+    "824417": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-03T19:46:17.075030-04:00"
+    },
+    "824498": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-03T19:46:14.666237-04:00"
+    },
     "824659": {
       "active_pitcher_id": 691008,
       "active_pitcher_name": "Max Rajcic",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-03T18:45:35.673053-04:00"
+    },
+    "824904": {
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
+      "alerted_pairs": [
+        "681035:671739"
+      ],
+      "last_checked_at": "2026-07-03T19:46:19.468231-04:00"
     }
   }
 }
