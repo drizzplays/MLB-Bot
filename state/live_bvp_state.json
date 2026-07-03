@@ -1,4 +1,11 @@
 {
   "date": "2026-07-03",
-  "games": {}
+  "games": {
+    "824659": {
+      "active_pitcher_id": 656849,
+      "active_pitcher_name": "David Peterson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-03T16:46:10.520855-04:00"
+    }
+  }
 }
