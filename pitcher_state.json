@@ -1,43 +1,5 @@
 {
   "2026-07-03": {
-    "824659": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Andre Pallante",
-      "home_pitcher": "David Peterson",
-      "away_pitcher_id": "669467",
-      "home_pitcher_id": "656849",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 5,
-        "era": "3.83",
-        "whip": "1.23",
-        "strikeouts": 68,
-        "innings_pitched": "89.1",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "5.86",
-        "whip": "1.59",
-        "strikeouts": 65,
-        "innings_pitched": "73.2",
-        "games_started": 9
-      },
-      "game_time": "Jul 3, 4:05 PM ET",
-      "game_iso": "2026-07-03T16:05:00-04:00",
-      "game_pk": "824659",
-      "status_code": "P"
-    },
     "822714": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Washington Nationals",
@@ -74,7 +36,7 @@
       "game_time": "Jul 3, 6:45 PM ET",
       "game_iso": "2026-07-03T18:45:00-04:00",
       "game_pk": "822714",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823527": {
       "away_team": "Minnesota Twins",
@@ -188,7 +150,7 @@
       "game_time": "Jul 3, 7:10 PM ET",
       "game_iso": "2026-07-03T19:10:00-04:00",
       "game_pk": "824417",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824904": {
       "away_team": "New York Mets",
@@ -231,17 +193,26 @@
     "824336": {
       "away_team": "San Francisco Giants",
       "home_team": "Colorado Rockies",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Logan Webb",
       "home_pitcher": "Ryan Feltner",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "657277",
       "home_pitcher_id": "663372",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 5,
+        "losses": 5,
+        "era": "3.09",
+        "whip": "1.06",
+        "strikeouts": 76,
+        "innings_pitched": "90.1",
+        "games_started": 14
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 2,
@@ -293,7 +264,7 @@
       "game_time": "Jul 3, 8:15 PM ET",
       "game_iso": "2026-07-03T20:15:00-04:00",
       "game_pk": "824173",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824013": {
       "away_team": "Boston Red Sox",
