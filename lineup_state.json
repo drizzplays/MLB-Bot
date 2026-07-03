@@ -88,7 +88,17 @@
     "Pittsburgh Pirates @ Washington Nationals | 822714": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Washington Nationals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Konnor Griffin",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Esmerlyn Valdez",
+        "Ryan O'Hearn",
+        "Nick Gonzales",
+        "Jake Mangum",
+        "Endy Rodr\u00edguez",
+        "Jared Triolo"
+      ],
       "home_lineup": [
         "James Wood",
         "Luis Garc\u00eda Jr.",
@@ -109,8 +119,8 @@
         "Evan Sisk",
         "Gregory Soto",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -271,8 +281,8 @@
         "Edwin Arroyo"
       ],
       "away_roster": [
+        "Jeremiah Jackson",
         "Dean Kremer",
-        "Chadwick Tromp",
         "Samuel Basallo",
         "Trevor Rogers",
         "Tyler Wells",
@@ -289,9 +299,9 @@
         "Adley Rutschman",
         "Tyler O'Neill",
         "Blaze Alexander",
+        "Anthony Nunez",
         "Pete Alonso",
         "Jackson Holliday",
-        "Ryan Helsley",
         "Andrew Kittredge",
         "Grant Wolfram",
         "Yennier Cano",
@@ -333,7 +343,17 @@
     "Chicago White Sox @ Cleveland Guardians | 824417": {
       "away_team": "Chicago White Sox",
       "home_team": "Cleveland Guardians",
-      "away_lineup": [],
+      "away_lineup": [
+        "Sam Antonacci",
+        "Miguel Vargas",
+        "Kyle Teel",
+        "Andrew Benintendi",
+        "Colson Montgomery",
+        "Braden Montgomery",
+        "Chase Meidroth",
+        "Tristan Peters",
+        "Jacob Gonzalez"
+      ],
       "home_lineup": [
         "Travis Bazzana",
         "David Fry",
@@ -353,8 +373,8 @@
         "Luisangel Acu\u00f1a",
         "Brandon Eisert",
         "Randal Grichuk",
-        "Chase Meidroth",
         "Kyle Teel",
+        "Chase Meidroth",
         "Grant Taylor",
         "Junior Perez",
         "Colson Montgomery",
@@ -493,7 +513,17 @@
     "San Francisco Giants @ Colorado Rockies | 824336": {
       "away_team": "San Francisco Giants",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Luis Arraez",
+        "Casey Schmitt",
+        "Heliot Ramos",
+        "Rafael Devers",
+        "Jung Hoo Lee",
+        "Willy Adames",
+        "Bryce Eldridge",
+        "Victor Bericoto",
+        "Drew Cavanaugh"
+      ],
       "home_lineup": [
         "Jake McCarthy",
         "Mickey Moniak",
@@ -518,8 +548,8 @@
         "Logan Webb",
         "Ryan Walker",
         "Caleb Kilian",
-        "Drew Gilbert",
         "Jung Hoo Lee",
+        "Drew Gilbert",
         "Sam Hentges",
         "Rafael Devers",
         "Eric Haase",
@@ -568,7 +598,17 @@
     "Tampa Bay Rays @ Houston Astros | 824173": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Houston Astros",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Cedric Mullins",
+        "Jonny DeLuca",
+        "Chandler Simpson",
+        "Ben Williamson",
+        "Taylor Walls",
+        "Nick Fortes"
+      ],
       "home_lineup": [
         "Jose Altuve",
         "Yordan Alvarez",
