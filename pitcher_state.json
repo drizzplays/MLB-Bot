@@ -302,7 +302,7 @@
       "game_time": "Jul 3, 9:38 PM ET",
       "game_iso": "2026-07-03T21:38:00-04:00",
       "game_pk": "824013",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824982": {
       "away_team": "Miami Marlins",
@@ -416,7 +416,7 @@
       "game_time": "Jul 3, 10:10 PM ET",
       "game_iso": "2026-07-03T22:10:00-04:00",
       "game_pk": "823933",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823120": {
       "away_team": "Toronto Blue Jays",
@@ -454,7 +454,7 @@
       "game_time": "Jul 3, 10:10 PM ET",
       "game_iso": "2026-07-03T22:10:00-04:00",
       "game_pk": "823120",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
