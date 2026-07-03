@@ -1,11 +1,17 @@
 {
   "date": "2026-07-03",
   "games": {
-    "824659": {
-      "active_pitcher_id": 669060,
-      "active_pitcher_name": "Bryse Wilson",
+    "822714": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-03T17:47:15.828328-04:00"
+      "last_checked_at": "2026-07-03T18:45:37.916527-04:00"
+    },
+    "824659": {
+      "active_pitcher_id": 691008,
+      "active_pitcher_name": "Max Rajcic",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-03T18:45:35.673053-04:00"
     }
   }
 }
