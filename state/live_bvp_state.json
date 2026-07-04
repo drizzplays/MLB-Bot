@@ -1,4 +1,11 @@
 {
   "date": "2026-07-04",
-  "games": {}
+  "games": {
+    "822716": {
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T12:36:25.696005-04:00"
+    }
+  }
 }
