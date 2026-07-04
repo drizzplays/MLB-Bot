@@ -7,11 +7,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-04T13:39:29.860402-04:00"
     },
-    "823526": {
-      "active_pitcher_id": 694341,
-      "active_pitcher_name": "Brendan Beck",
+    "822882": {
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T13:39:32.291739-04:00"
+      "last_checked_at": "2026-07-04T15:50:59.814805-04:00"
+    },
+    "823526": {
+      "active_pitcher_id": 701519,
+      "active_pitcher_name": "Travis Adams",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T15:50:57.296789-04:00"
     }
   }
 }
