@@ -1,81 +1,5 @@
 {
   "2026-07-04": {
-    "822882": {
-      "away_team": "Detroit Tigers",
-      "home_team": "Texas Rangers",
-      "away_pitcher": "Jack Flaherty",
-      "home_pitcher": "Cal Quantrill",
-      "away_pitcher_id": "656427",
-      "home_pitcher_id": "615698",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 8,
-        "era": "4.97",
-        "whip": "1.53",
-        "strikeouts": 87,
-        "innings_pitched": "70.2",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 0,
-        "era": "3.31",
-        "whip": "1.22",
-        "strikeouts": 25,
-        "innings_pitched": "35.1",
-        "games_started": 2
-      },
-      "game_time": "Jul 4, 4:05 PM ET",
-      "game_iso": "2026-07-04T16:05:00-04:00",
-      "game_pk": "822882",
-      "status_code": "P"
-    },
-    "823118": {
-      "away_team": "Toronto Blue Jays",
-      "home_team": "Seattle Mariners",
-      "away_pitcher": "Shane Bieber",
-      "home_pitcher": "Logan Gilbert",
-      "away_pitcher_id": "669456",
-      "home_pitcher_id": "669302",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 0,
-        "era": "6.00",
-        "whip": "2.00",
-        "strikeouts": 6,
-        "innings_pitched": "9.0",
-        "games_started": 2
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 5,
-        "era": "3.42",
-        "whip": "1.01",
-        "strikeouts": 107,
-        "innings_pitched": "100.0",
-        "games_started": 17
-      },
-      "game_time": "Jul 4, 4:10 PM ET",
-      "game_iso": "2026-07-04T16:10:00-04:00",
-      "game_pk": "823118",
-      "status_code": "P"
-    },
     "824499": {
       "away_team": "Baltimore Orioles",
       "home_team": "Cincinnati Reds",
@@ -255,7 +179,7 @@
       "game_time": "Jul 4, 8:08 PM ET",
       "game_iso": "2026-07-04T20:08:00-04:00",
       "game_pk": "824903",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824334": {
       "away_team": "San Francisco Giants",
@@ -293,7 +217,7 @@
       "game_time": "Jul 4, 8:10 PM ET",
       "game_iso": "2026-07-04T20:10:00-04:00",
       "game_pk": "824334",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824092": {
       "away_team": "Philadelphia Phillies",
@@ -331,7 +255,7 @@
       "game_time": "Jul 4, 8:10 PM ET",
       "game_iso": "2026-07-04T20:10:00-04:00",
       "game_pk": "824092",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824012": {
       "away_team": "Boston Red Sox",
