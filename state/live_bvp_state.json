@@ -24,6 +24,24 @@
       "active_pitcher_name": "Marco Raya",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-04T16:39:29.367246-04:00"
+    },
+    "824171": {
+      "active_pitcher_id": 686613,
+      "active_pitcher_name": "Hunter Brown",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T19:39:29.405026-04:00"
+    },
+    "824415": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T19:39:31.110745-04:00"
+    },
+    "824499": {
+      "active_pitcher_id": 668881,
+      "active_pitcher_name": "Hunter Greene",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T19:39:27.662243-04:00"
     }
   }
 }
