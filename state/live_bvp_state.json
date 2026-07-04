@@ -8,16 +8,22 @@
       "last_checked_at": "2026-07-04T13:39:29.860402-04:00"
     },
     "822882": {
-      "active_pitcher_id": 615698,
-      "active_pitcher_name": "Cal Quantrill",
+      "active_pitcher_id": 656427,
+      "active_pitcher_name": "Jack Flaherty",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T15:50:59.814805-04:00"
+      "last_checked_at": "2026-07-04T16:39:31.396195-04:00"
+    },
+    "823118": {
+      "active_pitcher_id": 669456,
+      "active_pitcher_name": "Shane Bieber",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T16:39:33.812880-04:00"
     },
     "823526": {
-      "active_pitcher_id": 701519,
-      "active_pitcher_name": "Travis Adams",
+      "active_pitcher_id": 694397,
+      "active_pitcher_name": "Marco Raya",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T15:50:57.296789-04:00"
+      "last_checked_at": "2026-07-04T16:39:29.367246-04:00"
     }
   }
 }
