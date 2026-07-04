@@ -2,10 +2,16 @@
   "date": "2026-07-04",
   "games": {
     "822716": {
-      "active_pitcher_id": 677952,
-      "active_pitcher_name": "Braxton Ashcraft",
+      "active_pitcher_id": 683000,
+      "active_pitcher_name": "Riley Cornelio",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T12:36:25.696005-04:00"
+      "last_checked_at": "2026-07-04T13:39:29.860402-04:00"
+    },
+    "823526": {
+      "active_pitcher_id": 694341,
+      "active_pitcher_name": "Brendan Beck",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T13:39:32.291739-04:00"
     }
   }
 }
