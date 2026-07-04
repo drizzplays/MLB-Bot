@@ -4,9 +4,9 @@
       "away_team": "Pittsburgh Pirates",
       "home_team": "Washington Nationals",
       "away_pitcher": "Braxton Ashcraft",
-      "home_pitcher": "Zack Littell",
+      "home_pitcher": "Carson Palmquist",
       "away_pitcher_id": "677952",
-      "home_pitcher_id": "641793",
+      "home_pitcher_id": "687223",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
@@ -25,18 +25,18 @@
       },
       "home_pitcher_stats": {
         "season": "2026",
-        "wins": 7,
-        "losses": 6,
-        "era": "5.29",
-        "whip": "1.35",
-        "strikeouts": 49,
-        "innings_pitched": "80.0",
-        "games_started": 12
+        "wins": 0,
+        "losses": 0,
+        "era": "2.08",
+        "whip": "1.15",
+        "strikeouts": 4,
+        "innings_pitched": "4.1",
+        "games_started": 1
       },
       "game_time": "Jul 4, 11:05 AM ET",
       "game_iso": "2026-07-04T11:05:00-04:00",
       "game_pk": "822716",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823526": {
       "away_team": "Minnesota Twins",
