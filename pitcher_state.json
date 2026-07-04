@@ -103,7 +103,7 @@
       "game_time": "Jul 4, 7:10 PM ET",
       "game_iso": "2026-07-04T19:10:00-04:00",
       "game_pk": "824499",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824171": {
       "away_team": "Tampa Bay Rays",
@@ -141,7 +141,7 @@
       "game_time": "Jul 4, 7:10 PM ET",
       "game_iso": "2026-07-04T19:10:00-04:00",
       "game_pk": "824171",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824415": {
       "away_team": "Chicago White Sox",
@@ -179,7 +179,7 @@
       "game_time": "Jul 4, 7:10 PM ET",
       "game_iso": "2026-07-04T19:10:00-04:00",
       "game_pk": "824415",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824658": {
       "away_team": "St. Louis Cardinals",
