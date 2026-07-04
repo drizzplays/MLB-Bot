@@ -1,43 +1,5 @@
 {
   "2026-07-04": {
-    "822716": {
-      "away_team": "Pittsburgh Pirates",
-      "home_team": "Washington Nationals",
-      "away_pitcher": "Braxton Ashcraft",
-      "home_pitcher": "Carson Palmquist",
-      "away_pitcher_id": "677952",
-      "home_pitcher_id": "687223",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 3,
-        "era": "3.33",
-        "whip": "1.08",
-        "strikeouts": 115,
-        "innings_pitched": "102.2",
-        "games_started": 17
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 0,
-        "era": "2.08",
-        "whip": "1.15",
-        "strikeouts": 4,
-        "innings_pitched": "4.1",
-        "games_started": 1
-      },
-      "game_time": "Jul 4, 11:05 AM ET",
-      "game_iso": "2026-07-04T11:05:00-04:00",
-      "game_pk": "822716",
-      "status_code": "P"
-    },
     "823526": {
       "away_team": "Minnesota Twins",
       "home_team": "New York Yankees",
@@ -74,7 +36,7 @@
       "game_time": "Jul 4, 1:35 PM ET",
       "game_iso": "2026-07-04T13:35:00-04:00",
       "game_pk": "823526",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822882": {
       "away_team": "Detroit Tigers",
@@ -337,9 +299,9 @@
       "away_team": "San Francisco Giants",
       "home_team": "Colorado Rockies",
       "away_pitcher": "Robbie Ray",
-      "home_pitcher": "Tomoyuki Sugano",
+      "home_pitcher": "Sean Sullivan",
       "away_pitcher_id": "592662",
-      "home_pitcher_id": "608372",
+      "home_pitcher_id": "807743",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
@@ -358,13 +320,13 @@
       },
       "home_pitcher_stats": {
         "season": "2026",
-        "wins": 8,
-        "losses": 4,
-        "era": "4.80",
-        "whip": "1.32",
-        "strikeouts": 48,
-        "innings_pitched": "84.1",
-        "games_started": 16
+        "wins": 0,
+        "losses": 2,
+        "era": "8.64",
+        "whip": "1.86",
+        "strikeouts": 12,
+        "innings_pitched": "16.2",
+        "games_started": 4
       },
       "game_time": "Jul 4, 8:10 PM ET",
       "game_iso": "2026-07-04T20:10:00-04:00",
