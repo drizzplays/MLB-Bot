@@ -141,7 +141,7 @@
       "game_time": "Jul 4, 8:08 PM ET",
       "game_iso": "2026-07-04T20:08:00-04:00",
       "game_pk": "824658",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824903": {
       "away_team": "New York Mets",
@@ -293,7 +293,7 @@
       "game_time": "Jul 4, 9:38 PM ET",
       "game_iso": "2026-07-04T21:38:00-04:00",
       "game_pk": "824012",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824983": {
       "away_team": "Miami Marlins",
@@ -331,7 +331,7 @@
       "game_time": "Jul 4, 9:40 PM ET",
       "game_iso": "2026-07-04T21:40:00-04:00",
       "game_pk": "824983",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825063": {
       "away_team": "Milwaukee Brewers",
@@ -369,7 +369,7 @@
       "game_time": "Jul 4, 9:40 PM ET",
       "game_iso": "2026-07-04T21:40:00-04:00",
       "game_pk": "825063",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823932": {
       "away_team": "San Diego Padres",
