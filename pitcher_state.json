@@ -226,7 +226,7 @@
       "game_time": "Jul 5, 2:30 PM ET",
       "game_iso": "2026-07-05T14:30:00-04:00",
       "game_pk": "824656",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824091": {
       "away_team": "Philadelphia Phillies",
@@ -331,7 +331,7 @@
       "game_time": "Jul 5, 3:30 PM ET",
       "game_iso": "2026-07-05T15:30:00-04:00",
       "game_pk": "822879",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824333": {
       "away_team": "San Francisco Giants",
