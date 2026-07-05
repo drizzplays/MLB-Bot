@@ -38,120 +38,6 @@
       "game_pk": "824902",
       "status_code": "P"
     },
-    "822715": {
-      "away_team": "Pittsburgh Pirates",
-      "home_team": "Washington Nationals",
-      "away_pitcher": "Bubba Chandler",
-      "home_pitcher": "Cade Cavalli",
-      "away_pitcher_id": "696149",
-      "home_pitcher_id": "676917",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 8,
-        "era": "4.62",
-        "whip": "1.39",
-        "strikeouts": 79,
-        "innings_pitched": "85.2",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "3.69",
-        "whip": "1.33",
-        "strikeouts": 102,
-        "innings_pitched": "90.1",
-        "games_started": 18
-      },
-      "game_time": "Jul 5, 1:00 PM ET",
-      "game_iso": "2026-07-05T13:00:00-04:00",
-      "game_pk": "822715",
-      "status_code": "P"
-    },
-    "824497": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "Cincinnati Reds",
-      "away_pitcher": "Kyle Bradish",
-      "home_pitcher": "Nick Lodolo",
-      "away_pitcher_id": "680694",
-      "home_pitcher_id": "666157",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 8,
-        "era": "3.77",
-        "whip": "1.45",
-        "strikeouts": 96,
-        "innings_pitched": "93.0",
-        "games_started": 17
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 2,
-        "era": "5.05",
-        "whip": "1.47",
-        "strikeouts": 42,
-        "innings_pitched": "51.2",
-        "games_started": 10
-      },
-      "game_time": "Jul 5, 1:05 PM ET",
-      "game_iso": "2026-07-05T13:05:00-04:00",
-      "game_pk": "824497",
-      "status_code": "P"
-    },
-    "823525": {
-      "away_team": "Minnesota Twins",
-      "home_team": "New York Yankees",
-      "away_pitcher": "Joe Ryan",
-      "home_pitcher": "Ryan Weathers",
-      "away_pitcher_id": "657746",
-      "home_pitcher_id": "677960",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 5,
-        "era": "3.61",
-        "whip": "1.08",
-        "strikeouts": 113,
-        "innings_pitched": "97.1",
-        "games_started": 18
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 6,
-        "era": "4.08",
-        "whip": "1.21",
-        "strikeouts": 98,
-        "innings_pitched": "88.1",
-        "games_started": 16
-      },
-      "game_time": "Jul 5, 1:35 PM ET",
-      "game_iso": "2026-07-05T13:35:00-04:00",
-      "game_pk": "823525",
-      "status_code": "P"
-    },
     "824413": {
       "away_team": "Chicago White Sox",
       "home_team": "Cleveland Guardians",
@@ -269,17 +155,26 @@
     "824172": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Houston Astros",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Mason Englert",
       "home_pitcher": "Peter Lambert",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "669438",
       "home_pitcher_id": "663567",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 0,
+        "losses": 1,
+        "era": "3.96",
+        "whip": "1.44",
+        "strikeouts": 19,
+        "innings_pitched": "25.0",
+        "games_started": 1
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 6,
@@ -293,7 +188,7 @@
       "game_time": "Jul 5, 3:30 PM ET",
       "game_iso": "2026-07-05T15:30:00-04:00",
       "game_pk": "824172",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822879": {
       "away_team": "Detroit Tigers",
@@ -369,7 +264,7 @@
       "game_time": "Jul 5, 4:00 PM ET",
       "game_iso": "2026-07-05T16:00:00-04:00",
       "game_pk": "824333",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825061": {
       "away_team": "Milwaukee Brewers",
@@ -407,7 +302,7 @@
       "game_time": "Jul 5, 4:00 PM ET",
       "game_iso": "2026-07-05T16:00:00-04:00",
       "game_pk": "825061",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824980": {
       "away_team": "Miami Marlins",
@@ -445,7 +340,7 @@
       "game_time": "Jul 5, 4:30 PM ET",
       "game_iso": "2026-07-05T16:30:00-04:00",
       "game_pk": "824980",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823117": {
       "away_team": "Toronto Blue Jays",
@@ -483,7 +378,7 @@
       "game_time": "Jul 5, 5:00 PM ET",
       "game_iso": "2026-07-05T17:00:00-04:00",
       "game_pk": "823117",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823931": {
       "away_team": "San Diego Padres",
