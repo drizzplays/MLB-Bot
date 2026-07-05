@@ -7,7 +7,7 @@
         "Francisco Lindor",
         "Juan Soto",
         "Bo Bichette",
-        "Mark Vientos",
+        "Jared Young",
         "Carson Benge",
         "Tyrone Taylor",
         "A.J. Ewing",
@@ -22,8 +22,8 @@
         "Mauricio Dub\u00f3n",
         "Dominic Smith",
         "Austin Riley",
-        "Mike Yastrzemski",
-        "Jim Jarvis"
+        "Eli White",
+        "Jorge Mateo"
       ],
       "away_roster": [
         "Luis Torrens",
@@ -92,7 +92,7 @@
         "Konnor Griffin",
         "Brandon Lowe",
         "Bryan Reynolds",
-        "Esmerlyn Valdez",
+        "Billy Cook",
         "Ryan O'Hearn",
         "Nick Gonzales",
         "Henry Davis",
@@ -107,7 +107,7 @@
         "Daylen Lile",
         "Dylan Crews",
         "Jos\u00e9 Tena",
-        "Jorbit Vivas",
+        "Andr\u00e9s Chaparro",
         "Drew Millas"
       ],
       "away_roster": [
@@ -437,7 +437,7 @@
         "Masyn Winn",
         "Nathan Church",
         "Jos\u00e9 Ferm\u00edn",
-        "Bryan Torres"
+        "Nelson Vel\u00e1zquez"
       ],
       "home_lineup": [
         "Pete Crow-Armstrong",
@@ -448,7 +448,7 @@
         "Nico Hoerner",
         "Ian Happ",
         "Dansby Swanson",
-        "Kevin Alc\u00e1ntara"
+        "Pedro Ram\u00edrez"
       ],
       "away_roster": [
         "Michael McGreevy",
@@ -475,8 +475,8 @@
         "Dustin May",
         "Masyn Winn",
         "Iv\u00e1n Herrera",
-        "Jimmy Crooks",
-        "Nelson Vel\u00e1zquez"
+        "Nelson Vel\u00e1zquez",
+        "Jimmy Crooks"
       ],
       "home_roster": [
         "Michael Conforto",
@@ -529,7 +529,7 @@
         "Bobby Witt Jr.",
         "Jac Caglianone",
         "Lane Thomas",
-        "Michael Massey",
+        "Nick Loftin",
         "Salvador Perez",
         "Josh Rojas",
         "Kameron Misner",
@@ -602,7 +602,7 @@
         "Yandy D\u00edaz",
         "Jonathan Aranda",
         "Junior Caminero",
-        "Cedric Mullins",
+        "Ryan Vilade",
         "Chandler Simpson",
         "Ben Williamson",
         "Victor Mesa Jr.",
@@ -624,8 +624,8 @@
         "Taylor Walls",
         "Shane McClanahan",
         "Richie Palacios",
-        "Mason Englert",
         "Ryan Vilade",
+        "Mason Englert",
         "Casey Legumina",
         "Chandler Simpson",
         "Nick Martinez",
@@ -689,7 +689,7 @@
         "Kerry Carpenter",
         "Riley Greene",
         "Spencer Torkelson",
-        "Colt Keith",
+        "Hao-Yu Lee",
         "Zach McKinstry",
         "Jake Rogers",
         "James Outman"
@@ -1124,10 +1124,10 @@
         "Andy Pages",
         "Freddie Freeman",
         "Mookie Betts",
-        "Tommy Edman",
         "Teoscar Hern\u00e1ndez",
-        "Miguel Rojas",
         "Alex Call",
+        "Miguel Rojas",
+        "Alex Freeland",
         "Eliezer Alfonzo"
       ],
       "away_roster": [
@@ -1194,7 +1194,17 @@
       "away_team": "Boston Red Sox",
       "home_team": "Los Angeles Angels",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Zach Neto",
+        "Denzer Guzman",
+        "Vaughn Grissom",
+        "Jorge Soler",
+        "Oswald Peraza",
+        "Jo Adell",
+        "Jose Siri",
+        "Logan O'Hoppe",
+        "Josh Lowe"
+      ],
       "away_roster": [
         "Jake Bennett",
         "Willson Contreras",
@@ -1234,7 +1244,6 @@
         "Jos\u00e9 Soriano",
         "Mitch Farris",
         "Jos\u00e9 Fermin",
-        "Sam Aldegheri",
         "Jo Adell",
         "Denzer Guzman",
         "Vaughn Grissom",
@@ -1244,6 +1253,7 @@
         "Wade Meckler",
         "Josh Lowe",
         "Tyler Heineman",
+        "Tayler Saucedo",
         "Walbert Ure\u00f1a",
         "Logan O'Hoppe",
         "Kirby Yates",
