@@ -358,7 +358,7 @@
         "Travis Bazzana",
         "Kahlil Watson",
         "Chase DeLauter",
-        "Kyle Manzardo",
+        "Rhys Hoskins",
         "Gabriel Arias",
         "Cooper Ingle",
         "Daniel Schneemann",
@@ -773,7 +773,7 @@
         "Casey Schmitt",
         "Heliot Ramos",
         "Rafael Devers",
-        "Jung Hoo Lee",
+        "Jonah Cox",
         "Willy Adames",
         "Bryce Eldridge",
         "Drew Gilbert",
@@ -784,7 +784,7 @@
         "Cole Carrigg",
         "Hunter Goodman",
         "TJ Rumfield",
-        "Troy Johnston",
+        "Tyler Freeman",
         "Kyle Karros",
         "Edouard Julien",
         "Brett Sullivan",
@@ -792,8 +792,8 @@
       ],
       "away_roster": [
         "Casey Schmitt",
-        "JT Brubaker",
         "Jonah Cox",
+        "JT Brubaker",
         "Trevor McDonald",
         "Heliot Ramos",
         "Dylan Smith",
@@ -947,7 +947,7 @@
         "Esteury Ruiz",
         "Leo Jim\u00e9nez",
         "Griffin Conine",
-        "Brian Navarreto"
+        "Joe Mack"
       ],
       "home_lineup": [
         "Henry Bolte",
@@ -1030,9 +1030,9 @@
         "Alejandro Kirk",
         "Daulton Varsho",
         "Ernie Clement",
-        "Sean Keys",
+        "Brandon Valenzuela",
         "Luis Ur\u00edas",
-        "Yohendrick Pi\u00f1ango"
+        "Myles Straw"
       ],
       "home_lineup": [
         "J.P. Crawford",
@@ -1193,7 +1193,17 @@
     "Boston Red Sox @ Los Angeles Angels | 824010": {
       "away_team": "Boston Red Sox",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Anthony Seigler",
+        "Ceddanne Rafaela",
+        "Wilyer Abreu",
+        "Willson Contreras",
+        "Masataka Yoshida",
+        "Caleb Durbin",
+        "Jarren Duran",
+        "Carlos Narv\u00e1ez",
+        "Tsung-Che Cheng"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Denzer Guzman",
