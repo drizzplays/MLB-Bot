@@ -74,7 +74,7 @@
       "game_time": "Jul 5, 1:00 PM ET",
       "game_iso": "2026-07-05T13:00:00-04:00",
       "game_pk": "822715",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824497": {
       "away_team": "Baltimore Orioles",
@@ -112,7 +112,7 @@
       "game_time": "Jul 5, 1:05 PM ET",
       "game_iso": "2026-07-05T13:05:00-04:00",
       "game_pk": "824497",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823525": {
       "away_team": "Minnesota Twins",
@@ -150,7 +150,7 @@
       "game_time": "Jul 5, 1:35 PM ET",
       "game_iso": "2026-07-05T13:35:00-04:00",
       "game_pk": "823525",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824413": {
       "away_team": "Chicago White Sox",
@@ -188,7 +188,7 @@
       "game_time": "Jul 5, 2:00 PM ET",
       "game_iso": "2026-07-05T14:00:00-04:00",
       "game_pk": "824413",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824656": {
       "away_team": "St. Louis Cardinals",
@@ -264,7 +264,7 @@
       "game_time": "Jul 5, 3:00 PM ET",
       "game_iso": "2026-07-05T15:00:00-04:00",
       "game_pk": "824091",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824172": {
       "away_team": "Tampa Bay Rays",
