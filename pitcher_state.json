@@ -1,43 +1,5 @@
 {
   "2026-07-05": {
-    "823117": {
-      "away_team": "Toronto Blue Jays",
-      "home_team": "Seattle Mariners",
-      "away_pitcher": "Trey Yesavage",
-      "home_pitcher": "Emerson Hancock",
-      "away_pitcher_id": "702056",
-      "home_pitcher_id": "676106",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 3,
-        "era": "3.34",
-        "whip": "1.10",
-        "strikeouts": 61,
-        "innings_pitched": "67.1",
-        "games_started": 12
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "3.47",
-        "whip": "1.05",
-        "strikeouts": 87,
-        "innings_pitched": "90.2",
-        "games_started": 16
-      },
-      "game_time": "Jul 5, 5:00 PM ET",
-      "game_iso": "2026-07-05T17:00:00-04:00",
-      "game_pk": "823117",
-      "status_code": "P"
-    },
     "823931": {
       "away_team": "San Diego Padres",
       "home_team": "Los Angeles Dodgers",
@@ -112,7 +74,7 @@
       "game_time": "Jul 5, 9:30 PM ET",
       "game_iso": "2026-07-05T21:30:00-04:00",
       "game_pk": "824010",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
