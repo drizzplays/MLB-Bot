@@ -2,22 +2,40 @@
   "date": "2026-07-05",
   "games": {
     "822715": {
-      "active_pitcher_id": 696149,
-      "active_pitcher_name": "Bubba Chandler",
+      "active_pitcher_id": 676571,
+      "active_pitcher_name": "PJ Poulin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T13:42:19.237981-04:00"
+      "last_checked_at": "2026-07-05T14:48:20.873148-04:00"
     },
     "823525": {
-      "active_pitcher_id": 677960,
-      "active_pitcher_name": "Ryan Weathers",
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T13:42:22.701636-04:00"
+      "last_checked_at": "2026-07-05T14:48:25.809317-04:00"
+    },
+    "824091": {
+      "active_pitcher_id": 679883,
+      "active_pitcher_name": "Luinder Avila",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T14:48:30.662052-04:00"
     },
     "824497": {
-      "active_pitcher_id": 666157,
-      "active_pitcher_name": "Nick Lodolo",
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T13:42:20.970316-04:00"
+      "last_checked_at": "2026-07-05T14:48:23.409353-04:00"
+    },
+    "824656": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T14:48:28.288463-04:00"
+    },
+    "824902": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T14:48:18.352267-04:00"
     }
   }
 }
