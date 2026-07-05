@@ -8,10 +8,16 @@
       "last_checked_at": "2026-07-05T16:02:14.227220-04:00"
     },
     "822879": {
-      "active_pitcher_id": 677958,
-      "active_pitcher_name": "Kumar Rocker",
+      "active_pitcher_id": 663554,
+      "active_pitcher_name": "Casey Mize",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T16:02:23.392407-04:00"
+      "last_checked_at": "2026-07-05T17:16:39.136635-04:00"
+    },
+    "823117": {
+      "active_pitcher_id": 702056,
+      "active_pitcher_name": "Trey Yesavage",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T17:16:43.541680-04:00"
     },
     "823525": {
       "active_pitcher_id": 657746,
@@ -20,16 +26,16 @@
       "last_checked_at": "2026-07-05T14:48:25.809317-04:00"
     },
     "824091": {
-      "active_pitcher_id": 679883,
-      "active_pitcher_name": "Luinder Avila",
+      "active_pitcher_id": 686751,
+      "active_pitcher_name": "Seth Johnson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T14:48:30.662052-04:00"
+      "last_checked_at": "2026-07-05T17:16:34.566885-04:00"
     },
     "824172": {
-      "active_pitcher_id": 663567,
-      "active_pitcher_name": "Peter Lambert",
+      "active_pitcher_id": 595345,
+      "active_pitcher_name": "Steven Okert",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T16:02:21.443405-04:00"
+      "last_checked_at": "2026-07-05T17:16:36.993607-04:00"
     },
     "824333": {
       "active_pitcher_id": 685299,
@@ -38,10 +44,10 @@
       "last_checked_at": "2026-07-05T16:02:25.333293-04:00"
     },
     "824413": {
-      "active_pitcher_id": 607200,
-      "active_pitcher_name": "Erick Fedde",
+      "active_pitcher_id": 670059,
+      "active_pitcher_name": "Colin Holderman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T16:02:16.723654-04:00"
+      "last_checked_at": "2026-07-05T17:16:29.882616-04:00"
     },
     "824497": {
       "active_pitcher_id": 680694,
@@ -50,16 +56,22 @@
       "last_checked_at": "2026-07-05T14:48:23.409353-04:00"
     },
     "824656": {
-      "active_pitcher_id": 669020,
-      "active_pitcher_name": "Ryan Rolison",
+      "active_pitcher_id": 657097,
+      "active_pitcher_name": "Jacob Webb",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T16:02:18.972087-04:00"
+      "last_checked_at": "2026-07-05T17:16:32.050643-04:00"
     },
     "824902": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 642207,
+      "active_pitcher_name": "Devin Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T16:02:12.263847-04:00"
+      "last_checked_at": "2026-07-05T17:16:27.216729-04:00"
+    },
+    "824980": {
+      "active_pitcher_id": 691587,
+      "active_pitcher_name": "Eury P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T17:16:41.407654-04:00"
     },
     "825061": {
       "active_pitcher_id": 593958,
