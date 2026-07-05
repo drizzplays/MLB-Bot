@@ -2,10 +2,16 @@
   "date": "2026-07-05",
   "games": {
     "822715": {
-      "active_pitcher_id": 676571,
-      "active_pitcher_name": "PJ Poulin",
+      "active_pitcher_id": 664875,
+      "active_pitcher_name": "Justin Lawrence",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T14:48:20.873148-04:00"
+      "last_checked_at": "2026-07-05T16:02:14.227220-04:00"
+    },
+    "822879": {
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T16:02:23.392407-04:00"
     },
     "823525": {
       "active_pitcher_id": 657746,
@@ -19,6 +25,24 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-05T14:48:30.662052-04:00"
     },
+    "824172": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T16:02:21.443405-04:00"
+    },
+    "824333": {
+      "active_pitcher_id": 685299,
+      "active_pitcher_name": "Tanner Gordon",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T16:02:25.333293-04:00"
+    },
+    "824413": {
+      "active_pitcher_id": 607200,
+      "active_pitcher_name": "Erick Fedde",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T16:02:16.723654-04:00"
+    },
     "824497": {
       "active_pitcher_id": 680694,
       "active_pitcher_name": "Kyle Bradish",
@@ -26,16 +50,22 @@
       "last_checked_at": "2026-07-05T14:48:23.409353-04:00"
     },
     "824656": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 669020,
+      "active_pitcher_name": "Ryan Rolison",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T14:48:28.288463-04:00"
+      "last_checked_at": "2026-07-05T16:02:18.972087-04:00"
     },
     "824902": {
-      "active_pitcher_id": 527048,
-      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-05T14:48:18.352267-04:00"
+      "last_checked_at": "2026-07-05T16:02:12.263847-04:00"
+    },
+    "825061": {
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-05T16:02:27.194914-04:00"
     }
   }
 }
