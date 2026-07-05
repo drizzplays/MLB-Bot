@@ -25,23 +25,49 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-04T16:39:29.367246-04:00"
     },
-    "824171": {
-      "active_pitcher_id": 686613,
-      "active_pitcher_name": "Hunter Brown",
+    "824092": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T19:39:29.405026-04:00"
+      "last_checked_at": "2026-07-04T21:23:06.150201-04:00"
+    },
+    "824171": {
+      "active_pitcher_id": 642121,
+      "active_pitcher_name": "Cole Sulser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T21:22:52.634457-04:00"
+    },
+    "824334": {
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
+      "alerted_pairs": [
+        "592662:691720"
+      ],
+      "last_checked_at": "2026-07-04T21:23:01.235531-04:00"
     },
     "824415": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 682120,
+      "active_pitcher_name": "Tim Herrin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T19:39:31.110745-04:00"
+      "last_checked_at": "2026-07-04T21:22:55.032641-04:00"
     },
     "824499": {
-      "active_pitcher_id": 668881,
-      "active_pitcher_name": "Hunter Greene",
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-04T19:39:27.662243-04:00"
+      "last_checked_at": "2026-07-04T21:22:50.337916-04:00"
+    },
+    "824658": {
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T21:22:57.438858-04:00"
+    },
+    "824903": {
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-04T21:22:59.349674-04:00"
     }
   }
 }
