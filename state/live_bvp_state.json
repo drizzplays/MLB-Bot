@@ -1,4 +1,11 @@
 {
   "date": "2026-07-06",
-  "games": {}
+  "games": {
+    "824089": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-06T14:28:52.387394-04:00"
+    }
+  }
 }
