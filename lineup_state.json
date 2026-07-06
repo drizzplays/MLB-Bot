@@ -89,7 +89,17 @@
       "away_team": "New York Yankees",
       "home_team": "Tampa Bay Rays",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Cedric Mullins",
+        "Jonny DeLuca",
+        "Chandler Simpson",
+        "Nick Fortes",
+        "Richie Palacios",
+        "Taylor Walls"
+      ],
       "away_roster": [
         "Paul Blackburn",
         "Ali S\u00e1nchez",
@@ -154,7 +164,17 @@
       "away_team": "Houston Astros",
       "home_team": "Washington Nationals",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "James Wood",
+        "Luis Garc\u00eda Jr.",
+        "Curtis Mead",
+        "CJ Abrams",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Jacob Young",
+        "Drew Millas",
+        "Nasim Nu\u00f1ez"
+      ],
       "away_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
@@ -195,6 +215,7 @@
         "Dylan Crews",
         "PJ Poulin",
         "Clayton Beeter",
+        "Cole Henry",
         "Brad Lord",
         "Curtis Mead",
         "Daylen Lile",
@@ -207,7 +228,6 @@
         "Zack Littell",
         "Keibert Ruiz",
         "Foster Griffin",
-        "Eddy Yean",
         "Luis Garc\u00eda Jr.",
         "Andrew Alvarez"
       ],
