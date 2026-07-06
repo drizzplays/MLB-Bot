@@ -188,7 +188,7 @@
       "game_time": "Jul 6, 9:40 PM ET",
       "game_iso": "2026-07-06T21:40:00-04:00",
       "game_pk": "823282",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823205": {
       "away_team": "Toronto Blue Jays",
@@ -226,7 +226,7 @@
       "game_time": "Jul 6, 9:45 PM ET",
       "game_iso": "2026-07-06T21:45:00-04:00",
       "game_pk": "823205",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823930": {
       "away_team": "Colorado Rockies",
