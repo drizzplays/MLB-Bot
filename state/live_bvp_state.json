@@ -1,11 +1,31 @@
 {
   "date": "2026-07-06",
   "games": {
+    "822712": {
+      "active_pitcher_id": 681347,
+      "active_pitcher_name": "Mike Burrows",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-06T19:03:22.586066-04:00"
+    },
+    "822958": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [
+        "693645:670764"
+      ],
+      "last_checked_at": "2026-07-06T19:03:18.408479-04:00"
+    },
     "824089": {
       "active_pitcher_id": 679775,
       "active_pitcher_name": "Kyle Backhus",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-06T16:25:27.172530-04:00"
+    },
+    "824900": {
+      "active_pitcher_id": 625643,
+      "active_pitcher_name": "Reynaldo L\u00f3pez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-06T19:03:24.631622-04:00"
     }
   }
 }
