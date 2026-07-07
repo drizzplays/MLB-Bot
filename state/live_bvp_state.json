@@ -2,18 +2,24 @@
   "date": "2026-07-06",
   "games": {
     "822712": {
-      "active_pitcher_id": 681347,
-      "active_pitcher_name": "Mike Burrows",
+      "active_pitcher_id": 805123,
+      "active_pitcher_name": "AJ Blubaugh",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-06T19:03:22.586066-04:00"
+      "last_checked_at": "2026-07-06T20:18:02.500694-04:00"
     },
     "822958": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
       "alerted_pairs": [
         "693645:670764"
       ],
-      "last_checked_at": "2026-07-06T19:03:18.408479-04:00"
+      "last_checked_at": "2026-07-06T20:18:00.174560-04:00"
+    },
+    "823036": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-06T20:18:05.021491-04:00"
     },
     "824089": {
       "active_pitcher_id": 679775,
