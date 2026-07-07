@@ -264,7 +264,7 @@
         "Francisco Lindor",
         "Carson Benge",
         "Jared Young",
-        "Francisco Alvarez",
+        "Luis Torrens",
         "Brett Baty",
         "Ronny Mauricio"
       ],
@@ -272,11 +272,11 @@
         "Michael Harris II",
         "Ozzie Albies",
         "Matt Olson",
-        "Drake Baldwin",
+        "Jorge Mateo",
         "Mauricio Dub\u00f3n",
-        "Dominic Smith",
-        "Austin Riley",
-        "Mike Yastrzemski",
+        "Joey Bart",
+        "Owen Murphy",
+        "Jos\u00e9 Az\u00f3car",
         "Jim Jarvis"
       ],
       "away_roster": [
@@ -351,18 +351,18 @@
         "Garrett Mitchell",
         "Sal Frelick",
         "Cooper Pratt",
-        "David Hamilton"
+        "Joey Ortiz"
       ],
       "home_lineup": [
         "JJ Wetherholt",
         "Iv\u00e1n Herrera",
         "Jordan Walker",
-        "Nelson Vel\u00e1zquez",
+        "Lars Nootbaar",
         "Jos\u00e9 Ferm\u00edn",
         "Masyn Winn",
         "Nathan Church",
-        "Blaze Jordan",
-        "Pedro Pag\u00e9s"
+        "Alec Burleson",
+        "Bryan Torres"
       ],
       "away_roster": [
         "Chad Patrick",
@@ -552,9 +552,9 @@
         "Trey Yesavage",
         "Nathan Lukes",
         "Yohendrick Pi\u00f1ango",
+        "George Springer",
         "Mason Fluharty",
         "Sean Keys",
-        "Braydon Fisher",
         "Tyler Rogers",
         "Vladimir Guerrero Jr.",
         "Patrick Corbin",
@@ -771,7 +771,7 @@
         "Brandon Sproat",
         "Blake Perkins",
         "William Contreras",
-        "Robert Gasser",
+        "Garrett Stallings",
         "Brice Turang",
         "Brandon Woodruff",
         "Gary S\u00e1nchez",
@@ -788,7 +788,7 @@
         "Kyle Leahy",
         "Lars Nootbaar",
         "Jos\u00e9 Ferm\u00edn",
-        "Gordon Graceffo",
+        "Ryan Fernandez",
         "JoJo Romero",
         "JJ Wetherholt",
         "Justin Bruihl",
@@ -1106,6 +1106,7 @@
       ],
       "home_roster": [
         "Taylor Walls",
+        "Chris Roycroft",
         "Shane McClanahan",
         "Richie Palacios",
         "Ryan Vilade",
@@ -1119,7 +1120,6 @@
         "Garrett Cleavinger",
         "Hunter Feduccia",
         "Kevin Kelly",
-        "Trevor Martin",
         "Jonathan Aranda",
         "Nick Fortes",
         "Griffin Jax",
@@ -1531,9 +1531,9 @@
       "home_lineup": [],
       "away_roster": [
         "Eduardo Rodriguez",
-        "LuJames Groover",
         "Juan Morillo",
         "Brandon Pfaadt",
+        "Tim Tawa",
         "Adrian Del Castillo",
         "Nolan Arenado",
         "Tommy Troy",
