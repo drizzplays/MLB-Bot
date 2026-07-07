@@ -1,4 +1,11 @@
 {
   "date": "2026-07-07",
-  "games": {}
+  "games": {
+    "823062": {
+      "active_pitcher_id": 694335,
+      "active_pitcher_name": "Matt Svanson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T14:02:25.265489-04:00"
+    }
+  }
 }
