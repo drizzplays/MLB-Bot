@@ -1,11 +1,41 @@
 {
   "date": "2026-07-07",
   "games": {
+    "822713": {
+      "active_pitcher_id": 674841,
+      "active_pitcher_name": "Andrew Alvarez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T18:42:10.513737-04:00"
+    },
+    "822956": {
+      "active_pitcher_id": 693855,
+      "active_pitcher_name": "Ian Seymour",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T18:42:08.783617-04:00"
+    },
     "823062": {
       "active_pitcher_id": 694819,
       "active_pitcher_name": "Jacob Misiorowski",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-07T16:09:16.265466-04:00"
+    },
+    "823361": {
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T18:42:05.332894-04:00"
+    },
+    "823847": {
+      "active_pitcher_id": 676974,
+      "active_pitcher_name": "Max Meyer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T18:42:07.062220-04:00"
+    },
+    "824254": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T18:42:03.576229-04:00"
     }
   }
 }
