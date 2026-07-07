@@ -2,16 +2,22 @@
   "date": "2026-07-07",
   "games": {
     "822713": {
-      "active_pitcher_id": 674841,
-      "active_pitcher_name": "Andrew Alvarez",
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T18:42:10.513737-04:00"
+      "last_checked_at": "2026-07-07T19:39:46.967886-04:00"
     },
     "822956": {
-      "active_pitcher_id": 693855,
-      "active_pitcher_name": "Ian Seymour",
+      "active_pitcher_id": 701542,
+      "active_pitcher_name": "Will Warren",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T18:42:08.783617-04:00"
+      "last_checked_at": "2026-07-07T19:39:44.701249-04:00"
+    },
+    "823035": {
+      "active_pitcher_id": 690928,
+      "active_pitcher_name": "Hunter Dobbins",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T19:39:37.482934-04:00"
     },
     "823062": {
       "active_pitcher_id": 694819,
@@ -20,10 +26,22 @@
       "last_checked_at": "2026-07-07T16:09:16.265466-04:00"
     },
     "823361": {
-      "active_pitcher_id": 694973,
-      "active_pitcher_name": "Paul Skenes",
+      "active_pitcher_id": 694462,
+      "active_pitcher_name": "Hurston Waldrep",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T18:42:05.332894-04:00"
+      "last_checked_at": "2026-07-07T19:39:42.279693-04:00"
+    },
+    "823607": {
+      "active_pitcher_id": 673540,
+      "active_pitcher_name": "Kodai Senga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T19:39:49.261457-04:00"
+    },
+    "823687": {
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T19:39:54.290032-04:00"
     },
     "823847": {
       "active_pitcher_id": 676974,
@@ -36,6 +54,24 @@
       "active_pitcher_name": "Tarik Skubal",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-07T18:42:03.576229-04:00"
+    },
+    "824495": {
+      "active_pitcher_id": 554430,
+      "active_pitcher_name": "Zack Wheeler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T19:39:52.007763-04:00"
+    },
+    "824579": {
+      "active_pitcher_id": 702273,
+      "active_pitcher_name": "Noah Schultz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T19:39:56.159007-04:00"
+    },
+    "824820": {
+      "active_pitcher_id": 571510,
+      "active_pitcher_name": "Matthew Boyd",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-07T19:39:39.707422-04:00"
     }
   }
 }
