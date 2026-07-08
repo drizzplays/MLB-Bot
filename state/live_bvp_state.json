@@ -1,11 +1,43 @@
 {
   "date": "2026-07-08",
   "games": {
+    "822957": {
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T18:28:18.252195-04:00"
+    },
     "823202": {
       "active_pitcher_id": 657277,
       "active_pitcher_name": "Logan Webb",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-08T16:01:14.141681-04:00"
+    },
+    "823360": {
+      "active_pitcher_id": 683003,
+      "active_pitcher_name": "Jared Jones",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T18:28:13.972488-04:00"
+    },
+    "823848": {
+      "active_pitcher_id": 663969,
+      "active_pitcher_name": "Tyler Phillips",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T18:28:16.053093-04:00"
+    },
+    "824253": {
+      "active_pitcher_id": 675512,
+      "active_pitcher_name": "Troy Melton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T18:28:11.856403-04:00"
+    },
+    "824815": {
+      "active_pitcher_id": 665152,
+      "active_pitcher_name": "Dean Kremer",
+      "alerted_pairs": [
+        "665152:624424"
+      ],
+      "last_checked_at": "2026-07-08T18:28:05.326211-04:00"
     }
   }
 }
