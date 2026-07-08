@@ -1,11 +1,23 @@
 {
   "date": "2026-07-08",
   "games": {
-    "822957": {
-      "active_pitcher_id": 663556,
-      "active_pitcher_name": "Shane McClanahan",
+    "822710": {
+      "active_pitcher_id": 681293,
+      "active_pitcher_name": "Spencer Arrighetti",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T18:28:18.252195-04:00"
+      "last_checked_at": "2026-07-08T19:36:17.604300-04:00"
+    },
+    "822957": {
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T19:36:14.567479-04:00"
+    },
+    "823032": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T19:36:32.308636-04:00"
     },
     "823202": {
       "active_pitcher_id": 657277,
@@ -19,6 +31,18 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-08T18:28:13.972488-04:00"
     },
+    "823605": {
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T19:36:20.468648-04:00"
+    },
+    "823684": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T19:36:26.390380-04:00"
+    },
     "823848": {
       "active_pitcher_id": 663969,
       "active_pitcher_name": "Tyler Phillips",
@@ -26,10 +50,22 @@
       "last_checked_at": "2026-07-08T18:28:16.053093-04:00"
     },
     "824253": {
-      "active_pitcher_id": 675512,
-      "active_pitcher_name": "Troy Melton",
+      "active_pitcher_id": 605488,
+      "active_pitcher_name": "Jeffrey Springs",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T18:28:11.856403-04:00"
+      "last_checked_at": "2026-07-08T19:36:11.320308-04:00"
+    },
+    "824496": {
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T19:36:23.437654-04:00"
+    },
+    "824578": {
+      "active_pitcher_id": 663436,
+      "active_pitcher_name": "Davis Martin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T19:36:29.360728-04:00"
     },
     "824815": {
       "active_pitcher_id": 665152,
