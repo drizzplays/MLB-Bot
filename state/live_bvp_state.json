@@ -1,4 +1,11 @@
 {
   "date": "2026-07-08",
-  "games": {}
+  "games": {
+    "823202": {
+      "active_pitcher_id": 657277,
+      "active_pitcher_name": "Logan Webb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T16:01:14.141681-04:00"
+    }
+  }
 }
