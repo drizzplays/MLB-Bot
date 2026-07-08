@@ -23,7 +23,7 @@
         "Willy Adames",
         "Bryce Eldridge",
         "Drew Gilbert",
-        "Eric Haase"
+        "Drew Cavanaugh"
       ],
       "away_roster": [
         "Shane Bieber",
@@ -1105,8 +1105,28 @@
     "Colorado Rockies @ Los Angeles Dodgers | 823928": {
       "away_team": "Colorado Rockies",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Jake McCarthy",
+        "Mickey Moniak",
+        "Cole Carrigg",
+        "TJ Rumfield",
+        "Kyle Karros",
+        "Troy Johnston",
+        "Edouard Julien",
+        "Ezequiel Tovar",
+        "Brett Sullivan"
+      ],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Tommy Edman",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Max Muncy",
+        "Teoscar Hern\u00e1ndez",
+        "Kyle Tucker",
+        "Alex Call",
+        "Eliezer Alfonzo"
+      ],
       "away_roster": [
         "Ryan Feltner",
         "Mickey Moniak",
@@ -1125,11 +1145,11 @@
         "Edouard Julien",
         "Hunter Goodman",
         "Gabriel Hughes",
+        "Brett Sullivan",
         "Zach Agnos",
         "Tanner Gordon",
-        "Brett Sullivan",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Jordan Romano",
         "Antonio Senzatela",
@@ -1181,7 +1201,17 @@
         "Pavin Smith",
         "Tommy Troy"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Fernando Tatis Jr.",
+        "Jackson Merrill",
+        "Xander Bogaerts",
+        "Gavin Sheets",
+        "Jake Cronenworth",
+        "Luis Campusano",
+        "Miguel Andujar",
+        "Jase Bowen",
+        "Sung-Mun Song"
+      ],
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
@@ -1229,8 +1259,8 @@
         "Adrian Morejon",
         "Manny Machado",
         "Miguel Andujar",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
@@ -1472,8 +1502,7 @@
         "Cooper Ingle"
       ],
       "home_roster": [
-        "Cody Laweryson",
-        "Marco Raya",
+        "Woo-Suk Go",
         "Taj Bradley",
         "Victor Caratini",
         "Kody Clemens",
@@ -1483,14 +1512,15 @@
         "Josh Bell",
         "Kyler Fedko",
         "Mike Paredes",
+        "Alan Roden",
         "Connor Prielipp",
         "Ryan Kreidler",
         "Taylor Rogers",
+        "Bailey Ober",
         "Kody Funderburk",
         "Travis Adams",
         "Royce Lewis",
         "Trevor Larnach",
-        "Byron Buxton",
         "Yoendrys G\u00f3mez",
         "Zebby Matthews",
         "Joe Ryan",
