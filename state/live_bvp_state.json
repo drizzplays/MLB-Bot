@@ -2,22 +2,30 @@
   "date": "2026-07-07",
   "games": {
     "822713": {
-      "active_pitcher_id": 837227,
-      "active_pitcher_name": "Tatsuya Imai",
+      "active_pitcher_id": 687911,
+      "active_pitcher_name": "Bryan King",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:46.967886-04:00"
+      "last_checked_at": "2026-07-07T21:09:38.967764-04:00"
+    },
+    "822881": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [
+        "667755:669394"
+      ],
+      "last_checked_at": "2026-07-07T21:09:50.399957-04:00"
     },
     "822956": {
-      "active_pitcher_id": 701542,
-      "active_pitcher_name": "Will Warren",
+      "active_pitcher_id": 687396,
+      "active_pitcher_name": "Brent Headrick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:44.701249-04:00"
+      "last_checked_at": "2026-07-07T21:09:37.050152-04:00"
     },
     "823035": {
-      "active_pitcher_id": 690928,
-      "active_pitcher_name": "Hunter Dobbins",
+      "active_pitcher_id": 694363,
+      "active_pitcher_name": "Jared Shuster",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:37.482934-04:00"
+      "last_checked_at": "2026-07-07T21:09:24.936409-04:00"
     },
     "823062": {
       "active_pitcher_id": 694819,
@@ -26,16 +34,18 @@
       "last_checked_at": "2026-07-07T16:09:16.265466-04:00"
     },
     "823361": {
-      "active_pitcher_id": 694462,
-      "active_pitcher_name": "Hurston Waldrep",
+      "active_pitcher_id": 622761,
+      "active_pitcher_name": "Jorge Mateo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:42.279693-04:00"
+      "last_checked_at": "2026-07-07T21:09:32.019930-04:00"
     },
     "823607": {
-      "active_pitcher_id": 673540,
-      "active_pitcher_name": "Kodai Senga",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:49.261457-04:00"
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [
+        "607625:805999"
+      ],
+      "last_checked_at": "2026-07-07T21:09:41.327213-04:00"
     },
     "823687": {
       "active_pitcher_id": 671737,
@@ -44,16 +54,16 @@
       "last_checked_at": "2026-07-07T19:39:54.290032-04:00"
     },
     "823847": {
-      "active_pitcher_id": 676974,
-      "active_pitcher_name": "Max Meyer",
+      "active_pitcher_id": 676534,
+      "active_pitcher_name": "Calvin Faucher",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T18:42:07.062220-04:00"
+      "last_checked_at": "2026-07-07T21:09:34.535419-04:00"
     },
     "824254": {
-      "active_pitcher_id": 669373,
-      "active_pitcher_name": "Tarik Skubal",
+      "active_pitcher_id": 665660,
+      "active_pitcher_name": "Elvis Alvarado",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T18:42:03.576229-04:00"
+      "last_checked_at": "2026-07-07T21:09:29.712870-04:00"
     },
     "824495": {
       "active_pitcher_id": 554430,
@@ -62,16 +72,16 @@
       "last_checked_at": "2026-07-07T19:39:52.007763-04:00"
     },
     "824579": {
-      "active_pitcher_id": 702273,
-      "active_pitcher_name": "Noah Schultz",
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:56.159007-04:00"
+      "last_checked_at": "2026-07-07T21:09:48.108870-04:00"
     },
     "824820": {
-      "active_pitcher_id": 571510,
-      "active_pitcher_name": "Matthew Boyd",
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-07T19:39:39.707422-04:00"
+      "last_checked_at": "2026-07-07T21:09:27.628797-04:00"
     }
   }
 }
