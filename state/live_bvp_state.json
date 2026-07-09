@@ -25,6 +25,26 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-09T14:29:50.679490-04:00"
     },
+    "823846": {
+      "active_pitcher_id": 676083,
+      "active_pitcher_name": "Janson Junk",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T19:07:51.320822-04:00"
+    },
+    "824251": {
+      "active_pitcher_id": 678022,
+      "active_pitcher_name": "Jack Perkins",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T19:07:49.370685-04:00"
+    },
+    "824494": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [
+        "663903:681082"
+      ],
+      "last_checked_at": "2026-07-09T19:07:53.043500-04:00"
+    },
     "824577": {
       "active_pitcher_id": 691799,
       "active_pitcher_name": "Grant Taylor",
