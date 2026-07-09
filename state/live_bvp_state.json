@@ -1,4 +1,11 @@
 {
   "date": "2026-07-09",
-  "games": {}
+  "games": {
+    "823359": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T12:44:18.869632-04:00"
+    }
+  }
 }
