@@ -3,9 +3,9 @@
     "824251": {
       "away_team": "Athletics",
       "home_team": "Detroit Tigers",
-      "away_pitcher": "Jack Perkins",
+      "away_pitcher": "Jos\u00e9 Suarez",
       "home_pitcher": "Framber Valdez",
-      "away_pitcher_id": "678022",
+      "away_pitcher_id": "660761",
       "home_pitcher_id": "664285",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -15,13 +15,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 2,
-        "losses": 4,
-        "era": "6.75",
-        "whip": "1.45",
-        "strikeouts": 70,
-        "innings_pitched": "54.2",
-        "games_started": 6
+        "wins": 1,
+        "losses": 2,
+        "era": "4.56",
+        "whip": "1.56",
+        "strikeouts": 52,
+        "innings_pitched": "47.1",
+        "games_started": 1
       },
       "home_pitcher_stats": {
         "season": "2026",
@@ -36,7 +36,7 @@
       "game_time": "Jul 9, 6:40 PM ET",
       "game_iso": "2026-07-09T18:40:00-04:00",
       "game_pk": "824251",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823846": {
       "away_team": "Seattle Mariners",
@@ -74,7 +74,7 @@
       "game_time": "Jul 9, 6:40 PM ET",
       "game_iso": "2026-07-09T18:40:00-04:00",
       "game_pk": "823846",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824494": {
       "away_team": "Philadelphia Phillies",
@@ -112,7 +112,7 @@
       "game_time": "Jul 9, 7:10 PM ET",
       "game_iso": "2026-07-09T19:10:00-04:00",
       "game_pk": "824494",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823034": {
       "away_team": "Milwaukee Brewers",
@@ -150,7 +150,7 @@
       "game_time": "Jul 9, 7:45 PM ET",
       "game_iso": "2026-07-09T19:45:00-04:00",
       "game_pk": "823034",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822877": {
       "away_team": "Los Angeles Angels",
@@ -188,7 +188,7 @@
       "game_time": "Jul 9, 8:05 PM ET",
       "game_iso": "2026-07-09T20:05:00-04:00",
       "game_pk": "822877",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823277": {
       "away_team": "Arizona Diamondbacks",
@@ -232,13 +232,13 @@
       "away_team": "Colorado Rockies",
       "home_team": "San Francisco Giants",
       "away_pitcher": "Ryan Feltner",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Carson Whisenhunt",
       "away_pitcher_id": "663372",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "687931",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -251,7 +251,16 @@
         "innings_pitched": "59.0",
         "games_started": 12
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 1,
+        "losses": 0,
+        "era": "3.60",
+        "whip": "1.60",
+        "strikeouts": 2,
+        "innings_pitched": "5.0",
+        "games_started": 1
+      },
       "game_time": "Jul 9, 9:45 PM ET",
       "game_iso": "2026-07-09T21:45:00-04:00",
       "game_pk": "823201",
