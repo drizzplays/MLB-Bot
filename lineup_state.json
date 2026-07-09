@@ -937,7 +937,17 @@
     "Arizona Diamondbacks @ San Diego Padres | 823277": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ketel Marte",
+        "Geraldo Perdomo",
+        "Corbin Carroll",
+        "Gabriel Moreno",
+        "Max Kepler",
+        "Lourdes Gurriel Jr.",
+        "Nolan Arenado",
+        "Tommy Troy",
+        "Tim Tawa"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jackson Merrill",
@@ -952,13 +962,12 @@
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Tim Tawa",
+        "Brandon Pfaadt",
         "Nolan Arenado",
         "Tommy Troy",
         "Drey Jameson",
         "Merrill Kelly",
-        "Jose Cabrera",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
@@ -973,6 +982,7 @@
         "Ryan Thompson",
         "Max Kepler",
         "James McCann",
+        "Philip Abner",
         "Brandyn Garcia",
         "Pavin Smith",
         "Jorge Barrosa"
@@ -1572,6 +1582,7 @@
         "Caleb Durbin",
         "Ranger Suarez",
         "Carlos Narv\u00e1ez",
+        "Nate Eaton",
         "Jarren Duran",
         "Tsung-Che Cheng",
         "Payton Tolle",
@@ -1778,6 +1789,7 @@
         "Brent Suter"
       ],
       "home_roster": [
+        "Marco Raya",
         "Woo-Suk Go",
         "Taj Bradley",
         "Victor Caratini",
