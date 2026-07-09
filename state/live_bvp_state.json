@@ -1,11 +1,41 @@
 {
   "date": "2026-07-09",
   "games": {
-    "823359": {
-      "active_pitcher_id": 693821,
-      "active_pitcher_name": "Bryce Elder",
+    "822954": {
+      "active_pitcher_id": 592155,
+      "active_pitcher_name": "Cam Booser",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-09T12:44:18.869632-04:00"
+      "last_checked_at": "2026-07-09T14:29:46.387113-04:00"
+    },
+    "823359": {
+      "active_pitcher_id": 689266,
+      "active_pitcher_name": "Dylan Dodd",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T14:29:42.438976-04:00"
+    },
+    "823606": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T14:29:44.672698-04:00"
+    },
+    "823683": {
+      "active_pitcher_id": 641927,
+      "active_pitcher_name": "Bailey Ober",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T14:29:50.679490-04:00"
+    },
+    "824577": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T14:29:52.568448-04:00"
+    },
+    "824816": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T14:29:48.665605-04:00"
     }
   }
 }
