@@ -2,10 +2,16 @@
   "date": "2026-07-08",
   "games": {
     "822710": {
-      "active_pitcher_id": 681293,
-      "active_pitcher_name": "Spencer Arrighetti",
+      "active_pitcher_id": 687377,
+      "active_pitcher_name": "Orlando Ribalta",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T19:36:17.604300-04:00"
+      "last_checked_at": "2026-07-08T21:13:01.097747-04:00"
+    },
+    "822880": {
+      "active_pitcher_id": 669022,
+      "active_pitcher_name": "MacKenzie Gore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-08T21:13:13.952949-04:00"
     },
     "822957": {
       "active_pitcher_id": 543037,
@@ -32,16 +38,16 @@
       "last_checked_at": "2026-07-08T18:28:13.972488-04:00"
     },
     "823605": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+      "active_pitcher_id": 621381,
+      "active_pitcher_name": "Matt Strahm",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T19:36:20.468648-04:00"
+      "last_checked_at": "2026-07-08T21:13:03.846686-04:00"
     },
     "823684": {
-      "active_pitcher_id": 687570,
-      "active_pitcher_name": "Connor Prielipp",
+      "active_pitcher_id": 701519,
+      "active_pitcher_name": "Travis Adams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T19:36:26.390380-04:00"
+      "last_checked_at": "2026-07-08T21:13:08.706801-04:00"
     },
     "823848": {
       "active_pitcher_id": 663969,
@@ -50,30 +56,30 @@
       "last_checked_at": "2026-07-08T18:28:16.053093-04:00"
     },
     "824253": {
-      "active_pitcher_id": 605488,
-      "active_pitcher_name": "Jeffrey Springs",
+      "active_pitcher_id": 663947,
+      "active_pitcher_name": "Tyler Holton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T19:36:11.320308-04:00"
+      "last_checked_at": "2026-07-08T21:12:58.653373-04:00"
     },
     "824496": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 656271,
+      "active_pitcher_name": "Brock Burke",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T19:36:23.437654-04:00"
+      "last_checked_at": "2026-07-08T21:13:06.268974-04:00"
     },
     "824578": {
-      "active_pitcher_id": 663436,
-      "active_pitcher_name": "Davis Martin",
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-08T19:36:29.360728-04:00"
+      "last_checked_at": "2026-07-08T21:13:11.446858-04:00"
     },
     "824815": {
-      "active_pitcher_id": 665152,
-      "active_pitcher_name": "Dean Kremer",
+      "active_pitcher_id": 573204,
+      "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [
         "665152:624424"
       ],
-      "last_checked_at": "2026-07-08T18:28:05.326211-04:00"
+      "last_checked_at": "2026-07-08T21:12:56.088478-04:00"
     }
   }
 }
