@@ -1,4 +1,11 @@
 {
   "date": "2026-07-10",
-  "games": {}
+  "games": {
+    "824252": {
+      "active_pitcher_id": 656427,
+      "active_pitcher_name": "Jack Flaherty",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T18:37:14.848573-04:00"
+    }
+  }
 }
