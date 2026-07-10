@@ -1,11 +1,23 @@
 {
   "date": "2026-07-09",
   "games": {
+    "822877": {
+      "active_pitcher_id": 672282,
+      "active_pitcher_name": "Reid Detmers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T20:16:33.179587-04:00"
+    },
     "822954": {
       "active_pitcher_id": 592155,
       "active_pitcher_name": "Cam Booser",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-09T14:29:46.387113-04:00"
+    },
+    "823034": {
+      "active_pitcher_id": 701656,
+      "active_pitcher_name": "Logan Henderson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-09T20:16:30.616748-04:00"
     },
     "823359": {
       "active_pitcher_id": 682989,
@@ -26,16 +38,16 @@
       "last_checked_at": "2026-07-09T14:29:50.679490-04:00"
     },
     "823846": {
-      "active_pitcher_id": 676083,
-      "active_pitcher_name": "Janson Junk",
+      "active_pitcher_id": 682243,
+      "active_pitcher_name": "Bryce Miller",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-09T19:07:51.320822-04:00"
+      "last_checked_at": "2026-07-09T20:16:27.843473-04:00"
     },
     "824251": {
-      "active_pitcher_id": 678022,
-      "active_pitcher_name": "Jack Perkins",
+      "active_pitcher_id": 664285,
+      "active_pitcher_name": "Framber Valdez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-09T19:07:49.370685-04:00"
+      "last_checked_at": "2026-07-09T20:16:25.123603-04:00"
     },
     "824494": {
       "active_pitcher_id": 663903,
