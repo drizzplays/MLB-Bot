@@ -11,7 +11,7 @@
         "Alec Bohm",
         "Bryson Stott",
         "Gabriel Rincones Jr.",
-        "Justin Crawford",
+        "Derek Hill",
         "Rafael March\u00e1n"
       ],
       "home_lineup": [
@@ -597,7 +597,17 @@
     "Boston Red Sox @ New York Mets | 823604": {
       "away_team": "Boston Red Sox",
       "home_team": "New York Mets",
-      "away_lineup": [],
+      "away_lineup": [
+        "Anthony Seigler",
+        "Ceddanne Rafaela",
+        "Wilyer Abreu",
+        "Romy Gonzalez",
+        "Masataka Yoshida",
+        "Caleb Durbin",
+        "Jarren Duran",
+        "Connor Wong",
+        "Tsung-Che Cheng"
+      ],
       "home_lineup": [
         "A.J. Ewing",
         "Juan Soto",
@@ -841,7 +851,17 @@
     "Los Angeles Angels @ Minnesota Twins | 823685": {
       "away_team": "Los Angeles Angels",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Nolan Schanuel",
+        "Vaughn Grissom",
+        "Jorge Soler",
+        "Josh Lowe",
+        "Jo Adell",
+        "Oswald Peraza",
+        "Wade Meckler",
+        "Tyler Heineman"
+      ],
       "home_lineup": [
         "Trevor Larnach",
         "Ryan Jeffers",
@@ -874,7 +894,6 @@
         "Wade Meckler",
         "Josh Lowe",
         "Tyler Heineman",
-        "Tayler Saucedo",
         "Walbert Ure\u00f1a",
         "Logan O'Hoppe",
         "Kirby Yates",
@@ -1003,11 +1022,20 @@
       "away_team": "Toronto Blue Jays",
       "home_team": "San Diego Padres",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Fernando Tatis Jr.",
+        "Jackson Merrill",
+        "Xander Bogaerts",
+        "Manny Machado",
+        "Gavin Sheets",
+        "Ty France",
+        "Miguel Andujar",
+        "Jase Bowen",
+        "Rodolfo Dur\u00e1n"
+      ],
       "away_roster": [
         "Shane Bieber",
         "Spencer Miles",
-        "Tommy Nance",
         "Luis Ur\u00edas",
         "Jonatan Clase",
         "Adam Macko",
@@ -1051,8 +1079,8 @@
         "Adrian Morejon",
         "Manny Machado",
         "Miguel Andujar",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
@@ -1078,7 +1106,17 @@
         "Ryan Waldschmidt",
         "Tim Tawa"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Tommy Edman",
+        "Kyle Tucker",
+        "Teoscar Hern\u00e1ndez",
+        "Miguel Rojas",
+        "Dalton Rushing"
+      ],
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
@@ -1142,7 +1180,17 @@
     "Colorado Rockies @ San Francisco Giants | 823200": {
       "away_team": "Colorado Rockies",
       "home_team": "San Francisco Giants",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jake McCarthy",
+        "Kyle Karros",
+        "Cole Carrigg",
+        "Hunter Goodman",
+        "TJ Rumfield",
+        "Tyler Freeman",
+        "Willi Castro",
+        "Mickey Moniak",
+        "Ezequiel Tovar"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Ryan Feltner",
@@ -1165,8 +1213,8 @@
         "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
-        "Michael Lorenzen",
         "Ezequiel Tovar",
+        "Michael Lorenzen",
         "TJ Rumfield",
         "Jordan Romano",
         "Antonio Senzatela",
