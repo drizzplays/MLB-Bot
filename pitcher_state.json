@@ -36,7 +36,7 @@
       "game_time": "Jul 10, 6:40 PM ET",
       "game_iso": "2026-07-10T18:40:00-04:00",
       "game_pk": "824252",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823357": {
       "away_team": "Milwaukee Brewers",
@@ -112,7 +112,7 @@
       "game_time": "Jul 10, 6:45 PM ET",
       "game_iso": "2026-07-10T18:45:00-04:00",
       "game_pk": "822709",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824817": {
       "away_team": "Kansas City Royals",
@@ -188,7 +188,7 @@
       "game_time": "Jul 10, 7:10 PM ET",
       "game_iso": "2026-07-10T19:10:00-04:00",
       "game_pk": "824493",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822955": {
       "away_team": "Seattle Mariners",
