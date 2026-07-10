@@ -1,11 +1,47 @@
 {
   "date": "2026-07-10",
   "games": {
+    "822955": {
+      "active_pitcher_id": 622491,
+      "active_pitcher_name": "Luis Castillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T19:35:05.751940-04:00"
+    },
+    "823604": {
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T19:35:09.370936-04:00"
+    },
+    "823845": {
+      "active_pitcher_id": 800048,
+      "active_pitcher_name": "Parker Messick",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T19:35:07.524893-04:00"
+    },
     "824252": {
       "active_pitcher_id": 656427,
       "active_pitcher_name": "Jack Flaherty",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-10T18:37:14.848573-04:00"
+    },
+    "824493": {
+      "active_pitcher_id": 668881,
+      "active_pitcher_name": "Hunter Greene",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T19:35:04.005454-04:00"
+    },
+    "824575": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T19:35:11.067668-04:00"
+    },
+    "824817": {
+      "active_pitcher_id": 679883,
+      "active_pitcher_name": "Luinder Avila",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-10T19:35:02.245917-04:00"
     }
   }
 }
