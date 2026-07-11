@@ -2,10 +2,22 @@
   "date": "2026-07-11",
   "games": {
     "823357": {
-      "active_pitcher_id": 677952,
-      "active_pitcher_name": "Braxton Ashcraft",
+      "active_pitcher_id": 676879,
+      "active_pitcher_name": "Aaron Ashby",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T13:31:43.544190-04:00"
+      "last_checked_at": "2026-07-11T14:31:10.732055-04:00"
+    },
+    "823682": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T14:31:13.648394-04:00"
+    },
+    "824576": {
+      "active_pitcher_id": 669684,
+      "active_pitcher_name": "Chris Murphy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T14:31:15.957718-04:00"
     }
   }
 }
