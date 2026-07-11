@@ -46,6 +46,7 @@
         "William Contreras",
         "Brice Turang",
         "Robert Gasser",
+        "Garrett Stallings",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "Jared Koenig",
@@ -54,13 +55,14 @@
         "Trevor Megill"
       ],
       "home_roster": [
+        "Jacob Gonzalez",
         "Paul Skenes",
         "Brandon Lowe",
         "Bryan Reynolds",
+        "Brandon Eisert",
         "Jared Jones",
         "Gregory Soto",
         "Mason Montgomery",
-        "Thomas Harrington",
         "Esmerlyn Valdez",
         "Jared Triolo",
         "Jake Mangum",
@@ -70,9 +72,9 @@
         "Bubba Chandler",
         "Billy Cook",
         "Carmen Mlodzinski",
-        "Jack Brannigan",
         "Dennis Santana",
         "Henry Davis",
+        "Noah Murdock",
         "Tyler Callihan",
         "Ryan O'Hearn",
         "Nick Gonzales",
@@ -353,8 +355,8 @@
         "Kyle Karros",
         "Troy Johnston",
         "Edouard Julien",
-        "Ezequiel Tovar",
-        "Brett Sullivan"
+        "Cole Carrigg",
+        "Willi Castro"
       ],
       "home_lineup": [
         "Heliot Ramos",
@@ -439,7 +441,7 @@
         "Jasson Dom\u00ednguez",
         "Jazz Chisholm Jr.",
         "Anthony Volpe",
-        "Ali S\u00e1nchez"
+        "Austin Wells"
       ],
       "home_lineup": [
         "James Wood",
@@ -523,7 +525,7 @@
         "Andruw Monasterio",
         "Jarren Duran",
         "Carlos Narv\u00e1ez",
-        "Tsung-Che Cheng"
+        "Romy Gonzalez"
       ],
       "home_lineup": [
         "A.J. Ewing",
@@ -1193,7 +1195,17 @@
     "Toronto Blue Jays @ San Diego Padres | 823276": {
       "away_team": "Toronto Blue Jays",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ernie Clement",
+        "Nathan Lukes",
+        "Vladimir Guerrero Jr.",
+        "George Springer",
+        "Kazuma Okamoto",
+        "Daulton Varsho",
+        "Alejandro Kirk",
+        "Andr\u00e9s Gim\u00e9nez",
+        "Jonatan Clase"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jackson Merrill",
@@ -1215,8 +1227,8 @@
         "Louis Varland",
         "Ernie Clement",
         "Daulton Varsho",
-        "Kevin Gausman",
         "Andr\u00e9s Gim\u00e9nez",
+        "Kevin Gausman",
         "Brandon Valenzuela",
         "Jeff Hoffman",
         "Dylan Cease",
@@ -1227,8 +1239,8 @@
         "Braydon Fisher",
         "Sean Keys",
         "Tyler Rogers",
-        "Patrick Corbin",
         "Vladimir Guerrero Jr.",
+        "Patrick Corbin",
         "Myles Straw",
         "Alejandro Kirk",
         "Kazuma Okamoto"
@@ -1239,7 +1251,6 @@
         "Luis Rengifo",
         "Michael King",
         "Mason Miller",
-        "Jhony Brito",
         "Wandy Peralta",
         "Walker Buehler",
         "Jackson Merrill",
@@ -1251,6 +1262,7 @@
         "Gavin Sheets",
         "Adrian Morejon",
         "Manny Machado",
+        "Matt Waldron",
         "Miguel Andujar",
         "Fernando Tatis Jr.",
         "Ty France",
