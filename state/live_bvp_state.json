@@ -7,11 +7,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T18:23:41.299170-04:00"
     },
+    "822875": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T19:25:02.006733-04:00"
+    },
     "822953": {
       "active_pitcher_id": 592155,
       "active_pitcher_name": "Cam Booser",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T18:23:45.721159-04:00"
+    },
+    "823030": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T19:25:05.521130-04:00"
     },
     "823198": {
       "active_pitcher_id": 641816,
@@ -55,11 +67,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T18:23:49.979383-04:00"
     },
+    "824492": {
+      "active_pitcher_id": 665871,
+      "active_pitcher_name": "Javier Assad",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T19:25:03.744859-04:00"
+    },
     "824576": {
       "active_pitcher_id": 607200,
       "active_pitcher_name": "Erick Fedde",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T15:48:13.580890-04:00"
+    },
+    "824813": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T19:25:00.291099-04:00"
     }
   }
 }
