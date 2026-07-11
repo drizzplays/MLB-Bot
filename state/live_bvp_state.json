@@ -1,4 +1,11 @@
 {
   "date": "2026-07-11",
-  "games": {}
+  "games": {
+    "823357": {
+      "active_pitcher_id": 687075,
+      "active_pitcher_name": "Brandon Sproat",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T12:29:54.111720-04:00"
+    }
+  }
 }
