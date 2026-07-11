@@ -1,43 +1,5 @@
 {
   "2026-07-11": {
-    "822953": {
-      "away_team": "Seattle Mariners",
-      "home_team": "Tampa Bay Rays",
-      "away_pitcher": "Logan Gilbert",
-      "home_pitcher": "Griffin Jax",
-      "away_pitcher_id": "669302",
-      "home_pitcher_id": "643377",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 5,
-        "era": "3.19",
-        "whip": "0.95",
-        "strikeouts": 114,
-        "innings_pitched": "107.1",
-        "games_started": 18
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "3.60",
-        "whip": "1.22",
-        "strikeouts": 68,
-        "innings_pitched": "65.0",
-        "games_started": 13
-      },
-      "game_time": "Jul 11, 4:10 PM ET",
-      "game_iso": "2026-07-11T16:10:00-04:00",
-      "game_pk": "822953",
-      "status_code": "P"
-    },
     "824249": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Detroit Tigers",
@@ -264,7 +226,7 @@
       "game_time": "Jul 11, 8:40 PM ET",
       "game_iso": "2026-07-11T20:40:00-04:00",
       "game_pk": "823276",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823926": {
       "away_team": "Arizona Diamondbacks",
