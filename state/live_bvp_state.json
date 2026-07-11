@@ -1,17 +1,53 @@
 {
   "date": "2026-07-11",
   "games": {
+    "822711": {
+      "active_pitcher_id": 676571,
+      "active_pitcher_name": "PJ Poulin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T16:32:18.850093-04:00"
+    },
+    "822953": {
+      "active_pitcher_id": 643377,
+      "active_pitcher_name": "Griffin Jax",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T16:32:22.279811-04:00"
+    },
+    "823198": {
+      "active_pitcher_id": 607536,
+      "active_pitcher_name": "Kyle Freeland",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T16:32:17.128187-04:00"
+    },
+    "823356": {
+      "active_pitcher_id": 675660,
+      "active_pitcher_name": "Shane Drohan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T16:32:13.391962-04:00"
+    },
     "823357": {
       "active_pitcher_id": 676879,
       "active_pitcher_name": "Aaron Ashby",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T14:31:10.732055-04:00"
     },
-    "823682": {
-      "active_pitcher_id": 696270,
-      "active_pitcher_name": "Ryan Johnson",
+    "823603": {
+      "active_pitcher_id": 642547,
+      "active_pitcher_name": "Freddy Peralta",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T15:48:11.058601-04:00"
+      "last_checked_at": "2026-07-11T16:32:20.551736-04:00"
+    },
+    "823682": {
+      "active_pitcher_id": 815083,
+      "active_pitcher_name": "Mitch Farris",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T16:32:15.146742-04:00"
+    },
+    "823844": {
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T16:32:23.991316-04:00"
     },
     "824576": {
       "active_pitcher_id": 607200,
