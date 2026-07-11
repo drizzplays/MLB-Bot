@@ -2,16 +2,16 @@
   "date": "2026-07-11",
   "games": {
     "822711": {
-      "active_pitcher_id": 571945,
-      "active_pitcher_name": "Miles Mikolas",
+      "active_pitcher_id": 687377,
+      "active_pitcher_name": "Orlando Ribalta",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T17:29:20.819765-04:00"
+      "last_checked_at": "2026-07-11T18:23:41.299170-04:00"
     },
     "822953": {
-      "active_pitcher_id": 669302,
-      "active_pitcher_name": "Logan Gilbert",
+      "active_pitcher_id": 592155,
+      "active_pitcher_name": "Cam Booser",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T17:29:25.535780-04:00"
+      "last_checked_at": "2026-07-11T18:23:45.721159-04:00"
     },
     "823198": {
       "active_pitcher_id": 641816,
@@ -20,10 +20,10 @@
       "last_checked_at": "2026-07-11T17:29:19.081544-04:00"
     },
     "823356": {
-      "active_pitcher_id": 696149,
-      "active_pitcher_name": "Bubba Chandler",
+      "active_pitcher_id": 681982,
+      "active_pitcher_name": "Grant Anderson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T17:29:17.361386-04:00"
+      "last_checked_at": "2026-07-11T18:23:39.063758-04:00"
     },
     "823357": {
       "active_pitcher_id": 676879,
@@ -32,10 +32,10 @@
       "last_checked_at": "2026-07-11T14:31:10.732055-04:00"
     },
     "823603": {
-      "active_pitcher_id": 669711,
-      "active_pitcher_name": "Greg Weissert",
+      "active_pitcher_id": 663558,
+      "active_pitcher_name": "Jovani Mor\u00e1n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T17:29:23.854382-04:00"
+      "last_checked_at": "2026-07-11T18:23:43.613701-04:00"
     },
     "823682": {
       "active_pitcher_id": 815083,
@@ -44,10 +44,16 @@
       "last_checked_at": "2026-07-11T16:32:15.146742-04:00"
     },
     "823844": {
-      "active_pitcher_id": 676440,
-      "active_pitcher_name": "Tanner Bibee",
+      "active_pitcher_id": 687531,
+      "active_pitcher_name": "William Kempner",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T16:32:23.991316-04:00"
+      "last_checked_at": "2026-07-11T18:23:47.922631-04:00"
+    },
+    "824249": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T18:23:49.979383-04:00"
     },
     "824576": {
       "active_pitcher_id": 607200,
