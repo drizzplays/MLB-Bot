@@ -1,157 +1,5 @@
 {
   "2026-07-11": {
-    "823356": {
-      "away_team": "Milwaukee Brewers",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Shane Drohan",
-      "home_pitcher": "Bubba Chandler",
-      "away_pitcher_id": "675660",
-      "home_pitcher_id": "696149",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 2,
-        "era": "2.97",
-        "whip": "1.24",
-        "strikeouts": 61,
-        "innings_pitched": "63.2",
-        "games_started": 8
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 8,
-        "era": "4.82",
-        "whip": "1.44",
-        "strikeouts": 79,
-        "innings_pitched": "89.2",
-        "games_started": 17
-      },
-      "game_time": "Jul 11, 4:05 PM ET",
-      "game_iso": "2026-07-11T16:05:00-04:00",
-      "game_pk": "823356",
-      "status_code": "S"
-    },
-    "823198": {
-      "away_team": "Colorado Rockies",
-      "home_team": "San Francisco Giants",
-      "away_pitcher": "Kyle Freeland",
-      "home_pitcher": "Tyler Mahle",
-      "away_pitcher_id": "607536",
-      "home_pitcher_id": "641816",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 7,
-        "era": "7.46",
-        "whip": "1.61",
-        "strikeouts": 70,
-        "innings_pitched": "82.0",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 8,
-        "era": "5.70",
-        "whip": "1.49",
-        "strikeouts": 69,
-        "innings_pitched": "71.0",
-        "games_started": 14
-      },
-      "game_time": "Jul 11, 4:05 PM ET",
-      "game_iso": "2026-07-11T16:05:00-04:00",
-      "game_pk": "823198",
-      "status_code": "P"
-    },
-    "822711": {
-      "away_team": "New York Yankees",
-      "home_team": "Washington Nationals",
-      "away_pitcher": "Cam Schlittler",
-      "home_pitcher": "PJ Poulin",
-      "away_pitcher_id": "693645",
-      "home_pitcher_id": "676571",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 5,
-        "era": "2.01",
-        "whip": "0.93",
-        "strikeouts": 131,
-        "innings_pitched": "112.0",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 0,
-        "era": "2.83",
-        "whip": "1.31",
-        "strikeouts": 22,
-        "innings_pitched": "35.0",
-        "games_started": 10
-      },
-      "game_time": "Jul 11, 4:05 PM ET",
-      "game_iso": "2026-07-11T16:05:00-04:00",
-      "game_pk": "822711",
-      "status_code": "P"
-    },
-    "823603": {
-      "away_team": "Boston Red Sox",
-      "home_team": "New York Mets",
-      "away_pitcher": "Eduardo Rivera",
-      "home_pitcher": "Freddy Peralta",
-      "away_pitcher_id": "700842",
-      "home_pitcher_id": "642547",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 0,
-        "era": "0.00",
-        "whip": "0.30",
-        "strikeouts": 3,
-        "innings_pitched": "3.1",
-        "games_started": 0
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 7,
-        "era": "4.68",
-        "whip": "1.42",
-        "strikeouts": 98,
-        "innings_pitched": "100.0",
-        "games_started": 19
-      },
-      "game_time": "Jul 11, 4:10 PM ET",
-      "game_iso": "2026-07-11T16:10:00-04:00",
-      "game_pk": "823603",
-      "status_code": "P"
-    },
     "822953": {
       "away_team": "Seattle Mariners",
       "home_team": "Tampa Bay Rays",
@@ -188,44 +36,6 @@
       "game_time": "Jul 11, 4:10 PM ET",
       "game_iso": "2026-07-11T16:10:00-04:00",
       "game_pk": "822953",
-      "status_code": "P"
-    },
-    "823844": {
-      "away_team": "Cleveland Guardians",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Tanner Bibee",
-      "home_pitcher": "Eury P\u00e9rez",
-      "away_pitcher_id": "676440",
-      "home_pitcher_id": "691587",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 9,
-        "era": "4.06",
-        "whip": "1.14",
-        "strikeouts": 84,
-        "innings_pitched": "106.1",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 6,
-        "era": "3.84",
-        "whip": "1.10",
-        "strikeouts": 89,
-        "innings_pitched": "79.2",
-        "games_started": 15
-      },
-      "game_time": "Jul 11, 4:10 PM ET",
-      "game_iso": "2026-07-11T16:10:00-04:00",
-      "game_pk": "823844",
       "status_code": "P"
     },
     "824249": {
@@ -416,7 +226,7 @@
       "game_time": "Jul 11, 7:15 PM ET",
       "game_iso": "2026-07-11T19:15:00-04:00",
       "game_pk": "823030",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823276": {
       "away_team": "Toronto Blue Jays",
@@ -492,7 +302,7 @@
       "game_time": "Jul 11, 9:10 PM ET",
       "game_iso": "2026-07-11T21:10:00-04:00",
       "game_pk": "823926",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
