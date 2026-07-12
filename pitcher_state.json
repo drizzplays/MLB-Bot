@@ -36,7 +36,7 @@
       "game_time": "Jul 12, 12:15 PM ET",
       "game_iso": "2026-07-12T12:15:00-04:00",
       "game_pk": "823358",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824814": {
       "away_team": "Kansas City Royals",
@@ -112,7 +112,7 @@
       "game_time": "Jul 12, 1:35 PM ET",
       "game_iso": "2026-07-12T13:35:00-04:00",
       "game_pk": "822708",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824491": {
       "away_team": "Chicago Cubs",
@@ -188,7 +188,7 @@
       "game_time": "Jul 12, 1:40 PM ET",
       "game_iso": "2026-07-12T13:40:00-04:00",
       "game_pk": "823602",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822951": {
       "away_team": "Seattle Mariners",
@@ -264,7 +264,7 @@
       "game_time": "Jul 12, 1:40 PM ET",
       "game_iso": "2026-07-12T13:40:00-04:00",
       "game_pk": "824250",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823842": {
       "away_team": "Cleveland Guardians",
@@ -302,7 +302,7 @@
       "game_time": "Jul 12, 1:40 PM ET",
       "game_iso": "2026-07-12T13:40:00-04:00",
       "game_pk": "823842",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823681": {
       "away_team": "Los Angeles Angels",
@@ -340,7 +340,7 @@
       "game_time": "Jul 12, 2:10 PM ET",
       "game_iso": "2026-07-12T14:10:00-04:00",
       "game_pk": "823681",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824574": {
       "away_team": "Athletics",
@@ -378,7 +378,7 @@
       "game_time": "Jul 12, 2:10 PM ET",
       "game_iso": "2026-07-12T14:10:00-04:00",
       "game_pk": "824574",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823029": {
       "away_team": "Atlanta Braves",
@@ -416,7 +416,7 @@
       "game_time": "Jul 12, 2:15 PM ET",
       "game_iso": "2026-07-12T14:15:00-04:00",
       "game_pk": "823029",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822876": {
       "away_team": "Houston Astros",
@@ -454,7 +454,7 @@
       "game_time": "Jul 12, 2:35 PM ET",
       "game_iso": "2026-07-12T14:35:00-04:00",
       "game_pk": "822876",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823199": {
       "away_team": "Colorado Rockies",
