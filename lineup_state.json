@@ -4,7 +4,7 @@
       "away_team": "Milwaukee Brewers",
       "home_team": "Pittsburgh Pirates",
       "away_lineup": [
-        "Christian Yelich",
+        "Luis Lara",
         "Jackson Chourio",
         "Brice Turang",
         "Jake Bauers",
@@ -16,10 +16,10 @@
       ],
       "home_lineup": [
         "Jake Mangum",
-        "Brandon Lowe",
-        "Bryan Reynolds",
+        "Tyler Callihan",
+        "Jacob Gonzalez",
         "Esmerlyn Valdez",
-        "Ryan O'Hearn",
+        "Billy Cook",
         "Nick Gonzales",
         "Marcell Ozuna",
         "Jared Triolo",
@@ -106,9 +106,9 @@
         "Pete Alonso",
         "Samuel Basallo",
         "Blaze Alexander",
-        "Colton Cowser",
+        "Tyler O'Neill",
         "Leody Taveras",
-        "Jackson Holliday"
+        "Jeremiah Jackson"
       ],
       "away_roster": [
         "Carter Jensen",
@@ -186,12 +186,12 @@
       ],
       "home_lineup": [
         "James Wood",
-        "Luis Garc\u00eda Jr.",
-        "Abimelec Ortiz",
+        "Andr\u00e9s Chaparro",
+        "Curtis Mead",
         "CJ Abrams",
         "Dylan Crews",
         "Daylen Lile",
-        "Jos\u00e9 Tena",
+        "Nasim Nu\u00f1ez",
         "Jorbit Vivas",
         "Keibert Ruiz"
       ],
@@ -266,7 +266,7 @@
         "Nico Hoerner",
         "Ian Happ",
         "Dansby Swanson",
-        "Kevin Alc\u00e1ntara"
+        "Pedro Ram\u00edrez"
       ],
       "home_lineup": [
         "Elly De La Cruz",
@@ -346,7 +346,7 @@
         "Anthony Seigler",
         "Ceddanne Rafaela",
         "Wilyer Abreu",
-        "Romy Gonzalez",
+        "Tsung-Che Cheng",
         "Caleb Durbin",
         "Andruw Monasterio",
         "Jarren Duran",
@@ -357,7 +357,7 @@
         "A.J. Ewing",
         "Juan Soto",
         "Francisco Lindor",
-        "Eric Wagaman",
+        "Jared Young",
         "Carson Benge",
         "Tyrone Taylor",
         "Luis Torrens",
@@ -612,8 +612,8 @@
         "Liam Hicks",
         "Xavier Edwards",
         "Javier Sanoja",
-        "Leo Jim\u00e9nez",
-        "Esteury Ruiz",
+        "Kyle Stowers",
+        "Jakob Marsee",
         "Rece Hinds",
         "Brian Navarreto"
       ],
@@ -661,8 +661,8 @@
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
-        "Michael Petersen",
         "Kyle Stowers",
+        "Michael Petersen",
         "Liam Hicks",
         "Leo Jim\u00e9nez",
         "Janson Junk",
@@ -943,7 +943,7 @@
         "Jose Altuve",
         "Cam Smith",
         "LaMonte Wade Jr.",
-        "Brice Matthews",
+        "Taylor Trammell",
         "Christian V\u00e1zquez"
       ],
       "home_lineup": [
@@ -1215,10 +1215,10 @@
       "away_roster": [
         "Shane Bieber",
         "Spencer Miles",
+        "CJ Van Eyk",
         "Luis Ur\u00edas",
         "Jonatan Clase",
         "Adam Macko",
-        "Chad Dallas",
         "Louis Varland",
         "Ernie Clement",
         "Daulton Varsho",
