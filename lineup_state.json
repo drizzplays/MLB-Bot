@@ -73,7 +73,6 @@
         "Carmen Mlodzinski",
         "Dennis Santana",
         "Henry Davis",
-        "Noah Murdock",
         "Tyler Callihan",
         "Ryan O'Hearn",
         "Nick Gonzales",
@@ -350,7 +349,7 @@
         "Romy Gonzalez",
         "Caleb Durbin",
         "Andruw Monasterio",
-        "Caleb Durbin",
+        "Jarren Duran",
         "Nate Eaton",
         "Connor Wong"
       ],
@@ -374,6 +373,7 @@
         "Greg Weissert",
         "Anthony Seigler",
         "Connor Wong",
+        "Brayan Bello",
         "Wilyer Abreu",
         "Garrett Whitlock",
         "Andruw Monasterio",
@@ -388,7 +388,6 @@
         "Ceddanne Rafaela",
         "Jovani Mor\u00e1n",
         "Masataka Yoshida",
-        "Danny Coulombe",
         "Aroldis Chapman",
         "Ryan Watson"
       ],
@@ -512,7 +511,17 @@
     "Philadelphia Phillies @ Detroit Tigers | 824250": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Detroit Tigers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trea Turner",
+        "Kyle Schwarber",
+        "Bryce Harper",
+        "Alec Bohm",
+        "Edmundo Sosa",
+        "Brandon Marsh",
+        "Derek Hill",
+        "J.T. Realmuto",
+        "Bryson Stott"
+      ],
       "home_lineup": [
         "Kevin McGonigle",
         "Dillon Dingler",
@@ -534,8 +543,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -672,7 +681,17 @@
     "Los Angeles Angels @ Minnesota Twins | 823681": {
       "away_team": "Los Angeles Angels",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Jorge Soler",
+        "Jo Adell",
+        "Josh Lowe",
+        "Oswald Peraza",
+        "Denzer Guzman",
+        "Logan O'Hoppe"
+      ],
       "home_lineup": [
         "Trevor Larnach",
         "Ryan Jeffers",
@@ -747,8 +766,28 @@
     "Athletics @ Chicago White Sox | 824574": {
       "away_team": "Athletics",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Jacob Wilson",
+        "Joshua Kuroda-Grauer",
+        "Shea Langeliers",
+        "Jonah Heim",
+        "Colby Thomas",
+        "Joey Meneses",
+        "Lawrence Butler",
+        "Henry Bolte",
+        "Alika Williams"
+      ],
+      "home_lineup": [
+        "Sam Antonacci",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Colson Montgomery",
+        "Andrew Benintendi",
+        "Kyle Teel",
+        "Braden Montgomery",
+        "Tristan Peters",
+        "Chase Meidroth"
+      ],
       "away_roster": [
         "Lawrence Butler",
         "Jonah Heim",
@@ -784,8 +823,8 @@
         "Luisangel Acu\u00f1a",
         "Randal Grichuk",
         "Munetaka Murakami",
-        "Chase Meidroth",
         "Kyle Teel",
+        "Chase Meidroth",
         "Grant Taylor",
         "Junior Perez",
         "Colson Montgomery",
@@ -812,14 +851,34 @@
     "Atlanta Braves @ St. Louis Cardinals | 823029": {
       "away_team": "Atlanta Braves",
       "home_team": "St. Louis Cardinals",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Drake Baldwin",
+        "Ozzie Albies",
+        "Matt Olson",
+        "Michael Harris II",
+        "Mauricio Dub\u00f3n",
+        "Dominic Smith",
+        "Austin Riley",
+        "Jim Jarvis",
+        "Brewer Hicklen"
+      ],
+      "home_lineup": [
+        "JJ Wetherholt",
+        "Iv\u00e1n Herrera",
+        "Jordan Walker",
+        "Alec Burleson",
+        "Lars Nootbaar",
+        "Masyn Winn",
+        "Nathan Church",
+        "Jos\u00e9 Ferm\u00edn",
+        "Jimmy Crooks"
+      ],
       "away_roster": [
         "Owen Murphy",
         "Dylan Dodd",
         "Dylan Lee",
-        "Joey Bart",
         "Michael Harris II",
+        "Joey Bart",
         "Victor Mederos",
         "Jorge Mateo",
         "Mauricio Dub\u00f3n",
@@ -845,8 +904,8 @@
       "home_roster": [
         "Michael McGreevy",
         "Matt Svanson",
-        "Bryan Torres",
         "Jordan Walker",
+        "Bryan Torres",
         "Nathan Church",
         "Kyle Leahy",
         "Lars Nootbaar",
@@ -877,8 +936,28 @@
     "Houston Astros @ Texas Rangers | 822876": {
       "away_team": "Houston Astros",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Christian Walker",
+        "Jose Altuve",
+        "Cam Smith",
+        "LaMonte Wade Jr.",
+        "Brice Matthews",
+        "Christian V\u00e1zquez"
+      ],
+      "home_lineup": [
+        "Joc Pederson",
+        "Wyatt Langford",
+        "Josh Jung",
+        "Brandon Nimmo",
+        "Jake Burger",
+        "Ezequiel Duran",
+        "Evan Carter",
+        "Nicky Lopez",
+        "Kyle Higashioka"
+      ],
       "away_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
