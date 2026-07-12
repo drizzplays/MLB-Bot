@@ -7,17 +7,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-12T13:27:48.417353-04:00"
     },
+    "822876": {
+      "active_pitcher_id": 669022,
+      "active_pitcher_name": "MacKenzie Gore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T14:26:52.124114-04:00"
+    },
     "822951": {
       "active_pitcher_id": 693855,
       "active_pitcher_name": "Ian Seymour",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-12T13:27:56.522710-04:00"
     },
-    "823358": {
-      "active_pitcher_id": 657649,
-      "active_pitcher_name": "Jared Koenig",
+    "823029": {
+      "active_pitcher_id": 664849,
+      "active_pitcher_name": "Danny Young",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T13:27:43.931536-04:00"
+      "last_checked_at": "2026-07-12T14:26:50.417261-04:00"
+    },
+    "823358": {
+      "active_pitcher_id": 676755,
+      "active_pitcher_name": "Isaac Mattson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T14:26:35.019485-04:00"
     },
     "823602": {
       "active_pitcher_id": 804267,
@@ -25,17 +37,25 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-12T13:27:53.980701-04:00"
     },
-    "823842": {
-      "active_pitcher_id": 663969,
-      "active_pitcher_name": "Tyler Phillips",
+    "823681": {
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T13:28:01.805811-04:00"
+      "last_checked_at": "2026-07-12T14:26:46.954336-04:00"
+    },
+    "823842": {
+      "active_pitcher_id": 676534,
+      "active_pitcher_name": "Calvin Faucher",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T14:26:44.732006-04:00"
     },
     "824250": {
-      "active_pitcher_id": 669373,
-      "active_pitcher_name": "Tarik Skubal",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T13:27:59.219018-04:00"
+      "active_pitcher_id": 554430,
+      "active_pitcher_name": "Zack Wheeler",
+      "alerted_pairs": [
+        "554430:690993"
+      ],
+      "last_checked_at": "2026-07-12T14:26:39.223569-04:00"
     },
     "824491": {
       "active_pitcher_id": 671096,
@@ -43,11 +63,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-12T13:27:51.152919-04:00"
     },
-    "824814": {
-      "active_pitcher_id": 669358,
-      "active_pitcher_name": "Shane Baz",
+    "824574": {
+      "active_pitcher_id": 669372,
+      "active_pitcher_name": "J.T. Ginn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T13:27:45.987664-04:00"
+      "last_checked_at": "2026-07-12T14:26:48.704108-04:00"
+    },
+    "824814": {
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T14:26:37.313799-04:00"
     }
   }
 }
