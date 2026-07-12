@@ -2,28 +2,40 @@
   "date": "2026-07-12",
   "games": {
     "822708": {
-      "active_pitcher_id": 683409,
-      "active_pitcher_name": "Angel Chivilli",
+      "active_pitcher_id": 664875,
+      "active_pitcher_name": "Justin Lawrence",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:23.932095-04:00"
+      "last_checked_at": "2026-07-12T16:24:09.262062-04:00"
     },
     "822876": {
-      "active_pitcher_id": 664299,
-      "active_pitcher_name": "Cristian Javier",
+      "active_pitcher_id": 668390,
+      "active_pitcher_name": "Cole Winn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:50.219380-04:00"
+      "last_checked_at": "2026-07-12T16:24:28.234603-04:00"
     },
     "822951": {
-      "active_pitcher_id": 621074,
-      "active_pitcher_name": "Michael Rucker",
+      "active_pitcher_id": 687330,
+      "active_pitcher_name": "Kevin Kelly",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:32.020951-04:00"
+      "last_checked_at": "2026-07-12T16:24:13.881441-04:00"
     },
     "823029": {
-      "active_pitcher_id": 702275,
-      "active_pitcher_name": "JR Ritchie",
+      "active_pitcher_id": 800311,
+      "active_pitcher_name": "Didier Fuentes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:47.209657-04:00"
+      "last_checked_at": "2026-07-12T16:24:26.090521-04:00"
+    },
+    "823199": {
+      "active_pitcher_id": 547179,
+      "active_pitcher_name": "Michael Lorenzen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T16:24:30.465715-04:00"
+    },
+    "823274": {
+      "active_pitcher_id": 592332,
+      "active_pitcher_name": "Kevin Gausman",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T16:24:34.735541-04:00"
     },
     "823358": {
       "active_pitcher_id": 676755,
@@ -38,43 +50,49 @@
       "last_checked_at": "2026-07-12T15:37:29.376377-04:00"
     },
     "823681": {
-      "active_pitcher_id": 671737,
-      "active_pitcher_name": "Taj Bradley",
+      "active_pitcher_id": 666171,
+      "active_pitcher_name": "Ryan Zeferjahn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T14:26:46.954336-04:00"
+      "last_checked_at": "2026-07-12T16:24:21.553694-04:00"
     },
     "823842": {
-      "active_pitcher_id": 680916,
-      "active_pitcher_name": "Franco Aleman",
+      "active_pitcher_id": 542888,
+      "active_pitcher_name": "Shawn Armstrong",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:41.894155-04:00"
+      "last_checked_at": "2026-07-12T16:24:19.007192-04:00"
+    },
+    "823925": {
+      "active_pitcher_id": 683352,
+      "active_pitcher_name": "Mitch Bratt",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T16:24:32.591821-04:00"
     },
     "824250": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+      "active_pitcher_id": 680742,
+      "active_pitcher_name": "Jonathan Bowlan",
       "alerted_pairs": [
         "554430:690993",
         "672456:669016"
       ],
-      "last_checked_at": "2026-07-12T15:37:34.596962-04:00"
+      "last_checked_at": "2026-07-12T16:24:16.509267-04:00"
     },
     "824491": {
-      "active_pitcher_id": 594580,
-      "active_pitcher_name": "Sam Moll",
+      "active_pitcher_id": 573204,
+      "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:26.776184-04:00"
+      "last_checked_at": "2026-07-12T16:24:11.769629-04:00"
     },
     "824574": {
-      "active_pitcher_id": 660761,
-      "active_pitcher_name": "Jos\u00e9 Suarez",
+      "active_pitcher_id": 686993,
+      "active_pitcher_name": "Justin Sterner",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:44.612313-04:00"
+      "last_checked_at": "2026-07-12T16:24:23.933756-04:00"
     },
     "824814": {
-      "active_pitcher_id": 621381,
-      "active_pitcher_name": "Matt Strahm",
+      "active_pitcher_id": 694360,
+      "active_pitcher_name": "Beck Way",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-12T15:37:20.919601-04:00"
+      "last_checked_at": "2026-07-12T16:24:07.104422-04:00"
     }
   }
 }
