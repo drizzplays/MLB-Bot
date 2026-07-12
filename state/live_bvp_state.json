@@ -20,16 +20,22 @@
       "last_checked_at": "2026-07-11T18:23:45.721159-04:00"
     },
     "823030": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 703725,
+      "active_pitcher_name": "Luis Gastelum",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T19:25:05.521130-04:00"
+      "last_checked_at": "2026-07-11T21:02:35.336849-04:00"
     },
     "823198": {
       "active_pitcher_id": 641816,
       "active_pitcher_name": "Tyler Mahle",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T17:29:19.081544-04:00"
+    },
+    "823276": {
+      "active_pitcher_id": 702056,
+      "active_pitcher_name": "Trey Yesavage",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T21:02:37.882296-04:00"
     },
     "823356": {
       "active_pitcher_id": 681982,
@@ -61,6 +67,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-11T18:23:47.922631-04:00"
     },
+    "823926": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-11T21:02:40.118739-04:00"
+    },
     "824249": {
       "active_pitcher_id": 650911,
       "active_pitcher_name": "Cristopher S\u00e1nchez",
@@ -68,10 +80,10 @@
       "last_checked_at": "2026-07-11T18:23:49.979383-04:00"
     },
     "824492": {
-      "active_pitcher_id": 665871,
-      "active_pitcher_name": "Javier Assad",
+      "active_pitcher_id": 519141,
+      "active_pitcher_name": "Drew Pomeranz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T19:25:03.744859-04:00"
+      "last_checked_at": "2026-07-11T21:02:32.313351-04:00"
     },
     "824576": {
       "active_pitcher_id": 607200,
@@ -80,10 +92,10 @@
       "last_checked_at": "2026-07-11T15:48:13.580890-04:00"
     },
     "824813": {
-      "active_pitcher_id": 680694,
-      "active_pitcher_name": "Kyle Bradish",
+      "active_pitcher_id": 666974,
+      "active_pitcher_name": "Yennier Cano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-11T19:25:00.291099-04:00"
+      "last_checked_at": "2026-07-11T21:02:29.418529-04:00"
     }
   }
 }
