@@ -12,7 +12,7 @@
         "Garrett Mitchell",
         "Sal Frelick",
         "Joey Ortiz",
-        "Braden Shewmake"
+        "Andrew Vaughn"
       ],
       "home_lineup": [
         "Jake Mangum",
@@ -562,7 +562,6 @@
         "Derek Hill"
       ],
       "home_roster": [
-        "Framber Valdez",
         "Zach McKinstry",
         "Tarik Skubal",
         "Casey Mize",
@@ -1106,7 +1105,17 @@
     "Arizona Diamondbacks @ Los Angeles Dodgers | 823925": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ketel Marte",
+        "Geraldo Perdomo",
+        "Corbin Carroll",
+        "Gabriel Moreno",
+        "Lourdes Gurriel Jr.",
+        "Ildemaro Vargas",
+        "Nolan Arenado",
+        "Tim Tawa",
+        "Ryan Waldschmidt"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
@@ -1121,13 +1130,13 @@
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Tim Tawa",
+        "Brandon Pfaadt",
         "Nolan Arenado",
         "Tommy Troy",
+        "Ryan Waldschmidt",
         "Drey Jameson",
         "Merrill Kelly",
-        "Ryan Waldschmidt",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
@@ -1138,7 +1147,6 @@
         "Mitch Bratt",
         "Corbin Carroll",
         "Taylor Clarke",
-        "Zac Gallen",
         "Lourdes Gurriel Jr.",
         "Ryan Thompson",
         "Max Kepler",
@@ -1182,7 +1190,17 @@
     "Toronto Blue Jays @ San Diego Padres | 823274": {
       "away_team": "Toronto Blue Jays",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ernie Clement",
+        "Nathan Lukes",
+        "Vladimir Guerrero Jr.",
+        "Kazuma Okamoto",
+        "Daulton Varsho",
+        "Brandon Valenzuela",
+        "Sean Keys",
+        "Jonatan Clase",
+        "Andr\u00e9s Gim\u00e9nez"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jackson Merrill",
@@ -1191,7 +1209,7 @@
         "Gavin Sheets",
         "Ty France",
         "Jake Cronenworth",
-        "Luis Campusano",
+        "Rodolfo Dur\u00e1n",
         "Sung-Mun Song"
       ],
       "away_roster": [
@@ -1204,8 +1222,8 @@
         "Louis Varland",
         "Ernie Clement",
         "Daulton Varsho",
-        "Kevin Gausman",
         "Andr\u00e9s Gim\u00e9nez",
+        "Kevin Gausman",
         "Brandon Valenzuela",
         "Jeff Hoffman",
         "Dylan Cease",
@@ -1213,11 +1231,11 @@
         "Nathan Lukes",
         "George Springer",
         "Mason Fluharty",
-        "Braydon Fisher",
         "Sean Keys",
+        "Braydon Fisher",
         "Tyler Rogers",
-        "Patrick Corbin",
         "Vladimir Guerrero Jr.",
+        "Patrick Corbin",
         "Myles Straw",
         "Alejandro Kirk",
         "Kazuma Okamoto"
