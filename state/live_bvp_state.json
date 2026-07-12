@@ -1,4 +1,11 @@
 {
   "date": "2026-07-12",
-  "games": {}
+  "games": {
+    "823358": {
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-12T12:15:17.126965-04:00"
+    }
+  }
 }
