@@ -1,3 +1,42 @@
 {
-  "2026-07-13": {}
+  "2026-07-14": {
+    "823443": {
+      "away_team": "American League All-Stars",
+      "home_team": "National League All-Stars",
+      "away_pitcher": "Dylan Cease",
+      "home_pitcher": "Cristopher S\u00e1nchez",
+      "away_pitcher_id": "656302",
+      "home_pitcher_id": "650911",
+      "away_pitcher_hand": null,
+      "home_pitcher_hand": null,
+      "away_pitcher_status": "probable",
+      "home_pitcher_status": "probable",
+      "away_pitcher_note": null,
+      "home_pitcher_note": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 6,
+        "losses": 4,
+        "era": "2.56",
+        "whip": "1.13",
+        "strikeouts": 148,
+        "innings_pitched": "98.1",
+        "games_started": 17
+      },
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 11,
+        "losses": 4,
+        "era": "2.62",
+        "whip": "1.19",
+        "strikeouts": 144,
+        "innings_pitched": "127.1",
+        "games_started": 20
+      },
+      "game_time": "Jul 14, 8:00 PM ET",
+      "game_iso": "2026-07-14T20:00:00-04:00",
+      "game_pk": "823443",
+      "status_code": "P"
+    }
+  }
 }
