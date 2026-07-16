@@ -1,4 +1,11 @@
 {
   "date": "2026-07-16",
-  "games": {}
+  "games": {
+    "823440": {
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-16T18:41:12.705455-04:00"
+    }
+  }
 }
