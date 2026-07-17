@@ -153,8 +153,28 @@
     "Los Angeles Dodgers @ New York Yankees | 823524": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "New York Yankees",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Max Muncy",
+        "Kyle Tucker",
+        "Teoscar Hern\u00e1ndez",
+        "Dalton Rushing",
+        "Tommy Edman"
+      ],
+      "home_lineup": [
+        "Trent Grisham",
+        "Ben Rice",
+        "Paul Goldschmidt",
+        "Cody Bellinger",
+        "Jasson Dom\u00ednguez",
+        "Jazz Chisholm Jr.",
+        "Jos\u00e9 Caballero",
+        "Ryan McMahon",
+        "Austin Wells"
+      ],
       "away_roster": [
         "Dalton Rushing",
         "Alex Vesia",
@@ -218,8 +238,28 @@
     "Pittsburgh Pirates @ Cleveland Guardians | 824414": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Cleveland Guardians",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Jake Mangum",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Esmerlyn Valdez",
+        "Ryan O'Hearn",
+        "Nick Gonzales",
+        "Marcell Ozuna",
+        "Jacob Gonzalez",
+        "Henry Davis"
+      ],
+      "home_lineup": [
+        "Travis Bazzana",
+        "Brayan Rocchio",
+        "Chase DeLauter",
+        "Kyle Manzardo",
+        "Rhys Hoskins",
+        "Kahlil Watson",
+        "Gabriel Arias",
+        "Austin Hedges",
+        "Steven Kwan"
+      ],
       "away_roster": [
         "Jacob Gonzalez",
         "Paul Skenes",
@@ -229,8 +269,8 @@
         "Jared Jones",
         "Gregory Soto",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -243,8 +283,8 @@
         "Tyler Callihan",
         "Ryan O'Hearn",
         "Nick Gonzales",
-        "Antwone Kelly",
         "Marcell Ozuna",
+        "Antwone Kelly",
         "Rafael Flores Jr.",
         "Braxton Ashcraft"
       ],
@@ -284,7 +324,17 @@
       "away_team": "Texas Rangers",
       "home_team": "Atlanta Braves",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Drake Baldwin",
+        "Ozzie Albies",
+        "Matt Olson",
+        "Michael Harris II",
+        "Mauricio Dub\u00f3n",
+        "Dominic Smith",
+        "Austin Riley",
+        "Jim Jarvis",
+        "Brewer Hicklen"
+      ],
       "away_roster": [
         "Evan Carter",
         "Wyatt Langford",
@@ -317,8 +367,8 @@
         "Owen Murphy",
         "Dylan Dodd",
         "Dylan Lee",
-        "Joey Bart",
         "Michael Harris II",
+        "Joey Bart",
         "Victor Mederos",
         "Jorge Mateo",
         "Mauricio Dub\u00f3n",
@@ -348,8 +398,28 @@
     "Chicago White Sox @ Toronto Blue Jays | 822789": {
       "away_team": "Chicago White Sox",
       "home_team": "Toronto Blue Jays",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Sam Antonacci",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Colson Montgomery",
+        "Andrew Benintendi",
+        "Kyle Teel",
+        "Braden Montgomery",
+        "Tristan Peters",
+        "Chase Meidroth"
+      ],
+      "home_lineup": [
+        "Ernie Clement",
+        "Vladimir Guerrero Jr.",
+        "Kazuma Okamoto",
+        "George Springer",
+        "Alejandro Kirk",
+        "Daulton Varsho",
+        "Brandon Valenzuela",
+        "Luis Ur\u00edas",
+        "Myles Straw"
+      ],
       "away_roster": [
         "Tristan Peters",
         "Anthony Kay",
@@ -357,8 +427,8 @@
         "Luisangel Acu\u00f1a",
         "Randal Grichuk",
         "Munetaka Murakami",
-        "Chase Meidroth",
         "Kyle Teel",
+        "Chase Meidroth",
         "Grant Taylor",
         "Junior Perez",
         "Colson Montgomery",
@@ -400,8 +470,8 @@
         "Braydon Fisher",
         "Sean Keys",
         "Tyler Rogers",
-        "Patrick Corbin",
         "Vladimir Guerrero Jr.",
+        "Patrick Corbin",
         "Myles Straw",
         "Alejandro Kirk",
         "Kazuma Okamoto"
@@ -478,7 +548,17 @@
     "Minnesota Twins @ Chicago Cubs | 824655": {
       "away_team": "Minnesota Twins",
       "home_team": "Chicago Cubs",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trevor Larnach",
+        "Ryan Jeffers",
+        "Josh Bell",
+        "Kody Clemens",
+        "Royce Lewis",
+        "Brooks Lee",
+        "Alan Roden",
+        "Luke Keaschall",
+        "Tristan Gray"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Tommy Nance",
