@@ -1,6 +1,24 @@
 {
   "date": "2026-07-17",
   "games": {
+    "822789": {
+      "active_pitcher_id": 693686,
+      "active_pitcher_name": "Spencer Miles",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T19:22:17.033443-04:00"
+    },
+    "823524": {
+      "active_pitcher_id": 808963,
+      "active_pitcher_name": "Roki Sasaki",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T19:22:12.183105-04:00"
+    },
+    "824737": {
+      "active_pitcher_id": 700842,
+      "active_pitcher_name": "Eduardo Rivera",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T19:22:09.653783-04:00"
+    },
     "824766": {
       "active_pitcher_id": 810938,
       "active_pitcher_name": "Ben Williamson",
@@ -8,6 +26,12 @@
         "687562:663743"
       ],
       "last_checked_at": "2026-07-17T15:43:31.417376-04:00"
+    },
+    "824901": {
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T19:22:14.582970-04:00"
     }
   }
 }
