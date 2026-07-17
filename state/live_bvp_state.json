@@ -1,4 +1,13 @@
 {
   "date": "2026-07-17",
-  "games": {}
+  "games": {
+    "824766": {
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
+      "alerted_pairs": [
+        "687562:663743"
+      ],
+      "last_checked_at": "2026-07-17T13:36:15.422697-04:00"
+    }
+  }
 }
