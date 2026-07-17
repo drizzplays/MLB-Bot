@@ -857,7 +857,17 @@
     "Detroit Tigers @ Los Angeles Angels | 824009": {
       "away_team": "Detroit Tigers",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Matt Vierling",
+        "Kevin McGonigle",
+        "Dillon Dingler",
+        "Spencer Torkelson",
+        "Riley Greene",
+        "Eduardo Valencia",
+        "Hao-Yu Lee",
+        "Ben Malgeri",
+        "Zach McKinstry"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
@@ -1139,7 +1149,6 @@
         "Drew Gilbert",
         "Sam Hentges",
         "Rafael Devers",
-        "Eric Haase",
         "Grant McCray",
         "Christian Koss",
         "Adrian Houser",
@@ -1148,7 +1157,8 @@
         "Erik Miller",
         "Landen Roupp",
         "Luis Arraez",
-        "Bryce Eldridge"
+        "Bryce Eldridge",
+        "Daniel Susac"
       ],
       "home_roster": [
         "Josh Naylor",
@@ -1230,7 +1240,6 @@
         "Tyler Callihan",
         "Ryan O'Hearn",
         "Nick Gonzales",
-        "Antwone Kelly",
         "Marcell Ozuna",
         "Rafael Flores Jr.",
         "Braxton Ashcraft"
@@ -1297,7 +1306,6 @@
         "Tyler Callihan",
         "Ryan O'Hearn",
         "Nick Gonzales",
-        "Antwone Kelly",
         "Marcell Ozuna",
         "Rafael Flores Jr.",
         "Braxton Ashcraft"
@@ -1362,7 +1370,6 @@
         "Tyler Callihan",
         "Ryan O'Hearn",
         "Nick Gonzales",
-        "Antwone Kelly",
         "Marcell Ozuna",
         "Rafael Flores Jr.",
         "Braxton Ashcraft"
