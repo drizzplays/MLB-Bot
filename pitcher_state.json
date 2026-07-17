@@ -56,7 +56,7 @@
       "game_time": "Jul 17, 7:05 PM ET",
       "game_iso": "2026-07-17T19:05:00-04:00",
       "game_pk": "823524",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824414": {
       "away_team": "Pittsburgh Pirates",
@@ -132,7 +132,7 @@
       "game_time": "Jul 17, 7:15 PM ET",
       "game_iso": "2026-07-17T19:15:00-04:00",
       "game_pk": "824901",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822789": {
       "away_team": "Chicago White Sox",
