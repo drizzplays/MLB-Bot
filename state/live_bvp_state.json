@@ -2,12 +2,12 @@
   "date": "2026-07-17",
   "games": {
     "824766": {
-      "active_pitcher_id": 687562,
-      "active_pitcher_name": "Jake Bennett",
+      "active_pitcher_id": 643377,
+      "active_pitcher_name": "Griffin Jax",
       "alerted_pairs": [
         "687562:663743"
       ],
-      "last_checked_at": "2026-07-17T13:36:15.422697-04:00"
+      "last_checked_at": "2026-07-17T14:38:20.644421-04:00"
     }
   }
 }
