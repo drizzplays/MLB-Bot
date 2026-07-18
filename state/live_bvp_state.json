@@ -1,4 +1,11 @@
 {
   "date": "2026-07-18",
-  "games": {}
+  "games": {
+    "824414": {
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-18T13:10:17.334417-04:00"
+    }
+  }
 }
