@@ -1,17 +1,29 @@
 {
   "date": "2026-07-18",
   "games": {
-    "824414": {
-      "active_pitcher_id": 683003,
-      "active_pitcher_name": "Jared Jones",
+    "823441": {
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-18T14:05:56.582839-04:00"
+      "last_checked_at": "2026-07-18T15:20:01.442712-04:00"
+    },
+    "824331": {
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-18T15:20:04.225133-04:00"
+    },
+    "824414": {
+      "active_pitcher_id": 676051,
+      "active_pitcher_name": "Codi Heuer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-18T15:19:55.900515-04:00"
     },
     "824657": {
-      "active_pitcher_id": 571510,
-      "active_pitcher_name": "Matthew Boyd",
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-18T14:05:58.555687-04:00"
+      "last_checked_at": "2026-07-18T15:19:58.805615-04:00"
     }
   }
 }
