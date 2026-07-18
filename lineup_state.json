@@ -522,10 +522,10 @@
         "Taylor Ward",
         "Pete Alonso",
         "Samuel Basallo",
-        "Dylan Beavers",
-        "Colton Cowser",
+        "Tyler O'Neill",
+        "Leody Taveras",
         "Christian Encarnacion-Strand",
-        "Jackson Holliday"
+        "Jeremiah Jackson"
       ],
       "home_lineup": [
         "Nick Allen",
@@ -704,9 +704,9 @@
         "Gabriel Moreno",
         "Max Kepler",
         "Nolan Arenado",
-        "Tim Tawa",
+        "Ildemaro Vargas",
         "James McCann",
-        "Ryan Waldschmidt"
+        "Jorge Barrosa"
       ],
       "away_roster": [
         "Michael McGreevy",
@@ -790,8 +790,8 @@
         "Romy Gonzalez",
         "Caleb Durbin",
         "Andruw Monasterio",
-        "Jahmai Jones",
-        "Carlos Narv\u00e1ez"
+        "Jarren Duran",
+        "Connor Wong"
       ],
       "away_roster": [
         "Taylor Walls",
@@ -875,7 +875,7 @@
         "Mauricio Dub\u00f3n",
         "Eli White",
         "Austin Riley",
-        "Joey Bart",
+        "Raisel Iglesias",
         "Jim Jarvis"
       ],
       "away_roster": [
@@ -1195,7 +1195,17 @@
     "Detroit Tigers @ Los Angeles Angels | 824008": {
       "away_team": "Detroit Tigers",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kevin McGonigle",
+        "Dillon Dingler",
+        "Colt Keith",
+        "Riley Greene",
+        "Spencer Torkelson",
+        "Kerry Carpenter",
+        "Zach McKinstry",
+        "Matt Vierling",
+        "James Outman"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
@@ -1208,11 +1218,11 @@
         "Logan O'Hoppe"
       ],
       "away_roster": [
+        "Framber Valdez",
         "Zach McKinstry",
         "Tarik Skubal",
         "Casey Mize",
         "Hao-Yu Lee",
-        "Beau Brieske",
         "Drew Anderson",
         "Riley Greene",
         "Eduardo Valencia",
@@ -1675,6 +1685,7 @@
       "home_lineup": [],
       "away_roster": [
         "Evan Carter",
+        "Jose Corniell",
         "Wyatt Langford",
         "Kumar Rocker",
         "Jake Burger",
@@ -1684,7 +1695,6 @@
         "Joc Pederson",
         "Jacob Latz",
         "Cal Quantrill",
-        "Emiliano Teodo",
         "Nicky Lopez",
         "Josh Jung",
         "Robby Ahlstrom",
@@ -1692,10 +1702,10 @@
         "Kyle Higashioka",
         "Ezequiel Duran",
         "MacKenzie Gore",
-        "Gavin Collyer",
         "Jacob deGrom",
         "Brandon Nimmo",
         "Ben Peoples",
+        "Jakob Junis",
         "Elias D\u00edaz",
         "Cam Cauley",
         "Nathan Eovaldi",
@@ -2157,26 +2167,27 @@
       "home_roster": [
         "Lawrence Butler",
         "Jonah Heim",
-        "Donovan Walton",
         "J.T. Ginn",
         "Jeff McNeil",
         "Justin Sterner",
+        "Mason Barnett",
         "Joshua Kuroda-Grauer",
+        "Brian Serven",
         "Carlos Cortes",
         "Jos\u00e9 Suarez",
+        "Joey Meneses",
         "Jacob Lopez",
         "Alika Williams",
         "Tyler Soderstrom",
-        "Brady Basso",
         "Gage Jump",
         "Elvis Alvarado",
+        "Aaron Civale",
         "Hogan Harris",
         "Luis Medina",
         "Henry Bolte",
         "Colby Thomas",
         "Shea Langeliers",
         "Mark Leiter Jr.",
-        "Yunior Tur",
         "Jack Perkins",
         "Jeffrey Springs",
         "Jacob Wilson"
