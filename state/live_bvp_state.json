@@ -2,22 +2,52 @@
   "date": "2026-07-17",
   "games": {
     "822789": {
-      "active_pitcher_id": 693686,
-      "active_pitcher_name": "Spencer Miles",
+      "active_pitcher_id": 671936,
+      "active_pitcher_name": "Adam Macko",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-17T19:22:17.033443-04:00"
+      "last_checked_at": "2026-07-17T20:53:55.703507-04:00"
     },
     "823524": {
-      "active_pitcher_id": 808963,
-      "active_pitcher_name": "Roki Sasaki",
+      "active_pitcher_id": 676263,
+      "active_pitcher_name": "Jack Dreyer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-17T19:22:12.183105-04:00"
+      "last_checked_at": "2026-07-17T20:53:50.493887-04:00"
+    },
+    "823766": {
+      "active_pitcher_id": 701656,
+      "active_pitcher_name": "Logan Henderson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T20:53:58.446193-04:00"
+    },
+    "824090": {
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T20:54:05.951489-04:00"
+    },
+    "824170": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T20:54:03.470000-04:00"
+    },
+    "824332": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T20:54:08.350435-04:00"
+    },
+    "824655": {
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-17T20:54:00.949476-04:00"
     },
     "824737": {
-      "active_pitcher_id": 700842,
-      "active_pitcher_name": "Eduardo Rivera",
+      "active_pitcher_id": 594027,
+      "active_pitcher_name": "Tyron Guerrero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-17T19:22:09.653783-04:00"
+      "last_checked_at": "2026-07-17T20:53:47.942108-04:00"
     },
     "824766": {
       "active_pitcher_id": 810938,
@@ -28,10 +58,10 @@
       "last_checked_at": "2026-07-17T15:43:31.417376-04:00"
     },
     "824901": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
+      "active_pitcher_id": 693713,
+      "active_pitcher_name": "Emiliano Teodo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-17T19:22:14.582970-04:00"
+      "last_checked_at": "2026-07-17T20:53:52.988328-04:00"
     }
   }
 }
