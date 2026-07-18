@@ -7,7 +7,7 @@
         "Jake Mangum",
         "Brandon Lowe",
         "Bryan Reynolds",
-        "Esmerlyn Valdez",
+        "Billy Cook",
         "Ryan O'Hearn",
         "Nick Gonzales",
         "Tyler Callihan",
@@ -494,7 +494,17 @@
     "Baltimore Orioles @ Houston Astros | 824169": {
       "away_team": "Baltimore Orioles",
       "home_team": "Houston Astros",
-      "away_lineup": [],
+      "away_lineup": [
+        "Adley Rutschman",
+        "Gunnar Henderson",
+        "Taylor Ward",
+        "Pete Alonso",
+        "Samuel Basallo",
+        "Dylan Beavers",
+        "Colton Cowser",
+        "Christian Encarnacion-Strand",
+        "Jackson Holliday"
+      ],
       "home_lineup": [
         "Jeremy Pe\u00f1a",
         "Yordan Alvarez",
@@ -516,8 +526,8 @@
         "Brandon Young",
         "Gunnar Henderson",
         "Leody Taveras",
-        "Shane Baz",
         "Taylor Ward",
+        "Shane Baz",
         "Kyle Bradish",
         "Albert Su\u00e1rez",
         "Dylan Beavers",
@@ -528,8 +538,8 @@
         "Jackson Holliday",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
@@ -923,12 +933,12 @@
       "home_lineup": [
         "Christian Yelich",
         "Jackson Chourio",
-        "Brice Turang",
-        "William Contreras",
         "Jake Bauers",
+        "William Contreras",
         "Garrett Mitchell",
         "Luis Lara",
         "Cooper Pratt",
+        "Braden Shewmake",
         "Joey Ortiz"
       ],
       "away_roster": [
@@ -979,8 +989,8 @@
         "Blake Perkins",
         "Lance McCullers Jr.",
         "William Contreras",
-        "Brice Turang",
         "Robert Gasser",
+        "Brice Turang",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "Bryse Wilson",
