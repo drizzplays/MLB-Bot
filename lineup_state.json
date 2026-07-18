@@ -4,7 +4,17 @@
       "away_team": "Pittsburgh Pirates",
       "home_team": "Cleveland Guardians",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Travis Bazzana",
+        "Brayan Rocchio",
+        "Chase DeLauter",
+        "Kyle Manzardo",
+        "Rhys Hoskins",
+        "Kahlil Watson",
+        "Gabriel Arias",
+        "Patrick Bailey",
+        "Steven Kwan"
+      ],
       "away_roster": [
         "Jacob Gonzalez",
         "Paul Skenes",
@@ -47,6 +57,7 @@
         "Gabriel Arias",
         "Matt Festa",
         "Colin Holderman",
+        "Logan Allen",
         "Franco Aleman",
         "David Fry",
         "Cade Smith",
