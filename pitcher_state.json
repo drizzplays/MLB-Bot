@@ -38,44 +38,6 @@
       "game_pk": "824412",
       "status_code": "P"
     },
-    "824738": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Ian Seymour",
-      "home_pitcher": "Patrick Sandoval",
-      "away_pitcher_id": "693855",
-      "home_pitcher_id": "663776",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 2,
-        "era": "4.59",
-        "whip": "1.16",
-        "strikeouts": 75,
-        "innings_pitched": "64.2",
-        "games_started": 6
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 0,
-        "era": "2.08",
-        "whip": "1.38",
-        "strikeouts": 5,
-        "innings_pitched": "4.1",
-        "games_started": 1
-      },
-      "game_time": "Jul 18, 4:10 PM ET",
-      "game_iso": "2026-07-18T16:10:00-04:00",
-      "game_pk": "824738",
-      "status_code": "P"
-    },
     "823116": {
       "away_team": "San Francisco Giants",
       "home_team": "Seattle Mariners",
