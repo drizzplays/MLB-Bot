@@ -2,10 +2,16 @@
   "date": "2026-07-18",
   "games": {
     "824414": {
-      "active_pitcher_id": 668909,
-      "active_pitcher_name": "Gavin Williams",
+      "active_pitcher_id": 683003,
+      "active_pitcher_name": "Jared Jones",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-18T13:10:17.334417-04:00"
+      "last_checked_at": "2026-07-18T14:05:56.582839-04:00"
+    },
+    "824657": {
+      "active_pitcher_id": 571510,
+      "active_pitcher_name": "Matthew Boyd",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-18T14:05:58.555687-04:00"
     }
   }
 }
