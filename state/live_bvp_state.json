@@ -25,6 +25,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-18T19:05:11.424232-04:00"
     },
+    "824008": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-18T23:46:28.297708-04:00"
+    },
     "824088": {
       "active_pitcher_id": 663362,
       "active_pitcher_name": "Matt Waldron",
@@ -66,6 +72,12 @@
       "active_pitcher_name": "Jacob Latz",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-18T19:05:08.934571-04:00"
+    },
+    "824979": {
+      "active_pitcher_id": 641793,
+      "active_pitcher_name": "Zack Littell",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-18T23:46:25.611168-04:00"
     },
     "825059": {
       "active_pitcher_id": 657044,
