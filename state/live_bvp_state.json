@@ -14,10 +14,10 @@
       "last_checked_at": "2026-07-19T13:55:22.090817-04:00"
     },
     "823523": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+      "active_pitcher_id": 656234,
+      "active_pitcher_name": "Jake Bird",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T12:53:52.137400-04:00"
+      "last_checked_at": "2026-07-19T15:00:20.303728-04:00"
     },
     "823764": {
       "active_pitcher_id": 688107,
@@ -39,17 +39,29 @@
       ],
       "last_checked_at": "2026-07-19T13:55:28.186774-04:00"
     },
+    "824330": {
+      "active_pitcher_id": 663372,
+      "active_pitcher_name": "Ryan Feltner",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T15:00:26.614043-04:00"
+    },
     "824411": {
       "active_pitcher_id": 694973,
       "active_pitcher_name": "Paul Skenes",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-19T13:55:26.168750-04:00"
     },
-    "824739": {
-      "active_pitcher_id": 663556,
-      "active_pitcher_name": "Shane McClanahan",
+    "824653": {
+      "active_pitcher_id": 805673,
+      "active_pitcher_name": "Zebby Matthews",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T13:55:20.025900-04:00"
+      "last_checked_at": "2026-07-19T15:00:24.860699-04:00"
+    },
+    "824739": {
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T15:00:22.844916-04:00"
     },
     "824897": {
       "active_pitcher_id": 656550,
