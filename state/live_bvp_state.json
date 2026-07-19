@@ -19,6 +19,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-19T16:09:29.731769-04:00"
     },
+    "823521": {
+      "active_pitcher_id": 642232,
+      "active_pitcher_name": "Ryan Yarbrough",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T19:05:40.300193-04:00"
+    },
     "823523": {
       "active_pitcher_id": 656234,
       "active_pitcher_name": "Jake Bird",
@@ -88,12 +94,12 @@
       "last_checked_at": "2026-07-19T18:04:35.138518-04:00"
     },
     "825057": {
-      "active_pitcher_id": 669467,
-      "active_pitcher_name": "Andre Pallante",
+      "active_pitcher_id": 700669,
+      "active_pitcher_name": "Gordon Graceffo",
       "alerted_pairs": [
         "669467:680728"
       ],
-      "last_checked_at": "2026-07-19T17:05:15.768444-04:00"
+      "last_checked_at": "2026-07-19T19:05:42.839426-04:00"
     }
   }
 }
