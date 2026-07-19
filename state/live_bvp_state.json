@@ -2,16 +2,60 @@
   "date": "2026-07-19",
   "games": {
     "822786": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 689254,
+      "active_pitcher_name": "Mason Fluharty",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T12:53:49.954553-04:00"
+      "last_checked_at": "2026-07-19T13:55:17.499243-04:00"
+    },
+    "823439": {
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T13:55:22.090817-04:00"
     },
     "823523": {
       "active_pitcher_id": 693645,
       "active_pitcher_name": "Cam Schlittler",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-19T12:53:52.137400-04:00"
+    },
+    "823764": {
+      "active_pitcher_id": 688107,
+      "active_pitcher_name": "Robert Gasser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T13:55:34.518223-04:00"
+    },
+    "824086": {
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T13:55:32.505441-04:00"
+    },
+    "824168": {
+      "active_pitcher_id": 686613,
+      "active_pitcher_name": "Hunter Brown",
+      "alerted_pairs": [
+        "686613:621493"
+      ],
+      "last_checked_at": "2026-07-19T13:55:28.186774-04:00"
+    },
+    "824411": {
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T13:55:26.168750-04:00"
+    },
+    "824739": {
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T13:55:20.025900-04:00"
+    },
+    "824897": {
+      "active_pitcher_id": 656550,
+      "active_pitcher_name": "Grant Holmes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T13:55:24.152247-04:00"
     }
   }
 }
