@@ -7,11 +7,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-19T13:55:17.499243-04:00"
     },
-    "823439": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+    "823113": {
+      "active_pitcher_id": 669302,
+      "active_pitcher_name": "Logan Gilbert",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T13:55:22.090817-04:00"
+      "last_checked_at": "2026-07-19T16:09:53.140542-04:00"
+    },
+    "823439": {
+      "active_pitcher_id": 686751,
+      "active_pitcher_name": "Seth Johnson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T16:09:29.731769-04:00"
     },
     "823523": {
       "active_pitcher_id": 656234,
@@ -20,42 +26,48 @@
       "last_checked_at": "2026-07-19T15:00:20.303728-04:00"
     },
     "823764": {
-      "active_pitcher_id": 688107,
-      "active_pitcher_name": "Robert Gasser",
+      "active_pitcher_id": 694477,
+      "active_pitcher_name": "Chad Patrick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T13:55:34.518223-04:00"
+      "last_checked_at": "2026-07-19T16:09:41.410530-04:00"
+    },
+    "824007": {
+      "active_pitcher_id": 696270,
+      "active_pitcher_name": "Ryan Johnson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T16:09:50.901868-04:00"
     },
     "824086": {
-      "active_pitcher_id": 702070,
-      "active_pitcher_name": "Noah Cameron",
+      "active_pitcher_id": 694360,
+      "active_pitcher_name": "Beck Way",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T13:55:32.505441-04:00"
+      "last_checked_at": "2026-07-19T16:09:39.313245-04:00"
     },
     "824168": {
-      "active_pitcher_id": 686613,
-      "active_pitcher_name": "Hunter Brown",
+      "active_pitcher_id": 678906,
+      "active_pitcher_name": "Kai-Wei Teng",
       "alerted_pairs": [
         "686613:621493"
       ],
-      "last_checked_at": "2026-07-19T13:55:28.186774-04:00"
+      "last_checked_at": "2026-07-19T16:09:36.839324-04:00"
     },
     "824330": {
-      "active_pitcher_id": 663372,
-      "active_pitcher_name": "Ryan Feltner",
+      "active_pitcher_id": 668881,
+      "active_pitcher_name": "Hunter Greene",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T15:00:26.614043-04:00"
+      "last_checked_at": "2026-07-19T16:09:46.709392-04:00"
     },
     "824411": {
-      "active_pitcher_id": 694973,
-      "active_pitcher_name": "Paul Skenes",
+      "active_pitcher_id": 702021,
+      "active_pitcher_name": "Will Dion",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T13:55:26.168750-04:00"
+      "last_checked_at": "2026-07-19T16:09:34.513789-04:00"
     },
     "824653": {
-      "active_pitcher_id": 805673,
-      "active_pitcher_name": "Zebby Matthews",
+      "active_pitcher_id": 701519,
+      "active_pitcher_name": "Travis Adams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T15:00:24.860699-04:00"
+      "last_checked_at": "2026-07-19T16:09:44.121521-04:00"
     },
     "824739": {
       "active_pitcher_id": 543243,
@@ -64,10 +76,22 @@
       "last_checked_at": "2026-07-19T15:00:22.844916-04:00"
     },
     "824897": {
-      "active_pitcher_id": 656550,
-      "active_pitcher_name": "Grant Holmes",
+      "active_pitcher_id": 687239,
+      "active_pitcher_name": "Ben Peoples",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-19T13:55:24.152247-04:00"
+      "last_checked_at": "2026-07-19T16:09:32.333895-04:00"
+    },
+    "824978": {
+      "active_pitcher_id": 682052,
+      "active_pitcher_name": "Jacob Lopez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T16:09:48.794939-04:00"
+    },
+    "825057": {
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T16:09:55.290410-04:00"
     }
   }
 }
