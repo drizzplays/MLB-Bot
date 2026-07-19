@@ -322,7 +322,7 @@
       "game_time": "Jul 19, 2:10 PM ET",
       "game_iso": "2026-07-19T14:10:00-04:00",
       "game_pk": "824086",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823764": {
       "away_team": "Miami Marlins",
@@ -398,7 +398,7 @@
       "game_time": "Jul 19, 2:20 PM ET",
       "game_iso": "2026-07-19T14:20:00-04:00",
       "game_pk": "824653",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824330": {
       "away_team": "Cincinnati Reds",
