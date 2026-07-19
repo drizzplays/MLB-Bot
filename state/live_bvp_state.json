@@ -1,4 +1,17 @@
 {
   "date": "2026-07-19",
-  "games": {}
+  "games": {
+    "822786": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T12:53:49.954553-04:00"
+    },
+    "823523": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-19T12:53:52.137400-04:00"
+    }
+  }
 }
