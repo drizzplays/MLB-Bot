@@ -36,7 +36,7 @@
       "game_time": "Jul 19, 12:15 PM ET",
       "game_iso": "2026-07-19T12:15:00-04:00",
       "game_pk": "822786",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823523": {
       "away_team": "Los Angeles Dodgers",
@@ -74,7 +74,7 @@
       "game_time": "Jul 19, 12:35 PM ET",
       "game_iso": "2026-07-19T12:35:00-04:00",
       "game_pk": "823523",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823521": {
       "away_team": "Los Angeles Dodgers",
@@ -132,7 +132,7 @@
       "game_time": "Jul 19, 1:35 PM ET",
       "game_iso": "2026-07-19T13:35:00-04:00",
       "game_pk": "824739",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823439": {
       "away_team": "New York Mets",
