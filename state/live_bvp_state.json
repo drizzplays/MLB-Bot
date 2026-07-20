@@ -1,4 +1,41 @@
 {
   "date": "2026-07-20",
-  "games": {}
+  "games": {
+    "822788": {
+      "active_pitcher_id": 607259,
+      "active_pitcher_name": "Nick Martinez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T19:17:00.830316-04:00"
+    },
+    "823436": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T19:17:05.853959-04:00"
+    },
+    "823522": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T19:16:58.360120-04:00"
+    },
+    "824410": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T19:16:55.826428-04:00"
+    },
+    "824736": {
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T19:17:03.376153-04:00"
+    },
+    "824898": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T19:17:08.316548-04:00"
+    }
+  }
 }
