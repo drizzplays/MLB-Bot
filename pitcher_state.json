@@ -340,7 +340,7 @@
       "game_time": "Jul 20, 8:05 PM ET",
       "game_iso": "2026-07-20T20:05:00-04:00",
       "game_pk": "824654",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822874": {
       "away_team": "Chicago White Sox",
@@ -407,7 +407,7 @@
       "game_time": "Jul 20, 8:10 PM ET",
       "game_iso": "2026-07-20T20:10:00-04:00",
       "game_pk": "824167",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824328": {
       "away_team": "Washington Nationals",
@@ -445,7 +445,7 @@
       "game_time": "Jul 20, 8:40 PM ET",
       "game_iso": "2026-07-20T20:40:00-04:00",
       "game_pk": "824328",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825058": {
       "away_team": "Athletics",
@@ -521,7 +521,7 @@
       "game_time": "Jul 20, 9:40 PM ET",
       "game_iso": "2026-07-20T21:40:00-04:00",
       "game_pk": "823112",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824006": {
       "away_team": "St. Louis Cardinals",
