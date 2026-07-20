@@ -483,7 +483,7 @@
       "game_time": "Jul 20, 9:40 PM ET",
       "game_iso": "2026-07-20T21:40:00-04:00",
       "game_pk": "825058",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823112": {
       "away_team": "Cincinnati Reds",
@@ -559,7 +559,7 @@
       "game_time": "Jul 20, 10:10 PM ET",
       "game_iso": "2026-07-20T22:10:00-04:00",
       "game_pk": "824006",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
