@@ -176,13 +176,13 @@
       "away_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
-        "Freddie Freeman",
+        "Alex Freeland",
         "Mookie Betts",
         "Kyle Tucker",
-        "Miguel Rojas",
+        "Tommy Edman",
         "Teoscar Hern\u00e1ndez",
         "Max Muncy",
-        "Eliezer Alfonzo"
+        "Dalton Rushing"
       ],
       "home_lineup": [
         "Trent Grisham",
@@ -191,7 +191,7 @@
         "Cody Bellinger",
         "Jasson Dom\u00ednguez",
         "Jazz Chisholm Jr.",
-        "Anthony Volpe",
+        "Ryan McMahon",
         "Austin Wells",
         "Jos\u00e9 Caballero"
       ],
@@ -1028,7 +1028,7 @@
       "away_lineup": [
         "James Wood",
         "Curtis Mead",
-        "Andr\u00e9s Chaparro",
+        "Luis Garc\u00eda Jr.",
         "CJ Abrams",
         "Dylan Crews",
         "Harry Ford",
@@ -1043,9 +1043,9 @@
         "Jonah Heim",
         "Joshua Kuroda-Grauer",
         "Carlos Cortes",
-        "Tommy White",
-        "Henry Bolte",
-        "Alika Williams"
+        "Donovan Walton",
+        "Jeff McNeil",
+        "Lawrence Butler"
       ],
       "away_roster": [
         "CJ Abrams",
@@ -1080,8 +1080,8 @@
         "Tommy White",
         "Donovan Walton",
         "J.T. Ginn",
-        "Geoff Hartlieb",
         "Jeff McNeil",
+        "Geoff Hartlieb",
         "Joshua Kuroda-Grauer",
         "Carlos Cortes",
         "Jos\u00e9 Suarez",
@@ -1213,7 +1213,7 @@
         "Cal Raleigh",
         "Josh Naylor",
         "Mitch Garver",
-        "Luke Raley",
+        "Victor Robles",
         "Colt Emerson"
       ],
       "away_roster": [
@@ -1281,7 +1281,7 @@
       "home_team": "Arizona Diamondbacks",
       "away_lineup": [
         "JJ Wetherholt",
-        "Iv\u00e1n Herrera",
+        "Pedro Pag\u00e9s",
         "Jordan Walker",
         "Nathan Church",
         "Alec Burleson",
@@ -1293,19 +1293,19 @@
       "home_lineup": [
         "Ketel Marte",
         "Geraldo Perdomo",
-        "Corbin Carroll",
+        "Jorge Barrosa",
         "Gabriel Moreno",
         "Max Kepler",
         "Tyler Locklear",
         "Nolan Arenado",
-        "Adrian Del Castillo",
+        "Tim Tawa",
         "Ryan Waldschmidt"
       ],
       "away_roster": [
         "Michael McGreevy",
         "Matt Svanson",
-        "Jordan Walker",
         "Bryan Torres",
+        "Jordan Walker",
         "Nathan Church",
         "Kyle Leahy",
         "Lars Nootbaar",
@@ -1319,8 +1319,8 @@
         "Riley O'Brien",
         "Andre Pallante",
         "George Soriano",
-        "Matthew Liberatore",
         "Pedro Pag\u00e9s",
+        "Matthew Liberatore",
         "Ryne Stanek",
         "Luis Gastelum",
         "Dustin May",
@@ -1332,8 +1332,8 @@
       "home_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Tim Tawa",
+        "Brandon Pfaadt",
         "Adrian Del Castillo",
         "Nolan Arenado",
         "Tyler Locklear",
@@ -1985,6 +1985,7 @@
       ],
       "home_roster": [
         "Evan Carter",
+        "Jose Corniell",
         "Wyatt Langford",
         "Kumar Rocker",
         "Jake Burger",
@@ -1994,7 +1995,6 @@
         "Joc Pederson",
         "Jacob Latz",
         "Cal Quantrill",
-        "Emiliano Teodo",
         "Nicky Lopez",
         "Josh Jung",
         "Robby Ahlstrom",
@@ -2002,10 +2002,10 @@
         "Kyle Higashioka",
         "Ezequiel Duran",
         "MacKenzie Gore",
-        "Gavin Collyer",
         "Jacob deGrom",
         "Brandon Nimmo",
         "Ben Peoples",
+        "Jakob Junis",
         "Elias D\u00edaz",
         "Cam Cauley",
         "Nathan Eovaldi",
