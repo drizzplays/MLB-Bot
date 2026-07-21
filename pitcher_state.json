@@ -36,7 +36,7 @@
       "game_time": "Jul 21, 6:40 PM ET",
       "game_iso": "2026-07-21T18:40:00-04:00",
       "game_pk": "824409",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823437": {
       "away_team": "Los Angeles Dodgers",
@@ -74,7 +74,7 @@
       "game_time": "Jul 21, 6:40 PM ET",
       "game_iso": "2026-07-21T18:40:00-04:00",
       "game_pk": "823437",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822787": {
       "away_team": "Tampa Bay Rays",
@@ -112,7 +112,7 @@
       "game_time": "Jul 21, 7:07 PM ET",
       "game_iso": "2026-07-21T19:07:00-04:00",
       "game_pk": "822787",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824735": {
       "away_team": "Baltimore Orioles",
@@ -150,7 +150,7 @@
       "game_time": "Jul 21, 7:10 PM ET",
       "game_iso": "2026-07-21T19:10:00-04:00",
       "game_pk": "824735",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824895": {
       "away_team": "San Diego Padres",
@@ -188,7 +188,7 @@
       "game_time": "Jul 21, 7:15 PM ET",
       "game_iso": "2026-07-21T19:15:00-04:00",
       "game_pk": "824895",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824085": {
       "away_team": "San Francisco Giants",
@@ -226,7 +226,7 @@
       "game_time": "Jul 21, 7:40 PM ET",
       "game_iso": "2026-07-21T19:40:00-04:00",
       "game_pk": "824085",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823760": {
       "away_team": "New York Mets",
@@ -264,7 +264,7 @@
       "game_time": "Jul 21, 7:40 PM ET",
       "game_iso": "2026-07-21T19:40:00-04:00",
       "game_pk": "823760",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824652": {
       "away_team": "Detroit Tigers",
@@ -340,7 +340,7 @@
       "game_time": "Jul 21, 8:05 PM ET",
       "game_iso": "2026-07-21T20:05:00-04:00",
       "game_pk": "822871",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824165": {
       "away_team": "Miami Marlins",
@@ -378,7 +378,7 @@
       "game_time": "Jul 21, 8:10 PM ET",
       "game_iso": "2026-07-21T20:10:00-04:00",
       "game_pk": "824165",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824329": {
       "away_team": "Washington Nationals",
