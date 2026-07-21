@@ -302,7 +302,7 @@
       "game_time": "Jul 21, 8:05 PM ET",
       "game_iso": "2026-07-21T20:05:00-04:00",
       "game_pk": "824652",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822871": {
       "away_team": "Chicago White Sox",
@@ -416,7 +416,7 @@
       "game_time": "Jul 21, 8:40 PM ET",
       "game_iso": "2026-07-21T20:40:00-04:00",
       "game_pk": "824329",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824005": {
       "away_team": "St. Louis Cardinals",
@@ -454,7 +454,7 @@
       "game_time": "Jul 21, 9:38 PM ET",
       "game_iso": "2026-07-21T21:38:00-04:00",
       "game_pk": "824005",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825056": {
       "away_team": "Athletics",
@@ -521,7 +521,7 @@
       "game_time": "Jul 21, 9:40 PM ET",
       "game_iso": "2026-07-21T21:40:00-04:00",
       "game_pk": "823114",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
