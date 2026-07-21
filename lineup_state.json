@@ -193,7 +193,7 @@
         "Kazuma Okamoto",
         "Brandon Valenzuela",
         "Andr\u00e9s Gim\u00e9nez",
-        "Jonatan Clase"
+        "Myles Straw"
       ],
       "away_roster": [
         "Taylor Walls",
@@ -938,7 +938,17 @@
     "Athletics @ Arizona Diamondbacks | 825056": {
       "away_team": "Athletics",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jacob Wilson",
+        "Tyler Soderstrom",
+        "Shea Langeliers",
+        "Jonah Heim",
+        "Tommy White",
+        "Max Muncy",
+        "Henry Bolte",
+        "Lawrence Butler",
+        "Alika Williams"
+      ],
       "home_lineup": [
         "Ketel Marte",
         "Geraldo Perdomo",
@@ -1024,7 +1034,17 @@
         "TJ Friedl",
         "Edwin Arroyo"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Cole Young",
+        "Randy Arozarena",
+        "Dominic Canzone",
+        "Cal Raleigh",
+        "Josh Naylor",
+        "Luke Raley",
+        "Victor Robles",
+        "Colt Emerson",
+        "Weston Wilson"
+      ],
       "away_roster": [
         "Hunter Greene",
         "Elly De La Cruz",
@@ -1139,6 +1159,7 @@
         "Anthony Volpe",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
+        "Max Fried",
         "Camilo Doval",
         "Trent Grisham",
         "David Bednar",
@@ -1356,6 +1377,7 @@
         "Anthony Volpe",
         "Cody Bellinger",
         "Jazz Chisholm Jr.",
+        "Max Fried",
         "Camilo Doval",
         "Trent Grisham",
         "David Bednar",
