@@ -1,43 +1,5 @@
 {
   "2026-07-21": {
-    "824409": {
-      "away_team": "Minnesota Twins",
-      "home_team": "Cleveland Guardians",
-      "away_pitcher": "Kendry Rojas",
-      "home_pitcher": "Parker Messick",
-      "away_pitcher_id": "696070",
-      "home_pitcher_id": "800048",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 1,
-        "era": "2.79",
-        "whip": "1.60",
-        "strikeouts": 22,
-        "innings_pitched": "19.1",
-        "games_started": 2
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 5,
-        "era": "2.73",
-        "whip": "1.07",
-        "strikeouts": 110,
-        "innings_pitched": "112.0",
-        "games_started": 19
-      },
-      "game_time": "Jul 21, 6:40 PM ET",
-      "game_iso": "2026-07-21T18:40:00-04:00",
-      "game_pk": "824409",
-      "status_code": "P"
-    },
     "823437": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "Philadelphia Phillies",
@@ -74,82 +36,6 @@
       "game_time": "Jul 21, 6:40 PM ET",
       "game_iso": "2026-07-21T18:40:00-04:00",
       "game_pk": "823437",
-      "status_code": "P"
-    },
-    "822787": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Toronto Blue Jays",
-      "away_pitcher": "Drew Rasmussen",
-      "home_pitcher": "Kevin Gausman",
-      "away_pitcher_id": "656876",
-      "home_pitcher_id": "592332",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 5,
-        "era": "3.26",
-        "whip": "0.95",
-        "strikeouts": 98,
-        "innings_pitched": "99.1",
-        "games_started": 18
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 8,
-        "era": "4.33",
-        "whip": "1.22",
-        "strikeouts": 116,
-        "innings_pitched": "112.1",
-        "games_started": 20
-      },
-      "game_time": "Jul 21, 7:07 PM ET",
-      "game_iso": "2026-07-21T19:07:00-04:00",
-      "game_pk": "822787",
-      "status_code": "P"
-    },
-    "824895": {
-      "away_team": "San Diego Padres",
-      "home_team": "Atlanta Braves",
-      "away_pitcher": "Walker Buehler",
-      "home_pitcher": "Reynaldo L\u00f3pez",
-      "away_pitcher_id": "621111",
-      "home_pitcher_id": "625643",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 5,
-        "era": "5.36",
-        "whip": "1.44",
-        "strikeouts": 81,
-        "innings_pitched": "89.0",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 2,
-        "era": "3.50",
-        "whip": "1.26",
-        "strikeouts": 54,
-        "innings_pitched": "61.2",
-        "games_started": 9
-      },
-      "game_time": "Jul 21, 7:15 PM ET",
-      "game_iso": "2026-07-21T19:15:00-04:00",
-      "game_pk": "824895",
       "status_code": "P"
     },
     "824085": {
