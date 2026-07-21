@@ -13,6 +13,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-20T20:13:45.218424-04:00"
     },
+    "823112": {
+      "active_pitcher_id": 657571,
+      "active_pitcher_name": "Caleb Ferguson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T23:49:37.424811-04:00"
+    },
     "823436": {
       "active_pitcher_id": 650911,
       "active_pitcher_name": "Cristopher S\u00e1nchez",
@@ -30,6 +36,12 @@
       "active_pitcher_name": "Freddy Peralta",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-20T20:13:40.880939-04:00"
+    },
+    "824006": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T23:49:39.923741-04:00"
     },
     "824087": {
       "active_pitcher_id": 608379,
@@ -52,10 +64,12 @@
       "last_checked_at": "2026-07-20T20:13:27.122892-04:00"
     },
     "824654": {
-      "active_pitcher_id": 592791,
-      "active_pitcher_name": "Jameson Taillon",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-20T20:13:43.099083-04:00"
+      "active_pitcher_id": 665871,
+      "active_pitcher_name": "Javier Assad",
+      "alerted_pairs": [
+        "665871:679529"
+      ],
+      "last_checked_at": "2026-07-20T23:49:30.145175-04:00"
     },
     "824736": {
       "active_pitcher_id": 801139,
@@ -68,6 +82,12 @@
       "active_pitcher_name": "Bryce Elder",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-20T19:17:08.316548-04:00"
+    },
+    "825058": {
+      "active_pitcher_id": 665622,
+      "active_pitcher_name": "Luis Medina",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-20T23:49:34.930704-04:00"
     }
   }
 }
