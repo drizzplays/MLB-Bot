@@ -421,9 +421,9 @@
     "824329": {
       "away_team": "Washington Nationals",
       "home_team": "Colorado Rockies",
-      "away_pitcher": "Miles Mikolas",
+      "away_pitcher": "Carson Palmquist",
       "home_pitcher": "Michael Lorenzen",
-      "away_pitcher_id": "571945",
+      "away_pitcher_id": "687223",
       "home_pitcher_id": "547179",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -433,13 +433,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 3,
-        "losses": 7,
-        "era": "5.53",
-        "whip": "1.33",
-        "strikeouts": 50,
-        "innings_pitched": "94.1",
-        "games_started": 8
+        "wins": 0,
+        "losses": 1,
+        "era": "6.52",
+        "whip": "1.45",
+        "strikeouts": 12,
+        "innings_pitched": "9.2",
+        "games_started": 3
       },
       "home_pitcher_stats": {
         "season": "2026",
