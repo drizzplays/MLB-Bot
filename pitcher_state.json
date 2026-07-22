@@ -67,120 +67,6 @@
       "game_pk": "824732",
       "status_code": "S"
     },
-    "824327": {
-      "away_team": "Washington Nationals",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Cade Cavalli",
-      "home_pitcher": "Gabriel Hughes",
-      "away_pitcher_id": "676917",
-      "home_pitcher_id": "687312",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 4,
-        "era": "3.78",
-        "whip": "1.31",
-        "strikeouts": 119,
-        "innings_pitched": "104.2",
-        "games_started": 21
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 1,
-        "era": "3.14",
-        "whip": "1.12",
-        "strikeouts": 14,
-        "innings_pitched": "14.1",
-        "games_started": 2
-      },
-      "game_time": "Jul 22, 3:10 PM ET",
-      "game_iso": "2026-07-22T15:10:00-04:00",
-      "game_pk": "824327",
-      "status_code": "P"
-    },
-    "825055": {
-      "away_team": "Athletics",
-      "home_team": "Arizona Diamondbacks",
-      "away_pitcher": "Gage Jump",
-      "home_pitcher": "Merrill Kelly",
-      "away_pitcher_id": "695611",
-      "home_pitcher_id": "518876",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 5,
-        "era": "3.78",
-        "whip": "1.32",
-        "strikeouts": 56,
-        "innings_pitched": "52.1",
-        "games_started": 10
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 8,
-        "era": "5.20",
-        "whip": "1.49",
-        "strikeouts": 62,
-        "innings_pitched": "98.2",
-        "games_started": 17
-      },
-      "game_time": "Jul 22, 3:40 PM ET",
-      "game_iso": "2026-07-22T15:40:00-04:00",
-      "game_pk": "825055",
-      "status_code": "P"
-    },
-    "823110": {
-      "away_team": "Cincinnati Reds",
-      "home_team": "Seattle Mariners",
-      "away_pitcher": "Brady Singer",
-      "home_pitcher": "Emerson Hancock",
-      "away_pitcher_id": "663903",
-      "home_pitcher_id": "676106",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 9,
-        "era": "4.56",
-        "whip": "1.41",
-        "strikeouts": 82,
-        "innings_pitched": "96.2",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 4,
-        "era": "3.17",
-        "whip": "1.01",
-        "strikeouts": 94,
-        "innings_pitched": "99.1",
-        "games_started": 18
-      },
-      "game_time": "Jul 22, 3:40 PM ET",
-      "game_iso": "2026-07-22T15:40:00-04:00",
-      "game_pk": "823110",
-      "status_code": "P"
-    },
     "824004": {
       "away_team": "St. Louis Cardinals",
       "home_team": "Los Angeles Angels",
@@ -293,7 +179,7 @@
       "game_time": "Jul 22, 6:40 PM ET",
       "game_iso": "2026-07-22T18:40:00-04:00",
       "game_pk": "823438",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822784": {
       "away_team": "Tampa Bay Rays",
@@ -369,7 +255,7 @@
       "game_time": "Jul 22, 7:15 PM ET",
       "game_iso": "2026-07-22T19:15:00-04:00",
       "game_pk": "824896",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822873": {
       "away_team": "Chicago White Sox",
