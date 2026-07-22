@@ -1,43 +1,5 @@
 {
   "2026-07-22": {
-    "823518": {
-      "away_team": "Pittsburgh Pirates",
-      "home_team": "New York Yankees",
-      "away_pitcher": "Mitch Keller",
-      "home_pitcher": "Gerrit Cole",
-      "away_pitcher_id": "656605",
-      "home_pitcher_id": "543037",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 7,
-        "era": "5.14",
-        "whip": "1.33",
-        "strikeouts": 77,
-        "innings_pitched": "103.1",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 5,
-        "era": "3.93",
-        "whip": "1.16",
-        "strikeouts": 55,
-        "innings_pitched": "55.0",
-        "games_started": 10
-      },
-      "game_time": "Jul 22, 1:05 PM ET",
-      "game_iso": "2026-07-22T13:05:00-04:00",
-      "game_pk": "823518",
-      "status_code": "P"
-    },
     "823519": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "New York Yankees",
@@ -75,44 +37,6 @@
       "game_iso": "2026-07-22T19:05:00-04:00",
       "game_pk": "823519",
       "status_code": "S"
-    },
-    "824735": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Dean Kremer",
-      "home_pitcher": "Jake Bennett",
-      "away_pitcher_id": "665152",
-      "home_pitcher_id": "687562",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 2,
-        "era": "4.15",
-        "whip": "1.12",
-        "strikeouts": 29,
-        "innings_pitched": "26.0",
-        "games_started": 5
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 3,
-        "era": "2.35",
-        "whip": "0.88",
-        "strikeouts": 38,
-        "innings_pitched": "53.2",
-        "games_started": 9
-      },
-      "game_time": "Jul 22, 1:35 PM ET",
-      "game_iso": "2026-07-22T13:35:00-04:00",
-      "game_pk": "824735",
-      "status_code": "P"
     },
     "824732": {
       "away_team": "Baltimore Orioles",
@@ -293,7 +217,7 @@
       "game_time": "Jul 22, 3:40 PM ET",
       "game_iso": "2026-07-22T15:40:00-04:00",
       "game_pk": "825055",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823110": {
       "away_team": "Cincinnati Reds",
@@ -331,7 +255,7 @@
       "game_time": "Jul 22, 3:40 PM ET",
       "game_iso": "2026-07-22T15:40:00-04:00",
       "game_pk": "823110",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824004": {
       "away_team": "St. Louis Cardinals",
