@@ -42,13 +42,13 @@
       "away_team": "Baltimore Orioles",
       "home_team": "Boston Red Sox",
       "away_pitcher": "Kyle Bradish",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Eduardo Rivera",
       "away_pitcher_id": "680694",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "700842",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -61,48 +61,19 @@
         "innings_pitched": "107.1",
         "games_started": 19
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 0,
+        "losses": 0,
+        "era": "2.89",
+        "whip": "0.96",
+        "strikeouts": 9,
+        "innings_pitched": "9.1",
+        "games_started": 2
+      },
       "game_time": "Jul 22, 7:10 PM ET",
       "game_iso": "2026-07-22T19:10:00-04:00",
       "game_pk": "824732",
-      "status_code": "S"
-    },
-    "824004": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Los Angeles Angels",
-      "away_pitcher": "Hunter Dobbins",
-      "home_pitcher": "Reid Detmers",
-      "away_pitcher_id": "690928",
-      "home_pitcher_id": "672282",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 1,
-        "era": "4.03",
-        "whip": "1.39",
-        "strikeouts": 23,
-        "innings_pitched": "22.1",
-        "games_started": 3
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 6,
-        "era": "4.16",
-        "whip": "1.12",
-        "strikeouts": 130,
-        "innings_pitched": "114.2",
-        "games_started": 20
-      },
-      "game_time": "Jul 22, 4:07 PM ET",
-      "game_iso": "2026-07-22T16:07:00-04:00",
-      "game_pk": "824004",
       "status_code": "P"
     },
     "824408": {
@@ -217,7 +188,7 @@
       "game_time": "Jul 22, 7:07 PM ET",
       "game_iso": "2026-07-22T19:07:00-04:00",
       "game_pk": "822784",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824896": {
       "away_team": "San Diego Padres",
@@ -293,7 +264,7 @@
       "game_time": "Jul 22, 8:05 PM ET",
       "game_iso": "2026-07-22T20:05:00-04:00",
       "game_pk": "822873",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824650": {
       "away_team": "Detroit Tigers",
@@ -331,7 +302,7 @@
       "game_time": "Jul 22, 8:10 PM ET",
       "game_iso": "2026-07-22T20:10:00-04:00",
       "game_pk": "824650",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824166": {
       "away_team": "Miami Marlins",
@@ -369,7 +340,7 @@
       "game_time": "Jul 22, 8:10 PM ET",
       "game_iso": "2026-07-22T20:10:00-04:00",
       "game_pk": "824166",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
