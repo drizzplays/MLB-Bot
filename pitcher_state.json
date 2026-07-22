@@ -67,82 +67,6 @@
       "game_pk": "824732",
       "status_code": "S"
     },
-    "824083": {
-      "away_team": "San Francisco Giants",
-      "home_team": "Kansas City Royals",
-      "away_pitcher": "Landen Roupp",
-      "home_pitcher": "Seth Lugo",
-      "away_pitcher_id": "694738",
-      "home_pitcher_id": "607625",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 8,
-        "era": "3.98",
-        "whip": "1.27",
-        "strikeouts": 106,
-        "innings_pitched": "104.0",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 6,
-        "era": "4.39",
-        "whip": "1.41",
-        "strikeouts": 89,
-        "innings_pitched": "110.2",
-        "games_started": 20
-      },
-      "game_time": "Jul 22, 2:10 PM ET",
-      "game_iso": "2026-07-22T14:10:00-04:00",
-      "game_pk": "824083",
-      "status_code": "P"
-    },
-    "823761": {
-      "away_team": "New York Mets",
-      "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Christian Scott",
-      "home_pitcher": "Logan Henderson",
-      "away_pitcher_id": "681035",
-      "home_pitcher_id": "701656",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 1,
-        "era": "2.87",
-        "whip": "1.22",
-        "strikeouts": 72,
-        "innings_pitched": "59.2",
-        "games_started": 13
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 1,
-        "era": "2.97",
-        "whip": "0.93",
-        "strikeouts": 38,
-        "innings_pitched": "33.1",
-        "games_started": 7
-      },
-      "game_time": "Jul 22, 2:10 PM ET",
-      "game_iso": "2026-07-22T14:10:00-04:00",
-      "game_pk": "823761",
-      "status_code": "P"
-    },
     "824327": {
       "away_team": "Washington Nationals",
       "home_team": "Colorado Rockies",
@@ -331,7 +255,7 @@
       "game_time": "Jul 22, 6:40 PM ET",
       "game_iso": "2026-07-22T18:40:00-04:00",
       "game_pk": "824408",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823438": {
       "away_team": "Los Angeles Dodgers",
