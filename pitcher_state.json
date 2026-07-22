@@ -36,7 +36,7 @@
       "game_time": "Jul 22, 1:05 PM ET",
       "game_iso": "2026-07-22T13:05:00-04:00",
       "game_pk": "823518",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823519": {
       "away_team": "Pittsburgh Pirates",
@@ -112,7 +112,7 @@
       "game_time": "Jul 22, 1:35 PM ET",
       "game_iso": "2026-07-22T13:35:00-04:00",
       "game_pk": "824735",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824732": {
       "away_team": "Baltimore Orioles",
@@ -179,7 +179,7 @@
       "game_time": "Jul 22, 2:10 PM ET",
       "game_iso": "2026-07-22T14:10:00-04:00",
       "game_pk": "824083",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823761": {
       "away_team": "New York Mets",
