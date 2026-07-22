@@ -7,11 +7,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-21T19:36:11.405009-04:00"
     },
-    "823437": {
-      "active_pitcher_id": 554430,
-      "active_pitcher_name": "Zack Wheeler",
+    "822871": {
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-21T19:36:09.216034-04:00"
+      "last_checked_at": "2026-07-21T21:03:04.045141-04:00"
+    },
+    "823437": {
+      "active_pitcher_id": 680736,
+      "active_pitcher_name": "Justin Wrobleski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-21T21:02:56.475069-04:00"
     },
     "823760": {
       "active_pitcher_id": 687075,
@@ -20,22 +26,40 @@
       "last_checked_at": "2026-07-21T19:36:17.874358-04:00"
     },
     "824085": {
-      "active_pitcher_id": 679883,
-      "active_pitcher_name": "Luinder Avila",
+      "active_pitcher_id": 641816,
+      "active_pitcher_name": "Tyler Mahle",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-21T19:36:15.703499-04:00"
+      "last_checked_at": "2026-07-21T21:03:00.310429-04:00"
+    },
+    "824165": {
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-21T21:03:05.831208-04:00"
+    },
+    "824329": {
+      "active_pitcher_id": 547179,
+      "active_pitcher_name": "Michael Lorenzen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-21T21:03:07.565450-04:00"
     },
     "824409": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+      "active_pitcher_id": 573124,
+      "active_pitcher_name": "Taylor Rogers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-21T18:31:31.406428-04:00"
+      "last_checked_at": "2026-07-21T21:02:54.322632-04:00"
+    },
+    "824652": {
+      "active_pitcher_id": 680744,
+      "active_pitcher_name": "Ty Madden",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-21T21:03:02.093200-04:00"
     },
     "824895": {
-      "active_pitcher_id": 625643,
-      "active_pitcher_name": "Reynaldo L\u00f3pez",
+      "active_pitcher_id": 673513,
+      "active_pitcher_name": "Yuki Matsui",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-21T19:36:13.534195-04:00"
+      "last_checked_at": "2026-07-21T21:02:58.315196-04:00"
     }
   }
 }
