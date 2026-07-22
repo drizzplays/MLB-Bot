@@ -2,22 +2,28 @@
   "date": "2026-07-22",
   "games": {
     "823518": {
-      "active_pitcher_id": 656605,
-      "active_pitcher_name": "Mitch Keller",
+      "active_pitcher_id": 669387,
+      "active_pitcher_name": "Carmen Mlodzinski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T13:55:45.613190-04:00"
+      "last_checked_at": "2026-07-22T15:08:53.579249-04:00"
     },
     "823761": {
-      "active_pitcher_id": 701656,
-      "active_pitcher_name": "Logan Henderson",
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T13:55:52.851388-04:00"
+      "last_checked_at": "2026-07-22T15:08:57.516848-04:00"
     },
     "824083": {
-      "active_pitcher_id": 607625,
-      "active_pitcher_name": "Seth Lugo",
+      "active_pitcher_id": 694738,
+      "active_pitcher_name": "Landen Roupp",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T13:55:50.489927-04:00"
+      "last_checked_at": "2026-07-22T15:08:55.821553-04:00"
+    },
+    "824327": {
+      "active_pitcher_id": 687312,
+      "active_pitcher_name": "Gabriel Hughes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T15:08:59.247460-04:00"
     },
     "824735": {
       "active_pitcher_id": 687562,
