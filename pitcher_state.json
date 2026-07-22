@@ -217,7 +217,7 @@
       "game_time": "Jul 22, 2:10 PM ET",
       "game_iso": "2026-07-22T14:10:00-04:00",
       "game_pk": "823761",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824327": {
       "away_team": "Washington Nationals",
@@ -255,7 +255,7 @@
       "game_time": "Jul 22, 3:10 PM ET",
       "game_iso": "2026-07-22T15:10:00-04:00",
       "game_pk": "824327",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825055": {
       "away_team": "Athletics",
@@ -369,7 +369,7 @@
       "game_time": "Jul 22, 4:07 PM ET",
       "game_iso": "2026-07-22T16:07:00-04:00",
       "game_pk": "824004",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824408": {
       "away_team": "Minnesota Twins",
