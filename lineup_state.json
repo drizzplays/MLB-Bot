@@ -92,15 +92,15 @@
       "away_team": "Pittsburgh Pirates",
       "home_team": "New York Yankees",
       "away_lineup": [
-        "Jake Mangum",
         "Nick Gonzales",
+        "Jared Triolo",
         "Bryan Reynolds",
         "Esmerlyn Valdez",
         "Ryan O'Hearn",
         "Marcell Ozuna",
         "Brandon Lowe",
         "Rafael Flores Jr.",
-        "Jared Triolo"
+        "Billy Cook"
       ],
       "home_lineup": [
         "Trent Grisham",
@@ -122,8 +122,8 @@
         "Jared Jones",
         "Gregory Soto",
         "Mason Montgomery",
-        "Esmerlyn Valdez",
         "Jared Triolo",
+        "Esmerlyn Valdez",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -608,9 +608,9 @@
       "away_team": "Athletics",
       "home_team": "Arizona Diamondbacks",
       "away_lineup": [
-        "Jacob Wilson",
-        "Tyler Soderstrom",
-        "Shea Langeliers",
+        "Alika Williams",
+        "Henry Bolte",
+        "Max Muncy",
         "Carlos Cortes",
         "Donovan Walton",
         "Tommy White",
@@ -623,7 +623,7 @@
         "Geraldo Perdomo",
         "Jorge Barrosa",
         "Gabriel Moreno",
-        "Nolan Arenado",
+        "Max Kepler",
         "Ildemaro Vargas",
         "James McCann",
         "Tim Tawa",
@@ -793,7 +793,7 @@
         "Mike Trout",
         "Nolan Schanuel",
         "Vaughn Grissom",
-        "Jo Adell",
+        "Jose Siri",
         "Wade Meckler",
         "Oswald Peraza",
         "Josh Lowe",
@@ -828,8 +828,8 @@
         "Jimmy Crooks"
       ],
       "home_roster": [
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
         "Jorge Soler",
         "Chase Silseth",
