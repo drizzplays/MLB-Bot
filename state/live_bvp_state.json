@@ -1,6 +1,12 @@
 {
   "date": "2026-07-22",
   "games": {
+    "822784": {
+      "active_pitcher_id": 693686,
+      "active_pitcher_name": "Spencer Miles",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T19:36:46.111648-04:00"
+    },
     "823110": {
       "active_pitcher_id": 663903,
       "active_pitcher_name": "Brady Singer",
@@ -18,6 +24,12 @@
       "active_pitcher_name": "Carmen Mlodzinski",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-22T15:08:53.579249-04:00"
+    },
+    "823519": {
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T19:36:41.716704-04:00"
     },
     "823761": {
       "active_pitcher_id": 621345,
@@ -49,11 +61,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-22T18:38:01.895376-04:00"
     },
+    "824732": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T19:36:43.879953-04:00"
+    },
     "824735": {
       "active_pitcher_id": 687562,
       "active_pitcher_name": "Jake Bennett",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-22T13:55:48.030747-04:00"
+    },
+    "824896": {
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T19:36:48.317154-04:00"
     },
     "825055": {
       "active_pitcher_id": 666126,
