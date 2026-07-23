@@ -10,8 +10,8 @@
         "Ty France",
         "Xander Bogaerts",
         "Gavin Sheets",
-        "Freddy Fermin",
-        "Jase Bowen",
+        "Sung-Mun Song",
+        "Jackson Merrill",
         "Jake Cronenworth"
       ],
       "home_lineup": [
@@ -95,9 +95,9 @@
         "Josh Bell",
         "Kody Clemens",
         "Royce Lewis",
-        "Austin Martin",
+        "Trevor Larnach",
         "Luke Keaschall",
-        "Ryan Kreidler"
+        "Alan Roden"
       ],
       "home_lineup": [
         "Steven Kwan",
@@ -106,7 +106,7 @@
         "Brayan Rocchio",
         "Travis Bazzana",
         "Rhys Hoskins",
-        "Kyle Manzardo",
+        "Gabriel Arias",
         "Patrick Bailey",
         "Petey Halpin"
       ],
@@ -343,8 +343,28 @@
     "Kansas City Royals @ Detroit Tigers | 824247": {
       "away_team": "Kansas City Royals",
       "home_team": "Detroit Tigers",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Carter Jensen",
+        "Lane Thomas",
+        "Vinnie Pasquantino",
+        "Salvador Perez",
+        "Michael Massey",
+        "Isaac Collins",
+        "Josh Rojas",
+        "Nick Loftin",
+        "Andrew Velazquez"
+      ],
+      "home_lineup": [
+        "Kevin McGonigle",
+        "Gleyber Torres",
+        "Colt Keith",
+        "Riley Greene",
+        "Dillon Dingler",
+        "Kerry Carpenter",
+        "Spencer Torkelson",
+        "Zach McKinstry",
+        "James Outman"
+      ],
       "away_roster": [
         "Carter Jensen",
         "Eli Morgan",
@@ -354,8 +374,8 @@
         "Salvador Perez",
         "Luinder Avila",
         "Nick Loftin",
-        "Lucas Erceg",
         "Andrew Velazquez",
+        "Lucas Erceg",
         "Michael Massey",
         "Starling Marte",
         "Matt Strahm",
@@ -392,8 +412,8 @@
         "Drew Sommers",
         "Keider Montero",
         "Ben Malgeri",
-        "Jake Rogers",
         "Gleyber Torres",
+        "Jake Rogers",
         "James Outman",
         "Brenan Hanifee",
         "Matt Vierling",
@@ -487,6 +507,7 @@
         "Luinder Avila",
         "Nick Loftin",
         "Lucas Erceg",
+        "Andrew Velazquez",
         "Michael Massey",
         "Starling Marte",
         "Matt Strahm",
@@ -502,8 +523,7 @@
         "Randy Dobnak",
         "Jac Caglianone",
         "Steven Cruz",
-        "John Schreiber",
-        "Bobby Witt Jr."
+        "John Schreiber"
       ],
       "home_roster": [
         "Framber Valdez",
@@ -614,9 +634,9 @@
         "Brandon Pfaadt",
         "Tim Tawa",
         "Adrian Del Castillo",
+        "Gerardo Carrillo",
         "Nolan Arenado",
         "Tyler Locklear",
-        "Drey Jameson",
         "Merrill Kelly",
         "Ryan Waldschmidt",
         "Kevin Ginkel",
@@ -1296,8 +1316,8 @@
         "Lars Nootbaar",
         "Jos\u00e9 Ferm\u00edn",
         "Gordon Graceffo",
-        "Hunter Dobbins",
         "JJ Wetherholt",
+        "Scott Blewett",
         "Justin Bruihl",
         "Blaze Jordan",
         "Alec Burleson",
