@@ -2,10 +2,16 @@
   "date": "2026-07-22",
   "games": {
     "822784": {
-      "active_pitcher_id": 693686,
-      "active_pitcher_name": "Spencer Miles",
+      "active_pitcher_id": 643511,
+      "active_pitcher_name": "Tyler Rogers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T19:36:46.111648-04:00"
+      "last_checked_at": "2026-07-22T21:07:45.237994-04:00"
+    },
+    "822873": {
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T21:07:49.258294-04:00"
     },
     "823110": {
       "active_pitcher_id": 663903,
@@ -14,10 +20,10 @@
       "last_checked_at": "2026-07-22T17:32:38.856690-04:00"
     },
     "823438": {
-      "active_pitcher_id": 605400,
-      "active_pitcher_name": "Aaron Nola",
+      "active_pitcher_id": 689147,
+      "active_pitcher_name": "Orion Kerkering",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T18:38:04.044506-04:00"
+      "last_checked_at": "2026-07-22T21:07:43.132352-04:00"
     },
     "823518": {
       "active_pitcher_id": 669387,
@@ -26,10 +32,10 @@
       "last_checked_at": "2026-07-22T15:08:53.579249-04:00"
     },
     "823519": {
-      "active_pitcher_id": 696149,
-      "active_pitcher_name": "Bubba Chandler",
+      "active_pitcher_id": 621112,
+      "active_pitcher_name": "Paul Blackburn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T19:36:41.716704-04:00"
+      "last_checked_at": "2026-07-22T21:07:39.060980-04:00"
     },
     "823761": {
       "active_pitcher_id": 621345,
@@ -49,6 +55,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-22T16:19:34.193694-04:00"
     },
+    "824166": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T21:07:52.869849-04:00"
+    },
     "824327": {
       "active_pitcher_id": 678868,
       "active_pitcher_name": "Eddy Yean",
@@ -56,10 +68,16 @@
       "last_checked_at": "2026-07-22T17:32:34.070777-04:00"
     },
     "824408": {
-      "active_pitcher_id": 677944,
-      "active_pitcher_name": "Slade Cecconi",
+      "active_pitcher_id": 670036,
+      "active_pitcher_name": "Matt Festa",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T18:38:01.895376-04:00"
+      "last_checked_at": "2026-07-22T21:07:41.424056-04:00"
+    },
+    "824650": {
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-22T21:07:51.153208-04:00"
     },
     "824732": {
       "active_pitcher_id": 680694,
@@ -74,10 +92,10 @@
       "last_checked_at": "2026-07-22T13:55:48.030747-04:00"
     },
     "824896": {
-      "active_pitcher_id": 650633,
-      "active_pitcher_name": "Michael King",
+      "active_pitcher_id": 800311,
+      "active_pitcher_name": "Didier Fuentes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-22T19:36:48.317154-04:00"
+      "last_checked_at": "2026-07-22T21:07:47.278579-04:00"
     },
     "825055": {
       "active_pitcher_id": 666126,
