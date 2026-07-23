@@ -1,13 +1,19 @@
 {
   "date": "2026-07-23",
   "games": {
+    "824406": {
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-23T14:03:14.687878-04:00"
+    },
     "824893": {
-      "active_pitcher_id": 656288,
-      "active_pitcher_name": "Griffin Canning",
+      "active_pitcher_id": 663362,
+      "active_pitcher_name": "Matt Waldron",
       "alerted_pairs": [
         "656288:671739"
       ],
-      "last_checked_at": "2026-07-23T12:51:06.856823-04:00"
+      "last_checked_at": "2026-07-23T14:03:12.308852-04:00"
     }
   }
 }
