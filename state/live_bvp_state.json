@@ -1,4 +1,13 @@
 {
   "date": "2026-07-23",
-  "games": {}
+  "games": {
+    "824893": {
+      "active_pitcher_id": 656288,
+      "active_pitcher_name": "Griffin Canning",
+      "alerted_pairs": [
+        "656288:671739"
+      ],
+      "last_checked_at": "2026-07-23T12:51:06.856823-04:00"
+    }
+  }
 }
