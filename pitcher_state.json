@@ -1,43 +1,5 @@
 {
   "2026-07-23": {
-    "824893": {
-      "away_team": "San Diego Padres",
-      "home_team": "Atlanta Braves",
-      "away_pitcher": "Kyle Hart",
-      "home_pitcher": "Chris Sale",
-      "away_pitcher_id": "606996",
-      "home_pitcher_id": "519242",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 2,
-        "era": "5.66",
-        "whip": "1.14",
-        "strikeouts": 30,
-        "innings_pitched": "35.0",
-        "games_started": 1
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 10,
-        "losses": 6,
-        "era": "2.06",
-        "whip": "1.06",
-        "strikeouts": 123,
-        "innings_pitched": "105.0",
-        "games_started": 18
-      },
-      "game_time": "Jul 23, 12:15 PM ET",
-      "game_iso": "2026-07-23T12:15:00-04:00",
-      "game_pk": "824893",
-      "status_code": "P"
-    },
     "824406": {
       "away_team": "Minnesota Twins",
       "home_team": "Cleveland Guardians",
@@ -112,7 +74,7 @@
       "game_time": "Jul 23, 3:07 PM ET",
       "game_iso": "2026-07-23T15:07:00-04:00",
       "game_pk": "822785",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823042": {
       "away_team": "Arizona Diamondbacks",
