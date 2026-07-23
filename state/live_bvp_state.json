@@ -1,11 +1,17 @@
 {
   "date": "2026-07-23",
   "games": {
-    "824406": {
-      "active_pitcher_id": 671737,
-      "active_pitcher_name": "Taj Bradley",
+    "822785": {
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-23T14:03:14.687878-04:00"
+      "last_checked_at": "2026-07-23T15:41:16.376782-04:00"
+    },
+    "824406": {
+      "active_pitcher_id": 672782,
+      "active_pitcher_name": "Yoendrys G\u00f3mez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-23T15:41:13.347005-04:00"
     },
     "824893": {
       "active_pitcher_id": 663362,
