@@ -11,7 +11,7 @@
         "Willi Castro",
         "Troy Johnston",
         "Mickey Moniak",
-        "Tyler Freeman",
+        "TJ Rumfield",
         "Ezequiel Tovar"
       ],
       "home_lineup": [
@@ -20,7 +20,7 @@
         "Brice Turang",
         "William Contreras",
         "Garrett Mitchell",
-        "Luis Lara",
+        "Andrew Vaughn",
         "Jake Bauers",
         "Joey Ortiz",
         "David Hamilton"
@@ -1194,7 +1194,17 @@
       "away_team": "Los Angeles Angels",
       "home_team": "San Francisco Giants",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Luis Arraez",
+        "Heliot Ramos",
+        "Bryce Eldridge",
+        "Rafael Devers",
+        "Casey Schmitt",
+        "Jung Hoo Lee",
+        "Willy Adames",
+        "Drew Gilbert",
+        "Drew Cavanaugh"
+      ],
       "away_roster": [
         "Oswald Peraza",
         "Jose Siri",
@@ -1235,8 +1245,8 @@
         "Keaton Winn",
         "Jason Foley",
         "Caleb Kilian",
-        "Drew Gilbert",
         "Jung Hoo Lee",
+        "Drew Gilbert",
         "Sam Hentges",
         "Rafael Devers",
         "Tristan Beck",
