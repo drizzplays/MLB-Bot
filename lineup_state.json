@@ -184,7 +184,17 @@
         "Carson Kelly",
         "Dansby Swanson"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jake Mangum",
+        "Nick Gonzales",
+        "Bryan Reynolds",
+        "Esmerlyn Valdez",
+        "Ryan O'Hearn",
+        "Marcell Ozuna",
+        "Brandon Lowe",
+        "Jared Triolo",
+        "Henry Davis"
+      ],
       "away_roster": [
         "Michael Conforto",
         "Ian Happ",
@@ -222,8 +232,8 @@
         "Jared Jones",
         "Gregory Soto",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -234,10 +244,11 @@
         "Henry Davis",
         "Wilber Dotel",
         "Tyler Callihan",
+        "Ron Marinaccio",
+        "Shawn Ross",
         "Ryan O'Hearn",
         "Nick Gonzales",
         "Marcell Ozuna",
-        "Rafael Flores Jr.",
         "Braxton Ashcraft"
       ],
       "game_time": "Jul 24, 6:40 PM ET",
@@ -502,7 +513,17 @@
     "Los Angeles Dodgers @ New York Mets | 823601": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "New York Mets",
-      "away_lineup": [],
+      "away_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Tommy Edman",
+        "Freddie Freeman",
+        "Mookie Betts",
+        "Miguel Rojas",
+        "Kyle Tucker",
+        "Teoscar Hern\u00e1ndez",
+        "Dalton Rushing"
+      ],
       "home_lineup": [
         "A.J. Ewing",
         "Juan Soto",
@@ -832,7 +853,17 @@
     "Houston Astros @ Chicago White Sox | 824573": {
       "away_team": "Houston Astros",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Jose Altuve",
+        "LaMonte Wade Jr.",
+        "Christian Walker",
+        "Lucas Spence",
+        "Cam Smith",
+        "Christian V\u00e1zquez"
+      ],
       "home_lineup": [
         "Sam Antonacci",
         "Munetaka Murakami",
@@ -907,8 +938,28 @@
     "Seattle Mariners @ Texas Rangers | 822872": {
       "away_team": "Seattle Mariners",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Randy Arozarena",
+        "Julio Rodr\u00edguez",
+        "Dominic Canzone",
+        "Cal Raleigh",
+        "Josh Naylor",
+        "Cole Young",
+        "Mitch Garver",
+        "Weston Wilson",
+        "Colt Emerson"
+      ],
+      "home_lineup": [
+        "Joc Pederson",
+        "Wyatt Langford",
+        "Ezequiel Duran",
+        "Brandon Nimmo",
+        "Evan Carter",
+        "Jake Burger",
+        "Nicky Lopez",
+        "Elias D\u00edaz",
+        "Cam Cauley"
+      ],
       "away_roster": [
         "Josh Naylor",
         "Victor Robles",
@@ -972,16 +1023,36 @@
     "Athletics @ Minnesota Twins | 823680": {
       "away_team": "Athletics",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Jacob Wilson",
+        "Tyler Soderstrom",
+        "Shea Langeliers",
+        "Carlos Cortes",
+        "Donovan Walton",
+        "Tommy White",
+        "Jeff McNeil",
+        "Lawrence Butler",
+        "Henry Bolte"
+      ],
+      "home_lineup": [
+        "Austin Martin",
+        "Byron Buxton",
+        "Ryan Jeffers",
+        "Josh Bell",
+        "Royce Lewis",
+        "Victor Caratini",
+        "Luke Keaschall",
+        "Brooks Lee",
+        "Ryan Kreidler"
+      ],
       "away_roster": [
         "Lawrence Butler",
-        "Jonah Heim",
         "Tommy White",
+        "Jonah Heim",
         "Donovan Walton",
-        "J.T. Ginn",
-        "Geoff Hartlieb",
         "Jeff McNeil",
+        "Geoff Hartlieb",
+        "Mason Barnett",
         "Carlos Cortes",
         "Jos\u00e9 Suarez",
         "Jacob Lopez",
@@ -997,9 +1068,9 @@
         "Henry Bolte",
         "Colby Thomas",
         "Shea Langeliers",
-        "Yunior Tur",
         "Jack Perkins",
         "Jeffrey Springs",
+        "Luis Morales",
         "Jacob Wilson"
       ],
       "home_roster": [
