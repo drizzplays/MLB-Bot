@@ -1,11 +1,37 @@
 {
   "date": "2026-07-24",
   "games": {
-    "823759": {
-      "active_pitcher_id": 608372,
-      "active_pitcher_name": "Tomoyuki Sugano",
+    "822707": {
+      "active_pitcher_id": 687223,
+      "active_pitcher_name": "Carson Palmquist",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-24T17:31:08.920067-04:00"
+      "last_checked_at": "2026-07-24T18:37:01.627725-04:00"
+    },
+    "823352": {
+      "active_pitcher_id": 683003,
+      "active_pitcher_name": "Jared Jones",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-24T18:36:58.941680-04:00"
+    },
+    "823434": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-24T18:37:04.280345-04:00"
+    },
+    "823759": {
+      "active_pitcher_id": 622608,
+      "active_pitcher_name": "Antonio Senzatela",
+      "alerted_pairs": [
+        "622608:668930"
+      ],
+      "last_checked_at": "2026-07-24T18:36:48.647695-04:00"
+    },
+    "824248": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-24T18:36:55.926569-04:00"
     }
   }
 }
