@@ -155,9 +155,9 @@
     "823434": {
       "away_team": "New York Yankees",
       "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Will Warren",
+      "away_pitcher": "Cam Schlittler",
       "home_pitcher": "Jes\u00fas Luzardo",
-      "away_pitcher_id": "701542",
+      "away_pitcher_id": "693645",
       "home_pitcher_id": "666200",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -167,13 +167,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 7,
-        "losses": 4,
-        "era": "4.00",
-        "whip": "1.37",
-        "strikeouts": 97,
-        "innings_pitched": "99.0",
-        "games_started": 19
+        "wins": 9,
+        "losses": 6,
+        "era": "2.20",
+        "whip": "0.96",
+        "strikeouts": 145,
+        "innings_pitched": "123.0",
+        "games_started": 21
       },
       "home_pitcher_stats": {
         "season": "2026",
