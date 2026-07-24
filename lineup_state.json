@@ -23,7 +23,7 @@
         "Andrew Vaughn",
         "Jake Bauers",
         "Joey Ortiz",
-        "David Hamilton"
+        "Gary S\u00e1nchez"
       ],
       "away_roster": [
         "Ryan Feltner",
@@ -1193,7 +1193,17 @@
     "Los Angeles Angels @ San Francisco Giants | 823196": {
       "away_team": "Los Angeles Angels",
       "home_team": "San Francisco Giants",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Jorge Soler",
+        "Vaughn Grissom",
+        "Wade Meckler",
+        "Jo Adell",
+        "Denzer Guzman",
+        "Tyler Heineman"
+      ],
       "home_lineup": [
         "Luis Arraez",
         "Heliot Ramos",
@@ -1203,7 +1213,7 @@
         "Jung Hoo Lee",
         "Willy Adames",
         "Drew Gilbert",
-        "Drew Cavanaugh"
+        "Daniel Susac"
       ],
       "away_roster": [
         "Oswald Peraza",
