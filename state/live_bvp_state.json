@@ -1,4 +1,11 @@
 {
   "date": "2026-07-24",
-  "games": {}
+  "games": {
+    "823759": {
+      "active_pitcher_id": 675660,
+      "active_pitcher_name": "Shane Drohan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-24T16:17:10.700554-04:00"
+    }
+  }
 }
