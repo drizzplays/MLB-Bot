@@ -1,81 +1,5 @@
 {
   "2026-07-24": {
-    "824248": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Detroit Tigers",
-      "away_pitcher": "Beck Way",
-      "home_pitcher": "Tarik Skubal",
-      "away_pitcher_id": "694360",
-      "home_pitcher_id": "669373",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 0,
-        "era": "3.22",
-        "whip": "1.52",
-        "strikeouts": 21,
-        "innings_pitched": "22.1",
-        "games_started": 0
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 5,
-        "era": "2.83",
-        "whip": "0.93",
-        "strikeouts": 98,
-        "innings_pitched": "82.2",
-        "games_started": 14
-      },
-      "game_time": "Jul 24, 6:40 PM ET",
-      "game_iso": "2026-07-24T18:40:00-04:00",
-      "game_pk": "824248",
-      "status_code": "P"
-    },
-    "823352": {
-      "away_team": "Chicago Cubs",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Matthew Boyd",
-      "home_pitcher": "Jared Jones",
-      "away_pitcher_id": "571510",
-      "home_pitcher_id": "683003",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 1,
-        "era": "4.15",
-        "whip": "1.21",
-        "strikeouts": 51,
-        "innings_pitched": "52.0",
-        "games_started": 10
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 1,
-        "era": "4.05",
-        "whip": "1.10",
-        "strikeouts": 48,
-        "innings_pitched": "40.0",
-        "games_started": 9
-      },
-      "game_time": "Jul 24, 6:40 PM ET",
-      "game_iso": "2026-07-24T18:40:00-04:00",
-      "game_pk": "823352",
-      "status_code": "P"
-    },
     "822707": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Washington Nationals",
@@ -530,7 +454,7 @@
       "game_time": "Jul 24, 10:15 PM ET",
       "game_iso": "2026-07-24T22:15:00-04:00",
       "game_pk": "823196",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
