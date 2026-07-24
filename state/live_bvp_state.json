@@ -1,37 +1,4 @@
 {
-  "date": "2026-07-23",
-  "games": {
-    "822785": {
-      "active_pitcher_id": 669456,
-      "active_pitcher_name": "Shane Bieber",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-23T16:44:33.724661-04:00"
-    },
-    "823042": {
-      "active_pitcher_id": 694335,
-      "active_pitcher_name": "Matt Svanson",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-23T19:36:45.581139-04:00"
-    },
-    "824247": {
-      "active_pitcher_id": 674444,
-      "active_pitcher_name": "Steven Cruz",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-23T21:03:14.844288-04:00"
-    },
-    "824406": {
-      "active_pitcher_id": 672782,
-      "active_pitcher_name": "Yoendrys G\u00f3mez",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-23T15:41:13.347005-04:00"
-    },
-    "824893": {
-      "active_pitcher_id": 663362,
-      "active_pitcher_name": "Matt Waldron",
-      "alerted_pairs": [
-        "656288:671739"
-      ],
-      "last_checked_at": "2026-07-23T14:03:12.308852-04:00"
-    }
-  }
+  "date": "2026-07-24",
+  "games": {}
 }
