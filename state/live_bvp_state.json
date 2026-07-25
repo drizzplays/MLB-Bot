@@ -1,4 +1,11 @@
 {
   "date": "2026-07-25",
-  "games": {}
+  "games": {
+    "824244": {
+      "active_pitcher_id": 663554,
+      "active_pitcher_name": "Casey Mize",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T13:29:33.169012-04:00"
+    }
+  }
 }
