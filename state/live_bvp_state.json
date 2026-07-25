@@ -1,11 +1,35 @@
 {
   "date": "2026-07-25",
   "games": {
+    "822704": {
+      "active_pitcher_id": 683352,
+      "active_pitcher_name": "Mitch Bratt",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T16:34:21.419470-04:00"
+    },
+    "823197": {
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T16:34:23.634714-04:00"
+    },
+    "823841": {
+      "active_pitcher_id": 691587,
+      "active_pitcher_name": "Eury P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T16:34:28.146166-04:00"
+    },
     "824244": {
       "active_pitcher_id": 663554,
       "active_pitcher_name": "Casey Mize",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-25T13:29:33.169012-04:00"
+    },
+    "824734": {
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T16:34:25.815798-04:00"
     }
   }
 }
