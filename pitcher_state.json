@@ -1,43 +1,5 @@
 {
   "2026-07-25": {
-    "824244": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Detroit Tigers",
-      "away_pitcher": "Michael Wacha",
-      "home_pitcher": "Casey Mize",
-      "away_pitcher_id": "608379",
-      "home_pitcher_id": "663554",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 7,
-        "era": "3.66",
-        "whip": "1.17",
-        "strikeouts": 101,
-        "innings_pitched": "125.1",
-        "games_started": 20
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "2.79",
-        "whip": "1.03",
-        "strikeouts": 82,
-        "innings_pitched": "80.2",
-        "games_started": 15
-      },
-      "game_time": "Jul 25, 1:10 PM ET",
-      "game_iso": "2026-07-25T13:10:00-04:00",
-      "game_pk": "824244",
-      "status_code": "P"
-    },
     "822704": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Washington Nationals",
@@ -150,7 +112,7 @@
       "game_time": "Jul 25, 4:10 PM ET",
       "game_iso": "2026-07-25T16:10:00-04:00",
       "game_pk": "824734",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823841": {
       "away_team": "San Diego Padres",
@@ -188,7 +150,7 @@
       "game_time": "Jul 25, 4:10 PM ET",
       "game_iso": "2026-07-25T16:10:00-04:00",
       "game_pk": "823841",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823435": {
       "away_team": "New York Yankees",
