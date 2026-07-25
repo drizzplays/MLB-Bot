@@ -2,22 +2,40 @@
   "date": "2026-07-25",
   "games": {
     "822704": {
-      "active_pitcher_id": 683352,
-      "active_pitcher_name": "Mitch Bratt",
+      "active_pitcher_id": 678868,
+      "active_pitcher_name": "Eddy Yean",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T16:34:21.419470-04:00"
+      "last_checked_at": "2026-07-25T18:29:11.926878-04:00"
+    },
+    "822948": {
+      "active_pitcher_id": 607259,
+      "active_pitcher_name": "Nick Martinez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T18:29:23.526384-04:00"
     },
     "823197": {
-      "active_pitcher_id": 592662,
-      "active_pitcher_name": "Robbie Ray",
+      "active_pitcher_id": 676775,
+      "active_pitcher_name": "Keaton Winn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T16:34:23.634714-04:00"
+      "last_checked_at": "2026-07-25T18:29:13.659062-04:00"
+    },
+    "823355": {
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T18:29:25.204143-04:00"
+    },
+    "823435": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-25T18:29:21.841939-04:00"
     },
     "823841": {
-      "active_pitcher_id": 691587,
-      "active_pitcher_name": "Eury P\u00e9rez",
+      "active_pitcher_id": 673513,
+      "active_pitcher_name": "Yuki Matsui",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T16:34:28.146166-04:00"
+      "last_checked_at": "2026-07-25T18:29:20.145850-04:00"
     },
     "824244": {
       "active_pitcher_id": 663554,
@@ -26,10 +44,12 @@
       "last_checked_at": "2026-07-25T13:29:33.169012-04:00"
     },
     "824734": {
-      "active_pitcher_id": 687941,
-      "active_pitcher_name": "Alec Gamboa",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T17:30:30.804009-04:00"
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
+      "alerted_pairs": [
+        "656302:807799"
+      ],
+      "last_checked_at": "2026-07-25T18:29:15.359570-04:00"
     }
   }
 }
