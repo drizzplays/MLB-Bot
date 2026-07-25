@@ -97,12 +97,12 @@
         "Nolan Arenado",
         "Tim Tawa",
         "James McCann",
-        "Ryan Waldschmidt"
+        "Max Kepler"
       ],
       "home_lineup": [
         "James Wood",
         "Curtis Mead",
-        "Andr\u00e9s Chaparro",
+        "Luis Garc\u00eda Jr.",
         "CJ Abrams",
         "Dylan Crews",
         "Jacob Young",
@@ -174,30 +174,30 @@
       "away_team": "Los Angeles Angels",
       "home_team": "San Francisco Giants",
       "away_lineup": [
-        "Zach Neto",
-        "Mike Trout",
+        "Oswald Peraza",
+        "Josh Lowe",
         "Vaughn Grissom",
         "Jorge Soler",
         "Nolan Schanuel",
-        "Jo Adell",
+        "Wade Meckler",
         "Denzer Guzman",
         "Jose Siri",
         "Logan O'Hoppe"
       ],
       "home_lineup": [
-        "Luis Arraez",
+        "Jesus Rodriguez",
         "Heliot Ramos",
-        "Bryce Eldridge",
-        "Rafael Devers",
+        "Drew Cavanaugh",
+        "Christian Koss",
         "Casey Schmitt",
-        "Jung Hoo Lee",
+        "Grant McCray",
         "Willy Adames",
         "Drew Gilbert",
         "Daniel Susac"
       ],
       "away_roster": [
-        "Jose Siri",
         "Oswald Peraza",
+        "Jose Siri",
         "Zach Neto",
         "Jorge Soler",
         "Chase Silseth",
@@ -229,8 +229,8 @@
         "Heliot Ramos",
         "Dylan Smith",
         "Drew Cavanaugh",
-        "Tyler Mahle",
         "Jesus Rodriguez",
+        "Tyler Mahle",
         "Logan Webb",
         "Keaton Winn",
         "Jason Foley",
@@ -1611,7 +1611,6 @@
       "home_lineup": [],
       "away_roster": [
         "Carter Jensen",
-        "Eli Morgan",
         "Tyler Tolbert",
         "Josh Rojas",
         "Isaac Collins",
@@ -1619,6 +1618,7 @@
         "Luinder Avila",
         "Nick Loftin",
         "Lucas Erceg",
+        "Andrew Velazquez",
         "Michael Massey",
         "Starling Marte",
         "Matt Strahm",
@@ -1627,6 +1627,7 @@
         "Vinnie Pasquantino",
         "Daniel Lynch IV",
         "Michael Wacha",
+        "Nate Pearson",
         "Seth Lugo",
         "Lane Thomas",
         "Noah Cameron",
@@ -1634,8 +1635,7 @@
         "Randy Dobnak",
         "Jac Caglianone",
         "Steven Cruz",
-        "John Schreiber",
-        "Bobby Witt Jr."
+        "John Schreiber"
       ],
       "home_roster": [
         "Framber Valdez",
