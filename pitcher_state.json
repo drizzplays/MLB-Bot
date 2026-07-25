@@ -155,9 +155,9 @@
     "823841": {
       "away_team": "San Diego Padres",
       "home_team": "Miami Marlins",
-      "away_pitcher": "JP Sears",
+      "away_pitcher": "Randy V\u00e1squez",
       "home_pitcher": "Eury P\u00e9rez",
-      "away_pitcher_id": "676664",
+      "away_pitcher_id": "681190",
       "home_pitcher_id": "691587",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -167,13 +167,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 2,
-        "losses": 3,
-        "era": "4.38",
-        "whip": "1.26",
-        "strikeouts": 20,
-        "innings_pitched": "24.2",
-        "games_started": 5
+        "wins": 6,
+        "losses": 6,
+        "era": "4.72",
+        "whip": "1.52",
+        "strikeouts": 63,
+        "innings_pitched": "87.2",
+        "games_started": 16
       },
       "home_pitcher_stats": {
         "season": "2026",
