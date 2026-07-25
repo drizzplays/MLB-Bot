@@ -265,7 +265,7 @@
         "George Springer",
         "Daulton Varsho",
         "Ernie Clement",
-        "Yohendrick Pi\u00f1ango",
+        "Myles Straw",
         "Andr\u00e9s Gim\u00e9nez",
         "Brandon Valenzuela"
       ],
@@ -609,7 +609,17 @@
         "Dansby Swanson",
         "Miguel Amaya"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jake Mangum",
+        "Nick Gonzales",
+        "Bryan Reynolds",
+        "Esmerlyn Valdez",
+        "Ryan O'Hearn",
+        "Marcell Ozuna",
+        "Jared Triolo",
+        "Jacob Gonzalez",
+        "Henry Davis"
+      ],
       "away_roster": [
         "Michael Conforto",
         "Ian Happ",
@@ -647,8 +657,8 @@
         "Jared Jones",
         "Gregory Soto",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Mitch Keller",
         "Yohan Ram\u00edrez",
@@ -843,7 +853,17 @@
     "Houston Astros @ Chicago White Sox | 824571": {
       "away_team": "Houston Astros",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Jose Altuve",
+        "LaMonte Wade Jr.",
+        "Christian Walker",
+        "Yainer Diaz",
+        "Lucas Spence",
+        "Cam Smith"
+      ],
       "home_lineup": [
         "Sam Antonacci",
         "Munetaka Murakami",
@@ -875,10 +895,10 @@
         "Zach Dezenzo",
         "Peter Lambert",
         "Cristian Javier",
+        "Bryan King",
         "LaMonte Wade Jr.",
         "Christian Walker",
         "Lucas Spence",
-        "Spencer Arrighetti",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
         "Yordan Alvarez"
