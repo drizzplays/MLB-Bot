@@ -74,7 +74,7 @@
       "game_time": "Jul 25, 4:05 PM ET",
       "game_iso": "2026-07-25T16:05:00-04:00",
       "game_pk": "822704",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823197": {
       "away_team": "Los Angeles Angels",
@@ -112,7 +112,7 @@
       "game_time": "Jul 25, 4:05 PM ET",
       "game_iso": "2026-07-25T16:05:00-04:00",
       "game_pk": "823197",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824734": {
       "away_team": "Toronto Blue Jays",
@@ -336,9 +336,9 @@
     "823679": {
       "away_team": "Athletics",
       "home_team": "Minnesota Twins",
-      "away_pitcher": "Mason Barnett",
+      "away_pitcher": "Brady Basso",
       "home_pitcher": "TBD",
-      "away_pitcher_id": "686930",
+      "away_pitcher_id": "669620",
       "home_pitcher_id": null,
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -348,12 +348,12 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 1,
+        "wins": 0,
         "losses": 0,
-        "era": "4.64",
-        "whip": "1.36",
-        "strikeouts": 21,
-        "innings_pitched": "21.1",
+        "era": "6.48",
+        "whip": "1.92",
+        "strikeouts": 7,
+        "innings_pitched": "8.1",
         "games_started": 0
       },
       "home_pitcher_stats": null,
