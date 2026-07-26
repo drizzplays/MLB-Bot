@@ -8,10 +8,10 @@
       "last_checked_at": "2026-07-25T18:29:11.926878-04:00"
     },
     "822869": {
-      "active_pitcher_id": 693433,
-      "active_pitcher_name": "Bryan Woo",
+      "active_pitcher_id": 543135,
+      "active_pitcher_name": "Nathan Eovaldi",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:55.336975-04:00"
+      "last_checked_at": "2026-07-25T21:11:24.770037-04:00"
     },
     "822948": {
       "active_pitcher_id": 676440,
@@ -20,10 +20,10 @@
       "last_checked_at": "2026-07-25T19:31:38.216574-04:00"
     },
     "823027": {
-      "active_pitcher_id": 668881,
-      "active_pitcher_name": "Hunter Greene",
+      "active_pitcher_id": 700669,
+      "active_pitcher_name": "Gordon Graceffo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:53.203869-04:00"
+      "last_checked_at": "2026-07-25T21:11:21.768481-04:00"
     },
     "823197": {
       "active_pitcher_id": 676775,
@@ -32,10 +32,10 @@
       "last_checked_at": "2026-07-25T18:29:13.659062-04:00"
     },
     "823355": {
-      "active_pitcher_id": 684007,
-      "active_pitcher_name": "Shota Imanaga",
+      "active_pitcher_id": 685126,
+      "active_pitcher_name": "Brandon Eisert",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:40.347809-04:00"
+      "last_checked_at": "2026-07-25T21:11:06.276173-04:00"
     },
     "823435": {
       "active_pitcher_id": 679775,
@@ -44,22 +44,22 @@
       "last_checked_at": "2026-07-25T19:31:35.799073-04:00"
     },
     "823600": {
-      "active_pitcher_id": 808967,
-      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "active_pitcher_id": 650960,
+      "active_pitcher_name": "Daniel Duarte",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:51.111488-04:00"
+      "last_checked_at": "2026-07-25T21:11:19.425019-04:00"
     },
     "823679": {
-      "active_pitcher_id": 669620,
-      "active_pitcher_name": "Brady Basso",
+      "active_pitcher_id": 667297,
+      "active_pitcher_name": "Tommy Nance",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:44.613935-04:00"
+      "last_checked_at": "2026-07-25T21:11:11.582053-04:00"
     },
     "823758": {
-      "active_pitcher_id": 663372,
-      "active_pitcher_name": "Ryan Feltner",
+      "active_pitcher_id": 685299,
+      "active_pitcher_name": "Tanner Gordon",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:48.971046-04:00"
+      "last_checked_at": "2026-07-25T21:11:16.792823-04:00"
     },
     "823841": {
       "active_pitcher_id": 673513,
@@ -74,10 +74,10 @@
       "last_checked_at": "2026-07-25T13:29:33.169012-04:00"
     },
     "824571": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 670950,
+      "active_pitcher_name": "Trevor Richards",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:46.754537-04:00"
+      "last_checked_at": "2026-07-25T21:11:13.935840-04:00"
     },
     "824734": {
       "active_pitcher_id": 656302,
@@ -88,10 +88,10 @@
       "last_checked_at": "2026-07-25T18:29:15.359570-04:00"
     },
     "824811": {
-      "active_pitcher_id": 687064,
-      "active_pitcher_name": "Brandon Young",
+      "active_pitcher_id": 682989,
+      "active_pitcher_name": "Victor Mederos",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-25T19:31:42.436051-04:00"
+      "last_checked_at": "2026-07-25T21:11:08.941602-04:00"
     }
   }
 }
