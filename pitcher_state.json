@@ -36,7 +36,7 @@
       "game_time": "Jul 26, 12:15 PM ET",
       "game_iso": "2026-07-26T12:15:00-04:00",
       "game_pk": "822950",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822706": {
       "away_team": "Arizona Diamondbacks",
@@ -74,7 +74,7 @@
       "game_time": "Jul 26, 1:35 PM ET",
       "game_iso": "2026-07-26T13:35:00-04:00",
       "game_pk": "822706",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823354": {
       "away_team": "Chicago Cubs",
