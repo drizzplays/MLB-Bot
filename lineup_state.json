@@ -93,9 +93,9 @@
         "Geraldo Perdomo",
         "Gabriel Moreno",
         "Ketel Marte",
-        "Max Kepler",
+        "Ryan Waldschmidt",
         "Nolan Arenado",
-        "Adrian Del Castillo",
+        "Jorge Barrosa",
         "Tyler Locklear",
         "Tim Tawa"
       ],
@@ -119,8 +119,8 @@
         "Gerardo Carrillo",
         "Nolan Arenado",
         "Tyler Locklear",
-        "Merrill Kelly",
         "Ryan Waldschmidt",
+        "Merrill Kelly",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
@@ -349,9 +349,9 @@
         "Matt Olson",
         "Michael Harris II",
         "Mauricio Dub\u00f3n",
-        "Dominic Smith",
+        "Jorge Mateo",
         "Austin Riley",
-        "Eli White",
+        "Brewer Hicklen",
         "Jim Jarvis"
       ],
       "home_lineup": [
@@ -359,11 +359,11 @@
         "Pete Alonso",
         "Gunnar Henderson",
         "Taylor Ward",
-        "Christian Encarnacion-Strand",
+        "Coby Mayo",
         "Tyler O'Neill",
         "Leody Taveras",
         "Jackson Holliday",
-        "Chadwick Tromp"
+        "Sam Huff"
       ],
       "away_roster": [
         "Dylan Dodd",
@@ -445,7 +445,7 @@
         "Gleyber Torres",
         "Riley Greene",
         "Dillon Dingler",
-        "Ben Malgeri",
+        "Zach McKinstry",
         "Spencer Torkelson",
         "James Outman",
         "Hao-Yu Lee"
@@ -514,9 +514,9 @@
       "away_team": "Los Angeles Dodgers",
       "home_team": "New York Mets",
       "away_lineup": [
-        "Shohei Ohtani",
+        "Alex Call",
         "Andy Pages",
-        "Freddie Freeman",
+        "Alex Freeland",
         "Max Muncy",
         "Mookie Betts",
         "Tommy Edman",
@@ -552,8 +552,8 @@
         "Teoscar Hern\u00e1ndez",
         "Andy Pages",
         "Evan Phillips",
-        "Mookie Betts",
         "Alex Call",
+        "Mookie Betts",
         "Brock Stewart",
         "Charlie Barnes",
         "Emmet Sheehan",
@@ -605,8 +605,8 @@
         "Ty France",
         "Jackson Merrill",
         "Luis Rengifo",
-        "Gavin Sheets",
-        "Luis Campusano",
+        "Jase Bowen",
+        "Rodolfo Dur\u00e1n",
         "Sung-Mun Song"
       ],
       "home_lineup": [
@@ -615,8 +615,8 @@
         "Heriberto Hern\u00e1ndez",
         "Xavier Edwards",
         "Liam Hicks",
-        "Griffin Conine",
-        "Esteury Ruiz",
+        "Leo Jim\u00e9nez",
+        "Jakob Marsee",
         "Javier Sanoja",
         "Joe Mack"
       ],
@@ -689,10 +689,10 @@
         "Jonah Heim",
         "Tyler Soderstrom",
         "Tommy White",
-        "Colby Thomas",
-        "Alika Williams",
+        "Lawrence Butler",
+        "Donovan Walton",
         "Jeff McNeil",
-        "Henry Bolte"
+        "Carlos Cortes"
       ],
       "home_lineup": [
         "Austin Martin",
@@ -701,7 +701,7 @@
         "Royce Lewis",
         "Kody Clemens",
         "Luke Keaschall",
-        "Alex Jackson",
+        "Alan Roden",
         "Brooks Lee",
         "Ryan Kreidler"
       ],
@@ -769,8 +769,8 @@
       "away_team": "Houston Astros",
       "home_team": "Chicago White Sox",
       "away_lineup": [
-        "Jeremy Pe\u00f1a",
-        "Yordan Alvarez",
+        "Nick Allen",
+        "Christian V\u00e1zquez",
         "Isaac Paredes",
         "Jose Altuve",
         "LaMonte Wade Jr.",
@@ -780,7 +780,7 @@
         "Zach Dezenzo"
       ],
       "home_lineup": [
-        "Sam Antonacci",
+        "Junior Perez",
         "Munetaka Murakami",
         "Miguel Vargas",
         "Braden Montgomery",
@@ -855,8 +855,8 @@
       "home_team": "Milwaukee Brewers",
       "away_lineup": [
         "Jake McCarthy",
-        "Mickey Moniak",
-        "Hunter Goodman",
+        "Brett Sullivan",
+        "Braxton Fulford",
         "TJ Rumfield",
         "Kyle Karros",
         "Cole Carrigg",
@@ -869,7 +869,7 @@
         "Brice Turang",
         "Andrew Vaughn",
         "William Contreras",
-        "Jake Bauers",
+        "Blake Perkins",
         "Gary S\u00e1nchez",
         "Luis Lara",
         "Cooper Pratt",
@@ -893,9 +893,9 @@
         "Hunter Goodman",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
+        "Brett Sullivan",
         "Zach Agnos",
         "Tanner Gordon",
-        "Brett Sullivan",
         "Michael Lorenzen",
         "Ezequiel Tovar",
         "TJ Rumfield",
@@ -946,8 +946,8 @@
         "Nathaniel Lowe",
         "Dane Myers",
         "Noelvi Marte",
-        "Jose Trevino",
-        "Ke'Bryan Hayes"
+        "Tyler Stephenson",
+        "Sal Stewart"
       ],
       "home_lineup": [
         "JJ Wetherholt",
@@ -956,9 +956,9 @@
         "Alec Burleson",
         "Masyn Winn",
         "Jos\u00e9 Ferm\u00edn",
-        "Nelson Vel\u00e1zquez",
+        "Lars Nootbaar",
         "Blaze Jordan",
-        "Pedro Pag\u00e9s"
+        "Jimmy Crooks"
       ],
       "away_roster": [
         "Hunter Greene",
@@ -1030,7 +1030,7 @@
         "Randy Arozarena",
         "Josh Naylor",
         "Cal Raleigh",
-        "Luke Raley",
+        "Victor Robles",
         "J.P. Crawford",
         "Colt Emerson"
       ],
@@ -1042,7 +1042,7 @@
         "Jake Burger",
         "Evan Carter",
         "Nicky Lopez",
-        "Josh Smith",
+        "Justin Foscue",
         "Elias D\u00edaz"
       ],
       "away_roster": [
@@ -1086,8 +1086,8 @@
         "Jacob Latz",
         "Cal Quantrill",
         "Nicky Lopez",
-        "Robby Ahlstrom",
         "Justin Foscue",
+        "Robby Ahlstrom",
         "Ezequiel Duran",
         "MacKenzie Gore",
         "Jacob deGrom",
@@ -1193,7 +1193,17 @@
     "New York Yankees @ Philadelphia Phillies | 823433": {
       "away_team": "New York Yankees",
       "home_team": "Philadelphia Phillies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Paul Goldschmidt",
+        "Ben Rice",
+        "Amed Rosario",
+        "Jasson Dom\u00ednguez",
+        "Anthony Volpe",
+        "Trent Grisham",
+        "Max Schuemann",
+        "Jos\u00e9 Caballero",
+        "Ali S\u00e1nchez"
+      ],
       "home_lineup": [
         "Trea Turner",
         "Kyle Schwarber",
@@ -1222,8 +1232,8 @@
         "Ben Rice",
         "Brent Headrick",
         "Will Warren",
-        "Fernando Cruz",
         "Anthony Volpe",
+        "Fernando Cruz",
         "Jazz Chisholm Jr.",
         "Max Fried",
         "Camilo Doval",
@@ -1551,6 +1561,7 @@
         "Davis Schneider",
         "Nathan Lukes",
         "Yohendrick Pi\u00f1ango",
+        "Max Scherzer",
         "George Springer",
         "Mason Fluharty",
         "Braydon Fisher",
@@ -1599,11 +1610,9 @@
       "home_lineup": [],
       "away_roster": [
         "Shawn Armstrong",
-        "Will Dion",
         "Chase DeLauter",
         "Austin Hedges",
         "Travis Bazzana",
-        "Daniel Schneemann",
         "Slade Cecconi",
         "Patrick Bailey",
         "Brayan Rocchio",
@@ -1616,6 +1625,7 @@
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
+        "Angel Mart\u00ednez",
         "Kyle Manzardo",
         "Parker Messick",
         "Joey Cantillo",
@@ -1623,6 +1633,7 @@
         "Gavin Williams",
         "Hunter Gaddis",
         "Tanner Bibee",
+        "Tim Herrin",
         "Rhys Hoskins"
       ],
       "home_roster": [
