@@ -2,10 +2,16 @@
   "date": "2026-07-26",
   "games": {
     "822706": {
-      "active_pitcher_id": 684442,
-      "active_pitcher_name": "Kohl Drake",
+      "active_pitcher_id": 805299,
+      "active_pitcher_name": "Brandyn Garcia",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:09:52.952796-04:00"
+      "last_checked_at": "2026-07-26T15:32:04.338130-04:00"
+    },
+    "822870": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-26T15:32:24.258881-04:00"
     },
     "822950": {
       "active_pitcher_id": 641329,
@@ -20,58 +26,58 @@
       "last_checked_at": "2026-07-26T14:10:17.438112-04:00"
     },
     "823354": {
-      "active_pitcher_id": 592791,
-      "active_pitcher_name": "Jameson Taillon",
+      "active_pitcher_id": 650644,
+      "active_pitcher_name": "Aaron Civale",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:09:55.422280-04:00"
+      "last_checked_at": "2026-07-26T15:32:06.132602-04:00"
     },
     "823599": {
-      "active_pitcher_id": 642547,
-      "active_pitcher_name": "Freddy Peralta",
+      "active_pitcher_id": 676263,
+      "active_pitcher_name": "Jack Dreyer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:05.255127-04:00"
+      "last_checked_at": "2026-07-26T15:32:13.878979-04:00"
     },
     "823678": {
-      "active_pitcher_id": 687570,
-      "active_pitcher_name": "Connor Prielipp",
+      "active_pitcher_id": 806960,
+      "active_pitcher_name": "Luis Morales",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:10.115025-04:00"
+      "last_checked_at": "2026-07-26T15:32:17.790412-04:00"
     },
     "823755": {
-      "active_pitcher_id": 694819,
-      "active_pitcher_name": "Jacob Misiorowski",
+      "active_pitcher_id": 607536,
+      "active_pitcher_name": "Kyle Freeland",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:15.019372-04:00"
+      "last_checked_at": "2026-07-26T15:32:22.421040-04:00"
     },
     "823840": {
-      "active_pitcher_id": 621111,
-      "active_pitcher_name": "Walker Buehler",
+      "active_pitcher_id": 673513,
+      "active_pitcher_name": "Yuki Matsui",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:07.690986-04:00"
+      "last_checked_at": "2026-07-26T15:32:15.672993-04:00"
     },
     "824246": {
-      "active_pitcher_id": 679883,
-      "active_pitcher_name": "Luinder Avila",
+      "active_pitcher_id": 680744,
+      "active_pitcher_name": "Ty Madden",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:02.759585-04:00"
+      "last_checked_at": "2026-07-26T15:32:12.081344-04:00"
     },
     "824572": {
-      "active_pitcher_id": 607200,
-      "active_pitcher_name": "Erick Fedde",
+      "active_pitcher_id": 663855,
+      "active_pitcher_name": "Jordan Hicks",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:12.541453-04:00"
+      "last_checked_at": "2026-07-26T15:32:20.201504-04:00"
     },
     "824730": {
-      "active_pitcher_id": 624133,
-      "active_pitcher_name": "Ranger Suarez",
+      "active_pitcher_id": 663893,
+      "active_pitcher_name": "Brendon Little",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:09:57.861847-04:00"
+      "last_checked_at": "2026-07-26T15:32:08.451478-04:00"
     },
     "824810": {
-      "active_pitcher_id": 625643,
-      "active_pitcher_name": "Reynaldo L\u00f3pez",
+      "active_pitcher_id": 689296,
+      "active_pitcher_name": "Anthony Nunez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-26T14:10:00.326290-04:00"
+      "last_checked_at": "2026-07-26T15:32:10.264857-04:00"
     }
   }
 }
