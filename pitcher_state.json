@@ -112,7 +112,7 @@
       "game_time": "Jul 26, 1:35 PM ET",
       "game_iso": "2026-07-26T13:35:00-04:00",
       "game_pk": "823354",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824730": {
       "away_team": "Toronto Blue Jays",
@@ -340,7 +340,7 @@
       "game_time": "Jul 26, 2:10 PM ET",
       "game_iso": "2026-07-26T14:10:00-04:00",
       "game_pk": "823678",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824572": {
       "away_team": "Houston Astros",
@@ -378,7 +378,7 @@
       "game_time": "Jul 26, 2:10 PM ET",
       "game_iso": "2026-07-26T14:10:00-04:00",
       "game_pk": "824572",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823755": {
       "away_team": "Colorado Rockies",
@@ -416,7 +416,7 @@
       "game_time": "Jul 26, 2:10 PM ET",
       "game_iso": "2026-07-26T14:10:00-04:00",
       "game_pk": "823755",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823028": {
       "away_team": "Cincinnati Reds",
@@ -492,7 +492,7 @@
       "game_time": "Jul 26, 2:35 PM ET",
       "game_iso": "2026-07-26T14:35:00-04:00",
       "game_pk": "822870",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823194": {
       "away_team": "Los Angeles Angels",
