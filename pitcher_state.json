@@ -150,7 +150,7 @@
       "game_time": "Jul 26, 1:35 PM ET",
       "game_iso": "2026-07-26T13:35:00-04:00",
       "game_pk": "824730",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824810": {
       "away_team": "Atlanta Braves",
@@ -188,7 +188,7 @@
       "game_time": "Jul 26, 1:35 PM ET",
       "game_iso": "2026-07-26T13:35:00-04:00",
       "game_pk": "824810",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824246": {
       "away_team": "Kansas City Royals",
@@ -226,7 +226,7 @@
       "game_time": "Jul 26, 1:40 PM ET",
       "game_iso": "2026-07-26T13:40:00-04:00",
       "game_pk": "824246",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823599": {
       "away_team": "Los Angeles Dodgers",
@@ -264,7 +264,7 @@
       "game_time": "Jul 26, 1:40 PM ET",
       "game_iso": "2026-07-26T13:40:00-04:00",
       "game_pk": "823599",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823840": {
       "away_team": "San Diego Padres",
@@ -302,7 +302,7 @@
       "game_time": "Jul 26, 1:40 PM ET",
       "game_iso": "2026-07-26T13:40:00-04:00",
       "game_pk": "823840",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823678": {
       "away_team": "Athletics",
@@ -454,7 +454,7 @@
       "game_time": "Jul 26, 2:15 PM ET",
       "game_iso": "2026-07-26T14:15:00-04:00",
       "game_pk": "823028",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822870": {
       "away_team": "Seattle Mariners",
