@@ -432,7 +432,7 @@
         "Ryan McMahon",
         "Ben Rice",
         "Paul Goldschmidt",
-        "Cody Bellinger",
+        "Max Schuemann",
         "Trent Grisham",
         "Jasson Dom\u00ednguez",
         "Jazz Chisholm Jr.",
@@ -445,10 +445,10 @@
         "Bryce Harper",
         "Alec Bohm",
         "Edmundo Sosa",
-        "Bryan De La Cruz",
+        "Justin Crawford",
         "J.T. Realmuto",
         "Bryson Stott",
-        "Derek Hill"
+        "Brandon Marsh"
       ],
       "away_roster": [
         "Paul Blackburn",
@@ -521,8 +521,8 @@
         "Angel Mart\u00ednez",
         "Kyle Manzardo",
         "Gabriel Arias",
-        "Patrick Bailey",
-        "Petey Halpin"
+        "Austin Hedges",
+        "David Fry"
       ],
       "home_lineup": [
         "Yandy D\u00edaz",
@@ -531,7 +531,7 @@
         "Cedric Mullins",
         "Chandler Simpson",
         "Victor Mesa Jr.",
-        "Richie Palacios",
+        "Taylor Walls",
         "Ben Williamson",
         "Hunter Feduccia"
       ],
@@ -547,8 +547,8 @@
         "Gabriel Arias",
         "Matt Festa",
         "Colin Holderman",
-        "Franco Aleman",
         "David Fry",
+        "Franco Aleman",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -599,12 +599,12 @@
       "away_team": "Chicago Cubs",
       "home_team": "Pittsburgh Pirates",
       "away_lineup": [
-        "Pete Crow-Armstrong",
+        "Michael Conforto",
         "Seiya Suzuki",
         "Michael Busch",
         "Alex Bregman",
-        "Ian Happ",
-        "Nico Hoerner",
+        "James Triantos",
+        "Justin Dean",
         "Pedro Ram\u00edrez",
         "Dansby Swanson",
         "Miguel Amaya"
@@ -612,9 +612,9 @@
       "home_lineup": [
         "Jake Mangum",
         "Nick Gonzales",
-        "Bryan Reynolds",
+        "Billy Cook",
         "Esmerlyn Valdez",
-        "Ryan O'Hearn",
+        "Tyler Callihan",
         "Marcell Ozuna",
         "Jared Triolo",
         "Jacob Gonzalez",
@@ -691,7 +691,7 @@
         "Mauricio Dub\u00f3n",
         "Dominic Smith",
         "Austin Riley",
-        "Mike Yastrzemski",
+        "Eli White",
         "Jim Jarvis"
       ],
       "home_lineup": [
@@ -858,7 +858,7 @@
         "Yordan Alvarez",
         "Isaac Paredes",
         "Jose Altuve",
-        "LaMonte Wade Jr.",
+        "Taylor Trammell",
         "Christian Walker",
         "Yainer Diaz",
         "Lucas Spence",
@@ -945,7 +945,7 @@
         "Hunter Goodman",
         "TJ Rumfield",
         "Willi Castro",
-        "Braxton Fulford",
+        "Brett Sullivan",
         "Tyler Freeman",
         "Ezequiel Tovar"
       ],
@@ -978,9 +978,9 @@
         "Hunter Goodman",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
+        "Brett Sullivan",
         "Zach Agnos",
         "Tanner Gordon",
-        "Brett Sullivan",
         "Ezequiel Tovar",
         "Michael Lorenzen",
         "TJ Rumfield",
@@ -1124,7 +1124,7 @@
         "Jordan Walker",
         "Alec Burleson",
         "Iv\u00e1n Herrera",
-        "Lars Nootbaar",
+        "Jos\u00e9 Ferm\u00edn",
         "Masyn Winn",
         "Bryan Torres",
         "Blaze Jordan",
@@ -1206,7 +1206,7 @@
       ],
       "home_lineup": [
         "Joc Pederson",
-        "Wyatt Langford",
+        "Cam Cauley",
         "Ezequiel Duran",
         "Brandon Nimmo",
         "Evan Carter",
