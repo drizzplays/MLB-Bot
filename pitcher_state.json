@@ -1,43 +1,5 @@
 {
   "2026-07-26": {
-    "822950": {
-      "away_team": "Cleveland Guardians",
-      "home_team": "Tampa Bay Rays",
-      "away_pitcher": "Parker Messick",
-      "home_pitcher": "Drew Rasmussen",
-      "away_pitcher_id": "800048",
-      "home_pitcher_id": "656876",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 5,
-        "era": "2.68",
-        "whip": "1.05",
-        "strikeouts": 116,
-        "innings_pitched": "117.2",
-        "games_started": 20
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 5,
-        "era": "3.28",
-        "whip": "0.98",
-        "strikeouts": 103,
-        "innings_pitched": "104.1",
-        "games_started": 19
-      },
-      "game_time": "Jul 26, 12:15 PM ET",
-      "game_iso": "2026-07-26T12:15:00-04:00",
-      "game_pk": "822950",
-      "status_code": "P"
-    },
     "822706": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Washington Nationals",
@@ -530,7 +492,7 @@
       "game_time": "Jul 26, 4:05 PM ET",
       "game_iso": "2026-07-26T16:05:00-04:00",
       "game_pk": "823194",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823433": {
       "away_team": "New York Yankees",
