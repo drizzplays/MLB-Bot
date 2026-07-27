@@ -333,9 +333,11 @@
       "home_lineup": [],
       "away_roster": [
         "Shawn Armstrong",
+        "Will Dion",
         "Chase DeLauter",
         "Austin Hedges",
         "Travis Bazzana",
+        "Daniel Schneemann",
         "Slade Cecconi",
         "Patrick Bailey",
         "Brayan Rocchio",
@@ -348,7 +350,6 @@
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
-        "Angel Mart\u00ednez",
         "Kyle Manzardo",
         "Parker Messick",
         "Joey Cantillo",
@@ -356,7 +357,6 @@
         "Gavin Williams",
         "Hunter Gaddis",
         "Tanner Bibee",
-        "Tim Herrin",
         "Rhys Hoskins"
       ],
       "home_roster": [
@@ -1712,6 +1712,7 @@
         "Cal Raleigh",
         "Buddy Kennedy",
         "Cole Wilcox",
+        "Miles Mastrobuoni",
         "Logan Gilbert",
         "Bryan Woo",
         "Colt Emerson",
@@ -1720,7 +1721,6 @@
         "Andr\u00e9s Mu\u00f1oz",
         "Mitch Garver",
         "Gabe Speier",
-        "Julio Rodr\u00edguez",
         "Bryce Miller",
         "Eduard Bazardo",
         "Luke Raley",
