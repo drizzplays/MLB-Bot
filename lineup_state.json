@@ -524,7 +524,17 @@
         "Joey Bart",
         "Jim Jarvis"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Luis Robert Jr.",
+        "Francisco Alvarez",
+        "Jared Young",
+        "Tyrone Taylor",
+        "Marcus Semien",
+        "Luis Torrens"
+      ],
       "away_roster": [
         "Dylan Dodd",
         "Dylan Lee",
@@ -588,7 +598,17 @@
     "New York Yankees @ Chicago White Sox | 824570": {
       "away_team": "New York Yankees",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Max Schuemann",
+        "Ben Rice",
+        "Paul Goldschmidt",
+        "Jasson Dom\u00ednguez",
+        "Anthony Volpe",
+        "Jazz Chisholm Jr.",
+        "Jos\u00e9 Caballero",
+        "Spencer Jones",
+        "Ali S\u00e1nchez"
+      ],
       "home_lineup": [
         "Randal Grichuk",
         "Munetaka Murakami",
@@ -617,8 +637,8 @@
         "Ben Rice",
         "Brent Headrick",
         "Will Warren",
-        "Fernando Cruz",
         "Anthony Volpe",
+        "Fernando Cruz",
         "Jazz Chisholm Jr.",
         "Max Fried",
         "Camilo Doval",
@@ -663,7 +683,17 @@
     "Chicago Cubs @ St. Louis Cardinals | 823025": {
       "away_team": "Chicago Cubs",
       "home_team": "St. Louis Cardinals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Alex Bregman",
+        "Carson Kelly",
+        "Michael Busch",
+        "Nico Hoerner",
+        "Ian Happ",
+        "Dansby Swanson",
+        "Miguel Amaya"
+      ],
       "home_lineup": [
         "JJ Wetherholt",
         "Jordan Walker",
@@ -684,9 +714,8 @@
         "Shota Imanaga",
         "Alex Bregman",
         "Pedro Ram\u00edrez",
-        "Michael Busch",
         "Carson Kelly",
-        "Jameson Taillon",
+        "Michael Busch",
         "Pete Crow-Armstrong",
         "Jacob Webb",
         "Miguel Amaya",
@@ -694,13 +723,14 @@
         "Justin Dean",
         "Gavin Hollowell",
         "Aaron Civale",
+        "Andrew Wantz",
         "David Peterson",
         "Ryan Rolison",
         "Trent Thornton",
         "Matthew Boyd",
         "James Triantos",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Nico Hoerner"
       ],
       "home_roster": [
@@ -739,7 +769,17 @@
       "away_team": "Houston Astros",
       "home_team": "Los Angeles Angels",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Jorge Soler",
+        "Vaughn Grissom",
+        "Josh Lowe",
+        "Jo Adell",
+        "Denzer Guzman",
+        "Tyler Heineman"
+      ],
       "away_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
@@ -869,7 +909,17 @@
       "away_team": "Milwaukee Brewers",
       "home_team": "San Francisco Giants",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Luis Arraez",
+        "Heliot Ramos",
+        "Bryce Eldridge",
+        "Rafael Devers",
+        "Casey Schmitt",
+        "Drew Gilbert",
+        "Willy Adames",
+        "Grant McCray",
+        "Jesus Rodriguez"
+      ],
       "away_roster": [
         "Chad Patrick",
         "Cooper Pratt",
@@ -904,8 +954,8 @@
         "Heliot Ramos",
         "Dylan Smith",
         "Drew Cavanaugh",
-        "Tyler Mahle",
         "Jesus Rodriguez",
+        "Tyler Mahle",
         "Logan Webb",
         "Keaton Winn",
         "Jason Foley",
