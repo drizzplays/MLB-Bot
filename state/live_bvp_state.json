@@ -1,4 +1,11 @@
 {
   "date": "2026-07-27",
-  "games": {}
+  "games": {
+    "822868": {
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T15:49:01.783564-04:00"
+    }
+  }
 }
