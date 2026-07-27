@@ -1,11 +1,41 @@
 {
   "date": "2026-07-27",
   "games": {
+    "822705": {
+      "active_pitcher_id": 453286,
+      "active_pitcher_name": "Max Scherzer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T19:16:50.338447-04:00"
+    },
     "822868": {
       "active_pitcher_id": 656641,
       "active_pitcher_name": "Jacob Latz",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-27T16:55:46.528519-04:00"
+    },
+    "823353": {
+      "active_pitcher_id": 656605,
+      "active_pitcher_name": "Mitch Keller",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T19:16:46.506956-04:00"
+    },
+    "823597": {
+      "active_pitcher_id": 804267,
+      "active_pitcher_name": "Zac Thornton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T19:16:52.317904-04:00"
+    },
+    "823839": {
+      "active_pitcher_id": 554430,
+      "active_pitcher_name": "Zack Wheeler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T19:16:48.442989-04:00"
+    },
+    "824245": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T19:16:44.552710-04:00"
     }
   }
 }
