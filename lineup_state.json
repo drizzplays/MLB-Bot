@@ -188,7 +188,7 @@
         "Jake Mangum",
         "Brandon Lowe",
         "Bryan Reynolds",
-        "Esmerlyn Valdez",
+        "Jared Triolo",
         "Ryan O'Hearn",
         "Nick Gonzales",
         "Jacob Gonzalez",
@@ -768,7 +768,17 @@
     "Houston Astros @ Los Angeles Angels | 824001": {
       "away_team": "Houston Astros",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "LaMonte Wade Jr.",
+        "Jose Altuve",
+        "Taylor Trammell",
+        "Christian Walker",
+        "Lucas Spence",
+        "Christian V\u00e1zquez"
+      ],
       "home_lineup": [
         "Zach Neto",
         "Mike Trout",
