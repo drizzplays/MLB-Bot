@@ -1,6 +1,12 @@
 {
   "date": "2026-07-28",
   "games": {
+    "822703": {
+      "active_pitcher_id": 676917,
+      "active_pitcher_name": "Cade Cavalli",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T19:30:05.914451-04:00"
+    },
     "822949": {
       "active_pitcher_id": 643377,
       "active_pitcher_name": "Griffin Jax",
@@ -13,23 +19,41 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-28T18:27:22.779907-04:00"
     },
-    "823838": {
-      "active_pitcher_id": 645261,
-      "active_pitcher_name": "Sandy Alcantara",
+    "823676": {
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T18:27:26.564220-04:00"
+      "last_checked_at": "2026-07-28T19:30:08.248312-04:00"
+    },
+    "823838": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T19:30:03.418745-04:00"
     },
     "824243": {
-      "active_pitcher_id": 675512,
-      "active_pitcher_name": "Troy Melton",
+      "active_pitcher_id": 665152,
+      "active_pitcher_name": "Dean Kremer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T18:27:20.887242-04:00"
+      "last_checked_at": "2026-07-28T19:30:00.989006-04:00"
+    },
+    "824489": {
+      "active_pitcher_id": 657571,
+      "active_pitcher_name": "Caleb Ferguson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T19:29:58.455028-04:00"
     },
     "824490": {
       "active_pitcher_id": 594580,
       "active_pitcher_name": "Sam Moll",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-28T16:04:51.277526-04:00"
+    },
+    "824569": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T19:30:10.375971-04:00"
     }
   }
 }
