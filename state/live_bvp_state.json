@@ -1,6 +1,30 @@
 {
   "date": "2026-07-28",
   "games": {
+    "822949": {
+      "active_pitcher_id": 643377,
+      "active_pitcher_name": "Griffin Jax",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T18:27:24.688451-04:00"
+    },
+    "823350": {
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T18:27:22.779907-04:00"
+    },
+    "823838": {
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T18:27:26.564220-04:00"
+    },
+    "824243": {
+      "active_pitcher_id": 675512,
+      "active_pitcher_name": "Troy Melton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T18:27:20.887242-04:00"
+    },
     "824490": {
       "active_pitcher_id": 594580,
       "active_pitcher_name": "Sam Moll",
