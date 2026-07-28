@@ -65,7 +65,7 @@
       "game_time": "Jul 28, 6:40 PM ET",
       "game_iso": "2026-07-28T18:40:00-04:00",
       "game_pk": "824243",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823350": {
       "away_team": "Arizona Diamondbacks",
@@ -103,22 +103,31 @@
       "game_time": "Jul 28, 6:40 PM ET",
       "game_iso": "2026-07-28T18:40:00-04:00",
       "game_pk": "823350",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822949": {
       "away_team": "Texas Rangers",
       "home_team": "Tampa Bay Rays",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Cal Quantrill",
       "home_pitcher": "Griffin Jax",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "615698",
       "home_pitcher_id": "643377",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 3,
+        "losses": 3,
+        "era": "4.05",
+        "whip": "1.31",
+        "strikeouts": 32,
+        "innings_pitched": "53.1",
+        "games_started": 5
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 6,
@@ -132,7 +141,7 @@
       "game_time": "Jul 28, 6:40 PM ET",
       "game_iso": "2026-07-28T18:40:00-04:00",
       "game_pk": "822949",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823838": {
       "away_team": "Philadelphia Phillies",
@@ -170,7 +179,7 @@
       "game_time": "Jul 28, 6:40 PM ET",
       "game_iso": "2026-07-28T18:40:00-04:00",
       "game_pk": "823838",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822703": {
       "away_team": "Toronto Blue Jays",
@@ -208,7 +217,7 @@
       "game_time": "Jul 28, 6:45 PM ET",
       "game_iso": "2026-07-28T18:45:00-04:00",
       "game_pk": "822703",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823676": {
       "away_team": "Kansas City Royals",
@@ -246,7 +255,7 @@
       "game_time": "Jul 28, 7:40 PM ET",
       "game_iso": "2026-07-28T19:40:00-04:00",
       "game_pk": "823676",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824569": {
       "away_team": "New York Yankees",
@@ -284,19 +293,19 @@
       "game_time": "Jul 28, 7:40 PM ET",
       "game_iso": "2026-07-28T19:40:00-04:00",
       "game_pk": "824569",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823026": {
       "away_team": "Chicago Cubs",
       "home_team": "St. Louis Cardinals",
       "away_pitcher": "Colin Rea",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Michael McGreevy",
       "away_pitcher_id": "607067",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "700241",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -309,11 +318,20 @@
         "innings_pitched": "105.2",
         "games_started": 17
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 4,
+        "losses": 8,
+        "era": "3.07",
+        "whip": "1.13",
+        "strikeouts": 74,
+        "innings_pitched": "114.1",
+        "games_started": 20
+      },
       "game_time": "Jul 28, 7:45 PM ET",
       "game_iso": "2026-07-28T19:45:00-04:00",
       "game_pk": "823026",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824003": {
       "away_team": "Houston Astros",
@@ -471,13 +489,13 @@
       "away_team": "Seattle Mariners",
       "home_team": "Los Angeles Dodgers",
       "away_pitcher": "Luis Castillo",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Justin Wrobleski",
       "away_pitcher_id": "622491",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "680736",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -490,7 +508,16 @@
         "innings_pitched": "94.2",
         "games_started": 16
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 11,
+        "losses": 2,
+        "era": "2.62",
+        "whip": "1.01",
+        "strikeouts": 80,
+        "innings_pitched": "106.2",
+        "games_started": 16
+      },
       "game_time": "Jul 28, 10:10 PM ET",
       "game_iso": "2026-07-28T22:10:00-04:00",
       "game_pk": "823923",
