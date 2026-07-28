@@ -13,6 +13,18 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-27T16:55:46.528519-04:00"
     },
+    "823025": {
+      "active_pitcher_id": 669020,
+      "active_pitcher_name": "Ryan Rolison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T23:40:20.271093-04:00"
+    },
+    "823195": {
+      "active_pitcher_id": 668831,
+      "active_pitcher_name": "Garrett Stallings",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T23:40:27.941002-04:00"
+    },
     "823353": {
       "active_pitcher_id": 670990,
       "active_pitcher_name": "Yohan Ram\u00edrez",
@@ -31,6 +43,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-27T20:12:37.303968-04:00"
     },
+    "824001": {
+      "active_pitcher_id": 664299,
+      "active_pitcher_name": "Cristian Javier",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T23:40:22.615296-04:00"
+    },
     "824245": {
       "active_pitcher_id": 669724,
       "active_pitcher_name": "Brenan Hanifee",
@@ -42,6 +60,12 @@
       "active_pitcher_name": "Max Fried",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-27T20:12:41.023856-04:00"
+    },
+    "824977": {
+      "active_pitcher_id": 663558,
+      "active_pitcher_name": "Jovani Mor\u00e1n",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-27T23:40:25.538563-04:00"
     }
   }
 }
