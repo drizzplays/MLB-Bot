@@ -832,7 +832,6 @@
         "Jos\u00e9 Ferm\u00edn",
         "Gordon Graceffo",
         "JJ Wetherholt",
-        "Hunter Dobbins",
         "Justin Bruihl",
         "Blaze Jordan",
         "Alec Burleson",
@@ -843,6 +842,7 @@
         "Pedro Pag\u00e9s",
         "Ryne Stanek",
         "Luis Gastelum",
+        "Peter Strzelecki",
         "Dustin May",
         "Masyn Winn",
         "Iv\u00e1n Herrera",
@@ -856,13 +856,32 @@
     "Houston Astros @ Los Angeles Angels | 824003": {
       "away_team": "Houston Astros",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Christian Walker",
+        "Jose Altuve",
+        "Cam Smith",
+        "Taylor Trammell",
+        "Zach Dezenzo",
+        "Christian V\u00e1zquez"
+      ],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Jorge Soler",
+        "Vaughn Grissom",
+        "Wade Meckler",
+        "Jo Adell",
+        "Oswald Peraza",
+        "Logan O'Hoppe"
+      ],
       "away_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
         "Nick Allen",
-        "Kai-Wei Teng",
         "Cam Smith",
         "Hunter Brown",
         "Ronel Blanco",
@@ -881,6 +900,7 @@
         "Bryan King",
         "LaMonte Wade Jr.",
         "Christian Walker",
+        "Miguel Ullola",
         "Lucas Spence",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
@@ -932,7 +952,17 @@
         "Andruw Monasterio",
         "Carlos Narv\u00e1ez"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jacob Wilson",
+        "Nick Kurtz",
+        "Jonah Heim",
+        "Tyler Soderstrom",
+        "Tommy White",
+        "Colby Thomas",
+        "Henry Bolte",
+        "Alika Williams",
+        "Brian Serven"
+      ],
       "away_roster": [
         "Jake Bennett",
         "Willson Contreras",
@@ -1081,7 +1111,17 @@
     "Milwaukee Brewers @ San Francisco Giants | 823193": {
       "away_team": "Milwaukee Brewers",
       "home_team": "San Francisco Giants",
-      "away_lineup": [],
+      "away_lineup": [
+        "Brice Turang",
+        "Jackson Chourio",
+        "William Contreras",
+        "Christian Yelich",
+        "Andrew Vaughn",
+        "Luis Lara",
+        "Garrett Mitchell",
+        "Cooper Pratt",
+        "David Hamilton"
+      ],
       "home_lineup": [
         "Luis Arraez",
         "Bryce Eldridge",
@@ -1106,15 +1146,15 @@
         "Grant Anderson",
         "Andrew Vaughn",
         "Shane Drohan",
-        "Aaron Ashby",
         "Garrett Mitchell",
+        "Aaron Ashby",
         "David Hamilton",
         "Brandon Sproat",
         "Blake Perkins",
         "William Contreras",
+        "Brice Turang",
         "Robert Gasser",
         "Garrett Stallings",
-        "Brice Turang",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "Bryse Wilson",
@@ -1122,7 +1162,6 @@
         "Trevor Megill"
       ],
       "home_roster": [
-        "Casey Schmitt",
         "JT Brubaker",
         "Heliot Ramos",
         "Dylan Smith",
@@ -1147,7 +1186,8 @@
         "Landen Roupp",
         "Luis Arraez",
         "Bryce Eldridge",
-        "Daniel Susac"
+        "Daniel Susac",
+        "Osleivis Basabe"
       ],
       "game_time": "Jul 28, 9:45 PM ET",
       "game_iso": "2026-07-28T21:45:00-04:00",
