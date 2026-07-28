@@ -1,4 +1,11 @@
 {
   "date": "2026-07-28",
-  "games": {}
+  "games": {
+    "824490": {
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T14:39:05.948726-04:00"
+    }
+  }
 }
