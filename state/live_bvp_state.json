@@ -1,4 +1,17 @@
 {
   "date": "2026-07-29",
-  "games": {}
+  "games": {
+    "823351": {
+      "active_pitcher_id": 683003,
+      "active_pitcher_name": "Jared Jones",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T12:49:16.384286-04:00"
+    },
+    "823837": {
+      "active_pitcher_id": 687473,
+      "active_pitcher_name": "Ryan Gusto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T12:49:14.540443-04:00"
+    }
+  }
 }
