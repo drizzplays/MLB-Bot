@@ -7,6 +7,18 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-29T15:21:57.007681-04:00"
     },
+    "823192": {
+      "active_pitcher_id": 657277,
+      "active_pitcher_name": "Logan Webb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T16:29:25.400208-04:00"
+    },
+    "823273": {
+      "active_pitcher_id": 606996,
+      "active_pitcher_name": "Kyle Hart",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T16:29:27.886028-04:00"
+    },
     "823351": {
       "active_pitcher_id": 593958,
       "active_pitcher_name": "Eduardo Rodriguez",
@@ -26,10 +38,10 @@
       "last_checked_at": "2026-07-29T13:59:05.862817-04:00"
     },
     "824242": {
-      "active_pitcher_id": 623454,
-      "active_pitcher_name": "Drew Anderson",
+      "active_pitcher_id": 805427,
+      "active_pitcher_name": "Drew Sommers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-29T15:21:59.543594-04:00"
+      "last_checked_at": "2026-07-29T16:29:22.571722-04:00"
     }
   }
 }
