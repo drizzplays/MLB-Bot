@@ -1,17 +1,35 @@
 {
   "date": "2026-07-29",
   "games": {
-    "823351": {
-      "active_pitcher_id": 683003,
-      "active_pitcher_name": "Jared Jones",
+    "822702": {
+      "active_pitcher_id": 702056,
+      "active_pitcher_name": "Trey Yesavage",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-29T12:49:16.384286-04:00"
+      "last_checked_at": "2026-07-29T13:59:09.294831-04:00"
+    },
+    "823351": {
+      "active_pitcher_id": 593958,
+      "active_pitcher_name": "Eduardo Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T13:59:07.586449-04:00"
+    },
+    "823596": {
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T13:59:12.693055-04:00"
     },
     "823837": {
-      "active_pitcher_id": 687473,
-      "active_pitcher_name": "Ryan Gusto",
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-29T12:49:14.540443-04:00"
+      "last_checked_at": "2026-07-29T13:59:05.862817-04:00"
+    },
+    "824242": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T13:59:11.002031-04:00"
     }
   }
 }
