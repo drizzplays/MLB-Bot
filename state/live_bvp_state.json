@@ -2,22 +2,28 @@
   "date": "2026-07-28",
   "games": {
     "822703": {
-      "active_pitcher_id": 676917,
-      "active_pitcher_name": "Cade Cavalli",
+      "active_pitcher_id": 663893,
+      "active_pitcher_name": "Brendon Little",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T19:30:05.914451-04:00"
+      "last_checked_at": "2026-07-28T21:00:08.963183-04:00"
     },
     "822949": {
-      "active_pitcher_id": 643377,
-      "active_pitcher_name": "Griffin Jax",
+      "active_pitcher_id": 596001,
+      "active_pitcher_name": "Jakob Junis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T18:27:24.688451-04:00"
+      "last_checked_at": "2026-07-28T21:00:03.720365-04:00"
+    },
+    "823026": {
+      "active_pitcher_id": 700669,
+      "active_pitcher_name": "Gordon Graceffo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-28T21:00:13.568629-04:00"
     },
     "823350": {
-      "active_pitcher_id": 696149,
-      "active_pitcher_name": "Bubba Chandler",
+      "active_pitcher_id": 694297,
+      "active_pitcher_name": "Brandon Pfaadt",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T18:27:22.779907-04:00"
+      "last_checked_at": "2026-07-28T21:00:01.613419-04:00"
     },
     "823676": {
       "active_pitcher_id": 671737,
@@ -26,22 +32,22 @@
       "last_checked_at": "2026-07-28T19:30:08.248312-04:00"
     },
     "823838": {
-      "active_pitcher_id": 605400,
-      "active_pitcher_name": "Aaron Nola",
+      "active_pitcher_id": 664126,
+      "active_pitcher_name": "Pete Fairbanks",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T19:30:03.418745-04:00"
+      "last_checked_at": "2026-07-28T21:00:06.105673-04:00"
     },
     "824243": {
-      "active_pitcher_id": 665152,
-      "active_pitcher_name": "Dean Kremer",
+      "active_pitcher_id": 644433,
+      "active_pitcher_name": "Chadwick Tromp",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T19:30:00.989006-04:00"
+      "last_checked_at": "2026-07-28T20:59:59.190423-04:00"
     },
     "824489": {
-      "active_pitcher_id": 657571,
-      "active_pitcher_name": "Caleb Ferguson",
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T19:29:58.455028-04:00"
+      "last_checked_at": "2026-07-28T20:59:56.909340-04:00"
     },
     "824490": {
       "active_pitcher_id": 594580,
@@ -50,10 +56,10 @@
       "last_checked_at": "2026-07-28T16:04:51.277526-04:00"
     },
     "824569": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-28T19:30:10.375971-04:00"
+      "last_checked_at": "2026-07-28T21:00:11.390413-04:00"
     }
   }
 }
