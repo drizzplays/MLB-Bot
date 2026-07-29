@@ -1,110 +1,5 @@
 {
   "2026-07-29": {
-    "822702": {
-      "away_team": "Toronto Blue Jays",
-      "home_team": "Washington Nationals",
-      "away_pitcher": "Trey Yesavage",
-      "home_pitcher": "Zack Littell",
-      "away_pitcher_id": "702056",
-      "home_pitcher_id": "641793",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 5,
-        "era": "3.92",
-        "whip": "1.18",
-        "strikeouts": 87,
-        "innings_pitched": "85.0",
-        "games_started": 16
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 8,
-        "era": "5.17",
-        "whip": "1.34",
-        "strikeouts": 66,
-        "innings_pitched": "101.0",
-        "games_started": 13
-      },
-      "game_time": "Jul 29, 1:05 PM ET",
-      "game_iso": "2026-07-29T13:05:00-04:00",
-      "game_pk": "822702",
-      "status_code": "P"
-    },
-    "824242": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "Detroit Tigers",
-      "away_pitcher": "Trevor Rogers",
-      "home_pitcher": "Tarik Skubal",
-      "away_pitcher_id": "669432",
-      "home_pitcher_id": "669373",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 7,
-        "era": "4.17",
-        "whip": "1.27",
-        "strikeouts": 83,
-        "innings_pitched": "103.2",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 5,
-        "era": "2.70",
-        "whip": "0.92",
-        "strikeouts": 110,
-        "innings_pitched": "90.0",
-        "games_started": 15
-      },
-      "game_time": "Jul 29, 1:10 PM ET",
-      "game_iso": "2026-07-29T13:10:00-04:00",
-      "game_pk": "824242",
-      "status_code": "P"
-    },
-    "823596": {
-      "away_team": "Atlanta Braves",
-      "home_team": "New York Mets",
-      "away_pitcher": "AJ Smith-Shawver",
-      "home_pitcher": "Sean Manaea",
-      "away_pitcher_id": "700363",
-      "home_pitcher_id": "640455",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": null,
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 5,
-        "era": "4.52",
-        "whip": "1.35",
-        "strikeouts": 84,
-        "innings_pitched": "85.2",
-        "games_started": 8
-      },
-      "game_time": "Jul 29, 1:10 PM ET",
-      "game_iso": "2026-07-29T13:10:00-04:00",
-      "game_pk": "823596",
-      "status_code": "P"
-    },
     "823598": {
       "away_team": "Atlanta Braves",
       "home_team": "New York Mets",
@@ -208,7 +103,7 @@
       "game_time": "Jul 29, 4:10 PM ET",
       "game_iso": "2026-07-29T16:10:00-04:00",
       "game_pk": "823273",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822947": {
       "away_team": "Texas Rangers",
