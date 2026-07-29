@@ -8,10 +8,18 @@
       "last_checked_at": "2026-07-29T15:21:57.007681-04:00"
     },
     "822947": {
-      "active_pitcher_id": 668984,
-      "active_pitcher_name": "Casey Legumina",
+      "active_pitcher_id": 693855,
+      "active_pitcher_name": "Ian Seymour",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-29T18:28:17.001957-04:00"
+      "last_checked_at": "2026-07-29T19:30:34.111244-04:00"
+    },
+    "823022": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [
+        "669160:691718"
+      ],
+      "last_checked_at": "2026-07-29T19:30:44.464888-04:00"
     },
     "823192": {
       "active_pitcher_id": 668873,
@@ -37,6 +45,20 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-29T15:22:01.916077-04:00"
     },
+    "823598": {
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
+      "alerted_pairs": [
+        "681035:671739"
+      ],
+      "last_checked_at": "2026-07-29T19:30:27.550978-04:00"
+    },
+    "823677": {
+      "active_pitcher_id": 657746,
+      "active_pitcher_name": "Joe Ryan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T19:30:39.411213-04:00"
+    },
     "823837": {
       "active_pitcher_id": 666200,
       "active_pitcher_name": "Jes\u00fas Luzardo",
@@ -48,6 +70,18 @@
       "active_pitcher_name": "Drew Sommers",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-29T16:29:22.571722-04:00"
+    },
+    "824487": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T19:30:36.916661-04:00"
+    },
+    "824567": {
+      "active_pitcher_id": 663436,
+      "active_pitcher_name": "Davis Martin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T19:30:41.957373-04:00"
     }
   }
 }
