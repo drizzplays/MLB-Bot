@@ -1,81 +1,5 @@
 {
   "2026-07-29": {
-    "823837": {
-      "away_team": "Philadelphia Phillies",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Jes\u00fas Luzardo",
-      "home_pitcher": "Ryan Gusto",
-      "away_pitcher_id": "666200",
-      "home_pitcher_id": "687473",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 5,
-        "era": "3.31",
-        "whip": "1.17",
-        "strikeouts": 152,
-        "innings_pitched": "122.1",
-        "games_started": 21
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 2,
-        "era": "4.50",
-        "whip": "1.32",
-        "strikeouts": 31,
-        "innings_pitched": "34.0",
-        "games_started": 7
-      },
-      "game_time": "Jul 29, 12:10 PM ET",
-      "game_iso": "2026-07-29T12:10:00-04:00",
-      "game_pk": "823837",
-      "status_code": "P"
-    },
-    "823351": {
-      "away_team": "Arizona Diamondbacks",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Eduardo Rodriguez",
-      "home_pitcher": "Jared Jones",
-      "away_pitcher_id": "593958",
-      "home_pitcher_id": "683003",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 3,
-        "era": "2.64",
-        "whip": "1.24",
-        "strikeouts": 86,
-        "innings_pitched": "122.2",
-        "games_started": 21
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 1,
-        "era": "3.72",
-        "whip": "1.02",
-        "strikeouts": 53,
-        "innings_pitched": "46.0",
-        "games_started": 10
-      },
-      "game_time": "Jul 29, 12:35 PM ET",
-      "game_iso": "2026-07-29T12:35:00-04:00",
-      "game_pk": "823351",
-      "status_code": "P"
-    },
     "822702": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Washington Nationals",
@@ -222,9 +146,9 @@
     "823192": {
       "away_team": "Milwaukee Brewers",
       "home_team": "San Francisco Giants",
-      "away_pitcher": "Shane Drohan",
+      "away_pitcher": "Thomas Pannone",
       "home_pitcher": "Logan Webb",
-      "away_pitcher_id": "675660",
+      "away_pitcher_id": "623381",
       "home_pitcher_id": "657277",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -232,16 +156,7 @@
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "3.51",
-        "whip": "1.20",
-        "strikeouts": 82,
-        "innings_pitched": "82.0",
-        "games_started": 11
-      },
+      "away_pitcher_stats": null,
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 5,
@@ -255,19 +170,19 @@
       "game_time": "Jul 29, 3:45 PM ET",
       "game_iso": "2026-07-29T15:45:00-04:00",
       "game_pk": "823192",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823273": {
       "away_team": "Colorado Rockies",
       "home_team": "San Diego Padres",
       "away_pitcher": "Gabriel Hughes",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Kyle Hart",
       "away_pitcher_id": "687312",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "606996",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -280,7 +195,16 @@
         "innings_pitched": "19.1",
         "games_started": 3
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 0,
+        "losses": 2,
+        "era": "5.21",
+        "whip": "1.11",
+        "strikeouts": 33,
+        "innings_pitched": "38.0",
+        "games_started": 2
+      },
       "game_time": "Jul 29, 4:10 PM ET",
       "game_iso": "2026-07-29T16:10:00-04:00",
       "game_pk": "823273",
