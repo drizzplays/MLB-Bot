@@ -255,7 +255,7 @@
       "game_time": "Jul 29, 9:38 PM ET",
       "game_iso": "2026-07-29T21:38:00-04:00",
       "game_pk": "824002",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824973": {
       "away_team": "Boston Red Sox",
@@ -293,7 +293,7 @@
       "game_time": "Jul 29, 9:40 PM ET",
       "game_iso": "2026-07-29T21:40:00-04:00",
       "game_pk": "824973",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823924": {
       "away_team": "Seattle Mariners",
@@ -331,7 +331,7 @@
       "game_time": "Jul 29, 10:10 PM ET",
       "game_iso": "2026-07-29T22:10:00-04:00",
       "game_pk": "823924",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
