@@ -38,73 +38,6 @@
       "game_pk": "823598",
       "status_code": "S"
     },
-    "823192": {
-      "away_team": "Milwaukee Brewers",
-      "home_team": "San Francisco Giants",
-      "away_pitcher": "Thomas Pannone",
-      "home_pitcher": "Logan Webb",
-      "away_pitcher_id": "623381",
-      "home_pitcher_id": "657277",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": null,
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 7,
-        "era": "3.98",
-        "whip": "1.12",
-        "strikeouts": 89,
-        "innings_pitched": "113.0",
-        "games_started": 18
-      },
-      "game_time": "Jul 29, 3:45 PM ET",
-      "game_iso": "2026-07-29T15:45:00-04:00",
-      "game_pk": "823192",
-      "status_code": "P"
-    },
-    "823273": {
-      "away_team": "Colorado Rockies",
-      "home_team": "San Diego Padres",
-      "away_pitcher": "Gabriel Hughes",
-      "home_pitcher": "Kyle Hart",
-      "away_pitcher_id": "687312",
-      "home_pitcher_id": "606996",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 2,
-        "era": "2.79",
-        "whip": "1.14",
-        "strikeouts": 19,
-        "innings_pitched": "19.1",
-        "games_started": 3
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 2,
-        "era": "5.21",
-        "whip": "1.11",
-        "strikeouts": 33,
-        "innings_pitched": "38.0",
-        "games_started": 2
-      },
-      "game_time": "Jul 29, 4:10 PM ET",
-      "game_iso": "2026-07-29T16:10:00-04:00",
-      "game_pk": "823273",
-      "status_code": "P"
-    },
     "822947": {
       "away_team": "Texas Rangers",
       "home_team": "Tampa Bay Rays",
@@ -217,7 +150,7 @@
       "game_time": "Jul 29, 7:40 PM ET",
       "game_iso": "2026-07-29T19:40:00-04:00",
       "game_pk": "823677",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824567": {
       "away_team": "New York Yankees",
@@ -255,7 +188,7 @@
       "game_time": "Jul 29, 7:40 PM ET",
       "game_iso": "2026-07-29T19:40:00-04:00",
       "game_pk": "824567",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823022": {
       "away_team": "Chicago Cubs",
@@ -293,7 +226,7 @@
       "game_time": "Jul 29, 7:45 PM ET",
       "game_iso": "2026-07-29T19:45:00-04:00",
       "game_pk": "823022",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824002": {
       "away_team": "Houston Astros",
