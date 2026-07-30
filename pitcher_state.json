@@ -36,7 +36,7 @@
       "game_time": "Jul 30, 12:10 PM ET",
       "game_iso": "2026-07-30T12:10:00-04:00",
       "game_pk": "822946",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823674": {
       "away_team": "Kansas City Royals",
@@ -74,7 +74,7 @@
       "game_time": "Jul 30, 1:40 PM ET",
       "game_iso": "2026-07-30T13:40:00-04:00",
       "game_pk": "823674",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824568": {
       "away_team": "New York Yankees",
@@ -112,7 +112,7 @@
       "game_time": "Jul 30, 2:10 PM ET",
       "game_iso": "2026-07-30T14:10:00-04:00",
       "game_pk": "824568",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823023": {
       "away_team": "Chicago Cubs",
