@@ -65,6 +65,20 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-07-29T13:59:05.862817-04:00"
     },
+    "823924": {
+      "active_pitcher_id": 621074,
+      "active_pitcher_name": "Michael Rucker",
+      "alerted_pairs": [
+        "621074:605141"
+      ],
+      "last_checked_at": "2026-07-29T23:53:17.062114-04:00"
+    },
+    "824002": {
+      "active_pitcher_id": 608718,
+      "active_pitcher_name": "Brent Suter",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T23:53:12.395824-04:00"
+    },
     "824242": {
       "active_pitcher_id": 805427,
       "active_pitcher_name": "Drew Sommers",
@@ -82,6 +96,12 @@
       "active_pitcher_name": "Davis Martin",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-29T19:30:41.957373-04:00"
+    },
+    "824973": {
+      "active_pitcher_id": 665660,
+      "active_pitcher_name": "Elvis Alvarado",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-29T23:53:14.577290-04:00"
     }
   }
 }
