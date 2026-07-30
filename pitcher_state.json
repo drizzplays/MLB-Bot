@@ -1,43 +1,5 @@
 {
   "2026-07-30": {
-    "823674": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Minnesota Twins",
-      "away_pitcher": "Noah Cameron",
-      "home_pitcher": "Bailey Ober",
-      "away_pitcher_id": "702070",
-      "home_pitcher_id": "641927",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 8,
-        "era": "4.93",
-        "whip": "1.41",
-        "strikeouts": 100,
-        "innings_pitched": "107.2",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 3,
-        "era": "4.56",
-        "whip": "1.25",
-        "strikeouts": 60,
-        "innings_pitched": "81.0",
-        "games_started": 15
-      },
-      "game_time": "Jul 30, 1:40 PM ET",
-      "game_iso": "2026-07-30T13:40:00-04:00",
-      "game_pk": "823674",
-      "status_code": "P"
-    },
     "824568": {
       "away_team": "New York Yankees",
       "home_team": "Chicago White Sox",
