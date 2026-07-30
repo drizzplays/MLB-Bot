@@ -1,81 +1,5 @@
 {
   "2026-07-30": {
-    "824568": {
-      "away_team": "New York Yankees",
-      "home_team": "Chicago White Sox",
-      "away_pitcher": "Ryan Weathers",
-      "home_pitcher": "Sean Burke",
-      "away_pitcher_id": "677960",
-      "home_pitcher_id": "680732",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 7,
-        "era": "4.25",
-        "whip": "1.27",
-        "strikeouts": 122,
-        "innings_pitched": "108.0",
-        "games_started": 20
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 5,
-        "era": "3.19",
-        "whip": "1.12",
-        "strikeouts": 130,
-        "innings_pitched": "118.1",
-        "games_started": 17
-      },
-      "game_time": "Jul 30, 2:10 PM ET",
-      "game_iso": "2026-07-30T14:10:00-04:00",
-      "game_pk": "824568",
-      "status_code": "P"
-    },
-    "823023": {
-      "away_team": "Chicago Cubs",
-      "home_team": "St. Louis Cardinals",
-      "away_pitcher": "Javier Assad",
-      "home_pitcher": "Andre Pallante",
-      "away_pitcher_id": "665871",
-      "home_pitcher_id": "669467",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 1,
-        "era": "3.86",
-        "whip": "1.12",
-        "strikeouts": 42,
-        "innings_pitched": "65.1",
-        "games_started": 8
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 11,
-        "losses": 6,
-        "era": "3.77",
-        "whip": "1.21",
-        "strikeouts": 83,
-        "innings_pitched": "112.1",
-        "games_started": 20
-      },
-      "game_time": "Jul 30, 2:15 PM ET",
-      "game_iso": "2026-07-30T14:15:00-04:00",
-      "game_pk": "823023",
-      "status_code": "P"
-    },
     "824488": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Cincinnati Reds",
@@ -112,7 +36,7 @@
       "game_time": "Jul 30, 7:10 PM ET",
       "game_iso": "2026-07-30T19:10:00-04:00",
       "game_pk": "824488",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823595": {
       "away_team": "Miami Marlins",
@@ -150,7 +74,7 @@
       "game_time": "Jul 30, 7:10 PM ET",
       "game_iso": "2026-07-30T19:10:00-04:00",
       "game_pk": "823595",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824894": {
       "away_team": "Washington Nationals",
@@ -188,7 +112,7 @@
       "game_time": "Jul 30, 7:15 PM ET",
       "game_iso": "2026-07-30T19:15:00-04:00",
       "game_pk": "824894",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824974": {
       "away_team": "Boston Red Sox",
