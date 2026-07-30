@@ -2,10 +2,31 @@
   "date": "2026-07-30",
   "games": {
     "822946": {
-      "active_pitcher_id": 594835,
-      "active_pitcher_name": "Marco Gonzales",
+      "active_pitcher_id": 571927,
+      "active_pitcher_name": "Steven Matz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-30T12:53:52.835589-04:00"
+      "last_checked_at": "2026-07-30T14:12:33.600988-04:00"
+    },
+    "823023": {
+      "active_pitcher_id": 669467,
+      "active_pitcher_name": "Andre Pallante",
+      "alerted_pairs": [
+        "669467:608348",
+        "669467:683737"
+      ],
+      "last_checked_at": "2026-07-30T14:12:39.529326-04:00"
+    },
+    "823674": {
+      "active_pitcher_id": 641927,
+      "active_pitcher_name": "Bailey Ober",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-30T14:12:35.956822-04:00"
+    },
+    "824568": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-30T14:12:37.694194-04:00"
     }
   }
 }
