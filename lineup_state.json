@@ -495,7 +495,6 @@
         "Marcus Semien",
         "Cionel P\u00e9rez",
         "A.J. Minter",
-        "Jonathan Pintaro",
         "Freddy Peralta",
         "Francisco Lindor",
         "Christian Scott",
@@ -610,7 +609,17 @@
         "Andruw Monasterio",
         "Connor Wong"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Nick Kurtz",
+        "Jacob Wilson",
+        "Tyler Soderstrom",
+        "Jonah Heim",
+        "Tommy White",
+        "Lawrence Butler",
+        "Jeff McNeil",
+        "Carlos Cortes",
+        "Donovan Walton"
+      ],
       "away_roster": [
         "Jake Bennett",
         "Willson Contreras",
