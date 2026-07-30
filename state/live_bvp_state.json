@@ -1,4 +1,11 @@
 {
   "date": "2026-07-30",
-  "games": {}
+  "games": {
+    "822946": {
+      "active_pitcher_id": 594835,
+      "active_pitcher_name": "Marco Gonzales",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-30T12:53:52.835589-04:00"
+    }
+  }
 }
