@@ -1,17 +1,55 @@
 {
   "date": "2026-07-31",
   "games": {
-    "824486": {
-      "active_pitcher_id": 668881,
-      "active_pitcher_name": "Hunter Greene",
+    "822782": {
+      "active_pitcher_id": 656302,
+      "active_pitcher_name": "Dylan Cease",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-31T18:44:32.718877-04:00"
+      "last_checked_at": "2026-07-31T19:45:37.133456-04:00"
+    },
+    "822945": {
+      "active_pitcher_id": 607259,
+      "active_pitcher_name": "Nick Martinez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T19:45:40.572900-04:00"
+    },
+    "823593": {
+      "active_pitcher_id": 676083,
+      "active_pitcher_name": "Janson Junk",
+      "alerted_pairs": [
+        "676083:666182"
+      ],
+      "last_checked_at": "2026-07-31T19:45:42.289486-04:00"
+    },
+    "824407": {
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T19:45:38.851051-04:00"
+    },
+    "824486": {
+      "active_pitcher_id": 699008,
+      "active_pitcher_name": "Antwone Kelly",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T19:45:33.271942-04:00"
     },
     "824651": {
       "active_pitcher_id": 670280,
       "active_pitcher_name": "David Bednar",
       "alerted_pairs": [],
       "last_checked_at": "2026-07-31T16:47:02.856129-04:00"
+    },
+    "824809": {
+      "active_pitcher_id": 687064,
+      "active_pitcher_name": "Brandon Young",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T19:45:35.403315-04:00"
+    },
+    "824892": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T19:45:46.638248-04:00"
     }
   }
 }
