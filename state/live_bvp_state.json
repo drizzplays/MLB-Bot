@@ -1,6 +1,12 @@
 {
   "date": "2026-07-31",
   "games": {
+    "824486": {
+      "active_pitcher_id": 668881,
+      "active_pitcher_name": "Hunter Greene",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T18:44:32.718877-04:00"
+    },
     "824651": {
       "active_pitcher_id": 670280,
       "active_pitcher_name": "David Bednar",
