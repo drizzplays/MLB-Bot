@@ -16,6 +16,12 @@
       ],
       "last_checked_at": "2026-07-30T17:03:48.761671-04:00"
     },
+    "823595": {
+      "active_pitcher_id": 691587,
+      "active_pitcher_name": "Eury P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-30T21:04:25.780125-04:00"
+    },
     "823674": {
       "active_pitcher_id": 668674,
       "active_pitcher_name": "Lucas Erceg",
@@ -23,10 +29,10 @@
       "last_checked_at": "2026-07-30T15:54:43.770432-04:00"
     },
     "824488": {
-      "active_pitcher_id": 670990,
-      "active_pitcher_name": "Yohan Ram\u00edrez",
+      "active_pitcher_id": 668716,
+      "active_pitcher_name": "Noah Murdock",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-30T19:27:27.038027-04:00"
+      "last_checked_at": "2026-07-30T21:04:22.846031-04:00"
     },
     "824568": {
       "active_pitcher_id": 683409,
@@ -35,10 +41,10 @@
       "last_checked_at": "2026-07-30T17:03:46.212483-04:00"
     },
     "824894": {
-      "active_pitcher_id": 663623,
-      "active_pitcher_name": "Jake Irvin",
+      "active_pitcher_id": 682989,
+      "active_pitcher_name": "Victor Mederos",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-30T19:27:28.784143-04:00"
+      "last_checked_at": "2026-07-30T21:04:28.359086-04:00"
     }
   }
 }
