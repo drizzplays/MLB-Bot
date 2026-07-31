@@ -36,7 +36,7 @@
       "game_time": "Jul 31, 2:20 PM ET",
       "game_iso": "2026-07-31T14:20:00-04:00",
       "game_pk": "824651",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824486": {
       "away_team": "Pittsburgh Pirates",
@@ -412,26 +412,17 @@
     "824975": {
       "away_team": "Detroit Tigers",
       "home_team": "Athletics",
-      "away_pitcher": "Casey Mize",
+      "away_pitcher": "TBD",
       "home_pitcher": "Jeffrey Springs",
-      "away_pitcher_id": "663554",
+      "away_pitcher_id": null,
       "home_pitcher_id": "605488",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
+      "away_pitcher_status": "tbd",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "2.70",
-        "whip": "0.99",
-        "strikeouts": 85,
-        "innings_pitched": "86.2",
-        "games_started": 16
-      },
+      "away_pitcher_stats": null,
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 3,
