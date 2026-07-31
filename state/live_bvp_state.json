@@ -1,4 +1,11 @@
 {
   "date": "2026-07-31",
-  "games": {}
+  "games": {
+    "824651": {
+      "active_pitcher_id": 684007,
+      "active_pitcher_name": "Shota Imanaga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T15:47:40.455798-04:00"
+    }
+  }
 }
