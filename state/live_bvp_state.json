@@ -2,30 +2,42 @@
   "date": "2026-07-31",
   "games": {
     "822782": {
-      "active_pitcher_id": 656302,
-      "active_pitcher_name": "Dylan Cease",
+      "active_pitcher_id": 656546,
+      "active_pitcher_name": "Jeff Hoffman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-31T19:45:37.133456-04:00"
+      "last_checked_at": "2026-07-31T21:17:31.209268-04:00"
     },
     "822945": {
-      "active_pitcher_id": 607259,
-      "active_pitcher_name": "Nick Martinez",
+      "active_pitcher_id": 805326,
+      "active_pitcher_name": "Tyler Schweitzer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-31T19:45:40.572900-04:00"
+      "last_checked_at": "2026-07-31T21:17:36.494681-04:00"
     },
     "823593": {
-      "active_pitcher_id": 676083,
-      "active_pitcher_name": "Janson Junk",
+      "active_pitcher_id": 676604,
+      "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [
         "676083:666182"
       ],
-      "last_checked_at": "2026-07-31T19:45:42.289486-04:00"
+      "last_checked_at": "2026-07-31T21:17:39.390558-04:00"
+    },
+    "824164": {
+      "active_pitcher_id": 543135,
+      "active_pitcher_name": "Nathan Eovaldi",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T21:17:45.178724-04:00"
+    },
+    "824325": {
+      "active_pitcher_id": 608372,
+      "active_pitcher_name": "Tomoyuki Sugano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-07-31T21:17:47.560381-04:00"
     },
     "824407": {
-      "active_pitcher_id": 676440,
-      "active_pitcher_name": "Tanner Bibee",
+      "active_pitcher_id": 681870,
+      "active_pitcher_name": "Erik Sabrowski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-31T19:45:38.851051-04:00"
+      "last_checked_at": "2026-07-31T21:17:33.885357-04:00"
     },
     "824486": {
       "active_pitcher_id": 699008,
@@ -40,16 +52,16 @@
       "last_checked_at": "2026-07-31T16:47:02.856129-04:00"
     },
     "824809": {
-      "active_pitcher_id": 687064,
-      "active_pitcher_name": "Brandon Young",
+      "active_pitcher_id": 641835,
+      "active_pitcher_name": "Tim Mayza",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-31T19:45:35.403315-04:00"
+      "last_checked_at": "2026-07-31T21:17:28.464195-04:00"
     },
     "824892": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 592866,
+      "active_pitcher_name": "Trevor Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-07-31T19:45:46.638248-04:00"
+      "last_checked_at": "2026-07-31T21:17:42.055200-04:00"
     }
   }
 }
