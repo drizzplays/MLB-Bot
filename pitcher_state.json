@@ -1,34 +1,5 @@
 {
   "2026-08-01": {
-    "822781": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Toronto Blue Jays",
-      "away_pitcher": "Quinn Mathews",
-      "home_pitcher": "Kevin Gausman",
-      "away_pitcher_id": "687273",
-      "home_pitcher_id": "592332",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": null,
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 10,
-        "era": "4.51",
-        "whip": "1.27",
-        "strikeouts": 123,
-        "innings_pitched": "121.2",
-        "games_started": 22
-      },
-      "game_time": "Aug 1, 3:07 PM ET",
-      "game_iso": "2026-08-01T15:07:00-04:00",
-      "game_pk": "822781",
-      "status_code": "P"
-    },
     "823109": {
       "away_team": "Minnesota Twins",
       "home_team": "Seattle Mariners",
@@ -179,7 +150,7 @@
       "game_time": "Aug 1, 6:40 PM ET",
       "game_iso": "2026-08-01T18:40:00-04:00",
       "game_pk": "824485",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824808": {
       "away_team": "Philadelphia Phillies",
@@ -217,7 +188,7 @@
       "game_time": "Aug 1, 7:05 PM ET",
       "game_iso": "2026-08-01T19:05:00-04:00",
       "game_pk": "824808",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824162": {
       "away_team": "Texas Rangers",
@@ -255,7 +226,7 @@
       "game_time": "Aug 1, 7:10 PM ET",
       "game_iso": "2026-08-01T19:10:00-04:00",
       "game_pk": "824162",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824405": {
       "away_team": "Arizona Diamondbacks",
@@ -331,7 +302,7 @@
       "game_time": "Aug 1, 7:15 PM ET",
       "game_iso": "2026-08-01T19:15:00-04:00",
       "game_pk": "824890",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824649": {
       "away_team": "New York Yankees",
@@ -407,7 +378,7 @@
       "game_time": "Aug 1, 8:10 PM ET",
       "game_iso": "2026-08-01T20:10:00-04:00",
       "game_pk": "824326",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823269": {
       "away_team": "San Francisco Giants",
@@ -489,9 +460,9 @@
       "away_team": "Milwaukee Brewers",
       "home_team": "Los Angeles Angels",
       "away_pitcher": "Robert Gasser",
-      "home_pitcher": "Jos\u00e9 Soriano",
+      "home_pitcher": "Brent Suter",
       "away_pitcher_id": "688107",
-      "home_pitcher_id": "667755",
+      "home_pitcher_id": "608718",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
@@ -510,13 +481,13 @@
       },
       "home_pitcher_stats": {
         "season": "2026",
-        "wins": 9,
-        "losses": 6,
-        "era": "3.29",
-        "whip": "1.25",
-        "strikeouts": 127,
-        "innings_pitched": "123.0",
-        "games_started": 22
+        "wins": 1,
+        "losses": 2,
+        "era": "4.26",
+        "whip": "1.26",
+        "strikeouts": 54,
+        "innings_pitched": "61.1",
+        "games_started": 2
       },
       "game_time": "Aug 1, 9:38 PM ET",
       "game_iso": "2026-08-01T21:38:00-04:00",
