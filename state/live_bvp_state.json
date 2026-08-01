@@ -2,30 +2,30 @@
   "date": "2026-08-01",
   "games": {
     "822781": {
-      "active_pitcher_id": 680755,
-      "active_pitcher_name": "Braydon Fisher",
+      "active_pitcher_id": 656546,
+      "active_pitcher_name": "Jeff Hoffman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-01T16:45:06.432548-04:00"
+      "last_checked_at": "2026-08-01T17:38:32.066145-04:00"
     },
     "822944": {
-      "active_pitcher_id": 656876,
-      "active_pitcher_name": "Drew Rasmussen",
+      "active_pitcher_id": 702273,
+      "active_pitcher_name": "Noah Schultz",
       "alerted_pairs": [
         "656876:643217"
       ],
-      "last_checked_at": "2026-08-01T16:45:11.493733-04:00"
+      "last_checked_at": "2026-08-01T17:38:36.788843-04:00"
     },
     "823109": {
-      "active_pitcher_id": 669302,
-      "active_pitcher_name": "Logan Gilbert",
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-01T16:45:08.985019-04:00"
+      "last_checked_at": "2026-08-01T17:38:34.611393-04:00"
     },
     "823594": {
-      "active_pitcher_id": 663969,
-      "active_pitcher_name": "Tyler Phillips",
+      "active_pitcher_id": 804267,
+      "active_pitcher_name": "Zac Thornton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-01T16:45:18.034386-04:00"
+      "last_checked_at": "2026-08-01T17:38:39.230663-04:00"
     }
   }
 }
