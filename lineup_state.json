@@ -96,7 +96,7 @@
         "Ryan O'Hearn",
         "Nick Gonzales",
         "Endy Rodr\u00edguez",
-        "Jacob Gonzalez",
+        "Jared Triolo",
         "Henry Davis"
       ],
       "home_lineup": [
@@ -104,8 +104,8 @@
         "Sal Stewart",
         "JJ Bleday",
         "Tyler Stephenson",
-        "Nathaniel Lowe",
-        "Eugenio Su\u00e1rez",
+        "Ivan Johnson",
+        "Ke'Bryan Hayes",
         "Dane Myers",
         "Noelvi Marte",
         "Matt McLain"
@@ -150,8 +150,8 @@
         "Nathaniel Lowe",
         "Brady Singer",
         "Matt McLain",
-        "Caleb Ferguson",
         "Ke'Bryan Hayes",
+        "Caleb Ferguson",
         "TJ Friedl",
         "Rhett Lowder",
         "Jose Trevino",
@@ -181,7 +181,7 @@
         "Brandon Marsh",
         "J.T. Realmuto",
         "Bryson Stott",
-        "Gabriel Rincones Jr.",
+        "Derek Hill",
         "Justin Crawford"
       ],
       "home_lineup": [
@@ -193,7 +193,7 @@
         "Jackson Holliday",
         "Coby Mayo",
         "Colton Cowser",
-        "Yohel Pozo"
+        "Christian Encarnacion-Strand"
       ],
       "away_roster": [
         "Gabriel Rincones Jr.",
@@ -246,8 +246,8 @@
         "Jackson Holliday",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo"
       ],
@@ -270,13 +270,13 @@
         "Jimmy Crooks"
       ],
       "home_lineup": [
-        "Nathan Lukes",
+        "Myles Straw",
         "Vladimir Guerrero Jr.",
         "Kazuma Okamoto",
         "George Springer",
         "Daulton Varsho",
         "Ernie Clement",
-        "Jes\u00fas S\u00e1nchez",
+        "Davis Schneider",
         "Brandon Valenzuela",
         "Andr\u00e9s Gim\u00e9nez"
       ],
@@ -358,9 +358,9 @@
         "Angel Mart\u00ednez",
         "Jos\u00e9 Ram\u00edrez",
         "Chase DeLauter",
-        "Rhys Hoskins",
+        "Kyle Manzardo",
         "Brayan Rocchio",
-        "David Fry",
+        "Petey Halpin",
         "Travis Bazzana",
         "Austin Hedges",
         "Steven Kwan"
@@ -531,7 +531,7 @@
         "Carson Benge",
         "Luis Robert Jr.",
         "Jared Young",
-        "Brett Baty",
+        "Marcus Semien",
         "Jorge Polanco",
         "Francisco Alvarez"
       ],
@@ -577,8 +577,8 @@
         "Devin Williams",
         "Kodai Senga",
         "Daniel Duarte",
-        "Xzavion Curry",
         "Marcus Semien",
+        "Xzavion Curry",
         "Jonathan Pintaro",
         "Freddy Peralta",
         "Francisco Lindor",
@@ -600,14 +600,14 @@
       "home_team": "Atlanta Braves",
       "away_lineup": [
         "James Wood",
-        "Luis Garc\u00eda Jr.",
+        "Andr\u00e9s Chaparro",
         "Dylan Crews",
         "CJ Abrams",
         "Brady House",
         "Daylen Lile",
         "Harry Ford",
         "Jos\u00e9 Tena",
-        "Jacob Young"
+        "Jorbit Vivas"
       ],
       "home_lineup": [
         "Ronald Acu\u00f1a Jr.",
@@ -627,8 +627,8 @@
         "Andr\u00e9s Chaparro",
         "Riley Cornelio",
         "Miles Mikolas",
-        "Carson Palmquist",
         "Jorbit Vivas",
+        "Carson Palmquist",
         "Dylan Crews",
         "Trevor Williams",
         "Max Kranick",
@@ -1163,6 +1163,7 @@
         "Alex Vesia",
         "Kyle Tucker",
         "Enrique Hern\u00e1ndez",
+        "Cole Irvin",
         "Max Muncy",
         "Freddie Freeman",
         "Edgardo Henriquez",
@@ -1179,7 +1180,6 @@
         "Evan Phillips",
         "Mookie Betts",
         "Alex Call",
-        "Brock Stewart",
         "Emmet Sheehan",
         "Miguel Rojas",
         "Jack Dreyer",
@@ -2001,7 +2001,6 @@
       "away_lineup": [],
       "home_lineup": [],
       "away_roster": [
-        "Casey Schmitt",
         "JT Brubaker",
         "Heliot Ramos",
         "Dylan Smith",
@@ -2026,7 +2025,8 @@
         "Landen Roupp",
         "Luis Arraez",
         "Bryce Eldridge",
-        "Daniel Susac"
+        "Daniel Susac",
+        "Osleivis Basabe"
       ],
       "home_roster": [
         "Luis Campusano",
@@ -2043,10 +2043,10 @@
         "Germ\u00e1n M\u00e1rquez",
         "Bradgley Rodriguez",
         "Sung-Mun Song",
+        "Jeremiah Estrada",
         "Gavin Sheets",
         "Adrian Morejon",
         "Manny Machado",
-        "Matt Waldron",
         "Ty France",
         "Fernando Tatis Jr.",
         "Xander Bogaerts",
