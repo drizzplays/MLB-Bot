@@ -1,43 +1,5 @@
 {
   "2026-07-31": {
-    "824164": {
-      "away_team": "Texas Rangers",
-      "home_team": "Houston Astros",
-      "away_pitcher": "Nathan Eovaldi",
-      "home_pitcher": "Hunter Brown",
-      "away_pitcher_id": "543135",
-      "home_pitcher_id": "686613",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 10,
-        "losses": 8,
-        "era": "4.05",
-        "whip": "1.17",
-        "strikeouts": 130,
-        "innings_pitched": "122.1",
-        "games_started": 20
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 1,
-        "era": "3.45",
-        "whip": "1.28",
-        "strikeouts": 50,
-        "innings_pitched": "47.0",
-        "games_started": 9
-      },
-      "game_time": "Jul 31, 8:15 PM ET",
-      "game_iso": "2026-07-31T20:15:00-04:00",
-      "game_pk": "824164",
-      "status_code": "P"
-    },
     "824325": {
       "away_team": "Kansas City Royals",
       "home_team": "Colorado Rockies",
