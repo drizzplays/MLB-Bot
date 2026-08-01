@@ -226,7 +226,7 @@
       "game_time": "Aug 1, 7:15 PM ET",
       "game_iso": "2026-08-01T19:15:00-04:00",
       "game_pk": "824649",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824326": {
       "away_team": "Kansas City Royals",
@@ -340,7 +340,7 @@
       "game_time": "Aug 1, 9:10 PM ET",
       "game_iso": "2026-08-01T21:10:00-04:00",
       "game_pk": "823920",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824000": {
       "away_team": "Milwaukee Brewers",
