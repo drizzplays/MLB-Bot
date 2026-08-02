@@ -2,46 +2,58 @@
   "date": "2026-08-02",
   "games": {
     "822783": {
-      "active_pitcher_id": 453286,
-      "active_pitcher_name": "Max Scherzer",
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:30.617501-04:00"
+      "last_checked_at": "2026-08-02T14:43:32.264161-04:00"
     },
     "822943": {
-      "active_pitcher_id": 643377,
-      "active_pitcher_name": "Griffin Jax",
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:36.318261-04:00"
+      "last_checked_at": "2026-08-02T14:43:39.305999-04:00"
     },
     "823592": {
-      "active_pitcher_id": 476594,
-      "active_pitcher_name": "Robert Stock",
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:38.246415-04:00"
+      "last_checked_at": "2026-08-02T14:43:41.593736-04:00"
+    },
+    "824163": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-02T14:43:43.671186-04:00"
     },
     "824404": {
-      "active_pitcher_id": 668909,
-      "active_pitcher_name": "Gavin Williams",
+      "active_pitcher_id": 518876,
+      "active_pitcher_name": "Merrill Kelly",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:32.531074-04:00"
+      "last_checked_at": "2026-08-02T14:43:34.580983-04:00"
     },
     "824483": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 668716,
+      "active_pitcher_name": "Noah Murdock",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:34.426989-04:00"
+      "last_checked_at": "2026-08-02T14:43:36.869975-04:00"
+    },
+    "824648": {
+      "active_pitcher_id": 607067,
+      "active_pitcher_name": "Colin Rea",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-02T14:43:45.969253-04:00"
     },
     "824807": {
-      "active_pitcher_id": 680694,
-      "active_pitcher_name": "Kyle Bradish",
+      "active_pitcher_id": 554430,
+      "active_pitcher_name": "Zack Wheeler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:26.777199-04:00"
+      "last_checked_at": "2026-08-02T14:43:27.977639-04:00"
     },
     "824891": {
-      "active_pitcher_id": 702275,
-      "active_pitcher_name": "JR Ritchie",
+      "active_pitcher_id": 676917,
+      "active_pitcher_name": "Cade Cavalli",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T13:42:28.717188-04:00"
+      "last_checked_at": "2026-08-02T14:43:30.166137-04:00"
     }
   }
 }
