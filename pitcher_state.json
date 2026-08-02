@@ -255,7 +255,7 @@
       "game_time": "Aug 2, 1:40 PM ET",
       "game_iso": "2026-08-02T13:40:00-04:00",
       "game_pk": "823592",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824163": {
       "away_team": "Texas Rangers",
@@ -293,7 +293,7 @@
       "game_time": "Aug 2, 2:10 PM ET",
       "game_iso": "2026-08-02T14:10:00-04:00",
       "game_pk": "824163",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824648": {
       "away_team": "New York Yankees",
@@ -331,7 +331,7 @@
       "game_time": "Aug 2, 2:20 PM ET",
       "game_iso": "2026-08-02T14:20:00-04:00",
       "game_pk": "824648",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824323": {
       "away_team": "Kansas City Royals",
@@ -369,7 +369,7 @@
       "game_time": "Aug 2, 3:10 PM ET",
       "game_iso": "2026-08-02T15:10:00-04:00",
       "game_pk": "824323",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823996": {
       "away_team": "Milwaukee Brewers",
