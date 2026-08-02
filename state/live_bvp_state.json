@@ -2,46 +2,72 @@
   "date": "2026-08-02",
   "games": {
     "822783": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 686973,
+      "active_pitcher_name": "Louis Varland",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:32.264161-04:00"
+      "last_checked_at": "2026-08-02T15:58:33.419695-04:00"
     },
     "822943": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+      "active_pitcher_id": 691799,
+      "active_pitcher_name": "Grant Taylor",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:39.305999-04:00"
+      "last_checked_at": "2026-08-02T15:58:39.831836-04:00"
+    },
+    "823107": {
+      "active_pitcher_id": 669923,
+      "active_pitcher_name": "George Kirby",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-02T15:59:02.658664-04:00"
+    },
+    "823270": {
+      "active_pitcher_id": 606996,
+      "active_pitcher_name": "Kyle Hart",
+      "alerted_pairs": [
+        "606996:642715"
+      ],
+      "last_checked_at": "2026-08-02T15:58:57.130143-04:00"
     },
     "823592": {
-      "active_pitcher_id": 645261,
-      "active_pitcher_name": "Sandy Alcantara",
+      "active_pitcher_id": 642207,
+      "active_pitcher_name": "Devin Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:41.593736-04:00"
+      "last_checked_at": "2026-08-02T15:58:42.472006-04:00"
+    },
+    "823996": {
+      "active_pitcher_id": 694819,
+      "active_pitcher_name": "Jacob Misiorowski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-02T15:58:52.662499-04:00"
     },
     "824163": {
-      "active_pitcher_id": 663567,
-      "active_pitcher_name": "Peter Lambert",
+      "active_pitcher_id": 695239,
+      "active_pitcher_name": "Robby Ahlstrom",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:43.671186-04:00"
+      "last_checked_at": "2026-08-02T15:58:45.323911-04:00"
+    },
+    "824323": {
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-02T15:58:50.267823-04:00"
     },
     "824404": {
-      "active_pitcher_id": 518876,
-      "active_pitcher_name": "Merrill Kelly",
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:34.580983-04:00"
+      "last_checked_at": "2026-08-02T15:58:36.095878-04:00"
     },
     "824483": {
-      "active_pitcher_id": 668716,
-      "active_pitcher_name": "Noah Murdock",
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:36.869975-04:00"
+      "last_checked_at": "2026-08-02T15:58:37.973467-04:00"
     },
     "824648": {
-      "active_pitcher_id": 607067,
-      "active_pitcher_name": "Colin Rea",
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:45.969253-04:00"
+      "last_checked_at": "2026-08-02T15:58:47.656629-04:00"
     },
     "824807": {
       "active_pitcher_id": 554430,
@@ -50,10 +76,16 @@
       "last_checked_at": "2026-08-02T14:43:27.977639-04:00"
     },
     "824891": {
-      "active_pitcher_id": 676917,
-      "active_pitcher_name": "Cade Cavalli",
+      "active_pitcher_id": 628452,
+      "active_pitcher_name": "Raisel Iglesias",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T14:43:30.166137-04:00"
+      "last_checked_at": "2026-08-02T15:58:30.718290-04:00"
+    },
+    "824971": {
+      "active_pitcher_id": 695611,
+      "active_pitcher_name": "Gage Jump",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-02T15:58:54.954211-04:00"
     }
   }
 }
