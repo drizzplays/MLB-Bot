@@ -42,13 +42,13 @@
       "away_team": "Washington Nationals",
       "home_team": "Atlanta Braves",
       "away_pitcher": "Cade Cavalli",
-      "home_pitcher": "TBD",
+      "home_pitcher": "JR Ritchie",
       "away_pitcher_id": "676917",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "702275",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -61,7 +61,16 @@
         "innings_pitched": "116.2",
         "games_started": 23
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 1,
+        "losses": 2,
+        "era": "4.50",
+        "whip": "1.41",
+        "strikeouts": 49,
+        "innings_pitched": "54.0",
+        "games_started": 7
+      },
       "game_time": "Aug 2, 1:35 PM ET",
       "game_iso": "2026-08-02T13:35:00-04:00",
       "game_pk": "824891",
@@ -103,7 +112,7 @@
       "game_time": "Aug 2, 1:37 PM ET",
       "game_iso": "2026-08-02T13:37:00-04:00",
       "game_pk": "822783",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824404": {
       "away_team": "Arizona Diamondbacks",
