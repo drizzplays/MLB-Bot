@@ -14,18 +14,18 @@
       "last_checked_at": "2026-08-02T15:58:39.831836-04:00"
     },
     "823107": {
-      "active_pitcher_id": 696070,
-      "active_pitcher_name": "Kendry Rojas",
+      "active_pitcher_id": 662253,
+      "active_pitcher_name": "Andr\u00e9s Mu\u00f1oz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T17:55:24.227553-04:00"
+      "last_checked_at": "2026-08-02T18:52:15.691191-04:00"
     },
     "823270": {
-      "active_pitcher_id": 694738,
-      "active_pitcher_name": "Landen Roupp",
+      "active_pitcher_id": 664141,
+      "active_pitcher_name": "JT Brubaker",
       "alerted_pairs": [
         "606996:642715"
       ],
-      "last_checked_at": "2026-08-02T17:55:22.279458-04:00"
+      "last_checked_at": "2026-08-02T18:52:13.224343-04:00"
     },
     "823592": {
       "active_pitcher_id": 642207,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-02T15:58:30.718290-04:00"
     },
     "824971": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+      "active_pitcher_id": 641386,
+      "active_pitcher_name": "Ben Bowden",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-02T16:57:41.393674-04:00"
+      "last_checked_at": "2026-08-02T18:52:10.991913-04:00"
     }
   }
 }
