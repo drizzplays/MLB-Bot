@@ -1,11 +1,35 @@
 {
   "date": "2026-08-03",
   "games": {
+    "822867": {
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-03T19:50:57.345535-04:00"
+    },
     "823431": {
       "active_pitcher_id": 605400,
       "active_pitcher_name": "Aaron Nola",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-03T18:42:36.847231-04:00"
+    },
+    "823520": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-03T19:50:51.781617-04:00"
+    },
+    "823757": {
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-03T19:50:53.527365-04:00"
+    },
+    "824647": {
+      "active_pitcher_id": 571510,
+      "active_pitcher_name": "Matthew Boyd",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-03T19:50:55.390823-04:00"
     }
   }
 }
