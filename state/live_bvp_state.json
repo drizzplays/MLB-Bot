@@ -8,22 +8,34 @@
       "last_checked_at": "2026-08-03T19:50:57.345535-04:00"
     },
     "823431": {
-      "active_pitcher_id": 605400,
-      "active_pitcher_name": "Aaron Nola",
+      "active_pitcher_id": 678868,
+      "active_pitcher_name": "Eddy Yean",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-03T18:42:36.847231-04:00"
+      "last_checked_at": "2026-08-03T21:10:37.950364-04:00"
     },
     "823520": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+      "active_pitcher_id": 665645,
+      "active_pitcher_name": "Kervin Castro",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-03T19:50:51.781617-04:00"
+      "last_checked_at": "2026-08-03T21:10:40.535195-04:00"
     },
     "823757": {
-      "active_pitcher_id": 696149,
-      "active_pitcher_name": "Bubba Chandler",
+      "active_pitcher_id": 668831,
+      "active_pitcher_name": "Garrett Stallings",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-03T19:50:53.527365-04:00"
+      "last_checked_at": "2026-08-03T21:10:43.103781-04:00"
+    },
+    "824160": {
+      "active_pitcher_id": 664299,
+      "active_pitcher_name": "Cristian Javier",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-03T21:10:45.906119-04:00"
+    },
+    "824324": {
+      "active_pitcher_id": 547179,
+      "active_pitcher_name": "Michael Lorenzen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-03T21:10:47.787612-04:00"
     },
     "824647": {
       "active_pitcher_id": 571510,
