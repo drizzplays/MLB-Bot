@@ -530,7 +530,7 @@
       "game_time": "Aug 4, 9:40 PM ET",
       "game_iso": "2026-08-04T21:40:00-04:00",
       "game_pk": "825054",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823108": {
       "away_team": "Detroit Tigers",
@@ -568,7 +568,7 @@
       "game_time": "Aug 4, 9:40 PM ET",
       "game_iso": "2026-08-04T21:40:00-04:00",
       "game_pk": "823108",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
