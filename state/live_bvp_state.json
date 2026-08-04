@@ -2,28 +2,58 @@
   "date": "2026-08-04",
   "games": {
     "823432": {
-      "active_pitcher_id": 666200,
-      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "active_pitcher_id": 641793,
+      "active_pitcher_name": "Zack Littell",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-04T18:30:41.205443-04:00"
+      "last_checked_at": "2026-08-04T19:34:35.664122-04:00"
+    },
+    "823517": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T19:34:38.191041-04:00"
+    },
+    "823756": {
+      "active_pitcher_id": 701656,
+      "active_pitcher_name": "Logan Henderson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T19:34:46.467569-04:00"
+    },
+    "824084": {
+      "active_pitcher_id": 677976,
+      "active_pitcher_name": "Randy Dobnak",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T19:34:44.381869-04:00"
     },
     "824403": {
-      "active_pitcher_id": 676282,
-      "active_pitcher_name": "Joey Cantillo",
+      "active_pitcher_id": 640455,
+      "active_pitcher_name": "Sean Manaea",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-04T18:30:36.503201-04:00"
+      "last_checked_at": "2026-08-04T19:34:31.384414-04:00"
     },
     "824484": {
-      "active_pitcher_id": 663903,
-      "active_pitcher_name": "Brady Singer",
+      "active_pitcher_id": 669372,
+      "active_pitcher_name": "J.T. Ginn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-04T18:30:38.867270-04:00"
+      "last_checked_at": "2026-08-04T19:34:33.502245-04:00"
+    },
+    "824731": {
+      "active_pitcher_id": 663776,
+      "active_pitcher_name": "Patrick Sandoval",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T19:34:40.269591-04:00"
     },
     "824805": {
-      "active_pitcher_id": 700249,
-      "active_pitcher_name": "Cade Povich",
+      "active_pitcher_id": 680570,
+      "active_pitcher_name": "Grayson Rodriguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-04T18:30:34.417653-04:00"
+      "last_checked_at": "2026-08-04T19:34:29.241783-04:00"
+    },
+    "824888": {
+      "active_pitcher_id": 656550,
+      "active_pitcher_name": "Grant Holmes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T19:34:42.302118-04:00"
     }
   }
 }
