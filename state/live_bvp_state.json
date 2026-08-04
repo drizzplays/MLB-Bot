@@ -1,4 +1,29 @@
 {
   "date": "2026-08-04",
-  "games": {}
+  "games": {
+    "823432": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T18:30:41.205443-04:00"
+    },
+    "824403": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T18:30:36.503201-04:00"
+    },
+    "824484": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T18:30:38.867270-04:00"
+    },
+    "824805": {
+      "active_pitcher_id": 700249,
+      "active_pitcher_name": "Cade Povich",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-04T18:30:34.417653-04:00"
+    }
+  }
 }
