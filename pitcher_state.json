@@ -340,7 +340,7 @@
       "game_time": "Aug 4, 7:40 PM ET",
       "game_iso": "2026-08-04T19:40:00-04:00",
       "game_pk": "823756",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824645": {
       "away_team": "Los Angeles Dodgers",
@@ -378,7 +378,7 @@
       "game_time": "Aug 4, 8:05 PM ET",
       "game_iso": "2026-08-04T20:05:00-04:00",
       "game_pk": "824645",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822865": {
       "away_team": "San Francisco Giants",
@@ -416,7 +416,7 @@
       "game_time": "Aug 4, 8:05 PM ET",
       "game_iso": "2026-08-04T20:05:00-04:00",
       "game_pk": "822865",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824161": {
       "away_team": "Toronto Blue Jays",
@@ -454,7 +454,7 @@
       "game_time": "Aug 4, 8:10 PM ET",
       "game_iso": "2026-08-04T20:10:00-04:00",
       "game_pk": "824161",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824321": {
       "away_team": "Tampa Bay Rays",
