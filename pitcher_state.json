@@ -108,9 +108,9 @@
     "823432": {
       "away_team": "Washington Nationals",
       "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Zack Littell",
+      "away_pitcher": "Carson Palmquist",
       "home_pitcher": "Jes\u00fas Luzardo",
-      "away_pitcher_id": "641793",
+      "away_pitcher_id": "687223",
       "home_pitcher_id": "666200",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -120,13 +120,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 7,
-        "losses": 8,
-        "era": "4.94",
-        "whip": "1.34",
-        "strikeouts": 68,
-        "innings_pitched": "105.2",
-        "games_started": 14
+        "wins": 0,
+        "losses": 1,
+        "era": "7.31",
+        "whip": "1.63",
+        "strikeouts": 15,
+        "innings_pitched": "16.0",
+        "games_started": 5
       },
       "home_pitcher_stats": {
         "season": "2026",
@@ -526,17 +526,26 @@
     "823108": {
       "away_team": "Detroit Tigers",
       "home_team": "Seattle Mariners",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Troy Melton",
       "home_pitcher": "Emerson Hancock",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "675512",
       "home_pitcher_id": "676106",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 6,
+        "losses": 1,
+        "era": "1.75",
+        "whip": "0.93",
+        "strikeouts": 60,
+        "innings_pitched": "67.0",
+        "games_started": 11
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 6,
