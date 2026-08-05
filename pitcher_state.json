@@ -1,43 +1,5 @@
 {
   "2026-08-05": {
-    "824806": {
-      "away_team": "Los Angeles Angels",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Reid Detmers",
-      "home_pitcher": "Trevor Rogers",
-      "away_pitcher_id": "672282",
-      "home_pitcher_id": "669432",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 7,
-        "era": "4.03",
-        "whip": "1.10",
-        "strikeouts": 145,
-        "innings_pitched": "125.0",
-        "games_started": 22
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 7,
-        "era": "4.27",
-        "whip": "1.28",
-        "strikeouts": 89,
-        "innings_pitched": "109.2",
-        "games_started": 20
-      },
-      "game_time": "Aug 5, 6:35 PM ET",
-      "game_iso": "2026-08-05T18:35:00-04:00",
-      "game_pk": "824806",
-      "status_code": "P"
-    },
     "824402": {
       "away_team": "New York Mets",
       "home_team": "Cleveland Guardians",
@@ -74,44 +36,6 @@
       "game_time": "Aug 5, 6:40 PM ET",
       "game_iso": "2026-08-05T18:40:00-04:00",
       "game_pk": "824402",
-      "status_code": "P"
-    },
-    "824482": {
-      "away_team": "Athletics",
-      "home_team": "Cincinnati Reds",
-      "away_pitcher": "Jacob Lopez",
-      "home_pitcher": "Rhett Lowder",
-      "away_pitcher_id": "682052",
-      "home_pitcher_id": "695076",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "5.79",
-        "whip": "1.67",
-        "strikeouts": 61,
-        "innings_pitched": "70.0",
-        "games_started": 14
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 7,
-        "era": "5.42",
-        "whip": "1.52",
-        "strikeouts": 70,
-        "innings_pitched": "83.0",
-        "games_started": 16
-      },
-      "game_time": "Aug 5, 6:40 PM ET",
-      "game_iso": "2026-08-05T18:40:00-04:00",
-      "game_pk": "824482",
       "status_code": "P"
     },
     "823429": {
@@ -378,7 +302,7 @@
       "game_time": "Aug 5, 9:40 PM ET",
       "game_iso": "2026-08-05T21:40:00-04:00",
       "game_pk": "825052",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823106": {
       "away_team": "Detroit Tigers",
