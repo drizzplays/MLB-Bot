@@ -74,7 +74,7 @@
       "game_time": "Aug 5, 2:20 PM ET",
       "game_iso": "2026-08-05T14:20:00-04:00",
       "game_pk": "824646",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822866": {
       "away_team": "San Francisco Giants",
@@ -103,7 +103,7 @@
       "game_time": "Aug 5, 2:35 PM ET",
       "game_iso": "2026-08-05T14:35:00-04:00",
       "game_pk": "822866",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824322": {
       "away_team": "Tampa Bay Rays",
