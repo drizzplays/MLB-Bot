@@ -1,43 +1,5 @@
 {
   "2026-08-05": {
-    "824322": {
-      "away_team": "Tampa Bay Rays",
-      "home_team": "Colorado Rockies",
-      "away_pitcher": "Nick Martinez",
-      "home_pitcher": "Tomoyuki Sugano",
-      "away_pitcher_id": "607259",
-      "home_pitcher_id": "608372",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 10,
-        "losses": 3,
-        "era": "2.77",
-        "whip": "1.10",
-        "strikeouts": 69,
-        "innings_pitched": "123.1",
-        "games_started": 21
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 11,
-        "losses": 4,
-        "era": "4.47",
-        "whip": "1.26",
-        "strikeouts": 58,
-        "innings_pitched": "102.2",
-        "games_started": 19
-      },
-      "game_time": "Aug 5, 3:10 PM ET",
-      "game_iso": "2026-08-05T15:10:00-04:00",
-      "game_pk": "824322",
-      "status_code": "P"
-    },
     "824806": {
       "away_team": "Los Angeles Angels",
       "home_team": "Baltimore Orioles",
@@ -74,7 +36,7 @@
       "game_time": "Aug 5, 6:35 PM ET",
       "game_iso": "2026-08-05T18:35:00-04:00",
       "game_pk": "824806",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824402": {
       "away_team": "New York Mets",
@@ -112,7 +74,7 @@
       "game_time": "Aug 5, 6:40 PM ET",
       "game_iso": "2026-08-05T18:40:00-04:00",
       "game_pk": "824402",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824482": {
       "away_team": "Athletics",
@@ -188,7 +150,7 @@
       "game_time": "Aug 5, 6:40 PM ET",
       "game_iso": "2026-08-05T18:40:00-04:00",
       "game_pk": "823429",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823516": {
       "away_team": "St. Louis Cardinals",
@@ -226,7 +188,7 @@
       "game_time": "Aug 5, 7:05 PM ET",
       "game_iso": "2026-08-05T19:05:00-04:00",
       "game_pk": "823516",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824728": {
       "away_team": "Chicago White Sox",
@@ -264,7 +226,7 @@
       "game_time": "Aug 5, 7:10 PM ET",
       "game_iso": "2026-08-05T19:10:00-04:00",
       "game_pk": "824728",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824889": {
       "away_team": "Miami Marlins",
@@ -302,7 +264,7 @@
       "game_time": "Aug 5, 7:15 PM ET",
       "game_iso": "2026-08-05T19:15:00-04:00",
       "game_pk": "824889",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824082": {
       "away_team": "Minnesota Twins",
@@ -340,7 +302,7 @@
       "game_time": "Aug 5, 7:40 PM ET",
       "game_iso": "2026-08-05T19:40:00-04:00",
       "game_pk": "824082",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823753": {
       "away_team": "Pittsburgh Pirates",
