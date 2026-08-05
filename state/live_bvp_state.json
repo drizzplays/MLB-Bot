@@ -1,4 +1,23 @@
 {
   "date": "2026-08-05",
-  "games": {}
+  "games": {
+    "822866": {
+      "active_pitcher_id": 674003,
+      "active_pitcher_name": "Cody Bradford",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T14:45:01.762769-04:00"
+    },
+    "824158": {
+      "active_pitcher_id": 592791,
+      "active_pitcher_name": "Jameson Taillon",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T14:44:56.834569-04:00"
+    },
+    "824646": {
+      "active_pitcher_id": 684007,
+      "active_pitcher_name": "Shota Imanaga",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T14:44:59.231906-04:00"
+    }
+  }
 }
