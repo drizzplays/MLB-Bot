@@ -8,10 +8,22 @@
       "last_checked_at": "2026-08-05T16:16:40.938817-04:00"
     },
     "823429": {
-      "active_pitcher_id": 691725,
-      "active_pitcher_name": "Andrew Painter",
+      "active_pitcher_id": 663623,
+      "active_pitcher_name": "Jake Irvin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-05T18:38:50.256562-04:00"
+      "last_checked_at": "2026-08-05T19:35:34.711669-04:00"
+    },
+    "823753": {
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T19:35:42.260477-04:00"
+    },
+    "824082": {
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T19:35:40.401680-04:00"
     },
     "824158": {
       "active_pitcher_id": 595345,
@@ -32,10 +44,10 @@
       "last_checked_at": "2026-08-05T18:38:45.160526-04:00"
     },
     "824482": {
-      "active_pitcher_id": 695076,
-      "active_pitcher_name": "Rhett Lowder",
+      "active_pitcher_id": 682052,
+      "active_pitcher_name": "Jacob Lopez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-05T18:38:47.601451-04:00"
+      "last_checked_at": "2026-08-05T19:35:32.796711-04:00"
     },
     "824646": {
       "active_pitcher_id": 621053,
@@ -43,11 +55,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-05T16:16:39.225485-04:00"
     },
-    "824806": {
-      "active_pitcher_id": 669432,
-      "active_pitcher_name": "Trevor Rogers",
+    "824728": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-05T18:38:42.568841-04:00"
+      "last_checked_at": "2026-08-05T19:35:36.653432-04:00"
+    },
+    "824806": {
+      "active_pitcher_id": 672282,
+      "active_pitcher_name": "Reid Detmers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T19:35:30.765375-04:00"
+    },
+    "824889": {
+      "active_pitcher_id": 691587,
+      "active_pitcher_name": "Eury P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T19:35:38.529483-04:00"
     }
   }
 }
