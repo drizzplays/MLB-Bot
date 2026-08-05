@@ -7,6 +7,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-05T16:16:40.938817-04:00"
     },
+    "823429": {
+      "active_pitcher_id": 691725,
+      "active_pitcher_name": "Andrew Painter",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T18:38:50.256562-04:00"
+    },
     "824158": {
       "active_pitcher_id": 595345,
       "active_pitcher_name": "Steven Okert",
@@ -19,11 +25,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-05T17:35:29.501288-04:00"
     },
+    "824402": {
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T18:38:45.160526-04:00"
+    },
+    "824482": {
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T18:38:47.601451-04:00"
+    },
     "824646": {
       "active_pitcher_id": 621053,
       "active_pitcher_name": "Tyler Ferguson",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-05T16:16:39.225485-04:00"
+    },
+    "824806": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-05T18:38:42.568841-04:00"
     }
   }
 }
