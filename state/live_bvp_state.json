@@ -1,4 +1,11 @@
 {
   "date": "2026-08-07",
-  "games": {}
+  "games": {
+    "823349": {
+      "active_pitcher_id": 669387,
+      "active_pitcher_name": "Carmen Mlodzinski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T18:51:16.188548-04:00"
+    }
+  }
 }
