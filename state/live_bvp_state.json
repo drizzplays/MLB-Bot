@@ -1,11 +1,41 @@
 {
   "date": "2026-08-07",
   "games": {
+    "822699": {
+      "active_pitcher_id": 676917,
+      "active_pitcher_name": "Cade Cavalli",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T19:29:34.075554-04:00"
+    },
     "823349": {
       "active_pitcher_id": 669387,
       "active_pitcher_name": "Carmen Mlodzinski",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-07T18:51:16.188548-04:00"
+    },
+    "823750": {
+      "active_pitcher_id": 675660,
+      "active_pitcher_name": "Shane Drohan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T19:29:44.558916-04:00"
+    },
+    "823836": {
+      "active_pitcher_id": 663969,
+      "active_pitcher_name": "Tyler Phillips",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T19:29:39.489945-04:00"
+    },
+    "824566": {
+      "active_pitcher_id": 702273,
+      "active_pitcher_name": "Noah Schultz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T19:29:41.876144-04:00"
+    },
+    "824727": {
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T19:29:36.779843-04:00"
     }
   }
 }
