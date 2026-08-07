@@ -1,43 +1,5 @@
 {
   "2026-08-07": {
-    "823349": {
-      "away_team": "New York Mets",
-      "home_team": "Pittsburgh Pirates",
-      "away_pitcher": "Zac Thornton",
-      "home_pitcher": "Carmen Mlodzinski",
-      "away_pitcher_id": "804267",
-      "home_pitcher_id": "669387",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 2,
-        "era": "2.88",
-        "whip": "1.05",
-        "strikeouts": 24,
-        "innings_pitched": "34.1",
-        "games_started": 6
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 3,
-        "era": "3.15",
-        "whip": "1.31",
-        "strikeouts": 76,
-        "innings_pitched": "94.1",
-        "games_started": 9
-      },
-      "game_time": "Aug 7, 6:40 PM ET",
-      "game_iso": "2026-08-07T18:40:00-04:00",
-      "game_pk": "823349",
-      "status_code": "P"
-    },
     "823428": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Philadelphia Phillies",
@@ -492,7 +454,7 @@
       "game_time": "Aug 7, 9:40 PM ET",
       "game_iso": "2026-08-07T21:40:00-04:00",
       "game_pk": "823266",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823103": {
       "away_team": "Tampa Bay Rays",
@@ -530,7 +492,7 @@
       "game_time": "Aug 7, 9:45 PM ET",
       "game_iso": "2026-08-07T21:45:00-04:00",
       "game_pk": "823103",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823191": {
       "away_team": "Detroit Tigers",
@@ -568,7 +530,7 @@
       "game_time": "Aug 7, 10:15 PM ET",
       "game_iso": "2026-08-07T22:15:00-04:00",
       "game_pk": "823191",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
