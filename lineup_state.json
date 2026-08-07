@@ -598,8 +598,28 @@
     "Minnesota Twins @ Milwaukee Brewers | 823750": {
       "away_team": "Minnesota Twins",
       "home_team": "Milwaukee Brewers",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Austin Martin",
+        "Ryan Jeffers",
+        "Royce Lewis",
+        "Josh Bell",
+        "Kody Clemens",
+        "Luke Keaschall",
+        "Kaelen Culpepper",
+        "Victor Caratini",
+        "Ryan Kreidler"
+      ],
+      "home_lineup": [
+        "Brice Turang",
+        "Jackson Chourio",
+        "Jake Bauers",
+        "William Contreras",
+        "Garrett Mitchell",
+        "Christian Yelich",
+        "Luis Lara",
+        "Cooper Pratt",
+        "David Hamilton"
+      ],
       "away_roster": [
         "Dean Kremer",
         "Tommy Nance",
@@ -608,11 +628,11 @@
         "Kody Clemens",
         "Brooks Lee",
         "Austin Martin",
-        "Tristan Gray",
         "Josh Bell",
         "Jeff Hoffman",
         "A.J. Minter",
         "Alan Roden",
+        "Kaelen Culpepper",
         "Connor Prielipp",
         "Ryan Jeffers",
         "Ryan Kreidler",
@@ -624,7 +644,6 @@
         "Trevor Larnach",
         "Yoendrys G\u00f3mez",
         "Zebby Matthews",
-        "Joe Ryan",
         "Alex Jackson",
         "Andrew Morris",
         "Luke Keaschall"
@@ -642,12 +661,12 @@
         "Shane Drohan",
         "Brandon Lockridge",
         "Kyle Harrison",
-        "Aaron Ashby",
         "Garrett Mitchell",
+        "Aaron Ashby",
         "David Hamilton",
         "William Contreras",
-        "Robert Gasser",
         "Brice Turang",
+        "Robert Gasser",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "DL Hall",
@@ -664,7 +683,17 @@
     "Chicago Cubs @ Kansas City Royals | 824081": {
       "away_team": "Chicago Cubs",
       "home_team": "Kansas City Royals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Alex Bregman",
+        "Michael Busch",
+        "Nico Hoerner",
+        "Ian Happ",
+        "Carson Kelly",
+        "Pedro Ram\u00edrez",
+        "Dansby Swanson"
+      ],
       "home_lineup": [
         "Carter Jensen",
         "Bobby Witt Jr.",
@@ -700,8 +729,8 @@
         "Trent Thornton",
         "Matthew Boyd",
         "James Triantos",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Nico Hoerner"
       ],
       "home_roster": [
@@ -824,7 +853,17 @@
     "Baltimore Orioles @ Texas Rangers | 822863": {
       "away_team": "Baltimore Orioles",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Gunnar Henderson",
+        "Pete Alonso",
+        "Jackson Holliday",
+        "Tyler O'Neill",
+        "Dylan Beavers",
+        "Leody Taveras",
+        "Coby Mayo",
+        "Colton Cowser",
+        "Carlos Narv\u00e1ez"
+      ],
       "home_lineup": [
         "Joc Pederson",
         "Wyatt Langford",
@@ -900,7 +939,17 @@
       "away_team": "Los Angeles Dodgers",
       "home_team": "Arizona Diamondbacks",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Geraldo Perdomo",
+        "Corbin Carroll",
+        "Gabriel Moreno",
+        "Ketel Marte",
+        "Lars Nootbaar",
+        "Nolan Arenado",
+        "Max Kepler",
+        "Tim Tawa",
+        "Ryan Waldschmidt"
+      ],
       "away_roster": [
         "Ben Rortvedt",
         "Tarik Skubal",
@@ -932,14 +981,14 @@
       "home_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Tim Tawa",
+        "Brandon Pfaadt",
         "Gerardo Carrillo",
         "Nolan Arenado",
         "Lars Nootbaar",
         "Tyler Locklear",
-        "Merrill Kelly",
         "Ryan Waldschmidt",
+        "Merrill Kelly",
         "Kevin Ginkel",
         "Ketel Marte",
         "Jonathan Lo\u00e1isiga",
