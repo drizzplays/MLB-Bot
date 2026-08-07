@@ -1,35 +1,4 @@
 {
-  "date": "2026-08-06",
-  "games": {
-    "823430": {
-      "active_pitcher_id": 689147,
-      "active_pitcher_name": "Orion Kerkering",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-06T20:00:38.527933-04:00"
-    },
-    "824080": {
-      "active_pitcher_id": 608379,
-      "active_pitcher_name": "Michael Wacha",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-06T20:00:46.796733-04:00"
-    },
-    "824729": {
-      "active_pitcher_id": 678394,
-      "active_pitcher_name": "Brayan Bello",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-06T23:11:12.518284-04:00"
-    },
-    "824885": {
-      "active_pitcher_id": 527048,
-      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-06T20:00:44.938085-04:00"
-    },
-    "825053": {
-      "active_pitcher_id": 642528,
-      "active_pitcher_name": "Jonathan Lo\u00e1isiga",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-06T23:11:14.640121-04:00"
-    }
-  }
+  "date": "2026-08-07",
+  "games": {}
 }
