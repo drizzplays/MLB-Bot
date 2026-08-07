@@ -36,7 +36,7 @@
       "game_time": "Aug 7, 6:40 PM ET",
       "game_iso": "2026-08-07T18:40:00-04:00",
       "game_pk": "823349",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823428": {
       "away_team": "Toronto Blue Jays",
@@ -112,7 +112,7 @@
       "game_time": "Aug 7, 6:45 PM ET",
       "game_iso": "2026-08-07T18:45:00-04:00",
       "game_pk": "822699",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823515": {
       "away_team": "Atlanta Braves",
@@ -150,7 +150,7 @@
       "game_time": "Aug 7, 7:05 PM ET",
       "game_iso": "2026-08-07T19:05:00-04:00",
       "game_pk": "823515",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824727": {
       "away_team": "Athletics",
@@ -188,7 +188,7 @@
       "game_time": "Aug 7, 7:10 PM ET",
       "game_iso": "2026-08-07T19:10:00-04:00",
       "game_pk": "824727",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823836": {
       "away_team": "Los Angeles Angels",
@@ -226,7 +226,7 @@
       "game_time": "Aug 7, 7:10 PM ET",
       "game_iso": "2026-08-07T19:10:00-04:00",
       "game_pk": "823836",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824566": {
       "away_team": "Cleveland Guardians",
@@ -369,7 +369,7 @@
       "game_time": "Aug 7, 8:15 PM ET",
       "game_iso": "2026-08-07T20:15:00-04:00",
       "game_pk": "823024",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822863": {
       "away_team": "Baltimore Orioles",
