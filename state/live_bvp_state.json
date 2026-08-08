@@ -2,10 +2,24 @@
   "date": "2026-08-07",
   "games": {
     "822699": {
-      "active_pitcher_id": 676917,
-      "active_pitcher_name": "Cade Cavalli",
+      "active_pitcher_id": 695534,
+      "active_pitcher_name": "Chase Petty",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T19:29:34.075554-04:00"
+      "last_checked_at": "2026-08-07T20:00:20.948998-04:00"
+    },
+    "822863": {
+      "active_pitcher_id": 543135,
+      "active_pitcher_name": "Nathan Eovaldi",
+      "alerted_pairs": [
+        "543135:624413"
+      ],
+      "last_checked_at": "2026-08-07T20:00:37.135986-04:00"
+    },
+    "823024": {
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T20:00:33.868858-04:00"
     },
     "823349": {
       "active_pitcher_id": 669387,
@@ -20,22 +34,28 @@
       "last_checked_at": "2026-08-07T19:29:44.558916-04:00"
     },
     "823836": {
-      "active_pitcher_id": 663969,
-      "active_pitcher_name": "Tyler Phillips",
+      "active_pitcher_id": 691946,
+      "active_pitcher_name": "George Klassen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T19:29:39.489945-04:00"
+      "last_checked_at": "2026-08-07T20:00:25.615627-04:00"
+    },
+    "824081": {
+      "active_pitcher_id": 663738,
+      "active_pitcher_name": "Daniel Lynch IV",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-07T20:00:30.429005-04:00"
     },
     "824566": {
-      "active_pitcher_id": 702273,
-      "active_pitcher_name": "Noah Schultz",
+      "active_pitcher_id": 689818,
+      "active_pitcher_name": "David Sandlin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T19:29:41.876144-04:00"
+      "last_checked_at": "2026-08-07T20:00:27.962715-04:00"
     },
     "824727": {
-      "active_pitcher_id": 801139,
-      "active_pitcher_name": "Payton Tolle",
+      "active_pitcher_id": 678022,
+      "active_pitcher_name": "Jack Perkins",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T19:29:36.779843-04:00"
+      "last_checked_at": "2026-08-07T20:00:23.277381-04:00"
     }
   }
 }
