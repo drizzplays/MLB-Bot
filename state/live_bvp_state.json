@@ -2,24 +2,24 @@
   "date": "2026-08-08",
   "games": {
     "823514": {
-      "active_pitcher_id": 543037,
-      "active_pitcher_name": "Gerrit Cole",
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T15:58:29.971985-04:00"
+      "last_checked_at": "2026-08-08T16:31:53.106376-04:00"
     },
     "823834": {
-      "active_pitcher_id": 645261,
-      "active_pitcher_name": "Sandy Alcantara",
+      "active_pitcher_id": 700712,
+      "active_pitcher_name": "Walbert Ure\u00f1a",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T15:58:37.541492-04:00"
+      "last_checked_at": "2026-08-08T16:31:58.142026-04:00"
     },
     "824726": {
-      "active_pitcher_id": 687562,
-      "active_pitcher_name": "Jake Bennett",
+      "active_pitcher_id": 695611,
+      "active_pitcher_name": "Gage Jump",
       "alerted_pairs": [
         "687562:695720"
       ],
-      "last_checked_at": "2026-08-08T15:58:32.412108-04:00"
+      "last_checked_at": "2026-08-08T16:31:55.645044-04:00"
     }
   }
 }
