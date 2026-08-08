@@ -262,12 +262,12 @@
         "Nathan Lukes",
         "Brett Bateman",
         "Vladimir Guerrero Jr.",
-        "George Springer",
         "Jes\u00fas S\u00e1nchez",
         "Ernie Clement",
         "Andr\u00e9s Gim\u00e9nez",
         "Brandon Valenzuela",
-        "Josh Smith"
+        "Josh Smith",
+        "Myles Straw"
       ],
       "home_lineup": [
         "Kyle Schwarber",
@@ -295,8 +295,8 @@
         "Davis Schneider",
         "Nathan Lukes",
         "Matt Waldron",
-        "George Springer",
         "Max Scherzer",
+        "George Springer",
         "Mason Fluharty",
         "Braydon Fisher",
         "Josh Smith",
@@ -513,7 +513,17 @@
     "Chicago Cubs @ Kansas City Royals | 824079": {
       "away_team": "Chicago Cubs",
       "home_team": "Kansas City Royals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Nico Hoerner",
+        "Carson Kelly",
+        "Dansby Swanson",
+        "Tyrone Taylor"
+      ],
       "home_lineup": [
         "Carter Jensen",
         "Bobby Witt Jr.",
@@ -526,8 +536,8 @@
         "Kyle Isbel"
       ],
       "away_roster": [
-        "Michael Conforto",
         "Tyrone Taylor",
+        "Michael Conforto",
         "Ian Happ",
         "Javier Assad",
         "Caleb Thielbar",
@@ -549,8 +559,8 @@
         "Clay Holmes",
         "Matthew Boyd",
         "James Triantos",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Nico Hoerner"
       ],
       "home_roster": [
@@ -673,7 +683,17 @@
     "Houston Astros @ San Diego Padres | 823267": {
       "away_team": "Houston Astros",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Jose Altuve",
+        "Christian Walker",
+        "Daulton Varsho",
+        "Cam Smith",
+        "Taylor Trammell",
+        "Christian V\u00e1zquez"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jake Cronenworth",
@@ -694,8 +714,8 @@
         "Hunter Brown",
         "Ronel Blanco",
         "Josh Hader",
-        "Enyel De Los Santos",
         "Daulton Varsho",
+        "Enyel De Los Santos",
         "Jake Meyers",
         "Steven Okert",
         "AJ Blubaugh",
@@ -1164,13 +1184,24 @@
       "away_team": "Tampa Bay Rays",
       "home_team": "Seattle Mariners",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Taylor Ward",
+        "Cole Young",
+        "Randy Arozarena",
+        "Dominic Canzone",
+        "Julio Rodr\u00edguez",
+        "Josh Naylor",
+        "Brendan Donovan",
+        "Cal Raleigh",
+        "Colt Emerson"
+      ],
       "away_roster": [
         "Taylor Walls",
         "Tyler Wells",
         "Steven Matz",
         "Chris Roycroft",
         "Richie Palacios",
+        "Carson Williams",
         "Ryan Vilade",
         "Casey Legumina",
         "Chandler Simpson",
@@ -1186,7 +1217,6 @@
         "Nick Fortes",
         "Griffin Jax",
         "Yandy D\u00edaz",
-        "Ben Williamson",
         "Bryan Baker",
         "Victor Mesa Jr.",
         "Junior Caminero",
@@ -1198,6 +1228,7 @@
         "Victor Robles",
         "Cole Young",
         "Jos\u00e9 A. Ferrer",
+        "Nick Davila",
         "Michael Rucker",
         "Weston Wilson",
         "Randy Arozarena",
@@ -1205,7 +1236,6 @@
         "Dominic Canzone",
         "Cal Raleigh",
         "Jhonny Pereda",
-        "Cole Wilcox",
         "Logan Gilbert",
         "Bryan Woo",
         "Seranthony Dom\u00ednguez",
@@ -1215,8 +1245,8 @@
         "Andr\u00e9s Mu\u00f1oz",
         "Josh Simpson",
         "Gabe Speier",
-        "Leo Rivas",
         "Julio Rodr\u00edguez",
+        "Leo Rivas",
         "Bryce Miller",
         "Eduard Bazardo",
         "Emerson Hancock"
@@ -2147,7 +2177,6 @@
         "Bryan Abreu",
         "Nick Allen",
         "Cam Smith",
-        "Hayden Wesneski",
         "Hunter Brown",
         "Ronel Blanco",
         "Josh Hader",
@@ -2165,6 +2194,7 @@
         "Bryan King",
         "LaMonte Wade Jr.",
         "Christian Walker",
+        "Miguel Ullola",
         "Lucas Spence",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
