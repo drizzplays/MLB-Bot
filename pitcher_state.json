@@ -1,81 +1,5 @@
 {
   "2026-08-08": {
-    "824726": {
-      "away_team": "Athletics",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Gage Jump",
-      "home_pitcher": "Jake Bennett",
-      "away_pitcher_id": "695611",
-      "home_pitcher_id": "687562",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 7,
-        "era": "4.59",
-        "whip": "1.47",
-        "strikeouts": 73,
-        "innings_pitched": "66.2",
-        "games_started": 13
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 4,
-        "era": "2.90",
-        "whip": "1.01",
-        "strikeouts": 50,
-        "innings_pitched": "71.1",
-        "games_started": 12
-      },
-      "game_time": "Aug 8, 4:10 PM ET",
-      "game_iso": "2026-08-08T16:10:00-04:00",
-      "game_pk": "824726",
-      "status_code": "P"
-    },
-    "823834": {
-      "away_team": "Los Angeles Angels",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Walbert Ure\u00f1a",
-      "home_pitcher": "Sandy Alcantara",
-      "away_pitcher_id": "700712",
-      "home_pitcher_id": "645261",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 7,
-        "era": "2.54",
-        "whip": "1.25",
-        "strikeouts": 95,
-        "innings_pitched": "99.1",
-        "games_started": 18
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 12,
-        "losses": 6,
-        "era": "3.68",
-        "whip": "1.20",
-        "strikeouts": 120,
-        "innings_pitched": "156.2",
-        "games_started": 24
-      },
-      "game_time": "Aug 8, 4:10 PM ET",
-      "game_iso": "2026-08-08T16:10:00-04:00",
-      "game_pk": "823834",
-      "status_code": "P"
-    },
     "823426": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Philadelphia Phillies",
@@ -226,7 +150,7 @@
       "game_time": "Aug 8, 7:10 PM ET",
       "game_iso": "2026-08-08T19:10:00-04:00",
       "game_pk": "824079",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823752": {
       "away_team": "Minnesota Twins",
@@ -264,7 +188,7 @@
       "game_time": "Aug 8, 7:10 PM ET",
       "game_iso": "2026-08-08T19:10:00-04:00",
       "game_pk": "823752",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823267": {
       "away_team": "Houston Astros",
