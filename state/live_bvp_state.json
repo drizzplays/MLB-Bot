@@ -22,24 +22,24 @@
       "last_checked_at": "2026-08-07T22:06:15.127868-04:00"
     },
     "823103": {
-      "active_pitcher_id": 669302,
-      "active_pitcher_name": "Logan Gilbert",
+      "active_pitcher_id": 656876,
+      "active_pitcher_name": "Drew Rasmussen",
       "alerted_pairs": [
         "669302:666018"
       ],
-      "last_checked_at": "2026-08-07T22:06:22.588441-04:00"
+      "last_checked_at": "2026-08-07T23:41:02.403832-04:00"
     },
     "823191": {
-      "active_pitcher_id": 664141,
-      "active_pitcher_name": "JT Brubaker",
+      "active_pitcher_id": 605288,
+      "active_pitcher_name": "Adrian Houser",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T22:06:25.722861-04:00"
+      "last_checked_at": "2026-08-07T23:41:04.567093-04:00"
     },
     "823266": {
-      "active_pitcher_id": 592662,
-      "active_pitcher_name": "Robbie Ray",
+      "active_pitcher_id": 673513,
+      "active_pitcher_name": "Yuki Matsui",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T22:06:20.645793-04:00"
+      "last_checked_at": "2026-08-07T23:41:00.190610-04:00"
     },
     "823349": {
       "active_pitcher_id": 642207,
@@ -48,16 +48,16 @@
       "last_checked_at": "2026-08-07T22:05:56.888351-04:00"
     },
     "823428": {
-      "active_pitcher_id": 554430,
-      "active_pitcher_name": "Zack Wheeler",
+      "active_pitcher_id": 663767,
+      "active_pitcher_name": "Chase Shugart",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T22:05:58.589875-04:00"
+      "last_checked_at": "2026-08-07T23:40:53.378869-04:00"
     },
     "823515": {
-      "active_pitcher_id": 641816,
-      "active_pitcher_name": "Tyler Mahle",
+      "active_pitcher_id": 628452,
+      "active_pitcher_name": "Raisel Iglesias",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T22:06:02.033970-04:00"
+      "last_checked_at": "2026-08-07T23:40:55.578023-04:00"
     },
     "823750": {
       "active_pitcher_id": 669060,
@@ -92,10 +92,10 @@
       "last_checked_at": "2026-08-07T20:00:23.277381-04:00"
     },
     "825051": {
-      "active_pitcher_id": 808963,
-      "active_pitcher_name": "Roki Sasaki",
+      "active_pitcher_id": 683618,
+      "active_pitcher_name": "Edgardo Henriquez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-07T22:06:18.742002-04:00"
+      "last_checked_at": "2026-08-07T23:40:57.984499-04:00"
     }
   }
 }
