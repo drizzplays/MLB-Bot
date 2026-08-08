@@ -2,10 +2,10 @@
   "date": "2026-08-08",
   "games": {
     "823514": {
-      "active_pitcher_id": 543037,
-      "active_pitcher_name": "Gerrit Cole",
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T15:01:00.712767-04:00"
+      "last_checked_at": "2026-08-08T15:36:40.232426-04:00"
     }
   }
 }
