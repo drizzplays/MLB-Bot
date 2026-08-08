@@ -175,7 +175,7 @@
       "home_team": "Miami Marlins",
       "away_lineup": [
         "Wade Meckler",
-        "Mike Trout",
+        "Jose Siri",
         "Nolan Schanuel",
         "Zach Neto",
         "Vaughn Grissom",
@@ -192,14 +192,14 @@
         "Griffin Conine",
         "Heriberto Hern\u00e1ndez",
         "Owen Caissie",
-        "Joe Mack",
+        "Brian Navarreto",
         "Javier Sanoja"
       ],
       "away_roster": [
         "Adam Frazier",
         "Brett Kerry",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
         "Travis d'Arnaud",
         "Ryan Johnson",
@@ -1193,7 +1193,17 @@
     "Tampa Bay Rays @ Seattle Mariners | 823102": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Seattle Mariners",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Victor Mesa Jr.",
+        "Chandler Simpson",
+        "Cedric Mullins",
+        "Richie Palacios",
+        "Nick Fortes",
+        "Taylor Walls"
+      ],
       "home_lineup": [
         "Taylor Ward",
         "Cole Young",
@@ -1227,8 +1237,8 @@
         "Nick Fortes",
         "Griffin Jax",
         "Yandy D\u00edaz",
-        "Bryan Baker",
         "Victor Mesa Jr.",
+        "Bryan Baker",
         "Junior Caminero",
         "Drew Rasmussen",
         "Cedric Mullins"
@@ -2187,6 +2197,7 @@
         "Bryan Abreu",
         "Nick Allen",
         "Cam Smith",
+        "Hayden Wesneski",
         "Hunter Brown",
         "Ronel Blanco",
         "Josh Hader",
@@ -2204,7 +2215,6 @@
         "Bryan King",
         "LaMonte Wade Jr.",
         "Christian Walker",
-        "Miguel Ullola",
         "Lucas Spence",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
