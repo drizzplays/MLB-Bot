@@ -88,7 +88,17 @@
     "Athletics @ Boston Red Sox | 824726": {
       "away_team": "Athletics",
       "home_team": "Boston Red Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Henry Bolte",
+        "Jacob Wilson",
+        "Jonah Heim",
+        "Tyler Soderstrom",
+        "Tommy White",
+        "Brian Serven",
+        "Lawrence Butler",
+        "Max Muncy",
+        "Alika Williams"
+      ],
       "home_lineup": [
         "Jahmai Jones",
         "Ceddanne Rafaela",
@@ -163,7 +173,17 @@
     "Los Angeles Angels @ Miami Marlins | 823834": {
       "away_team": "Los Angeles Angels",
       "home_team": "Miami Marlins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Wade Meckler",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Zach Neto",
+        "Vaughn Grissom",
+        "Mois\u00e9s Ballesteros",
+        "Denzer Guzman",
+        "Josh Lowe",
+        "Tyler Heineman"
+      ],
       "home_lineup": [
         "Jakob Marsee",
         "Xavier Edwards",
