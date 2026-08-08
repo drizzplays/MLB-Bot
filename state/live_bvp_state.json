@@ -1,6 +1,12 @@
 {
   "date": "2026-08-08",
   "games": {
+    "823426": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T18:07:57.843450-04:00"
+    },
     "823514": {
       "active_pitcher_id": 664849,
       "active_pitcher_name": "Danny Young",
@@ -8,18 +14,18 @@
       "last_checked_at": "2026-08-08T17:41:47.584036-04:00"
     },
     "823834": {
-      "active_pitcher_id": 695049,
-      "active_pitcher_name": "Brett Kerry",
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T17:41:49.568462-04:00"
+      "last_checked_at": "2026-08-08T18:07:55.968648-04:00"
     },
     "824726": {
-      "active_pitcher_id": 687562,
-      "active_pitcher_name": "Jake Bennett",
+      "active_pitcher_id": 670103,
+      "active_pitcher_name": "Raymond Burgos",
       "alerted_pairs": [
         "687562:695720"
       ],
-      "last_checked_at": "2026-08-08T17:02:20.429559-04:00"
+      "last_checked_at": "2026-08-08T18:07:53.815910-04:00"
     }
   }
 }
