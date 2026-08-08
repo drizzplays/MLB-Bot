@@ -1,6 +1,42 @@
 {
   "date": "2026-08-08",
   "games": {
+    "822701": {
+      "active_pitcher_id": 674841,
+      "active_pitcher_name": "Andrew Alvarez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:15.994632-04:00"
+    },
+    "822864": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:27.765605-04:00"
+    },
+    "823021": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:25.836900-04:00"
+    },
+    "823188": {
+      "active_pitcher_id": 694738,
+      "active_pitcher_name": "Landen Roupp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:23.855217-04:00"
+    },
+    "823267": {
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:21.789032-04:00"
+    },
+    "823348": {
+      "active_pitcher_id": 476594,
+      "active_pitcher_name": "Robert Stock",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:14.099165-04:00"
+    },
     "823426": {
       "active_pitcher_id": 605400,
       "active_pitcher_name": "Aaron Nola",
@@ -13,11 +49,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-08T17:41:47.584036-04:00"
     },
+    "823752": {
+      "active_pitcher_id": 688107,
+      "active_pitcher_name": "Robert Gasser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:19.871458-04:00"
+    },
     "823834": {
       "active_pitcher_id": 645261,
       "active_pitcher_name": "Sandy Alcantara",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-08T18:07:55.968648-04:00"
+    },
+    "824079": {
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:17.912057-04:00"
+    },
+    "824565": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T19:11:29.638317-04:00"
     },
     "824726": {
       "active_pitcher_id": 670103,
