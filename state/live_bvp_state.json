@@ -2,16 +2,16 @@
   "date": "2026-08-08",
   "games": {
     "822701": {
-      "active_pitcher_id": 674841,
-      "active_pitcher_name": "Andrew Alvarez",
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:15.994632-04:00"
+      "last_checked_at": "2026-08-08T19:47:17.370610-04:00"
     },
     "822864": {
-      "active_pitcher_id": 594798,
-      "active_pitcher_name": "Jacob deGrom",
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:27.765605-04:00"
+      "last_checked_at": "2026-08-08T19:47:19.583527-04:00"
     },
     "823021": {
       "active_pitcher_id": 669461,
@@ -38,10 +38,10 @@
       "last_checked_at": "2026-08-08T19:11:14.099165-04:00"
     },
     "823426": {
-      "active_pitcher_id": 605400,
-      "active_pitcher_name": "Aaron Nola",
+      "active_pitcher_id": 548384,
+      "active_pitcher_name": "Brooks Raley",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T18:07:57.843450-04:00"
+      "last_checked_at": "2026-08-08T19:47:15.174007-04:00"
     },
     "823514": {
       "active_pitcher_id": 664849,
@@ -68,10 +68,10 @@
       "last_checked_at": "2026-08-08T19:11:17.912057-04:00"
     },
     "824565": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:29.638317-04:00"
+      "last_checked_at": "2026-08-08T19:47:21.541909-04:00"
     },
     "824726": {
       "active_pitcher_id": 670103,
