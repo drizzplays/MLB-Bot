@@ -4,7 +4,17 @@
       "away_team": "Atlanta Braves",
       "home_team": "New York Yankees",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Paul Goldschmidt",
+        "Heliot Ramos",
+        "Ben Rice",
+        "Amed Rosario",
+        "Trent Grisham",
+        "George Lombard Jr.",
+        "Spencer Jones",
+        "Jos\u00e9 Caballero",
+        "Austin Wells"
+      ],
       "away_roster": [
         "Dylan Dodd",
         "Dylan Lee",
