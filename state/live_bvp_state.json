@@ -2,16 +2,16 @@
   "date": "2026-08-08",
   "games": {
     "823514": {
-      "active_pitcher_id": 682989,
-      "active_pitcher_name": "Victor Mederos",
+      "active_pitcher_id": 664849,
+      "active_pitcher_name": "Danny Young",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T17:02:18.282237-04:00"
+      "last_checked_at": "2026-08-08T17:41:47.584036-04:00"
     },
     "823834": {
-      "active_pitcher_id": 700712,
-      "active_pitcher_name": "Walbert Ure\u00f1a",
+      "active_pitcher_id": 695049,
+      "active_pitcher_name": "Brett Kerry",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T16:31:58.142026-04:00"
+      "last_checked_at": "2026-08-08T17:41:49.568462-04:00"
     },
     "824726": {
       "active_pitcher_id": 687562,
