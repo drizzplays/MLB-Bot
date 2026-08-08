@@ -7,7 +7,7 @@
         "A.J. Ewing",
         "Francisco Lindor",
         "Bo Bichette",
-        "Carson Benge",
+        "Cristian Pache",
         "Jared Young",
         "Marcus Semien",
         "Brett Baty",
@@ -22,8 +22,8 @@
         "Spencer Horwitz",
         "Nick Gonzales",
         "Ronny Simon",
-        "Jared Triolo",
-        "Rafael Flores Jr."
+        "Endy Rodr\u00edguez",
+        "Jacob Gonzalez"
       ],
       "away_roster": [
         "Luis Torrens",
@@ -192,7 +192,7 @@
         "Dylan Crews",
         "Harry Ford",
         "Nasim Nu\u00f1ez",
-        "Jos\u00e9 Tena",
+        "Jorbit Vivas",
         "Jacob Young"
       ],
       "away_roster": [
@@ -231,8 +231,8 @@
         "Nasim Nu\u00f1ez",
         "Andr\u00e9s Chaparro",
         "Miles Mikolas",
-        "Carson Palmquist",
         "Jorbit Vivas",
+        "Carson Palmquist",
         "Dylan Crews",
         "Trevor Williams",
         "Max Kranick",
@@ -345,11 +345,11 @@
       "home_team": "Boston Red Sox",
       "away_lineup": [
         "Henry Bolte",
-        "Jacob Wilson",
+        "Alika Williams",
         "Jonah Heim",
-        "Tyler Soderstrom",
+        "Carlos Cortes",
         "Tommy White",
-        "Brian Serven",
+        "Donovan Walton",
         "Lawrence Butler",
         "Max Muncy",
         "Jonathan Ornelas"
@@ -357,7 +357,7 @@
       "home_lineup": [
         "Nick Sogard",
         "Ceddanne Rafaela",
-        "Wilyer Abreu",
+        "Eli White",
         "Caleb Durbin",
         "Masataka Yoshida",
         "Andruw Monasterio",
@@ -433,20 +433,20 @@
         "Mike Trout",
         "Nolan Schanuel",
         "Zach Neto",
-        "Vaughn Grissom",
+        "Denzer Guzman",
         "Mois\u00e9s Ballesteros",
         "Oswald Peraza",
-        "Josh Lowe",
+        "Jose Siri",
         "Tyler Heineman"
       ],
       "home_lineup": [
         "Kyle Stowers",
         "Otto Lopez",
-        "Griffin Conine",
+        "Agust\u00edn Ram\u00edrez",
         "Xavier Edwards",
-        "Owen Caissie",
+        "Heriberto Hern\u00e1ndez",
         "Leo Jim\u00e9nez",
-        "Jakob Marsee",
+        "Javier Sanoja",
         "Joe Mack",
         "Esteury Ruiz"
       ],
@@ -482,16 +482,16 @@
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Victor Vodnik",
         "Tyler Phillips",
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
-        "John King",
         "Javier Sanoja",
+        "John King",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
@@ -517,7 +517,7 @@
         "Steven Kwan",
         "Chase DeLauter",
         "Jos\u00e9 Ram\u00edrez",
-        "Jo Adell",
+        "Petey Halpin",
         "Angel Mart\u00ednez",
         "Rhys Hoskins",
         "Brayan Rocchio",
@@ -528,7 +528,7 @@
         "Chase Meidroth",
         "Munetaka Murakami",
         "Miguel Vargas",
-        "Randal Grichuk",
+        "Sam Antonacci",
         "Colson Montgomery",
         "Brenton Doyle",
         "Braden Montgomery",
@@ -776,8 +776,8 @@
         "TJ Rumfield",
         "Willi Castro",
         "Ezequiel Tovar",
-        "Troy Johnston",
-        "Edouard Julien"
+        "Kyle Karros",
+        "Jordan Beck"
       ],
       "home_lineup": [
         "JJ Wetherholt",
@@ -787,8 +787,8 @@
         "Jimmy Crooks",
         "Masyn Winn",
         "Nathan Church",
-        "Bryan Torres",
-        "C\u00e9sar Prieto"
+        "Jos\u00e9 Ferm\u00edn",
+        "Blaze Jordan"
       ],
       "away_roster": [
         "Ryan Feltner",
@@ -807,8 +807,8 @@
         "Hunter Goodman",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
-        "Zach Agnos",
         "Jordan Beck",
+        "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
         "Ezequiel Tovar",
@@ -861,7 +861,7 @@
         "Dylan Beavers",
         "Leody Taveras",
         "Coby Mayo",
-        "Colton Cowser",
+        "Christian Franklin",
         "Carlos Narv\u00e1ez"
       ],
       "home_lineup": [
@@ -1237,10 +1237,10 @@
         "Enmanuel De Jesus",
         "Max Clark",
         "James Outman",
-        "Brenan Hanifee",
         "Dillon Dingler",
         "Colt Keith",
         "Yilber D\u00edaz",
+        "Jackson Jobe",
         "Troy Melton"
       ],
       "home_roster": [
