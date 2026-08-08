@@ -150,7 +150,7 @@
       "game_time": "Aug 8, 6:05 PM ET",
       "game_iso": "2026-08-08T18:05:00-04:00",
       "game_pk": "823426",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823348": {
       "away_team": "New York Mets",
@@ -369,7 +369,7 @@
       "game_time": "Aug 8, 7:15 PM ET",
       "game_iso": "2026-08-08T19:15:00-04:00",
       "game_pk": "823188",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823021": {
       "away_team": "Colorado Rockies",
