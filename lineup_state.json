@@ -18,7 +18,7 @@
         "Paul Goldschmidt",
         "Heliot Ramos",
         "Ben Rice",
-        "Amed Rosario",
+        "Ryan McMahon",
         "Trent Grisham",
         "George Lombard Jr.",
         "Spencer Jones",
@@ -360,10 +360,10 @@
         "Bryan Reynolds",
         "Spencer Horwitz",
         "Nick Gonzales",
-        "Endy Rodr\u00edguez",
+        "Ronny Simon",
         "Esmerlyn Valdez",
         "Jacob Gonzalez",
-        "Ronny Simon"
+        "Henry Davis"
       ],
       "away_roster": [
         "Luis Torrens",
@@ -1108,7 +1108,17 @@
     "Los Angeles Dodgers @ Arizona Diamondbacks | 825049": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Freddie Freeman",
+        "Max Muncy",
+        "Mookie Betts",
+        "Kyle Tucker",
+        "Tommy Edman",
+        "Teoscar Hern\u00e1ndez",
+        "Hunter Feduccia"
+      ],
       "home_lineup": [
         "Geraldo Perdomo",
         "Corbin Carroll",
@@ -1136,8 +1146,8 @@
         "Kyle Hurt",
         "Shohei Ohtani",
         "Justin Wrobleski",
-        "Jonathan Hern\u00e1ndez",
         "Teoscar Hern\u00e1ndez",
+        "Jonathan Hern\u00e1ndez",
         "Andy Pages",
         "Edwin D\u00edaz",
         "Evan Phillips",
