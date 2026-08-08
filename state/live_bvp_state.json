@@ -2,10 +2,10 @@
   "date": "2026-08-08",
   "games": {
     "823514": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
+      "active_pitcher_id": 682989,
+      "active_pitcher_name": "Victor Mederos",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T16:31:53.106376-04:00"
+      "last_checked_at": "2026-08-08T17:02:18.282237-04:00"
     },
     "823834": {
       "active_pitcher_id": 700712,
@@ -14,12 +14,12 @@
       "last_checked_at": "2026-08-08T16:31:58.142026-04:00"
     },
     "824726": {
-      "active_pitcher_id": 695611,
-      "active_pitcher_name": "Gage Jump",
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
       "alerted_pairs": [
         "687562:695720"
       ],
-      "last_checked_at": "2026-08-08T16:31:55.645044-04:00"
+      "last_checked_at": "2026-08-08T17:02:20.429559-04:00"
     }
   }
 }
