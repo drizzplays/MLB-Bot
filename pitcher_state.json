@@ -112,7 +112,7 @@
       "game_time": "Aug 9, 1:35 PM ET",
       "game_iso": "2026-08-09T13:35:00-04:00",
       "game_pk": "823345",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823425": {
       "away_team": "Toronto Blue Jays",
@@ -264,7 +264,7 @@
       "game_time": "Aug 9, 2:10 PM ET",
       "game_iso": "2026-08-09T14:10:00-04:00",
       "game_pk": "824078",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824564": {
       "away_team": "Cleveland Guardians",
@@ -378,7 +378,7 @@
       "game_time": "Aug 9, 2:15 PM ET",
       "game_iso": "2026-08-09T14:15:00-04:00",
       "game_pk": "823020",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822862": {
       "away_team": "Baltimore Orioles",
