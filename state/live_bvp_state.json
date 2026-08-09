@@ -19,6 +19,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-08T20:35:40.741060-04:00"
     },
+    "823102": {
+      "active_pitcher_id": 592155,
+      "active_pitcher_name": "Cam Booser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T22:38:20.590678-04:00"
+    },
     "823188": {
       "active_pitcher_id": 694738,
       "active_pitcher_name": "Landen Roupp",
@@ -84,10 +90,10 @@
       "last_checked_at": "2026-08-08T18:07:53.815910-04:00"
     },
     "825049": {
-      "active_pitcher_id": 808967,
-      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "active_pitcher_id": 642528,
+      "active_pitcher_name": "Jonathan Lo\u00e1isiga",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T20:35:48.288581-04:00"
+      "last_checked_at": "2026-08-08T22:38:17.933591-04:00"
     }
   }
 }
