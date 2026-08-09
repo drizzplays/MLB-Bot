@@ -701,7 +701,7 @@
         "William Contreras",
         "Jake Bauers",
         "Luis Lara",
-        "Gary S\u00e1nchez",
+        "DL Hall",
         "Jihwan Bae",
         "David Hamilton"
       ],
@@ -738,8 +738,8 @@
         "Logan Henderson",
         "Joey Ortiz",
         "Jackson Chourio",
-        "Lyon Richardson",
         "Christian Yelich",
+        "Lyon Richardson",
         "Jake Bauers",
         "Abner Uribe",
         "Andrew Vaughn",
@@ -788,7 +788,7 @@
         "Masyn Winn",
         "Nathan Church",
         "Jos\u00e9 Ferm\u00edn",
-        "Bryan Torres"
+        "Everson Pereira"
       ],
       "away_roster": [
         "Ryan Feltner",
@@ -854,8 +854,8 @@
       "away_team": "Baltimore Orioles",
       "home_team": "Texas Rangers",
       "away_lineup": [
-        "Gunnar Henderson",
-        "Pete Alonso",
+        "Jeremiah Jackson",
+        "Christian Encarnacion-Strand",
         "Jackson Holliday",
         "Tyler O'Neill",
         "Dylan Beavers",
@@ -865,10 +865,10 @@
         "Carlos Narv\u00e1ez"
       ],
       "home_lineup": [
-        "Wyatt Langford",
-        "Corey Seager",
+        "Nicky Lopez",
+        "Austin Wynns",
         "Ezequiel Duran",
-        "Brandon Nimmo",
+        "Evan Carter",
         "Jake Burger",
         "Justin Foscue",
         "Elias D\u00edaz",
@@ -898,8 +898,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo"
       ],
@@ -1192,7 +1192,17 @@
     "Houston Astros @ San Diego Padres | 823268": {
       "away_team": "Houston Astros",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Jose Altuve",
+        "Taylor Trammell",
+        "Christian Walker",
+        "Daulton Varsho",
+        "Yainer Diaz",
+        "LaMonte Wade Jr."
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jake Cronenworth",
@@ -1213,8 +1223,8 @@
         "Hunter Brown",
         "Ronel Blanco",
         "Josh Hader",
-        "Enyel De Los Santos",
         "Daulton Varsho",
+        "Enyel De Los Santos",
         "Jake Meyers",
         "Steven Okert",
         "AJ Blubaugh",
