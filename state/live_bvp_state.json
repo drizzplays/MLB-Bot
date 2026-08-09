@@ -10,34 +10,34 @@
       "last_checked_at": "2026-08-09T14:51:34.997842-04:00"
     },
     "822862": {
-      "active_pitcher_id": 700249,
-      "active_pitcher_name": "Cade Povich",
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:51:49.338863-04:00"
+      "last_checked_at": "2026-08-09T15:29:17.619381-04:00"
     },
     "823020": {
-      "active_pitcher_id": 547179,
-      "active_pitcher_name": "Michael Lorenzen",
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:51:47.396322-04:00"
+      "last_checked_at": "2026-08-09T15:29:15.076858-04:00"
     },
     "823345": {
-      "active_pitcher_id": 640455,
-      "active_pitcher_name": "Sean Manaea",
+      "active_pitcher_id": 666808,
+      "active_pitcher_name": "Camilo Doval",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:51:37.269911-04:00"
+      "last_checked_at": "2026-08-09T15:29:02.014598-04:00"
     },
     "823425": {
-      "active_pitcher_id": 669456,
-      "active_pitcher_name": "Shane Bieber",
+      "active_pitcher_id": 663893,
+      "active_pitcher_name": "Brendon Little",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:51:39.243702-04:00"
+      "last_checked_at": "2026-08-09T15:29:04.750074-04:00"
     },
     "823513": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+      "active_pitcher_id": 800311,
+      "active_pitcher_name": "Didier Fuentes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:51:41.113551-04:00"
+      "last_checked_at": "2026-08-09T15:29:07.596910-04:00"
     },
     "823751": {
       "active_pitcher_id": 687570,
@@ -46,16 +46,16 @@
       "last_checked_at": "2026-08-09T14:51:45.465903-04:00"
     },
     "823835": {
-      "active_pitcher_id": 680570,
-      "active_pitcher_name": "Grayson Rodriguez",
+      "active_pitcher_id": 676604,
+      "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:00:27.601859-04:00"
+      "last_checked_at": "2026-08-09T15:29:10.031440-04:00"
     },
     "824078": {
-      "active_pitcher_id": 571510,
-      "active_pitcher_name": "Matthew Boyd",
+      "active_pitcher_id": 677976,
+      "active_pitcher_name": "Randy Dobnak",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:51:43.238147-04:00"
+      "last_checked_at": "2026-08-09T15:29:12.447678-04:00"
     },
     "824564": {
       "active_pitcher_id": 663436,
@@ -64,10 +64,10 @@
       "last_checked_at": "2026-08-09T14:00:32.579140-04:00"
     },
     "824724": {
-      "active_pitcher_id": 669372,
-      "active_pitcher_name": "J.T. Ginn",
+      "active_pitcher_id": 669620,
+      "active_pitcher_name": "Brady Basso",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:00:22.539491-04:00"
+      "last_checked_at": "2026-08-09T15:28:59.530333-04:00"
     }
   }
 }
