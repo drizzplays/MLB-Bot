@@ -36,7 +36,7 @@
       "game_time": "Aug 9, 12:15 PM ET",
       "game_iso": "2026-08-09T12:15:00-04:00",
       "game_pk": "822700",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824724": {
       "away_team": "Athletics",
@@ -65,7 +65,7 @@
       "game_time": "Aug 9, 1:35 PM ET",
       "game_iso": "2026-08-09T13:35:00-04:00",
       "game_pk": "824724",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823345": {
       "away_team": "New York Mets",
