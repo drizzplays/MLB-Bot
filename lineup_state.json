@@ -278,7 +278,7 @@
         "Brandon Marsh",
         "Justin Crawford",
         "Bryan De La Cruz",
-        "Garrett Stubbs"
+        "Edmundo Sosa"
       ],
       "away_roster": [
         "Shane Bieber",
@@ -318,8 +318,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -599,7 +599,7 @@
       "away_team": "Minnesota Twins",
       "home_team": "Milwaukee Brewers",
       "away_lineup": [
-        "Austin Martin",
+        "Alan Roden",
         "Ryan Jeffers",
         "Royce Lewis",
         "Josh Bell",
@@ -613,9 +613,9 @@
         "Brice Turang",
         "Jackson Chourio",
         "Jake Bauers",
-        "William Contreras",
+        "Gary S\u00e1nchez",
         "Garrett Mitchell",
-        "Andrew Vaughn",
+        "Luis Lara",
         "Christian Yelich",
         "Cooper Pratt",
         "David Hamilton"
@@ -692,7 +692,7 @@
         "Daulton Varsho",
         "Cam Smith",
         "Yainer Diaz",
-        "Jake Meyers"
+        "LaMonte Wade Jr."
       ],
       "home_lineup": [
         "Fernando Tatis Jr.",
@@ -776,14 +776,14 @@
         "Eduardo Valencia",
         "Spencer Torkelson",
         "Max Clark",
-        "Javier B\u00e1ez",
+        "Hao-Yu Lee",
         "Zach McKinstry"
       ],
       "home_lineup": [
         "Bryce Eldridge",
-        "Grant McCray",
         "Nate Furman",
         "Buddy Kennedy",
+        "Grant McCray",
         "Osleivis Basabe",
         "Drew Gilbert",
         "Eddys Leonard",
@@ -873,7 +873,7 @@
         "Masyn Winn",
         "Bryan Torres",
         "Nathan Church",
-        "Everson Pereira"
+        "C\u00e9sar Prieto"
       ],
       "away_roster": [
         "Ryan Feltner",
@@ -950,7 +950,7 @@
         "Carlos Narv\u00e1ez"
       ],
       "home_lineup": [
-        "Joc Pederson",
+        "Alejandro Osuna",
         "Wyatt Langford",
         "Corey Seager",
         "Brandon Nimmo",
@@ -994,8 +994,8 @@
         "Kumar Rocker",
         "Jake Burger",
         "Peyton Gray",
-        "Tyler Alexander",
         "Alejandro Osuna",
+        "Tyler Alexander",
         "Chase Silseth",
         "Austin Wynns",
         "Joc Pederson",
@@ -1003,8 +1003,8 @@
         "Corey Seager",
         "Cal Quantrill",
         "Nicky Lopez",
-        "Robby Ahlstrom",
         "Justin Foscue",
+        "Robby Ahlstrom",
         "Ezequiel Duran",
         "MacKenzie Gore",
         "Jacob deGrom",
@@ -1030,16 +1030,16 @@
         "Angel Mart\u00ednez",
         "Rhys Hoskins",
         "Brayan Rocchio",
-        "Travis Bazzana",
+        "Jos\u00e9 Ram\u00edrez",
         "Patrick Bailey",
         "Angel Genao"
       ],
       "home_lineup": [
-        "Sam Antonacci",
+        "Brenton Doyle",
         "Munetaka Murakami",
         "Miguel Vargas",
-        "Colson Montgomery",
-        "Andrew Benintendi",
+        "Luisangel Acu\u00f1a",
+        "Randal Grichuk",
         "Braden Montgomery",
         "Tristan Peters",
         "Chase Meidroth",
@@ -1125,7 +1125,7 @@
         "Gabriel Moreno",
         "Ketel Marte",
         "Lars Nootbaar",
-        "Nolan Arenado",
+        "Ildemaro Vargas",
         "Tim Tawa",
         "James McCann",
         "Ryan Waldschmidt"
@@ -1282,11 +1282,11 @@
       "away_lineup": [],
       "home_lineup": [],
       "away_roster": [
-        "Hunter Greene",
         "Elly De La Cruz",
         "Dane Myers",
         "Sal Stewart",
         "Pierce Johnson",
+        "Luis Mey",
         "Emilio Pag\u00e1n",
         "Tejay Antone",
         "Noelvi Marte",
@@ -1294,13 +1294,13 @@
         "Matt McLain",
         "Ke'Bryan Hayes",
         "TJ Friedl",
-        "Chase Petty",
         "Rhett Lowder",
         "Jose Trevino",
         "Tyler Stephenson",
         "Eugenio Su\u00e1rez",
         "Zach McCambley",
         "Sam Moll",
+        "Ron Marinaccio",
         "JJ Bleday",
         "Brock Burke",
         "Julian Garcia",
@@ -1323,6 +1323,7 @@
         "Trevor Williams",
         "Max Kranick",
         "Clayton Beeter",
+        "Brad Lord",
         "Daylen Lile",
         "Jos\u00e9 Tena",
         "Cade Cavalli",
@@ -1330,7 +1331,6 @@
         "Jacob Young",
         "Jake Irvin",
         "Orlando Ribalta",
-        "Zack Littell",
         "Andrew Pinckney",
         "Keibert Ruiz",
         "Tom Cosgrove",
