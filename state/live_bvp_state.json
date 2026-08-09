@@ -1,4 +1,11 @@
 {
   "date": "2026-08-09",
-  "games": {}
+  "games": {
+    "822700": {
+      "active_pitcher_id": 695418,
+      "active_pitcher_name": "Brad Lord",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-09T12:15:28.282701-04:00"
+    }
+  }
 }
