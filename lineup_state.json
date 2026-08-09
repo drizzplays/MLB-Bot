@@ -260,7 +260,7 @@
       "home_team": "Philadelphia Phillies",
       "away_lineup": [
         "Brett Bateman",
-        "Vladimir Guerrero Jr.",
+        "Jes\u00fas S\u00e1nchez",
         "Alejandro Kirk",
         "Kazuma Okamoto",
         "Ernie Clement",
@@ -270,7 +270,7 @@
         "Nathan Lukes"
       ],
       "home_lineup": [
-        "Kyle Schwarber",
+        "Garrett Stubbs",
         "Trea Turner",
         "Bryce Harper",
         "Luis Arraez",
@@ -295,15 +295,15 @@
         "Davis Schneider",
         "Nathan Lukes",
         "Matt Waldron",
-        "Max Scherzer",
         "George Springer",
+        "Max Scherzer",
         "Mason Fluharty",
         "Braydon Fisher",
         "Josh Smith",
         "Tyler Rogers",
         "Vladimir Guerrero Jr.",
-        "Lazaro Estrada",
         "Jes\u00fas S\u00e1nchez",
+        "Lazaro Estrada",
         "Myles Straw",
         "Alejandro Kirk",
         "Kazuma Okamoto"
@@ -430,7 +430,7 @@
       "home_team": "Miami Marlins",
       "away_lineup": [
         "Wade Meckler",
-        "Mike Trout",
+        "Oswald Peraza",
         "Nolan Schanuel",
         "Zach Neto",
         "Mois\u00e9s Ballesteros",
@@ -452,8 +452,8 @@
       ],
       "away_roster": [
         "Adam Frazier",
-        "Jose Siri",
         "Oswald Peraza",
+        "Jose Siri",
         "Zach Neto",
         "Travis d'Arnaud",
         "Ryan Johnson",
@@ -515,11 +515,11 @@
       "home_team": "Kansas City Royals",
       "away_lineup": [
         "Pete Crow-Armstrong",
-        "Michael Busch",
+        "James Triantos",
         "Alex Bregman",
         "Ian Happ",
         "Michael Conforto",
-        "Nico Hoerner",
+        "Pedro Ram\u00edrez",
         "Dansby Swanson",
         "Miguel Amaya",
         "Tyrone Taylor"
@@ -528,7 +528,7 @@
         "Nick Loftin",
         "Bobby Witt Jr.",
         "Jac Caglianone",
-        "Salvador Perez",
+        "John Rave",
         "Starling Marte",
         "Michael Massey",
         "Tyler Tolbert",
@@ -1517,10 +1517,10 @@
         "Luis Gastelum",
         "Peter Strzelecki",
         "C\u00e9sar Prieto",
+        "Everson Pereira",
         "Masyn Winn",
         "Iv\u00e1n Herrera",
-        "Jimmy Crooks",
-        "Nelson Vel\u00e1zquez"
+        "Jimmy Crooks"
       ],
       "game_time": "Aug 10, 7:45 PM ET",
       "game_iso": "2026-08-10T19:45:00-04:00",
