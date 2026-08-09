@@ -10,22 +10,22 @@
       "last_checked_at": "2026-08-09T14:51:34.997842-04:00"
     },
     "822862": {
-      "active_pitcher_id": 656756,
-      "active_pitcher_name": "Jordan Montgomery",
+      "active_pitcher_id": 668390,
+      "active_pitcher_name": "Cole Winn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T15:58:38.605264-04:00"
+      "last_checked_at": "2026-08-09T17:05:14.232900-04:00"
     },
     "823020": {
-      "active_pitcher_id": 685299,
-      "active_pitcher_name": "Tanner Gordon",
+      "active_pitcher_id": 656786,
+      "active_pitcher_name": "Parker Mushinski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T16:34:04.870188-04:00"
+      "last_checked_at": "2026-08-09T17:05:11.492899-04:00"
     },
     "823104": {
-      "active_pitcher_id": 693855,
-      "active_pitcher_name": "Ian Seymour",
+      "active_pitcher_id": 676106,
+      "active_pitcher_name": "Emerson Hancock",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T16:34:07.193974-04:00"
+      "last_checked_at": "2026-08-09T17:05:19.186855-04:00"
     },
     "823190": {
       "active_pitcher_id": 657277,
@@ -40,10 +40,10 @@
       "last_checked_at": "2026-08-09T15:58:22.204580-04:00"
     },
     "823425": {
-      "active_pitcher_id": 548384,
-      "active_pitcher_name": "Brooks Raley",
+      "active_pitcher_id": 681751,
+      "active_pitcher_name": "Lazaro Estrada",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T16:33:55.209107-04:00"
+      "last_checked_at": "2026-08-09T17:05:03.790864-04:00"
     },
     "823513": {
       "active_pitcher_id": 621112,
@@ -52,10 +52,10 @@
       "last_checked_at": "2026-08-09T15:58:27.404781-04:00"
     },
     "823751": {
-      "active_pitcher_id": 682842,
-      "active_pitcher_name": "Abner Uribe",
+      "active_pitcher_id": 681892,
+      "active_pitcher_name": "Kody Funderburk",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T16:34:02.497862-04:00"
+      "last_checked_at": "2026-08-09T17:05:09.009375-04:00"
     },
     "823835": {
       "active_pitcher_id": 694795,
@@ -70,10 +70,10 @@
       "last_checked_at": "2026-08-09T16:34:00.033073-04:00"
     },
     "824564": {
-      "active_pitcher_id": 663436,
-      "active_pitcher_name": "Davis Martin",
+      "active_pitcher_id": 696146,
+      "active_pitcher_name": "Hagen Smith",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T14:00:32.579140-04:00"
+      "last_checked_at": "2026-08-09T17:05:06.542064-04:00"
     },
     "824724": {
       "active_pitcher_id": 547973,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-09T15:58:19.724784-04:00"
     },
     "825050": {
-      "active_pitcher_id": 593958,
-      "active_pitcher_name": "Eduardo Rodriguez",
+      "active_pitcher_id": 680736,
+      "active_pitcher_name": "Justin Wrobleski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T15:58:42.688722-04:00"
+      "last_checked_at": "2026-08-09T17:05:16.762107-04:00"
     }
   }
 }
