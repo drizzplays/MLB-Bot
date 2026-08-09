@@ -95,7 +95,7 @@
         "Tyler Soderstrom",
         "Tommy White",
         "Lawrence Butler",
-        "Carlos Cortes",
+        "Donovan Walton",
         "Max Muncy",
         "Jeff McNeil"
       ],
@@ -106,9 +106,9 @@
         "Willson Contreras",
         "Andruw Monasterio",
         "Anthony Seigler",
-        "Jarren Duran",
+        "Jahmai Jones",
         "Eli White",
-        "Jake Rogers"
+        "Caleb Durbin"
       ],
       "away_roster": [
         "Lawrence Butler",
@@ -187,10 +187,10 @@
       "home_lineup": [
         "Jake Mangum",
         "Ronny Simon",
-        "Bryan Reynolds",
+        "Jhostynxon Garcia",
         "Nick Gonzales",
         "Esmerlyn Valdez",
-        "Brandon Lowe",
+        "Jacob Gonzalez",
         "Rafael Flores Jr.",
         "Jared Triolo",
         "Henry Davis"
@@ -241,8 +241,8 @@
         "Jared Triolo",
         "Jake Mangum",
         "Yohan Ram\u00edrez",
-        "Bubba Chandler",
         "Jhostynxon Garcia",
+        "Bubba Chandler",
         "Carmen Mlodzinski",
         "Henry Davis",
         "Camilo Doval",
@@ -267,7 +267,7 @@
         "Andr\u00e9s Gim\u00e9nez",
         "Myles Straw",
         "Josh Smith",
-        "Davis Schneider"
+        "Nathan Lukes"
       ],
       "home_lineup": [
         "Kyle Schwarber",
@@ -346,7 +346,7 @@
       "away_lineup": [
         "Drake Baldwin",
         "Ronald Acu\u00f1a Jr.",
-        "Matt Olson",
+        "Tyler Kinley",
         "Michael Harris II",
         "Ozzie Albies",
         "Dominic Smith",
@@ -684,25 +684,25 @@
       "away_team": "Minnesota Twins",
       "home_team": "Milwaukee Brewers",
       "away_lineup": [
-        "Trevor Larnach",
+        "Ryan Jeffers",
         "Royce Lewis",
         "Josh Bell",
         "Kody Clemens",
         "Brooks Lee",
         "Luke Keaschall",
         "Victor Caratini",
-        "Alan Roden",
+        "Austin Martin",
         "Ryan Kreidler"
       ],
       "home_lineup": [
         "Jackson Chourio",
         "Brice Turang",
-        "Andrew Vaughn",
+        "Garrett Mitchell",
         "William Contreras",
         "Jake Bauers",
         "Luis Lara",
         "Gary S\u00e1nchez",
-        "Brandon Lockridge",
+        "Jihwan Bae",
         "David Hamilton"
       ],
       "away_roster": [
@@ -746,8 +746,8 @@
         "Shane Drohan",
         "Brandon Lockridge",
         "Kyle Harrison",
-        "Aaron Ashby",
         "Garrett Mitchell",
+        "Aaron Ashby",
         "David Hamilton",
         "William Contreras",
         "Brice Turang",
@@ -1193,7 +1193,17 @@
       "away_team": "Houston Astros",
       "home_team": "San Diego Padres",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Fernando Tatis Jr.",
+        "Jake Cronenworth",
+        "Manny Machado",
+        "Ty France",
+        "Jackson Merrill",
+        "Luis Rengifo",
+        "Gavin Sheets",
+        "Xander Bogaerts",
+        "Freddy Fermin"
+      ],
       "away_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
@@ -1223,9 +1233,9 @@
         "Yordan Alvarez"
       ],
       "home_roster": [
+        "Luis Rengifo",
         "Luis Campusano",
         "Yuki Matsui",
-        "Luis Rengifo",
         "Gage Workman",
         "Freddy Fermin",
         "Michael King",
@@ -1241,8 +1251,8 @@
         "Gavin Sheets",
         "Adrian Morejon",
         "Manny Machado",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
