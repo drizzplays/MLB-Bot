@@ -2,22 +2,22 @@
   "date": "2026-08-08",
   "games": {
     "822701": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 594580,
+      "active_pitcher_name": "Sam Moll",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:47:17.370610-04:00"
+      "last_checked_at": "2026-08-08T20:35:29.735887-04:00"
     },
     "822864": {
-      "active_pitcher_id": 680694,
-      "active_pitcher_name": "Kyle Bradish",
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:47:19.583527-04:00"
+      "last_checked_at": "2026-08-08T20:35:43.294381-04:00"
     },
     "823021": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 607536,
+      "active_pitcher_name": "Kyle Freeland",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:25.836900-04:00"
+      "last_checked_at": "2026-08-08T20:35:40.741060-04:00"
     },
     "823188": {
       "active_pitcher_id": 694738,
@@ -26,22 +26,24 @@
       "last_checked_at": "2026-08-08T19:11:23.855217-04:00"
     },
     "823267": {
-      "active_pitcher_id": 650633,
-      "active_pitcher_name": "Michael King",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:21.789032-04:00"
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [
+        "663567:665487"
+      ],
+      "last_checked_at": "2026-08-08T20:35:35.199468-04:00"
     },
     "823348": {
-      "active_pitcher_id": 476594,
-      "active_pitcher_name": "Robert Stock",
+      "active_pitcher_id": 675540,
+      "active_pitcher_name": "Xzavion Curry",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:14.099165-04:00"
+      "last_checked_at": "2026-08-08T20:35:26.719190-04:00"
     },
     "823426": {
-      "active_pitcher_id": 548384,
-      "active_pitcher_name": "Brooks Raley",
+      "active_pitcher_id": 621237,
+      "active_pitcher_name": "Jos\u00e9 Alvarado",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:47:15.174007-04:00"
+      "last_checked_at": "2026-08-08T20:35:24.199346-04:00"
     },
     "823514": {
       "active_pitcher_id": 664849,
@@ -50,10 +52,10 @@
       "last_checked_at": "2026-08-08T17:41:47.584036-04:00"
     },
     "823752": {
-      "active_pitcher_id": 688107,
-      "active_pitcher_name": "Robert Gasser",
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:11:19.871458-04:00"
+      "last_checked_at": "2026-08-08T20:35:32.681001-04:00"
     },
     "823834": {
       "active_pitcher_id": 645261,
@@ -68,10 +70,10 @@
       "last_checked_at": "2026-08-08T19:11:17.912057-04:00"
     },
     "824565": {
-      "active_pitcher_id": 668909,
-      "active_pitcher_name": "Gavin Williams",
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-08T19:47:21.541909-04:00"
+      "last_checked_at": "2026-08-08T20:35:45.864791-04:00"
     },
     "824726": {
       "active_pitcher_id": 670103,
@@ -80,6 +82,12 @@
         "687562:695720"
       ],
       "last_checked_at": "2026-08-08T18:07:53.815910-04:00"
+    },
+    "825049": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-08T20:35:48.288581-04:00"
     }
   }
 }
