@@ -262,15 +262,15 @@
         "Nathan Lukes",
         "Brett Bateman",
         "Vladimir Guerrero Jr.",
-        "Jes\u00fas S\u00e1nchez",
+        "Davis Schneider",
         "Ernie Clement",
         "Andr\u00e9s Gim\u00e9nez",
         "Brandon Valenzuela",
-        "Josh Smith",
+        "Kazuma Okamoto",
         "Myles Straw"
       ],
       "home_lineup": [
-        "Kyle Schwarber",
+        "Alec Bohm",
         "Trea Turner",
         "Bryce Harper",
         "Luis Arraez",
@@ -295,8 +295,8 @@
         "Davis Schneider",
         "Nathan Lukes",
         "Matt Waldron",
-        "Max Scherzer",
         "George Springer",
+        "Max Scherzer",
         "Mason Fluharty",
         "Braydon Fisher",
         "Josh Smith",
@@ -345,8 +345,8 @@
       "home_team": "Pittsburgh Pirates",
       "away_lineup": [
         "A.J. Ewing",
-        "Francisco Lindor",
-        "Bo Bichette",
+        "Gabriel Arias",
+        "Cristian Pache",
         "Jared Young",
         "Luis Robert Jr.",
         "Brett Baty",
@@ -355,8 +355,8 @@
         "Francisco Alvarez"
       ],
       "home_lineup": [
-        "Jake Mangum",
-        "Brandon Lowe",
+        "Jared Triolo",
+        "Jhostynxon Garcia",
         "Bryan Reynolds",
         "Spencer Horwitz",
         "Nick Gonzales",
@@ -407,12 +407,12 @@
         "Gregory Soto",
         "Luke Weaver",
         "Mason Montgomery",
-        "Esmerlyn Valdez",
         "Jared Triolo",
+        "Esmerlyn Valdez",
         "Jake Mangum",
         "Yohan Ram\u00edrez",
-        "Bubba Chandler",
         "Jhostynxon Garcia",
+        "Bubba Chandler",
         "Carmen Mlodzinski",
         "Henry Davis",
         "Camilo Doval",
@@ -436,8 +436,8 @@
         "JJ Bleday",
         "Matt McLain",
         "Jose Trevino",
-        "Noelvi Marte",
-        "Ke'Bryan Hayes"
+        "Ivan Johnson",
+        "H\u00e9ctor Rodr\u00edguez"
       ],
       "home_lineup": [
         "CJ Abrams",
@@ -447,7 +447,7 @@
         "Keibert Ruiz",
         "Jorbit Vivas",
         "Nasim Nu\u00f1ez",
-        "Jos\u00e9 Tena",
+        "Andr\u00e9s Chaparro",
         "Jacob Young"
       ],
       "away_roster": [
@@ -520,9 +520,9 @@
         "Alex Bregman",
         "Ian Happ",
         "Nico Hoerner",
-        "Carson Kelly",
+        "Michael Conforto",
         "Dansby Swanson",
-        "Tyrone Taylor"
+        "Pedro Ram\u00edrez"
       ],
       "home_lineup": [
         "Carter Jensen",
@@ -536,8 +536,8 @@
         "Kyle Isbel"
       ],
       "away_roster": [
-        "Tyrone Taylor",
         "Michael Conforto",
+        "Tyrone Taylor",
         "Ian Happ",
         "Javier Assad",
         "Caleb Thielbar",
@@ -607,7 +607,7 @@
         "Luke Keaschall",
         "Kaelen Culpepper",
         "Brooks Lee",
-        "Ryan Kreidler"
+        "Trevor Larnach"
       ],
       "home_lineup": [
         "Brice Turang",
@@ -618,7 +618,7 @@
         "Andrew Vaughn",
         "Christian Yelich",
         "Cooper Pratt",
-        "Joey Ortiz"
+        "David Hamilton"
       ],
       "away_roster": [
         "Dean Kremer",
@@ -691,8 +691,8 @@
         "Christian Walker",
         "Daulton Varsho",
         "Cam Smith",
-        "Taylor Trammell",
-        "Christian V\u00e1zquez"
+        "Yainer Diaz",
+        "Jake Meyers"
       ],
       "home_lineup": [
         "Fernando Tatis Jr.",
@@ -703,7 +703,7 @@
         "Luis Campusano",
         "Gavin Sheets",
         "Xander Bogaerts",
-        "Luis Rengifo"
+        "Jase Bowen"
       ],
       "away_roster": [
         "Isaac Paredes",
@@ -770,10 +770,10 @@
       "home_team": "San Francisco Giants",
       "away_lineup": [
         "Kevin McGonigle",
-        "Gleyber Torres",
+        "James Outman",
         "Dillon Dingler",
-        "Riley Greene",
-        "Colt Keith",
+        "Ben Malgeri",
+        "Eduardo Valencia",
         "Spencer Torkelson",
         "Max Clark",
         "Javier B\u00e1ez",
@@ -781,13 +781,13 @@
       ],
       "home_lineup": [
         "Bryce Eldridge",
-        "Jung Hoo Lee",
-        "Willy Adames",
-        "Rafael Devers",
+        "Grant McCray",
+        "Nate Furman",
+        "Buddy Kennedy",
         "Osleivis Basabe",
         "Drew Gilbert",
         "Eddys Leonard",
-        "Drew Cavanaugh",
+        "Daniel Susac",
         "Christian Koss"
       ],
       "away_roster": [
@@ -797,8 +797,8 @@
         "Ty Madden",
         "Drew Anderson",
         "Riley Greene",
-        "Javier B\u00e1ez",
         "Eduardo Valencia",
+        "Javier B\u00e1ez",
         "Jacob Waguespack",
         "Tyler Holton",
         "Kevin McGonigle",
@@ -810,8 +810,8 @@
         "Ben Malgeri",
         "Gleyber Torres",
         "Enmanuel De Jesus",
-        "Max Clark",
         "James Outman",
+        "Max Clark",
         "Dillon Dingler",
         "Colt Keith",
         "Yilber D\u00edaz",
@@ -861,7 +861,7 @@
         "TJ Rumfield",
         "Willi Castro",
         "Jordan Beck",
-        "Tyler Freeman",
+        "Mickey Moniak",
         "Ezequiel Tovar"
       ],
       "home_lineup": [
@@ -871,7 +871,7 @@
         "Alec Burleson",
         "Jos\u00e9 Ferm\u00edn",
         "Masyn Winn",
-        "Blaze Jordan",
+        "Bryan Torres",
         "Nathan Church",
         "Everson Pereira"
       ],
@@ -940,13 +940,13 @@
       "home_team": "Texas Rangers",
       "away_lineup": [
         "Gunnar Henderson",
-        "Pete Alonso",
+        "Christian Franklin",
         "Jackson Holliday",
         "Tyler O'Neill",
         "Dylan Beavers",
         "Leody Taveras",
         "Christian Encarnacion-Strand",
-        "Colton Cowser",
+        "Coby Mayo",
         "Carlos Narv\u00e1ez"
       ],
       "home_lineup": [
@@ -1031,7 +1031,7 @@
         "Rhys Hoskins",
         "Brayan Rocchio",
         "Travis Bazzana",
-        "Austin Hedges",
+        "Patrick Bailey",
         "Angel Genao"
       ],
       "home_lineup": [
@@ -1200,9 +1200,9 @@
         "Victor Mesa Jr.",
         "Chandler Simpson",
         "Cedric Mullins",
-        "Richie Palacios",
         "Nick Fortes",
-        "Taylor Walls"
+        "Richie Palacios",
+        "Carson Williams"
       ],
       "home_lineup": [
         "Taylor Ward",
