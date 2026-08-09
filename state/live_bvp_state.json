@@ -22,16 +22,16 @@
       "last_checked_at": "2026-08-09T17:05:11.492899-04:00"
     },
     "823104": {
-      "active_pitcher_id": 676106,
-      "active_pitcher_name": "Emerson Hancock",
+      "active_pitcher_id": 678606,
+      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T17:05:19.186855-04:00"
+      "last_checked_at": "2026-08-09T17:44:31.406269-04:00"
     },
     "823190": {
-      "active_pitcher_id": 657277,
-      "active_pitcher_name": "Logan Webb",
+      "active_pitcher_id": 640448,
+      "active_pitcher_name": "Kyle Finnegan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T15:58:40.843691-04:00"
+      "last_checked_at": "2026-08-09T17:44:26.754387-04:00"
     },
     "823345": {
       "active_pitcher_id": 682254,
@@ -70,10 +70,10 @@
       "last_checked_at": "2026-08-09T16:34:00.033073-04:00"
     },
     "824564": {
-      "active_pitcher_id": 696146,
-      "active_pitcher_name": "Hagen Smith",
+      "active_pitcher_id": 684974,
+      "active_pitcher_name": "Craig Yoho",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T17:05:06.542064-04:00"
+      "last_checked_at": "2026-08-09T17:44:24.161110-04:00"
     },
     "824724": {
       "active_pitcher_id": 547973,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-09T15:58:19.724784-04:00"
     },
     "825050": {
-      "active_pitcher_id": 680736,
-      "active_pitcher_name": "Justin Wrobleski",
+      "active_pitcher_id": 623465,
+      "active_pitcher_name": "Evan Phillips",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T17:05:16.762107-04:00"
+      "last_checked_at": "2026-08-09T17:44:29.112953-04:00"
     }
   }
 }
