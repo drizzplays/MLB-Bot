@@ -2,10 +2,18 @@
   "date": "2026-08-09",
   "games": {
     "822700": {
-      "active_pitcher_id": 702021,
-      "active_pitcher_name": "Will Dion",
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [
+        "663903:695734"
+      ],
+      "last_checked_at": "2026-08-09T14:00:15.592644-04:00"
+    },
+    "823020": {
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T13:29:42.178530-04:00"
+      "last_checked_at": "2026-08-09T14:00:37.484513-04:00"
     },
     "823345": {
       "active_pitcher_id": 683003,
@@ -20,22 +28,40 @@
       "last_checked_at": "2026-08-09T13:29:49.786441-04:00"
     },
     "823513": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+      "active_pitcher_id": 656550,
+      "active_pitcher_name": "Grant Holmes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T13:29:52.149104-04:00"
+      "last_checked_at": "2026-08-09T14:00:25.124668-04:00"
+    },
+    "823751": {
+      "active_pitcher_id": 694819,
+      "active_pitcher_name": "Jacob Misiorowski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-09T14:00:35.062675-04:00"
     },
     "823835": {
-      "active_pitcher_id": 687473,
-      "active_pitcher_name": "Ryan Gusto",
+      "active_pitcher_id": 680570,
+      "active_pitcher_name": "Grayson Rodriguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T13:29:54.492560-04:00"
+      "last_checked_at": "2026-08-09T14:00:27.601859-04:00"
+    },
+    "824078": {
+      "active_pitcher_id": 677976,
+      "active_pitcher_name": "Randy Dobnak",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-09T14:00:30.052985-04:00"
+    },
+    "824564": {
+      "active_pitcher_id": 663436,
+      "active_pitcher_name": "Davis Martin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-09T14:00:32.579140-04:00"
     },
     "824724": {
-      "active_pitcher_id": 669062,
-      "active_pitcher_name": "Erik Miller",
+      "active_pitcher_id": 669372,
+      "active_pitcher_name": "J.T. Ginn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-09T13:29:44.910532-04:00"
+      "last_checked_at": "2026-08-09T14:00:22.539491-04:00"
     }
   }
 }
