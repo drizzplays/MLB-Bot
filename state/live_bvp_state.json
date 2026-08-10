@@ -2,18 +2,31 @@
   "date": "2026-08-10",
   "games": {
     "822780": {
-      "active_pitcher_id": 592791,
-      "active_pitcher_name": "Jameson Taillon",
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-10T19:15:00.654913-04:00"
+      "last_checked_at": "2026-08-10T19:52:22.562428-04:00"
+    },
+    "823018": {
+      "active_pitcher_id": 690928,
+      "active_pitcher_name": "Hunter Dobbins",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T19:52:33.649462-04:00"
+    },
+    "823675": {
+      "active_pitcher_id": 669432,
+      "active_pitcher_name": "Trevor Rogers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T19:52:31.133697-04:00"
     },
     "824887": {
-      "active_pitcher_id": 693821,
-      "active_pitcher_name": "Bryce Elder",
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
       "alerted_pairs": [
+        "681035:671739",
         "693821:805999"
       ],
-      "last_checked_at": "2026-08-10T19:15:03.218431-04:00"
+      "last_checked_at": "2026-08-10T19:52:25.262419-04:00"
     }
   }
 }
