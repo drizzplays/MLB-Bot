@@ -74,7 +74,7 @@
       "game_time": "Aug 10, 7:15 PM ET",
       "game_iso": "2026-08-10T19:15:00-04:00",
       "game_pk": "824887",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823675": {
       "away_team": "Baltimore Orioles",
@@ -150,7 +150,7 @@
       "game_time": "Aug 10, 7:45 PM ET",
       "game_iso": "2026-08-10T19:45:00-04:00",
       "game_pk": "823018",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823998": {
       "away_team": "Texas Rangers",
