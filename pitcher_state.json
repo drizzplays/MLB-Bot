@@ -188,7 +188,7 @@
       "game_time": "Aug 10, 9:38 PM ET",
       "game_iso": "2026-08-10T21:38:00-04:00",
       "game_pk": "823998",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825048": {
       "away_team": "Colorado Rockies",
@@ -340,7 +340,7 @@
       "game_time": "Aug 10, 9:45 PM ET",
       "game_iso": "2026-08-10T21:45:00-04:00",
       "game_pk": "823189",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823918": {
       "away_team": "Kansas City Royals",
@@ -378,7 +378,7 @@
       "game_time": "Aug 10, 10:10 PM ET",
       "game_iso": "2026-08-10T22:10:00-04:00",
       "game_pk": "823918",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
