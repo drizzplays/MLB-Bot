@@ -264,7 +264,7 @@
       "game_time": "Aug 10, 9:40 PM ET",
       "game_iso": "2026-08-10T21:40:00-04:00",
       "game_pk": "824969",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823265": {
       "away_team": "Milwaukee Brewers",
@@ -302,7 +302,7 @@
       "game_time": "Aug 10, 9:40 PM ET",
       "game_iso": "2026-08-10T21:40:00-04:00",
       "game_pk": "823265",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823189": {
       "away_team": "Houston Astros",
