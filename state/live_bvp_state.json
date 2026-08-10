@@ -1,4 +1,19 @@
 {
   "date": "2026-08-10",
-  "games": {}
+  "games": {
+    "822780": {
+      "active_pitcher_id": 592791,
+      "active_pitcher_name": "Jameson Taillon",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T19:15:00.654913-04:00"
+    },
+    "824887": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [
+        "693821:805999"
+      ],
+      "last_checked_at": "2026-08-10T19:15:03.218431-04:00"
+    }
+  }
 }
