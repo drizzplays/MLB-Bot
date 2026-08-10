@@ -134,7 +134,17 @@
       "away_team": "Baltimore Orioles",
       "home_team": "Minnesota Twins",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Austin Martin",
+        "Ryan Jeffers",
+        "Royce Lewis",
+        "Josh Bell",
+        "Luke Keaschall",
+        "Brooks Lee",
+        "Kaelen Culpepper",
+        "Victor Caratini",
+        "Ryan Kreidler"
+      ],
       "away_roster": [
         "Jeremiah Jackson",
         "Trevor Rogers",
