@@ -21,7 +21,7 @@
         "George Springer",
         "Jes\u00fas S\u00e1nchez",
         "Andr\u00e9s Gim\u00e9nez",
-        "Kazuma Okamoto",
+        "Charles McAdoo",
         "Josh Smith",
         "Brandon Valenzuela"
       ],
@@ -88,7 +88,17 @@
     "New York Mets @ Atlanta Braves | 824887": {
       "away_team": "New York Mets",
       "home_team": "Atlanta Braves",
-      "away_lineup": [],
+      "away_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Jared Young",
+        "Marcus Semien",
+        "Brett Baty",
+        "Jorge Polanco",
+        "Francisco Alvarez"
+      ],
       "home_lineup": [
         "Drake Baldwin",
         "Ronald Acu\u00f1a Jr.",
@@ -124,8 +134,8 @@
         "Jorge Polanco",
         "Nolan McLean",
         "Zac Thornton",
-        "Luis Robert Jr.",
         "Jared Young",
+        "Luis Robert Jr.",
         "A.J. Ewing"
       ],
       "home_roster": [
@@ -248,7 +258,17 @@
     "Philadelphia Phillies @ St. Louis Cardinals | 823018": {
       "away_team": "Philadelphia Phillies",
       "home_team": "St. Louis Cardinals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Bryson Stott",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Brandon Marsh",
+        "Derek Hill",
+        "Justin Crawford",
+        "Edmundo Sosa",
+        "Garrett Stubbs"
+      ],
       "home_lineup": [
         "JJ Wetherholt",
         "Iv\u00e1n Herrera",
@@ -270,8 +290,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -388,7 +408,17 @@
     "Colorado Rockies @ Arizona Diamondbacks | 825048": {
       "away_team": "Colorado Rockies",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jake McCarthy",
+        "Cole Carrigg",
+        "TJ Rumfield",
+        "Hunter Goodman",
+        "Mickey Moniak",
+        "Kyle Karros",
+        "Willi Castro",
+        "Troy Johnston",
+        "Jordan Beck"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Ryan Feltner",
@@ -407,8 +437,8 @@
         "Hunter Goodman",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
-        "Zach Agnos",
         "Jordan Beck",
+        "Zach Agnos",
         "Tanner Gordon",
         "Brett Sullivan",
         "Michael Lorenzen",
