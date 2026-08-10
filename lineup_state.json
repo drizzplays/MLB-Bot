@@ -386,10 +386,10 @@
         "MacKenzie Gore",
         "Jacob deGrom",
         "Brandon Nimmo",
+        "Ben Peoples",
         "Elias D\u00edaz",
         "Cam Cauley",
         "Cody Bradford",
-        "Nathan Eovaldi",
         "Jordan Montgomery",
         "Cole Winn"
       ],
@@ -461,7 +461,6 @@
         "Brennan Bernardino",
         "Parker Mushinski",
         "Cole Carrigg",
-        "Tyler Freeman",
         "Juan Mejia",
         "Edouard Julien",
         "Hunter Goodman",
@@ -474,6 +473,7 @@
         "Michael Lorenzen",
         "Ezequiel Tovar",
         "TJ Rumfield",
+        "Connor Norby",
         "Jordan Romano",
         "Nick Frasso",
         "Kyle Karros"
@@ -513,7 +513,17 @@
     "Tampa Bay Rays @ Athletics | 824969": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Athletics",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Ryan Vilade",
+        "Jonny DeLuca",
+        "Chandler Simpson",
+        "Nick Fortes",
+        "Taylor Walls",
+        "Carson Williams"
+      ],
       "home_lineup": [
         "Jeff McNeil",
         "Tyler Soderstrom",
@@ -530,8 +540,8 @@
         "Tyler Wells",
         "Steven Matz",
         "Chris Roycroft",
-        "Richie Palacios",
         "Carson Williams",
+        "Richie Palacios",
         "Ryan Vilade",
         "Casey Legumina",
         "Chandler Simpson",
@@ -673,7 +683,17 @@
     "Houston Astros @ San Francisco Giants | 823189": {
       "away_team": "Houston Astros",
       "home_team": "San Francisco Giants",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Jose Altuve",
+        "Taylor Trammell",
+        "Christian Walker",
+        "Daulton Varsho",
+        "Cam Smith",
+        "Christian V\u00e1zquez"
+      ],
       "home_lineup": [
         "Jung Hoo Lee",
         "Willy Adames",
@@ -694,8 +714,8 @@
         "Hunter Brown",
         "Ronel Blanco",
         "Josh Hader",
-        "Enyel De Los Santos",
         "Daulton Varsho",
+        "Enyel De Los Santos",
         "Jake Meyers",
         "Steven Okert",
         "AJ Blubaugh",
