@@ -340,7 +340,7 @@
       "game_time": "Aug 11, 7:45 PM ET",
       "game_iso": "2026-08-11T19:45:00-04:00",
       "game_pk": "823019",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823997": {
       "away_team": "Texas Rangers",
@@ -416,7 +416,7 @@
       "game_time": "Aug 11, 9:40 PM ET",
       "game_iso": "2026-08-11T21:40:00-04:00",
       "game_pk": "825046",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824970": {
       "away_team": "Tampa Bay Rays",
