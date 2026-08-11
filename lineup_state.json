@@ -8,20 +8,20 @@
         "Ceddanne Rafaela",
         "Wilyer Abreu",
         "Willson Contreras",
-        "Masataka Yoshida",
+        "Eli White",
         "Caleb Durbin",
         "Jarren Duran",
         "Anthony Seigler",
-        "Connor Wong"
+        "Andruw Monasterio"
       ],
       "home_lineup": [
         "Nathan Lukes",
         "Brett Bateman",
         "Vladimir Guerrero Jr.",
         "George Springer",
-        "Jes\u00fas S\u00e1nchez",
+        "Myles Straw",
         "Andr\u00e9s Gim\u00e9nez",
-        "Charles McAdoo",
+        "Ernie Clement",
         "Josh Smith",
         "Brandon Valenzuela"
       ],
@@ -37,8 +37,8 @@
         "Seth Martinez",
         "Wilyer Abreu",
         "Garrett Whitlock",
-        "Sonny Gray",
         "Andruw Monasterio",
+        "Sonny Gray",
         "Jake Rogers",
         "Justin Slaten",
         "Caleb Durbin",
@@ -95,7 +95,7 @@
         "Carson Benge",
         "Jared Young",
         "Marcus Semien",
-        "Brett Baty",
+        "Luis Robert Jr.",
         "Jorge Polanco",
         "Francisco Alvarez"
       ],
@@ -107,8 +107,8 @@
         "Ozzie Albies",
         "Mauricio Dub\u00f3n",
         "Austin Riley",
-        "Jim Jarvis",
-        "Sean Murphy"
+        "Mike Yastrzemski",
+        "Victor Mederos"
       ],
       "away_roster": [
         "Luis Torrens",
@@ -178,17 +178,17 @@
         "Pete Alonso",
         "Jackson Holliday",
         "Tyler O'Neill",
-        "Dylan Beavers",
-        "Leody Taveras",
+        "Christian Franklin",
+        "Jeremiah Jackson",
         "Coby Mayo",
         "Colton Cowser",
-        "Carlos Narv\u00e1ez"
+        "Yohel Pozo"
       ],
       "home_lineup": [
         "Austin Martin",
         "Ryan Jeffers",
         "Royce Lewis",
-        "Josh Bell",
+        "Alex Jackson",
         "Luke Keaschall",
         "Brooks Lee",
         "Kaelen Culpepper",
@@ -217,8 +217,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
@@ -259,7 +259,7 @@
       "away_team": "Philadelphia Phillies",
       "home_team": "St. Louis Cardinals",
       "away_lineup": [
-        "Kyle Schwarber",
+        "Alec Bohm",
         "Bryson Stott",
         "Bryce Harper",
         "Luis Arraez",
@@ -736,6 +736,7 @@
       "home_roster": [
         "JT Brubaker",
         "Dylan Smith",
+        "Zach Morgan",
         "Drew Cavanaugh",
         "Nate Furman",
         "Logan Webb",
@@ -758,7 +759,6 @@
         "Willy Adames",
         "Landen Roupp",
         "Bryce Eldridge",
-        "Daniel Susac",
         "Osleivis Basabe"
       ],
       "game_time": "Aug 10, 9:45 PM ET",
