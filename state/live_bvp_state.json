@@ -2,31 +2,31 @@
   "date": "2026-08-10",
   "games": {
     "822780": {
-      "active_pitcher_id": 543243,
-      "active_pitcher_name": "Sonny Gray",
+      "active_pitcher_id": 663558,
+      "active_pitcher_name": "Jovani Mor\u00e1n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-10T19:52:22.562428-04:00"
+      "last_checked_at": "2026-08-10T21:19:46.017052-04:00"
     },
     "823018": {
-      "active_pitcher_id": 690928,
-      "active_pitcher_name": "Hunter Dobbins",
+      "active_pitcher_id": 703725,
+      "active_pitcher_name": "Luis Gastelum",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-10T19:52:33.649462-04:00"
+      "last_checked_at": "2026-08-10T21:19:52.454642-04:00"
     },
     "823675": {
-      "active_pitcher_id": 669432,
-      "active_pitcher_name": "Trevor Rogers",
+      "active_pitcher_id": 665152,
+      "active_pitcher_name": "Dean Kremer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-10T19:52:31.133697-04:00"
+      "last_checked_at": "2026-08-10T21:19:50.690146-04:00"
     },
     "824887": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+      "active_pitcher_id": 608718,
+      "active_pitcher_name": "Brent Suter",
       "alerted_pairs": [
         "681035:671739",
         "693821:805999"
       ],
-      "last_checked_at": "2026-08-10T19:52:25.262419-04:00"
+      "last_checked_at": "2026-08-10T21:19:48.347917-04:00"
     }
   }
 }
