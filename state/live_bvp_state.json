@@ -13,11 +13,35 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-10T21:19:52.454642-04:00"
     },
+    "823189": {
+      "active_pitcher_id": 664141,
+      "active_pitcher_name": "JT Brubaker",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T23:12:49.554957-04:00"
+    },
+    "823265": {
+      "active_pitcher_id": 701656,
+      "active_pitcher_name": "Logan Henderson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T23:12:46.890011-04:00"
+    },
     "823675": {
       "active_pitcher_id": 665152,
       "active_pitcher_name": "Dean Kremer",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-10T21:19:50.690146-04:00"
+    },
+    "823918": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T23:12:52.217179-04:00"
+    },
+    "823998": {
+      "active_pitcher_id": 672282,
+      "active_pitcher_name": "Reid Detmers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T23:12:38.993711-04:00"
     },
     "824887": {
       "active_pitcher_id": 608718,
@@ -27,6 +51,18 @@
         "693821:805999"
       ],
       "last_checked_at": "2026-08-10T21:19:48.347917-04:00"
+    },
+    "824969": {
+      "active_pitcher_id": 642547,
+      "active_pitcher_name": "Freddy Peralta",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T23:12:44.277658-04:00"
+    },
+    "825048": {
+      "active_pitcher_id": 641793,
+      "active_pitcher_name": "Zack Littell",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-10T23:12:41.633666-04:00"
     }
   }
 }
