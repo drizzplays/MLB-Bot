@@ -2,28 +2,34 @@
   "date": "2026-08-12",
   "games": {
     "823017": {
-      "active_pitcher_id": 554430,
-      "active_pitcher_name": "Zack Wheeler",
+      "active_pitcher_id": 663767,
+      "active_pitcher_name": "Chase Shugart",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T15:40:20.534143-04:00"
+      "last_checked_at": "2026-08-12T16:21:22.268820-04:00"
     },
     "823187": {
-      "active_pitcher_id": 605288,
-      "active_pitcher_name": "Adrian Houser",
+      "active_pitcher_id": 837227,
+      "active_pitcher_name": "Tatsuya Imai",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T15:40:26.839942-04:00"
+      "last_checked_at": "2026-08-12T16:21:26.237211-04:00"
+    },
+    "823263": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T16:21:28.264454-04:00"
     },
     "823672": {
-      "active_pitcher_id": 702193,
-      "active_pitcher_name": "Andrew Morris",
+      "active_pitcher_id": 672782,
+      "active_pitcher_name": "Yoendrys G\u00f3mez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T15:40:18.170567-04:00"
+      "last_checked_at": "2026-08-12T16:21:20.201763-04:00"
     },
     "824967": {
-      "active_pitcher_id": 656876,
-      "active_pitcher_name": "Drew Rasmussen",
+      "active_pitcher_id": 678022,
+      "active_pitcher_name": "Jack Perkins",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T15:40:22.630318-04:00"
+      "last_checked_at": "2026-08-12T16:21:24.292321-04:00"
     },
     "825047": {
       "active_pitcher_id": 518876,
