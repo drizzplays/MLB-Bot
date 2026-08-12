@@ -8,16 +8,16 @@
       "last_checked_at": "2026-08-12T16:21:22.268820-04:00"
     },
     "823187": {
-      "active_pitcher_id": 805123,
-      "active_pitcher_name": "AJ Blubaugh",
+      "active_pitcher_id": 665665,
+      "active_pitcher_name": "Reiver Sanmartin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T17:12:38.854389-04:00"
+      "last_checked_at": "2026-08-12T18:05:18.022249-04:00"
     },
     "823263": {
-      "active_pitcher_id": 592662,
-      "active_pitcher_name": "Robbie Ray",
+      "active_pitcher_id": 669093,
+      "active_pitcher_name": "Jeremiah Estrada",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T17:12:41.491297-04:00"
+      "last_checked_at": "2026-08-12T18:05:20.175910-04:00"
     },
     "823672": {
       "active_pitcher_id": 672782,
@@ -32,10 +32,10 @@
       "last_checked_at": "2026-08-12T17:12:33.465391-04:00"
     },
     "825047": {
-      "active_pitcher_id": 672629,
-      "active_pitcher_name": "Gerardo Carrillo",
+      "active_pitcher_id": 623474,
+      "active_pitcher_name": "Jimmy Herget",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T17:12:36.243192-04:00"
+      "last_checked_at": "2026-08-12T18:05:15.692997-04:00"
     }
   }
 }
