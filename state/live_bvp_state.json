@@ -8,16 +8,16 @@
       "last_checked_at": "2026-08-12T16:21:22.268820-04:00"
     },
     "823187": {
-      "active_pitcher_id": 837227,
-      "active_pitcher_name": "Tatsuya Imai",
+      "active_pitcher_id": 805123,
+      "active_pitcher_name": "AJ Blubaugh",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T16:21:26.237211-04:00"
+      "last_checked_at": "2026-08-12T17:12:38.854389-04:00"
     },
     "823263": {
-      "active_pitcher_id": 669160,
-      "active_pitcher_name": "Dustin May",
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T16:21:28.264454-04:00"
+      "last_checked_at": "2026-08-12T17:12:41.491297-04:00"
     },
     "823672": {
       "active_pitcher_id": 672782,
@@ -26,16 +26,16 @@
       "last_checked_at": "2026-08-12T16:21:20.201763-04:00"
     },
     "824967": {
-      "active_pitcher_id": 678022,
-      "active_pitcher_name": "Jack Perkins",
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T16:21:24.292321-04:00"
+      "last_checked_at": "2026-08-12T17:12:33.465391-04:00"
     },
     "825047": {
-      "active_pitcher_id": 518876,
-      "active_pitcher_name": "Merrill Kelly",
+      "active_pitcher_id": 672629,
+      "active_pitcher_name": "Gerardo Carrillo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T15:40:24.707493-04:00"
+      "last_checked_at": "2026-08-12T17:12:36.243192-04:00"
     }
   }
 }
