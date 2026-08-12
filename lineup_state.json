@@ -3,7 +3,17 @@
     "Baltimore Orioles @ Minnesota Twins | 823672": {
       "away_team": "Baltimore Orioles",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Gunnar Henderson",
+        "Pete Alonso",
+        "Jackson Holliday",
+        "Tyler O'Neill",
+        "Dylan Beavers",
+        "Christian Encarnacion-Strand",
+        "Leody Taveras",
+        "Christian Franklin",
+        "Carlos Narv\u00e1ez"
+      ],
       "home_lineup": [
         "Trevor Larnach",
         "Royce Lewis",
@@ -37,8 +47,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
@@ -78,7 +88,17 @@
     "Philadelphia Phillies @ St. Louis Cardinals | 823017": {
       "away_team": "Philadelphia Phillies",
       "home_team": "St. Louis Cardinals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Bryson Stott",
+        "Brandon Marsh",
+        "J.T. Realmuto",
+        "Alec Bohm",
+        "Justin Crawford"
+      ],
       "home_lineup": [
         "JJ Wetherholt",
         "Iv\u00e1n Herrera",
@@ -113,8 +133,8 @@
         "Alex McFarlane",
         "Aaron Nola",
         "Brooks Raley",
-        "Luis Arraez",
         "Trea Turner",
+        "Luis Arraez",
         "Derek Hill",
         "Andrew Painter"
       ],
@@ -1410,10 +1430,10 @@
         "Tim Mayza",
         "Bryson Stott",
         "Kyle Schwarber",
-        "Caleb Kilian",
         "Garrett Stubbs",
         "Aaron Nola",
         "Brooks Raley",
+        "Alan Rangel",
         "Luis Arraez",
         "Trea Turner",
         "Derek Hill",
