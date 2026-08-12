@@ -1,6 +1,12 @@
 {
   "date": "2026-08-12",
   "games": {
+    "823017": {
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T14:31:09.420010-04:00"
+    },
     "823672": {
       "active_pitcher_id": 805673,
       "active_pitcher_name": "Zebby Matthews",
