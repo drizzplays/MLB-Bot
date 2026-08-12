@@ -8,10 +8,10 @@
       "last_checked_at": "2026-08-12T18:56:41.677200-04:00"
     },
     "822779": {
-      "active_pitcher_id": 667755,
-      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "active_pitcher_id": 624133,
+      "active_pitcher_name": "Ranger Suarez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:57:06.322268-04:00"
+      "last_checked_at": "2026-08-12T19:36:18.855876-04:00"
     },
     "823017": {
       "active_pitcher_id": 663767,
@@ -26,10 +26,10 @@
       "last_checked_at": "2026-08-12T18:05:18.022249-04:00"
     },
     "823263": {
-      "active_pitcher_id": 695243,
-      "active_pitcher_name": "Mason Miller",
+      "active_pitcher_id": 670970,
+      "active_pitcher_name": "Adrian Morejon",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:56:15.351024-04:00"
+      "last_checked_at": "2026-08-12T19:36:16.239839-04:00"
     },
     "823511": {
       "active_pitcher_id": 701542,
@@ -54,6 +54,18 @@
       "active_pitcher_name": "Foster Griffin",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-12T18:56:37.325046-04:00"
+    },
+    "824562": {
+      "active_pitcher_id": 622491,
+      "active_pitcher_name": "Luis Castillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T19:36:23.125711-04:00"
+    },
+    "824883": {
+      "active_pitcher_id": 641816,
+      "active_pitcher_name": "Tyler Mahle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T19:36:20.984351-04:00"
     },
     "824967": {
       "active_pitcher_id": 668984,
