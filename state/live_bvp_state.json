@@ -1,6 +1,18 @@
 {
   "date": "2026-08-12",
   "games": {
+    "822698": {
+      "active_pitcher_id": 800600,
+      "active_pitcher_name": "Jackson Kent",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T18:56:41.677200-04:00"
+    },
+    "822779": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T18:57:06.322268-04:00"
+    },
     "823017": {
       "active_pitcher_id": 663767,
       "active_pitcher_name": "Chase Shugart",
@@ -14,16 +26,34 @@
       "last_checked_at": "2026-08-12T18:05:18.022249-04:00"
     },
     "823263": {
-      "active_pitcher_id": 669093,
-      "active_pitcher_name": "Jeremiah Estrada",
+      "active_pitcher_id": 695243,
+      "active_pitcher_name": "Mason Miller",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:05:20.175910-04:00"
+      "last_checked_at": "2026-08-12T18:56:15.351024-04:00"
+    },
+    "823511": {
+      "active_pitcher_id": 701542,
+      "active_pitcher_name": "Will Warren",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T18:57:04.196517-04:00"
     },
     "823672": {
       "active_pitcher_id": 672782,
       "active_pitcher_name": "Yoendrys G\u00f3mez",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-12T16:21:20.201763-04:00"
+    },
+    "823833": {
+      "active_pitcher_id": 669387,
+      "active_pitcher_name": "Carmen Mlodzinski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T18:56:39.497472-04:00"
+    },
+    "824241": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T18:56:37.325046-04:00"
     },
     "824967": {
       "active_pitcher_id": 668984,
