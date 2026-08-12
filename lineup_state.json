@@ -274,7 +274,7 @@
         "Corbin Carroll",
         "Gabriel Moreno",
         "Ketel Marte",
-        "Lars Nootbaar",
+        "Tyler Locklear",
         "Nolan Arenado",
         "Max Kepler",
         "Ildemaro Vargas",
@@ -362,7 +362,7 @@
         "Victor Bericoto",
         "Drew Gilbert",
         "Osleivis Basabe",
-        "Drew Cavanaugh",
+        "Andrew Knizner",
         "Christian Koss"
       ],
       "away_roster": [
@@ -431,7 +431,7 @@
       "away_lineup": [
         "Jackson Chourio",
         "Brice Turang",
-        "Andrew Vaughn",
+        "Luis Lara",
         "Jake Bauers",
         "William Contreras",
         "Gary S\u00e1nchez",
@@ -445,10 +445,10 @@
         "Manny Machado",
         "Ty France",
         "Jackson Merrill",
-        "Austin Hays",
-        "Gavin Sheets",
+        "Luis Campusano",
+        "Jase Bowen",
         "Xander Bogaerts",
-        "Freddy Fermin"
+        "Fernando Tatis Jr."
       ],
       "away_roster": [
         "Chad Patrick",
@@ -1108,7 +1108,17 @@
     "Kansas City Royals @ Los Angeles Dodgers | 823916": {
       "away_team": "Kansas City Royals",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Nick Loftin",
+        "Bobby Witt Jr.",
+        "Jac Caglianone",
+        "Salvador Perez",
+        "Starling Marte",
+        "Carter Jensen",
+        "Isaac Collins",
+        "Tyler Tolbert",
+        "Josh Rojas"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Andy Pages",
@@ -1123,8 +1133,8 @@
       "away_roster": [
         "Carter Jensen",
         "Jose Cuas",
-        "Mason Black",
         "Tyler Tolbert",
+        "Mason Black",
         "Josh Rojas",
         "Isaac Collins",
         "Salvador Perez",
@@ -1144,9 +1154,9 @@
         "Alex Lange",
         "Randy Dobnak",
         "Jac Caglianone",
+        "Bobby Witt Jr.",
         "Steven Cruz",
-        "John Schreiber",
-        "Bobby Witt Jr."
+        "John Schreiber"
       ],
       "home_roster": [
         "Ben Rortvedt",
@@ -1184,7 +1194,17 @@
       "away_team": "Texas Rangers",
       "home_team": "Los Angeles Angels",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Wade Meckler",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Zach Neto",
+        "Mois\u00e9s Ballesteros",
+        "Vaughn Grissom",
+        "Josh Lowe",
+        "Oswald Peraza",
+        "Denzer Guzman"
+      ],
       "away_roster": [
         "Evan Carter",
         "Wyatt Langford",
@@ -1453,6 +1473,7 @@
         "Pierce Johnson",
         "Luis Mey",
         "Emilio Pag\u00e1n",
+        "Michael Toglia",
         "Tejay Antone",
         "Noelvi Marte",
         "Brady Singer",
@@ -1463,7 +1484,7 @@
         "Jose Trevino",
         "Tyler Stephenson",
         "Eugenio Su\u00e1rez",
-        "Zach McCambley",
+        "Nick Lodolo",
         "Sam Moll",
         "Ron Marinaccio",
         "JJ Bleday",
@@ -1660,9 +1681,9 @@
         "Bryson Stott",
         "Kyle Schwarber",
         "Garrett Stubbs",
-        "Alex McFarlane",
         "Aaron Nola",
         "Brooks Raley",
+        "Alan Rangel",
         "Luis Arraez",
         "Trea Turner",
         "Derek Hill",
@@ -1712,7 +1733,6 @@
         "Jake Burger",
         "Peyton Gray",
         "Tyler Alexander",
-        "Alejandro Osuna",
         "Chase Silseth",
         "Austin Wynns",
         "Joc Pederson",
@@ -1726,16 +1746,16 @@
         "MacKenzie Gore",
         "Jacob deGrom",
         "Brandon Nimmo",
+        "Ben Peoples",
         "Elias D\u00edaz",
         "Cody Bradford",
         "Cam Cauley",
-        "Nathan Eovaldi",
+        "Jarred Kelenic",
         "Jordan Montgomery",
         "Cole Winn"
       ],
       "home_roster": [
         "Adam Frazier",
-        "Brett Kerry",
         "Oswald Peraza",
         "Jose Siri",
         "Zach Neto",
@@ -1751,7 +1771,6 @@
         "Nolan Schanuel",
         "Wade Meckler",
         "Josh Lowe",
-        "Shaun Anderson",
         "Tyler Heineman",
         "Tayler Saucedo",
         "Luke Murphy",
@@ -1759,7 +1778,9 @@
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
-        "Samy Natera Jr."
+        "Samy Natera Jr.",
+        "Sammy Peralta",
+        "Ryan Watson"
       ],
       "game_time": "Aug 13, 10:07 PM ET",
       "game_iso": "2026-08-13T22:07:00-04:00",
@@ -1775,6 +1796,7 @@
         "Logan Henderson",
         "Joey Ortiz",
         "Jackson Chourio",
+        "Lyon Richardson",
         "Christian Yelich",
         "Jake Bauers",
         "Abner Uribe",
@@ -1792,7 +1814,6 @@
         "Jacob Misiorowski",
         "DL Hall",
         "Antonio Senzatela",
-        "Bryse Wilson",
         "Dustin May",
         "Jihwan Bae",
         "Luis Lara",
