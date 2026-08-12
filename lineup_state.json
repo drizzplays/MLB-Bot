@@ -12,7 +12,7 @@
         "Christian Encarnacion-Strand",
         "Leody Taveras",
         "Christian Franklin",
-        "Carlos Narv\u00e1ez"
+        "Colton Cowser"
       ],
       "home_lineup": [
         "Austin Martin",
@@ -107,7 +107,7 @@
         "Nathan Church",
         "Masyn Winn",
         "Blaze Jordan",
-        "Jos\u00e9 Ferm\u00edn",
+        "Everson Pereira",
         "Jimmy Crooks"
       ],
       "away_roster": [
@@ -524,7 +524,17 @@
         "Austin Hedges",
         "Brayan Rocchio"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Gleyber Torres",
+        "Dillon Dingler",
+        "Kevin McGonigle",
+        "Hao-Yu Lee",
+        "Spencer Torkelson",
+        "Ben Malgeri",
+        "Max Clark",
+        "Javier B\u00e1ez",
+        "Corey Julks"
+      ],
       "away_roster": [
         "Angel Genao",
         "Chase DeLauter",
@@ -554,13 +564,13 @@
         "Rhys Hoskins"
       ],
       "home_roster": [
+        "Corey Julks",
         "Framber Valdez",
         "Zach McKinstry",
         "Hao-Yu Lee",
         "Ty Madden",
         "Drew Anderson",
         "Javier B\u00e1ez",
-        "Riley Greene",
         "Eduardo Valencia",
         "Jacob Waguespack",
         "Tanner Rainey",
@@ -673,7 +683,17 @@
     "Chicago Cubs @ Washington Nationals | 822698": {
       "away_team": "Chicago Cubs",
       "home_team": "Washington Nationals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Alex Bregman",
+        "Carson Kelly",
+        "Michael Busch",
+        "Nico Hoerner",
+        "Tyrone Taylor",
+        "Pedro Ram\u00edrez",
+        "Dansby Swanson"
+      ],
       "home_lineup": [
         "Dylan Crews",
         "Andr\u00e9s Chaparro",
@@ -686,16 +706,16 @@
         "Nasim Nu\u00f1ez"
       ],
       "away_roster": [
-        "Michael Conforto",
         "Tyrone Taylor",
+        "Michael Conforto",
         "Ian Happ",
         "Javier Assad",
         "Caleb Thielbar",
         "Shota Imanaga",
         "Alex Bregman",
         "Pedro Ram\u00edrez",
-        "Michael Busch",
         "Carson Kelly",
+        "Michael Busch",
         "Pete Crow-Armstrong",
         "Kevin Gausman",
         "Jacob Webb",
@@ -709,8 +729,8 @@
         "Clay Holmes",
         "Matthew Boyd",
         "James Triantos",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Nico Hoerner"
       ],
       "home_roster": [
@@ -861,11 +881,11 @@
         "Tyron Guerrero",
         "Patrick Sandoval",
         "Jahmai Jones",
+        "Alec Gamboa",
         "Anthony Seigler",
         "Connor Wong",
         "Adley Rutschman",
         "Brayan Bello",
-        "Seth Martinez",
         "Wilyer Abreu",
         "Garrett Whitlock",
         "Andruw Monasterio",
