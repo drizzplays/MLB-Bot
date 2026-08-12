@@ -1,4 +1,11 @@
 {
   "date": "2026-08-12",
-  "games": {}
+  "games": {
+    "823672": {
+      "active_pitcher_id": 805673,
+      "active_pitcher_name": "Zebby Matthews",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-12T13:32:25.443983-04:00"
+    }
+  }
 }
