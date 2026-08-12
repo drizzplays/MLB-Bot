@@ -112,7 +112,7 @@
       "game_time": "Aug 12, 3:05 PM ET",
       "game_iso": "2026-08-12T15:05:00-04:00",
       "game_pk": "824967",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825047": {
       "away_team": "Colorado Rockies",
@@ -150,7 +150,7 @@
       "game_time": "Aug 12, 3:40 PM ET",
       "game_iso": "2026-08-12T15:40:00-04:00",
       "game_pk": "825047",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823187": {
       "away_team": "Houston Astros",
@@ -188,7 +188,7 @@
       "game_time": "Aug 12, 3:45 PM ET",
       "game_iso": "2026-08-12T15:45:00-04:00",
       "game_pk": "823187",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823263": {
       "away_team": "Milwaukee Brewers",
@@ -226,7 +226,7 @@
       "game_time": "Aug 12, 4:10 PM ET",
       "game_iso": "2026-08-12T16:10:00-04:00",
       "game_pk": "823263",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824241": {
       "away_team": "Cleveland Guardians",
