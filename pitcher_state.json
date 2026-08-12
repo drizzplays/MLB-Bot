@@ -337,16 +337,7 @@
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 6,
-        "era": "3.08",
-        "whip": "0.95",
-        "strikeouts": 79,
-        "innings_pitched": "79.0",
-        "games_started": 13
-      },
+      "away_pitcher_stats": null,
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 8,
@@ -375,16 +366,7 @@
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 3,
-        "era": "3.32",
-        "whip": "1.17",
-        "strikeouts": 108,
-        "innings_pitched": "103.0",
-        "games_started": 20
-      },
+      "away_pitcher_stats": null,
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 9,
