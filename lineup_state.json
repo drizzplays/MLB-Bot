@@ -283,6 +283,7 @@
       "away_roster": [
         "Ryan Feltner",
         "Mickey Moniak",
+        "Adael Amador",
         "Jimmy Herget",
         "Jake McCarthy",
         "Troy Johnston",
@@ -305,8 +306,7 @@
         "Connor Norby",
         "Zac Veen",
         "Jordan Romano",
-        "Nick Frasso",
-        "Kyle Karros"
+        "Nick Frasso"
       ],
       "home_roster": [
         "Eduardo Rodriguez",
@@ -428,7 +428,17 @@
     "Milwaukee Brewers @ San Diego Padres | 823263": {
       "away_team": "Milwaukee Brewers",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jackson Chourio",
+        "Brice Turang",
+        "Andrew Vaughn",
+        "Jake Bauers",
+        "William Contreras",
+        "Gary S\u00e1nchez",
+        "Brandon Lockridge",
+        "David Hamilton",
+        "Joey Ortiz"
+      ],
       "home_lineup": [
         "Luis Rengifo",
         "Jake Cronenworth",
@@ -442,8 +452,8 @@
       ],
       "away_roster": [
         "Chad Patrick",
-        "Logan Henderson",
         "Joey Ortiz",
+        "Logan Henderson",
         "Jackson Chourio",
         "Christian Yelich",
         "Jake Bauers",
@@ -456,8 +466,8 @@
         "Garrett Mitchell",
         "David Hamilton",
         "William Contreras",
-        "Robert Gasser",
         "Brice Turang",
+        "Robert Gasser",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "DL Hall",
