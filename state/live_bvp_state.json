@@ -2,10 +2,10 @@
   "date": "2026-08-11",
   "games": {
     "822697": {
-      "active_pitcher_id": 663623,
-      "active_pitcher_name": "Jake Irvin",
+      "active_pitcher_id": 669020,
+      "active_pitcher_name": "Ryan Rolison",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T18:52:46.391675-04:00"
+      "last_checked_at": "2026-08-11T20:39:15.459435-04:00"
     },
     "822778": {
       "active_pitcher_id": 663776,
@@ -15,41 +15,47 @@
       ],
       "last_checked_at": "2026-08-11T19:34:57.489379-04:00"
     },
-    "823512": {
-      "active_pitcher_id": 693433,
-      "active_pitcher_name": "Bryan Woo",
+    "823019": {
+      "active_pitcher_id": 669467,
+      "active_pitcher_name": "Andre Pallante",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T19:34:55.174048-04:00"
+      "last_checked_at": "2026-08-11T20:39:29.648723-04:00"
+    },
+    "823512": {
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T20:39:18.050378-04:00"
     },
     "823673": {
-      "active_pitcher_id": 641927,
-      "active_pitcher_name": "Bailey Ober",
+      "active_pitcher_id": 687064,
+      "active_pitcher_name": "Brandon Young",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T19:35:02.398806-04:00"
+      "last_checked_at": "2026-08-11T20:39:24.069981-04:00"
     },
     "823832": {
-      "active_pitcher_id": 694973,
-      "active_pitcher_name": "Paul Skenes",
+      "active_pitcher_id": 656848,
+      "active_pitcher_name": "Michael Petersen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T18:52:44.095008-04:00"
+      "last_checked_at": "2026-08-11T20:39:12.721599-04:00"
     },
     "824240": {
-      "active_pitcher_id": 623454,
-      "active_pitcher_name": "Drew Anderson",
+      "active_pitcher_id": 676440,
+      "active_pitcher_name": "Tanner Bibee",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T18:52:41.766247-04:00"
+      "last_checked_at": "2026-08-11T20:39:10.071468-04:00"
     },
     "824563": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 666157,
+      "active_pitcher_name": "Nick Lodolo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T19:35:04.663107-04:00"
+      "last_checked_at": "2026-08-11T20:39:26.800009-04:00"
     },
     "824886": {
-      "active_pitcher_id": 527048,
-      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-11T19:35:00.173796-04:00"
+      "last_checked_at": "2026-08-11T20:39:21.113977-04:00"
     }
   }
 }
