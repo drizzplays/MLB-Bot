@@ -21,6 +21,18 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-11T20:39:29.648723-04:00"
     },
+    "823186": {
+      "active_pitcher_id": 687931,
+      "active_pitcher_name": "Carson Whisenhunt",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T23:08:55.597069-04:00"
+    },
+    "823264": {
+      "active_pitcher_id": 669060,
+      "active_pitcher_name": "Bryse Wilson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T23:08:53.258812-04:00"
+    },
     "823512": {
       "active_pitcher_id": 677960,
       "active_pitcher_name": "Ryan Weathers",
@@ -39,6 +51,18 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-11T20:39:12.721599-04:00"
     },
+    "823917": {
+      "active_pitcher_id": 605483,
+      "active_pitcher_name": "Blake Snell",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T23:08:57.812967-04:00"
+    },
+    "823997": {
+      "active_pitcher_id": 642048,
+      "active_pitcher_name": "Tayler Saucedo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T23:08:46.388118-04:00"
+    },
     "824240": {
       "active_pitcher_id": 676440,
       "active_pitcher_name": "Tanner Bibee",
@@ -56,6 +80,18 @@
       "active_pitcher_name": "Nolan McLean",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-11T20:39:21.113977-04:00"
+    },
+    "824970": {
+      "active_pitcher_id": 669620,
+      "active_pitcher_name": "Brady Basso",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T23:08:51.028071-04:00"
+    },
+    "825046": {
+      "active_pitcher_id": 683352,
+      "active_pitcher_name": "Mitch Bratt",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-11T23:08:48.814028-04:00"
     }
   }
 }
