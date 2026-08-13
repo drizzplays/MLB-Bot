@@ -2,16 +2,16 @@
   "date": "2026-08-12",
   "games": {
     "822698": {
-      "active_pitcher_id": 800600,
-      "active_pitcher_name": "Jackson Kent",
+      "active_pitcher_id": 672442,
+      "active_pitcher_name": "Yovanny Cruz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:56:41.677200-04:00"
+      "last_checked_at": "2026-08-12T20:41:29.769431-04:00"
     },
     "822779": {
-      "active_pitcher_id": 624133,
-      "active_pitcher_name": "Ranger Suarez",
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T19:36:18.855876-04:00"
+      "last_checked_at": "2026-08-12T20:41:34.711250-04:00"
     },
     "823017": {
       "active_pitcher_id": 663767,
@@ -32,10 +32,10 @@
       "last_checked_at": "2026-08-12T19:36:16.239839-04:00"
     },
     "823511": {
-      "active_pitcher_id": 701542,
-      "active_pitcher_name": "Will Warren",
+      "active_pitcher_id": 518585,
+      "active_pitcher_name": "Fernando Cruz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:57:04.196517-04:00"
+      "last_checked_at": "2026-08-12T20:41:32.277572-04:00"
     },
     "823672": {
       "active_pitcher_id": 672782,
@@ -44,28 +44,28 @@
       "last_checked_at": "2026-08-12T16:21:20.201763-04:00"
     },
     "823833": {
-      "active_pitcher_id": 669387,
-      "active_pitcher_name": "Carmen Mlodzinski",
+      "active_pitcher_id": 676604,
+      "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:56:39.497472-04:00"
+      "last_checked_at": "2026-08-12T20:41:27.286135-04:00"
     },
     "824241": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 646241,
+      "active_pitcher_name": "Enmanuel De Jesus",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T18:56:37.325046-04:00"
+      "last_checked_at": "2026-08-12T20:41:24.724905-04:00"
     },
     "824562": {
-      "active_pitcher_id": 622491,
-      "active_pitcher_name": "Luis Castillo",
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T19:36:23.125711-04:00"
+      "last_checked_at": "2026-08-12T20:41:39.585433-04:00"
     },
     "824883": {
-      "active_pitcher_id": 641816,
-      "active_pitcher_name": "Tyler Mahle",
+      "active_pitcher_id": 804267,
+      "active_pitcher_name": "Zac Thornton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-12T19:36:20.984351-04:00"
+      "last_checked_at": "2026-08-12T20:41:37.182584-04:00"
     },
     "824967": {
       "active_pitcher_id": 668984,
