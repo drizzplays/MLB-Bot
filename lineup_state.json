@@ -5,22 +5,22 @@
       "home_team": "Detroit Tigers",
       "away_lineup": [
         "Steven Kwan",
-        "Chase DeLauter",
+        "Patrick Bailey",
         "Jos\u00e9 Ram\u00edrez",
         "Nathaniel Lowe",
         "Jo Adell",
         "Travis Bazzana",
         "Angel Genao",
-        "Austin Hedges",
+        "Angel Mart\u00ednez",
         "Brayan Rocchio"
       ],
       "home_lineup": [
         "Gleyber Torres",
         "Dillon Dingler",
         "Kevin McGonigle",
-        "Eduardo Valencia",
+        "Colt Keith",
         "Spencer Torkelson",
-        "Hao-Yu Lee",
+        "Zach McKinstry",
         "Max Clark",
         "Javier B\u00e1ez",
         "Ben Malgeri"
@@ -77,8 +77,8 @@
         "Max Clark",
         "Trei Cruz",
         "Dillon Dingler",
-        "Jackson Jobe",
         "Colt Keith",
+        "Jackson Jobe",
         "Troy Melton"
       ],
       "game_time": "Aug 13, 1:10 PM ET",
@@ -101,14 +101,14 @@
       ],
       "home_lineup": [
         "Chase Meidroth",
-        "Randal Grichuk",
+        "Andrew Benintendi",
         "Miguel Vargas",
         "Braden Montgomery",
         "Brenton Doyle",
         "Colson Montgomery",
         "Edgar Quero",
         "Sam Antonacci",
-        "Luisangel Acu\u00f1a"
+        "Tristan Peters"
       ],
       "away_roster": [
         "Elly De La Cruz",
@@ -176,7 +176,7 @@
       "away_lineup": [
         "Spencer Horwitz",
         "Brandon Lowe",
-        "Bryan Reynolds",
+        "Jhostynxon Garcia",
         "Nick Gonzales",
         "Esmerlyn Valdez",
         "Jacob Gonzalez",
@@ -188,7 +188,7 @@
         "Jakob Marsee",
         "Xavier Edwards",
         "Otto Lopez",
-        "Griffin Conine",
+        "Graham Pauley",
         "Agust\u00edn Ram\u00edrez",
         "Leo Jim\u00e9nez",
         "Owen Caissie",
@@ -212,8 +212,8 @@
         "Jake Mangum",
         "Yohan Ram\u00edrez",
         "Isaac Mattson",
-        "Bubba Chandler",
         "Jhostynxon Garcia",
+        "Bubba Chandler",
         "Carmen Mlodzinski",
         "Jack Brannigan",
         "Henry Davis",
@@ -428,8 +428,28 @@
     "Chicago Cubs @ Washington Nationals | 822696": {
       "away_team": "Chicago Cubs",
       "home_team": "Washington Nationals",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Pedro Ram\u00edrez",
+        "Dansby Swanson",
+        "Michael Conforto",
+        "Miguel Amaya"
+      ],
+      "home_lineup": [
+        "CJ Abrams",
+        "Abimelec Ortiz",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Brady House",
+        "Jorbit Vivas",
+        "Andr\u00e9s Chaparro",
+        "Keibert Ruiz",
+        "Andrew Pinckney"
+      ],
       "away_roster": [
         "Michael Conforto",
         "Tyrone Taylor",
@@ -454,18 +474,17 @@
         "Clay Holmes",
         "Matthew Boyd",
         "James Triantos",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Nico Hoerner"
       ],
       "home_roster": [
         "Brady House",
-        "Will Dion",
         "Abimelec Ortiz",
+        "Will Dion",
         "CJ Abrams",
         "Nasim Nu\u00f1ez",
         "Andr\u00e9s Chaparro",
-        "Miles Mikolas",
         "Jorbit Vivas",
         "Dylan Crews",
         "Trevor Williams",
@@ -480,10 +499,11 @@
         "Jake Irvin",
         "Orlando Ribalta",
         "Jake Bird",
-        "Andrew Pinckney",
         "Keibert Ruiz",
+        "Andrew Pinckney",
         "Tom Cosgrove",
         "Yovanny Cruz",
+        "Jackson Kent",
         "Andrew Alvarez"
       ],
       "game_time": "Aug 13, 4:05 PM ET",
@@ -959,7 +979,6 @@
         "CJ Abrams",
         "Nasim Nu\u00f1ez",
         "Andr\u00e9s Chaparro",
-        "Miles Mikolas",
         "Jorbit Vivas",
         "Dylan Crews",
         "Trevor Williams",
@@ -978,6 +997,7 @@
         "Keibert Ruiz",
         "Tom Cosgrove",
         "Yovanny Cruz",
+        "Jackson Kent",
         "Andrew Alvarez"
       ],
       "home_roster": [
