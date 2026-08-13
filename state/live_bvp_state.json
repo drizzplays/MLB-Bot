@@ -2,16 +2,16 @@
   "date": "2026-08-13",
   "games": {
     "823508": {
-      "active_pitcher_id": 608331,
-      "active_pitcher_name": "Max Fried",
+      "active_pitcher_id": 669302,
+      "active_pitcher_name": "Logan Gilbert",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-13T13:37:35.460521-04:00"
+      "last_checked_at": "2026-08-13T14:32:43.866378-04:00"
     },
     "823829": {
-      "active_pitcher_id": 677952,
-      "active_pitcher_name": "Braxton Ashcraft",
+      "active_pitcher_id": 806188,
+      "active_pitcher_name": "Cade Gibson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-13T13:37:32.871791-04:00"
+      "last_checked_at": "2026-08-13T14:32:41.617705-04:00"
     },
     "824238": {
       "active_pitcher_id": 800048,
