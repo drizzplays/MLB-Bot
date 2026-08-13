@@ -1,43 +1,5 @@
 {
   "2026-08-13": {
-    "822776": {
-      "away_team": "Boston Red Sox",
-      "home_team": "Toronto Blue Jays",
-      "away_pitcher": "Payton Tolle",
-      "home_pitcher": "Max Scherzer",
-      "away_pitcher_id": "801139",
-      "home_pitcher_id": "453286",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 6,
-        "era": "3.20",
-        "whip": "1.10",
-        "strikeouts": 124,
-        "innings_pitched": "107.0",
-        "games_started": 19
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 4,
-        "era": "7.25",
-        "whip": "1.53",
-        "strikeouts": 27,
-        "innings_pitched": "36.0",
-        "games_started": 9
-      },
-      "game_time": "Aug 13, 3:07 PM ET",
-      "game_iso": "2026-08-13T15:07:00-04:00",
-      "game_pk": "822776",
-      "status_code": "P"
-    },
     "822696": {
       "away_team": "Chicago Cubs",
       "home_team": "Washington Nationals",
@@ -74,7 +36,7 @@
       "game_time": "Aug 13, 4:05 PM ET",
       "game_iso": "2026-08-13T16:05:00-04:00",
       "game_pk": "822696",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823669": {
       "away_team": "Philadelphia Phillies",
