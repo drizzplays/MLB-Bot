@@ -1,43 +1,5 @@
 {
   "2026-08-13": {
-    "824238": {
-      "away_team": "Cleveland Guardians",
-      "home_team": "Detroit Tigers",
-      "away_pitcher": "Parker Messick",
-      "home_pitcher": "Keider Montero",
-      "away_pitcher_id": "800048",
-      "home_pitcher_id": "672456",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 6,
-        "era": "2.57",
-        "whip": "1.04",
-        "strikeouts": 136,
-        "innings_pitched": "136.2",
-        "games_started": 23
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 7,
-        "era": "3.38",
-        "whip": "1.01",
-        "strikeouts": 86,
-        "innings_pitched": "122.1",
-        "games_started": 19
-      },
-      "game_time": "Aug 13, 1:10 PM ET",
-      "game_iso": "2026-08-13T13:10:00-04:00",
-      "game_pk": "824238",
-      "status_code": "P"
-    },
     "824561": {
       "away_team": "Cincinnati Reds",
       "home_team": "Chicago White Sox",
