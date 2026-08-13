@@ -355,7 +355,7 @@
         "Connor Wong"
       ],
       "home_lineup": [
-        "Charles McAdoo",
+        "Josh Smith",
         "Ernie Clement",
         "Vladimir Guerrero Jr.",
         "George Springer",
@@ -412,8 +412,8 @@
         "Max Scherzer",
         "Mason Fluharty",
         "Braydon Fisher",
-        "Tyler Rogers",
         "Josh Smith",
+        "Tyler Rogers",
         "Vladimir Guerrero Jr.",
         "Lazaro Estrada",
         "Jes\u00fas S\u00e1nchez",
@@ -431,7 +431,7 @@
       "away_lineup": [
         "Pete Crow-Armstrong",
         "Seiya Suzuki",
-        "Michael Busch",
+        "James Triantos",
         "Alex Bregman",
         "Ian Happ",
         "Pedro Ram\u00edrez",
@@ -536,6 +536,7 @@
         "Kaelen Culpepper"
       ],
       "away_roster": [
+        "Kameron Misner",
         "Brandon Marsh",
         "Jes\u00fas Luzardo",
         "Jos\u00e9 Alvarado",
@@ -665,7 +666,17 @@
       "away_team": "Milwaukee Brewers",
       "home_team": "Los Angeles Dodgers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Tommy Edman",
+        "Freddie Freeman",
+        "Teoscar Hern\u00e1ndez",
+        "Miguel Rojas",
+        "Kyle Tucker",
+        "Enrique Hern\u00e1ndez",
+        "Ben Rortvedt"
+      ],
       "away_roster": [
         "Chad Patrick",
         "Logan Henderson",
