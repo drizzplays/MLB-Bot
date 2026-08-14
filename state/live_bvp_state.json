@@ -8,10 +8,10 @@
       "last_checked_at": "2026-08-14T19:02:12.269219-04:00"
     },
     "822942": {
-      "active_pitcher_id": 571927,
-      "active_pitcher_name": "Steven Matz",
+      "active_pitcher_id": 669947,
+      "active_pitcher_name": "Jesse Scholtens",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:02:07.896670-04:00"
+      "last_checked_at": "2026-08-14T19:32:15.941313-04:00"
     },
     "823346": {
       "active_pitcher_id": 687562,
@@ -20,16 +20,16 @@
       "last_checked_at": "2026-08-14T19:01:59.958027-04:00"
     },
     "823591": {
-      "active_pitcher_id": 476594,
-      "active_pitcher_name": "Robert Stock",
+      "active_pitcher_id": 674841,
+      "active_pitcher_name": "Andrew Alvarez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:02:03.852533-04:00"
+      "last_checked_at": "2026-08-14T19:32:13.967183-04:00"
     },
     "824237": {
-      "active_pitcher_id": 656794,
-      "active_pitcher_name": "Sean Newcomb",
+      "active_pitcher_id": 664353,
+      "active_pitcher_name": "Jos\u00e9 Urquidy",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:02:01.882959-04:00"
+      "last_checked_at": "2026-08-14T19:32:12.184743-04:00"
     },
     "824399": {
       "active_pitcher_id": 668909,
@@ -50,10 +50,10 @@
       "last_checked_at": "2026-08-14T16:40:13.680118-04:00"
     },
     "824882": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
+      "active_pitcher_id": 694297,
+      "active_pitcher_name": "Brandon Pfaadt",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:02:10.160709-04:00"
+      "last_checked_at": "2026-08-14T19:32:17.692109-04:00"
     }
   }
 }
