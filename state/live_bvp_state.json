@@ -1,11 +1,23 @@
 {
   "date": "2026-08-14",
   "games": {
-    "824479": {
-      "active_pitcher_id": 645261,
-      "active_pitcher_name": "Sandy Alcantara",
+    "823346": {
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T18:17:39.777850-04:00"
+      "last_checked_at": "2026-08-14T18:43:12.824941-04:00"
+    },
+    "824237": {
+      "active_pitcher_id": 695549,
+      "active_pitcher_name": "Jackson Jobe",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T18:43:14.734053-04:00"
+    },
+    "824479": {
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T18:43:10.931766-04:00"
     },
     "824643": {
       "active_pitcher_id": 657265,
