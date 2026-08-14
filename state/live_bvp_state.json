@@ -1,6 +1,12 @@
 {
   "date": "2026-08-14",
   "games": {
+    "824479": {
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T18:17:39.777850-04:00"
+    },
     "824643": {
       "active_pitcher_id": 657265,
       "active_pitcher_name": "Peter Strzelecki",
