@@ -1,4 +1,11 @@
 {
   "date": "2026-08-14",
-  "games": {}
+  "games": {
+    "824643": {
+      "active_pitcher_id": 605280,
+      "active_pitcher_name": "Clay Holmes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T14:24:31.971741-04:00"
+    }
+  }
 }
