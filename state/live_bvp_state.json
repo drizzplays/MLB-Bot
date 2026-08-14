@@ -8,22 +8,24 @@
       "last_checked_at": "2026-08-14T19:02:12.269219-04:00"
     },
     "822942": {
-      "active_pitcher_id": 669947,
-      "active_pitcher_name": "Jesse Scholtens",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:32:15.941313-04:00"
+      "active_pitcher_id": 605135,
+      "active_pitcher_name": "Chris Bassitt",
+      "alerted_pairs": [
+        "605135:689414"
+      ],
+      "last_checked_at": "2026-08-14T19:56:08.126316-04:00"
     },
     "823346": {
-      "active_pitcher_id": 687562,
-      "active_pitcher_name": "Jake Bennett",
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:01:59.958027-04:00"
+      "last_checked_at": "2026-08-14T19:56:01.161924-04:00"
     },
     "823591": {
-      "active_pitcher_id": 674841,
-      "active_pitcher_name": "Andrew Alvarez",
+      "active_pitcher_id": 476594,
+      "active_pitcher_name": "Robert Stock",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:32:13.967183-04:00"
+      "last_checked_at": "2026-08-14T19:56:03.419707-04:00"
     },
     "824237": {
       "active_pitcher_id": 664353,
@@ -32,16 +34,16 @@
       "last_checked_at": "2026-08-14T19:32:12.184743-04:00"
     },
     "824399": {
-      "active_pitcher_id": 668909,
-      "active_pitcher_name": "Gavin Williams",
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:02:05.839747-04:00"
+      "last_checked_at": "2026-08-14T19:56:05.771111-04:00"
     },
     "824479": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 645261,
+      "active_pitcher_name": "Sandy Alcantara",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T18:43:10.931766-04:00"
+      "last_checked_at": "2026-08-14T19:55:58.788479-04:00"
     },
     "824643": {
       "active_pitcher_id": 657265,
@@ -50,10 +52,10 @@
       "last_checked_at": "2026-08-14T16:40:13.680118-04:00"
     },
     "824882": {
-      "active_pitcher_id": 694297,
-      "active_pitcher_name": "Brandon Pfaadt",
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:32:17.692109-04:00"
+      "last_checked_at": "2026-08-14T19:56:14.476402-04:00"
     }
   }
 }
