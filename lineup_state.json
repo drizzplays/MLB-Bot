@@ -14,7 +14,17 @@
         "Jos\u00e9 Ferm\u00edn",
         "C\u00e9sar Prieto"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Alex Bregman",
+        "Michael Busch",
+        "Nico Hoerner",
+        "Carson Kelly",
+        "Ian Happ",
+        "Tyrone Taylor",
+        "Dansby Swanson"
+      ],
       "away_roster": [
         "Michael McGreevy",
         "Jordan Walker",
@@ -44,8 +54,8 @@
         "Jimmy Crooks"
       ],
       "home_roster": [
-        "Michael Conforto",
         "Tyrone Taylor",
+        "Michael Conforto",
         "Ian Happ",
         "Javier Assad",
         "Caleb Thielbar",
@@ -67,8 +77,8 @@
         "Clay Holmes",
         "Matthew Boyd",
         "James Triantos",
-        "Colin Rea",
         "Dansby Swanson",
+        "Colin Rea",
         "Nico Hoerner"
       ],
       "game_time": "Aug 14, 2:20 PM ET",
@@ -930,7 +940,6 @@
       "away_roster": [
         "Tristan Peters",
         "Anthony Kay",
-        "Davis Martin",
         "Luisangel Acu\u00f1a",
         "Huascar Brazob\u00e1n",
         "Randal Grichuk",
@@ -938,15 +947,16 @@
         "Chase Meidroth",
         "Grant Taylor",
         "Colson Montgomery",
+        "Tyler Schweitzer",
         "Trevor Richards",
         "Drew Romo",
-        "Tanner McDougal",
         "Braden Montgomery",
         "Hagen Smith",
         "Edgar Quero",
         "Andrew Benintendi",
         "Luis Castillo",
         "Sean Burke",
+        "Jos\u00e9 Urquidy",
         "Brenton Doyle",
         "Bryan Hudson",
         "Erick Fedde",
@@ -956,13 +966,13 @@
         "Miguel Vargas"
       ],
       "home_roster": [
+        "Corey Julks",
         "Framber Valdez",
         "Zach McKinstry",
         "Hao-Yu Lee",
         "Ty Madden",
         "Drew Anderson",
         "Javier B\u00e1ez",
-        "Riley Greene",
         "Eduardo Valencia",
         "Jacob Waguespack",
         "Tanner Rainey",
@@ -975,10 +985,10 @@
         "Keider Montero",
         "Ben Malgeri",
         "Gleyber Torres",
+        "Enmanuel De Jesus",
         "Max Clark",
-        "James Outman",
+        "Trei Cruz",
         "Dillon Dingler",
-        "Yilber D\u00edaz",
         "Jackson Jobe",
         "Colt Keith",
         "Troy Melton"
