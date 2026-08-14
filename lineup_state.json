@@ -1014,7 +1014,17 @@
       "away_team": "Milwaukee Brewers",
       "home_team": "Los Angeles Dodgers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Andy Pages",
+        "Teoscar Hern\u00e1ndez",
+        "Mookie Betts",
+        "Tommy Edman",
+        "Kyle Tucker",
+        "Max Muncy",
+        "Enrique Hern\u00e1ndez",
+        "Hunter Feduccia"
+      ],
       "away_roster": [
         "Chad Patrick",
         "Logan Henderson",
@@ -1059,7 +1069,7 @@
         "Shohei Ohtani",
         "Justin Wrobleski",
         "Teoscar Hern\u00e1ndez",
-        "Landon Knack",
+        "Jonathan Hern\u00e1ndez",
         "Andy Pages",
         "Edwin D\u00edaz",
         "Evan Phillips",
@@ -1089,7 +1099,17 @@
         "Ezequiel Tovar",
         "Brett Sullivan"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jonah Cox",
+        "Rafael Devers",
+        "Bryce Eldridge",
+        "Victor Bericoto",
+        "Jung Hoo Lee",
+        "Osleivis Basabe",
+        "Buddy Kennedy",
+        "Andrew Knizner",
+        "Christian Koss"
+      ],
       "away_roster": [
         "Ryan Feltner",
         "Mickey Moniak",
@@ -1119,8 +1139,8 @@
         "Nick Frasso"
       ],
       "home_roster": [
-        "JT Brubaker",
         "Jonah Cox",
+        "JT Brubaker",
         "Dylan Smith",
         "Drew Cavanaugh",
         "Andrew Knizner",
@@ -1131,8 +1151,8 @@
         "Keaton Winn",
         "Jason Foley",
         "Carson Seymour",
-        "Drew Gilbert",
         "Jung Hoo Lee",
+        "Drew Gilbert",
         "Sam Hentges",
         "Rafael Devers",
         "Reiver Sanmartin",
