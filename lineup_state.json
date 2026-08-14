@@ -854,7 +854,17 @@
       "away_team": "Kansas City Royals",
       "home_team": "Los Angeles Angels",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Wade Meckler",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Zach Neto",
+        "Mois\u00e9s Ballesteros",
+        "Vaughn Grissom",
+        "Josh Lowe",
+        "Denzer Guzman",
+        "Tyler Heineman"
+      ],
       "away_roster": [
         "Carter Jensen",
         "Jose Cuas",
