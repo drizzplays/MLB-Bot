@@ -1,43 +1,5 @@
 {
   "2026-08-14": {
-    "824159": {
-      "away_team": "Seattle Mariners",
-      "home_team": "Houston Astros",
-      "away_pitcher": "George Kirby",
-      "home_pitcher": "Peter Lambert",
-      "away_pitcher_id": "669923",
-      "home_pitcher_id": "663567",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 9,
-        "era": "3.68",
-        "whip": "1.27",
-        "strikeouts": 112,
-        "innings_pitched": "132.0",
-        "games_started": 22
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 6,
-        "era": "3.09",
-        "whip": "1.15",
-        "strikeouts": 111,
-        "innings_pitched": "113.2",
-        "games_started": 20
-      },
-      "game_time": "Aug 14, 8:10 PM ET",
-      "game_iso": "2026-08-14T20:10:00-04:00",
-      "game_pk": "824159",
-      "status_code": "P"
-    },
     "823993": {
       "away_team": "Kansas City Royals",
       "home_team": "Los Angeles Angels",
