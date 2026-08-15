@@ -2,36 +2,42 @@
   "date": "2026-08-14",
   "games": {
     "822777": {
-      "active_pitcher_id": 669456,
-      "active_pitcher_name": "Shane Bieber",
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:02:12.269219-04:00"
+      "last_checked_at": "2026-08-14T20:59:01.009424-04:00"
     },
     "822942": {
-      "active_pitcher_id": 605135,
-      "active_pitcher_name": "Chris Bassitt",
+      "active_pitcher_id": 669330,
+      "active_pitcher_name": "Tyler Wells",
       "alerted_pairs": [
         "605135:689414"
       ],
-      "last_checked_at": "2026-08-14T19:56:08.126316-04:00"
+      "last_checked_at": "2026-08-14T20:58:56.472710-04:00"
     },
     "823346": {
-      "active_pitcher_id": 696149,
-      "active_pitcher_name": "Bubba Chandler",
+      "active_pitcher_id": 687941,
+      "active_pitcher_name": "Alec Gamboa",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:56:01.161924-04:00"
+      "last_checked_at": "2026-08-14T20:58:48.873025-04:00"
     },
     "823591": {
-      "active_pitcher_id": 476594,
-      "active_pitcher_name": "Robert Stock",
+      "active_pitcher_id": 656234,
+      "active_pitcher_name": "Jake Bird",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:56:03.419707-04:00"
+      "last_checked_at": "2026-08-14T20:58:53.876823-04:00"
+    },
+    "824159": {
+      "active_pitcher_id": 669923,
+      "active_pitcher_name": "George Kirby",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T20:59:03.331056-04:00"
     },
     "824237": {
-      "active_pitcher_id": 664353,
-      "active_pitcher_name": "Jos\u00e9 Urquidy",
+      "active_pitcher_id": 680744,
+      "active_pitcher_name": "Ty Madden",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:32:12.184743-04:00"
+      "last_checked_at": "2026-08-14T20:58:51.516579-04:00"
     },
     "824399": {
       "active_pitcher_id": 650633,
@@ -52,10 +58,10 @@
       "last_checked_at": "2026-08-14T16:40:13.680118-04:00"
     },
     "824882": {
-      "active_pitcher_id": 519242,
-      "active_pitcher_name": "Chris Sale",
+      "active_pitcher_id": 800311,
+      "active_pitcher_name": "Didier Fuentes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T19:56:14.476402-04:00"
+      "last_checked_at": "2026-08-14T20:58:58.883827-04:00"
     }
   }
 }
