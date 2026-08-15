@@ -8,10 +8,10 @@
       "last_checked_at": "2026-08-15T17:31:17.421463-04:00"
     },
     "822941": {
-      "active_pitcher_id": 693855,
-      "active_pitcher_name": "Ian Seymour",
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T18:16:33.591148-04:00"
+      "last_checked_at": "2026-08-15T18:40:45.596021-04:00"
     },
     "823184": {
       "active_pitcher_id": 693313,
@@ -20,18 +20,24 @@
       "last_checked_at": "2026-08-15T18:16:29.133127-04:00"
     },
     "823588": {
-      "active_pitcher_id": 687377,
-      "active_pitcher_name": "Orlando Ribalta",
+      "active_pitcher_id": 690925,
+      "active_pitcher_name": "Clayton Beeter",
       "alerted_pairs": [
         "695418:596019"
       ],
-      "last_checked_at": "2026-08-15T18:16:31.268456-04:00"
+      "last_checked_at": "2026-08-15T18:40:43.252786-04:00"
     },
     "824239": {
       "active_pitcher_id": 663432,
       "active_pitcher_name": "Tanner Rainey",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-15T15:38:33.559039-04:00"
+    },
+    "824480": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T18:40:47.627947-04:00"
     },
     "824644": {
       "active_pitcher_id": 592773,
