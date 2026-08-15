@@ -1,4 +1,11 @@
 {
   "date": "2026-08-15",
-  "games": {}
+  "games": {
+    "824239": {
+      "active_pitcher_id": 675512,
+      "active_pitcher_name": "Troy Melton",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T13:08:07.500794-04:00"
+    }
+  }
 }
