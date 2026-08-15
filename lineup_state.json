@@ -354,7 +354,17 @@
         "Nasim Nu\u00f1ez",
         "Andrew Pinckney"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Jared Young",
+        "Marcus Semien",
+        "Brett Baty",
+        "Jorge Polanco",
+        "Francisco Alvarez"
+      ],
       "away_roster": [
         "Brady House",
         "Will Dion",
@@ -407,8 +417,8 @@
         "Jorge Polanco",
         "Nolan McLean",
         "Zac Thornton",
-        "Luis Robert Jr.",
         "Jared Young",
+        "Luis Robert Jr.",
         "A.J. Ewing"
       ],
       "game_time": "Aug 15, 4:10 PM ET",
@@ -419,7 +429,17 @@
       "away_team": "Baltimore Orioles",
       "home_team": "Tampa Bay Rays",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Liam Hicks",
+        "Chandler Simpson",
+        "Jonny DeLuca",
+        "Cedric Mullins",
+        "Richie Palacios",
+        "Taylor Walls"
+      ],
       "away_roster": [
         "Jeremiah Jackson",
         "Trevor Rogers",
@@ -452,7 +472,6 @@
         "Taylor Walls",
         "Tyler Wells",
         "Steven Matz",
-        "Chris Roycroft",
         "Richie Palacios",
         "Jorge Mateo",
         "Ryan Vilade",
@@ -474,7 +493,8 @@
         "Victor Mesa Jr.",
         "Junior Caminero",
         "Drew Rasmussen",
-        "Cedric Mullins"
+        "Cedric Mullins",
+        "Joe Boyle"
       ],
       "game_time": "Aug 15, 6:10 PM ET",
       "game_iso": "2026-08-15T18:10:00-04:00",
