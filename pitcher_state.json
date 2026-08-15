@@ -340,7 +340,7 @@
       "game_time": "Aug 15, 9:38 PM ET",
       "game_iso": "2026-08-15T21:38:00-04:00",
       "game_pk": "823990",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824966": {
       "away_team": "Texas Rangers",
@@ -378,7 +378,7 @@
       "game_time": "Aug 15, 9:40 PM ET",
       "game_iso": "2026-08-15T21:40:00-04:00",
       "game_pk": "824966",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
