@@ -20,12 +20,24 @@
       "last_checked_at": "2026-08-15T18:16:29.133127-04:00"
     },
     "823588": {
-      "active_pitcher_id": 690925,
-      "active_pitcher_name": "Clayton Beeter",
+      "active_pitcher_id": 672442,
+      "active_pitcher_name": "Yovanny Cruz",
       "alerted_pairs": [
         "695418:596019"
       ],
-      "last_checked_at": "2026-08-15T18:40:43.252786-04:00"
+      "last_checked_at": "2026-08-15T18:57:24.181610-04:00"
+    },
+    "823671": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T18:57:33.391856-04:00"
+    },
+    "824157": {
+      "active_pitcher_id": 669713,
+      "active_pitcher_name": "Hayden Wesneski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T18:57:31.103416-04:00"
     },
     "824239": {
       "active_pitcher_id": 663432,
@@ -33,11 +45,17 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-15T15:38:33.559039-04:00"
     },
-    "824480": {
-      "active_pitcher_id": 663903,
-      "active_pitcher_name": "Brady Singer",
+    "824400": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T18:40:47.627947-04:00"
+      "last_checked_at": "2026-08-15T18:57:29.227086-04:00"
+    },
+    "824480": {
+      "active_pitcher_id": 687473,
+      "active_pitcher_name": "Ryan Gusto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T18:57:26.891282-04:00"
     },
     "824644": {
       "active_pitcher_id": 592773,
