@@ -2,16 +2,24 @@
   "date": "2026-08-15",
   "games": {
     "822775": {
-      "active_pitcher_id": 680573,
-      "active_pitcher_name": "Simeon Woods Richardson",
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T15:52:31.779299-04:00"
+      "last_checked_at": "2026-08-15T16:17:01.612796-04:00"
     },
     "823184": {
-      "active_pitcher_id": 657277,
-      "active_pitcher_name": "Logan Webb",
+      "active_pitcher_id": 547179,
+      "active_pitcher_name": "Michael Lorenzen",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T15:52:34.049958-04:00"
+      "last_checked_at": "2026-08-15T16:17:04.038864-04:00"
+    },
+    "823588": {
+      "active_pitcher_id": 695418,
+      "active_pitcher_name": "Brad Lord",
+      "alerted_pairs": [
+        "695418:596019"
+      ],
+      "last_checked_at": "2026-08-15T16:17:06.471300-04:00"
     },
     "824239": {
       "active_pitcher_id": 663432,
@@ -20,10 +28,10 @@
       "last_checked_at": "2026-08-15T15:38:33.559039-04:00"
     },
     "824644": {
-      "active_pitcher_id": 700241,
-      "active_pitcher_name": "Michael McGreevy",
+      "active_pitcher_id": 573204,
+      "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T15:52:29.964793-04:00"
+      "last_checked_at": "2026-08-15T16:16:59.130373-04:00"
     }
   }
 }
