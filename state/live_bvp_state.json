@@ -19,6 +19,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-15T18:16:29.133127-04:00"
     },
+    "823347": {
+      "active_pitcher_id": 683003,
+      "active_pitcher_name": "Jared Jones",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T19:18:53.683353-04:00"
+    },
     "823588": {
       "active_pitcher_id": 672442,
       "active_pitcher_name": "Yovanny Cruz",
@@ -28,16 +34,22 @@
       "last_checked_at": "2026-08-15T18:57:24.181610-04:00"
     },
     "823671": {
-      "active_pitcher_id": 687570,
-      "active_pitcher_name": "Connor Prielipp",
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T18:57:33.391856-04:00"
+      "last_checked_at": "2026-08-15T19:18:51.932636-04:00"
+    },
+    "823914": {
+      "active_pitcher_id": 680736,
+      "active_pitcher_name": "Justin Wrobleski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T19:18:57.262884-04:00"
     },
     "824157": {
-      "active_pitcher_id": 669713,
-      "active_pitcher_name": "Hayden Wesneski",
+      "active_pitcher_id": 676106,
+      "active_pitcher_name": "Emerson Hancock",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T18:57:31.103416-04:00"
+      "last_checked_at": "2026-08-15T19:18:50.047228-04:00"
     },
     "824239": {
       "active_pitcher_id": 663432,
@@ -52,16 +64,22 @@
       "last_checked_at": "2026-08-15T18:57:29.227086-04:00"
     },
     "824480": {
-      "active_pitcher_id": 687473,
-      "active_pitcher_name": "Ryan Gusto",
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T18:57:26.891282-04:00"
+      "last_checked_at": "2026-08-15T19:18:48.251138-04:00"
     },
     "824644": {
       "active_pitcher_id": 592773,
       "active_pitcher_name": "Ryne Stanek",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-15T16:41:40.379773-04:00"
+    },
+    "824884": {
+      "active_pitcher_id": 656550,
+      "active_pitcher_name": "Grant Holmes",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T19:18:55.395931-04:00"
     }
   }
 }
