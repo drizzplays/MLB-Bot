@@ -217,7 +217,7 @@
       "game_time": "Aug 15, 7:10 PM ET",
       "game_iso": "2026-08-15T19:10:00-04:00",
       "game_pk": "824400",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824157": {
       "away_team": "Seattle Mariners",
@@ -369,7 +369,7 @@
       "game_time": "Aug 15, 7:15 PM ET",
       "game_iso": "2026-08-15T19:15:00-04:00",
       "game_pk": "824884",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823914": {
       "away_team": "Milwaukee Brewers",
