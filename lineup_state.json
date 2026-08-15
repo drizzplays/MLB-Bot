@@ -182,7 +182,7 @@
         "Jazz Chisholm Jr.",
         "George Lombard Jr.",
         "Ryan McMahon",
-        "Austin Wells"
+        "Ali S\u00e1nchez"
       ],
       "home_lineup": [
         "Brett Bateman",
@@ -661,7 +661,7 @@
         "Matt Festa",
         "Jo Adell",
         "Colin Holderman",
-        "Franco Aleman",
+        "Logan Allen",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -1109,7 +1109,17 @@
       "away_team": "Kansas City Royals",
       "home_team": "Los Angeles Angels",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Wade Meckler",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Zach Neto",
+        "Mois\u00e9s Ballesteros",
+        "Josh Lowe",
+        "Denzer Guzman",
+        "Adam Frazier",
+        "Tyler Heineman"
+      ],
       "away_roster": [
         "Carter Jensen",
         "Jose Cuas",
@@ -1159,11 +1169,11 @@
         "Tayler Saucedo",
         "Luke Murphy",
         "Walbert Ure\u00f1a",
+        "Michael Fulmer",
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
         "Samy Natera Jr.",
-        "Sammy Peralta",
         "Ryan Watson"
       ],
       "game_time": "Aug 15, 9:38 PM ET",
