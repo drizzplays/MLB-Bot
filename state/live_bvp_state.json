@@ -7,19 +7,25 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-15T17:31:17.421463-04:00"
     },
-    "823184": {
-      "active_pitcher_id": 685299,
-      "active_pitcher_name": "Tanner Gordon",
+    "822941": {
+      "active_pitcher_id": 693855,
+      "active_pitcher_name": "Ian Seymour",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T17:52:45.319826-04:00"
+      "last_checked_at": "2026-08-15T18:16:33.591148-04:00"
+    },
+    "823184": {
+      "active_pitcher_id": 693313,
+      "active_pitcher_name": "Carson Seymour",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-15T18:16:29.133127-04:00"
     },
     "823588": {
-      "active_pitcher_id": 640455,
-      "active_pitcher_name": "Sean Manaea",
+      "active_pitcher_id": 687377,
+      "active_pitcher_name": "Orlando Ribalta",
       "alerted_pairs": [
         "695418:596019"
       ],
-      "last_checked_at": "2026-08-15T17:01:23.506013-04:00"
+      "last_checked_at": "2026-08-15T18:16:31.268456-04:00"
     },
     "824239": {
       "active_pitcher_id": 663432,
