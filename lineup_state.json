@@ -107,7 +107,7 @@
         "Ian Happ",
         "Nico Hoerner",
         "Pedro Ram\u00edrez",
-        "Michael Conforto",
+        "Tyrone Taylor",
         "Miguel Amaya"
       ],
       "away_roster": [
@@ -768,7 +768,17 @@
     "Philadelphia Phillies @ Minnesota Twins | 823671": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Alec Bohm",
+        "Edmundo Sosa",
+        "Bryson Stott",
+        "J.T. Realmuto",
+        "Derek Hill"
+      ],
       "home_lineup": [
         "Austin Martin",
         "Byron Buxton",
@@ -790,8 +800,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -803,8 +813,8 @@
         "Alex McFarlane",
         "Aaron Nola",
         "Brooks Raley",
-        "Luis Arraez",
         "Trea Turner",
+        "Luis Arraez",
         "Derek Hill",
         "Andrew Painter"
       ],
@@ -1013,7 +1023,17 @@
     "Milwaukee Brewers @ Los Angeles Dodgers | 823914": {
       "away_team": "Milwaukee Brewers",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jackson Chourio",
+        "Luis Lara",
+        "Andrew Vaughn",
+        "Jake Bauers",
+        "Gary S\u00e1nchez",
+        "Christian Yelich",
+        "William Contreras",
+        "Joey Ortiz",
+        "Jonathan Ornelas"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Freddie Freeman",
@@ -1027,8 +1047,8 @@
       ],
       "away_roster": [
         "Chad Patrick",
-        "Logan Henderson",
         "Joey Ortiz",
+        "Logan Henderson",
         "Jackson Chourio",
         "Christian Yelich",
         "Jake Bauers",
@@ -1039,6 +1059,7 @@
         "Kyle Harrison",
         "Aaron Ashby",
         "Garrett Mitchell",
+        "Jonathan Ornelas",
         "David Hamilton",
         "William Contreras",
         "Robert Gasser",
@@ -1049,7 +1070,6 @@
         "Antonio Senzatela",
         "Bryse Wilson",
         "Dustin May",
-        "Jihwan Bae",
         "Luis Lara",
         "Trevor Megill"
       ],
@@ -1451,6 +1471,7 @@
         "Spencer Miles",
         "Jos\u00e9 Soriano",
         "Louis Varland",
+        "Brendon Little",
         "Simeon Woods Richardson",
         "Ernie Clement",
         "Charles McAdoo",
@@ -1467,7 +1488,6 @@
         "Tyler Rogers",
         "Josh Smith",
         "Vladimir Guerrero Jr.",
-        "Lazaro Estrada",
         "Jes\u00fas S\u00e1nchez",
         "Myles Straw",
         "Alejandro Kirk",
@@ -1904,9 +1924,10 @@
       "home_roster": [
         "JT Brubaker",
         "Dylan Smith",
-        "Zach Morgan",
         "Drew Cavanaugh",
+        "Andrew Knizner",
         "Nate Furman",
+        "Victor Bericoto",
         "Logan Webb",
         "Buddy Kennedy",
         "Trent Harris",
@@ -1921,7 +1942,6 @@
         "Carson Whisenhunt",
         "Grant McCray",
         "Christian Koss",
-        "Eddys Leonard",
         "Adrian Houser",
         "Blade Tidwell",
         "Willy Adames",
