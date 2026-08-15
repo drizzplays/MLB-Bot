@@ -513,7 +513,17 @@
     "Miami Marlins @ Cincinnati Reds | 824480": {
       "away_team": "Miami Marlins",
       "home_team": "Cincinnati Reds",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jakob Marsee",
+        "Xavier Edwards",
+        "Heriberto Hern\u00e1ndez",
+        "Griffin Conine",
+        "Otto Lopez",
+        "Owen Caissie",
+        "Joe Mack",
+        "Graham Pauley",
+        "Esteury Ruiz"
+      ],
       "home_lineup": [
         "Elly De La Cruz",
         "Sal Stewart",
@@ -529,8 +539,8 @@
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Victor Vodnik",
         "Tyler Phillips",
@@ -588,7 +598,17 @@
     "San Diego Padres @ Cleveland Guardians | 824400": {
       "away_team": "San Diego Padres",
       "home_team": "Cleveland Guardians",
-      "away_lineup": [],
+      "away_lineup": [
+        "Fernando Tatis Jr.",
+        "Jake Cronenworth",
+        "Manny Machado",
+        "Ty France",
+        "Jackson Merrill",
+        "Luis Campusano",
+        "Austin Hays",
+        "Xander Bogaerts",
+        "Freddy Fermin"
+      ],
       "home_lineup": [
         "Steven Kwan",
         "Chase DeLauter",
@@ -619,8 +639,8 @@
         "Adrian Morejon",
         "Manny Machado",
         "Austin Hays",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
@@ -919,7 +939,17 @@
         "Ildemaro Vargas",
         "Ryan Waldschmidt"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Drake Baldwin",
+        "Matt Olson",
+        "Ozzie Albies",
+        "Michael Harris II",
+        "Mauricio Dub\u00f3n",
+        "Lane Thomas",
+        "Austin Riley",
+        "Sean Murphy"
+      ],
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
@@ -1421,7 +1451,6 @@
         "Spencer Miles",
         "Jos\u00e9 Soriano",
         "Louis Varland",
-        "Brendon Little",
         "Simeon Woods Richardson",
         "Ernie Clement",
         "Charles McAdoo",
@@ -1438,6 +1467,7 @@
         "Tyler Rogers",
         "Josh Smith",
         "Vladimir Guerrero Jr.",
+        "Lazaro Estrada",
         "Jes\u00fas S\u00e1nchez",
         "Myles Straw",
         "Alejandro Kirk",
@@ -1874,10 +1904,9 @@
       "home_roster": [
         "JT Brubaker",
         "Dylan Smith",
+        "Zach Morgan",
         "Drew Cavanaugh",
-        "Andrew Knizner",
         "Nate Furman",
-        "Victor Bericoto",
         "Logan Webb",
         "Buddy Kennedy",
         "Trent Harris",
@@ -1892,6 +1921,7 @@
         "Carson Whisenhunt",
         "Grant McCray",
         "Christian Koss",
+        "Eddys Leonard",
         "Adrian Houser",
         "Blade Tidwell",
         "Willy Adames",
