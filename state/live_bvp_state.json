@@ -2,16 +2,16 @@
   "date": "2026-08-15",
   "games": {
     "822775": {
-      "active_pitcher_id": 693686,
-      "active_pitcher_name": "Spencer Miles",
+      "active_pitcher_id": 657612,
+      "active_pitcher_name": "Tim Hill",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T17:01:21.231625-04:00"
+      "last_checked_at": "2026-08-15T17:31:17.421463-04:00"
     },
     "823184": {
-      "active_pitcher_id": 657277,
-      "active_pitcher_name": "Logan Webb",
+      "active_pitcher_id": 656786,
+      "active_pitcher_name": "Parker Mushinski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T16:41:44.928905-04:00"
+      "last_checked_at": "2026-08-15T17:31:19.676394-04:00"
     },
     "823588": {
       "active_pitcher_id": 640455,
