@@ -2,16 +2,16 @@
   "date": "2026-08-15",
   "games": {
     "822775": {
-      "active_pitcher_id": 680755,
-      "active_pitcher_name": "Braydon Fisher",
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T14:55:00.563193-04:00"
+      "last_checked_at": "2026-08-15T15:17:49.766436-04:00"
     },
     "824239": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+      "active_pitcher_id": 663855,
+      "active_pitcher_name": "Jordan Hicks",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T14:54:56.628414-04:00"
+      "last_checked_at": "2026-08-15T15:17:47.392189-04:00"
     },
     "824644": {
       "active_pitcher_id": 700241,
