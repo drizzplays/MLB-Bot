@@ -8,12 +8,18 @@
       "last_checked_at": "2026-08-14T20:59:01.009424-04:00"
     },
     "822942": {
-      "active_pitcher_id": 669330,
-      "active_pitcher_name": "Tyler Wells",
+      "active_pitcher_id": 666974,
+      "active_pitcher_name": "Yennier Cano",
       "alerted_pairs": [
         "605135:689414"
       ],
-      "last_checked_at": "2026-08-14T20:58:56.472710-04:00"
+      "last_checked_at": "2026-08-14T22:14:00.426033-04:00"
+    },
+    "823185": {
+      "active_pitcher_id": 694738,
+      "active_pitcher_name": "Landen Roupp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T22:14:11.615618-04:00"
     },
     "823346": {
       "active_pitcher_id": 687941,
@@ -27,11 +33,23 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-14T20:58:53.876823-04:00"
     },
-    "824159": {
-      "active_pitcher_id": 669923,
-      "active_pitcher_name": "George Kirby",
+    "823913": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-14T20:59:03.331056-04:00"
+      "last_checked_at": "2026-08-14T22:14:09.446257-04:00"
+    },
+    "823993": {
+      "active_pitcher_id": 680570,
+      "active_pitcher_name": "Grayson Rodriguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T22:14:05.508727-04:00"
+    },
+    "824159": {
+      "active_pitcher_id": 656986,
+      "active_pitcher_name": "Bennett Sousa",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T22:14:03.065658-04:00"
     },
     "824237": {
       "active_pitcher_id": 680744,
@@ -62,6 +80,12 @@
       "active_pitcher_name": "Didier Fuentes",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-14T20:58:58.883827-04:00"
+    },
+    "824968": {
+      "active_pitcher_id": 695611,
+      "active_pitcher_name": "Gage Jump",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-14T22:14:07.477761-04:00"
     }
   }
 }
