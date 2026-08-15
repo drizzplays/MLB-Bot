@@ -261,12 +261,12 @@
       "away_lineup": [
         "Jake McCarthy",
         "Cole Carrigg",
-        "TJ Rumfield",
-        "Hunter Goodman",
         "Mickey Moniak",
+        "TJ Rumfield",
         "Willi Castro",
         "Zac Veen",
         "Connor Norby",
+        "Brett Sullivan",
         "Ezequiel Tovar"
       ],
       "home_lineup": [
@@ -296,10 +296,10 @@
         "Hunter Goodman",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
+        "Brett Sullivan",
         "Zach Agnos",
         "Jordan Beck",
         "Tanner Gordon",
-        "Brett Sullivan",
         "Ezequiel Tovar",
         "Michael Lorenzen",
         "TJ Rumfield",
@@ -428,7 +428,17 @@
     "Baltimore Orioles @ Tampa Bay Rays | 822941": {
       "away_team": "Baltimore Orioles",
       "home_team": "Tampa Bay Rays",
-      "away_lineup": [],
+      "away_lineup": [
+        "Tyler O'Neill",
+        "Pete Alonso",
+        "Jackson Holliday",
+        "Coby Mayo",
+        "Gunnar Henderson",
+        "Christian Encarnacion-Strand",
+        "Christian Franklin",
+        "Leody Taveras",
+        "Carlos Narv\u00e1ez"
+      ],
       "home_lineup": [
         "Yandy D\u00edaz",
         "Jonathan Aranda",
@@ -462,8 +472,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
@@ -504,7 +514,17 @@
       "away_team": "Miami Marlins",
       "home_team": "Cincinnati Reds",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Elly De La Cruz",
+        "Sal Stewart",
+        "JJ Bleday",
+        "Tyler Stephenson",
+        "Eugenio Su\u00e1rez",
+        "Dane Myers",
+        "Noelvi Marte",
+        "Ke'Bryan Hayes",
+        "Matt McLain"
+      ],
       "away_roster": [
         "Josh Ekness",
         "Tyler Zuber",
@@ -535,14 +555,14 @@
       ],
       "home_roster": [
         "Elly De La Cruz",
-        "Dane Myers",
         "Sal Stewart",
+        "Dane Myers",
         "Pierce Johnson",
         "Luis Mey",
         "Emilio Pag\u00e1n",
         "Michael Toglia",
-        "Tejay Antone",
         "Noelvi Marte",
+        "Tejay Antone",
         "Brady Singer",
         "Matt McLain",
         "Ke'Bryan Hayes",
@@ -699,7 +719,17 @@
       "away_team": "Philadelphia Phillies",
       "home_team": "Minnesota Twins",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Austin Martin",
+        "Byron Buxton",
+        "Ryan Jeffers",
+        "Royce Lewis",
+        "Josh Bell",
+        "Luke Keaschall",
+        "Brooks Lee",
+        "Ryan Kreidler",
+        "Kaelen Culpepper"
+      ],
       "away_roster": [
         "Brandon Marsh",
         "Jes\u00fas Luzardo",
@@ -750,9 +780,9 @@
         "Travis Adams",
         "Royce Lewis",
         "Trevor Larnach",
+        "Byron Buxton",
         "Yoendrys G\u00f3mez",
         "Zebby Matthews",
-        "Alex Jackson",
         "Andrew Morris",
         "Luke Keaschall"
       ],
