@@ -112,7 +112,7 @@
       "game_time": "Aug 16, 1:35 PM ET",
       "game_iso": "2026-08-16T13:35:00-04:00",
       "game_pk": "824880",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822774": {
       "away_team": "New York Yankees",
@@ -150,7 +150,7 @@
       "game_time": "Aug 16, 1:37 PM ET",
       "game_iso": "2026-08-16T13:37:00-04:00",
       "game_pk": "822774",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823590": {
       "away_team": "Washington Nationals",
@@ -226,7 +226,7 @@
       "game_time": "Aug 16, 1:40 PM ET",
       "game_iso": "2026-08-16T13:40:00-04:00",
       "game_pk": "824397",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824236": {
       "away_team": "Chicago White Sox",
@@ -264,7 +264,7 @@
       "game_time": "Aug 16, 1:40 PM ET",
       "game_iso": "2026-08-16T13:40:00-04:00",
       "game_pk": "824236",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824477": {
       "away_team": "Miami Marlins",
@@ -302,7 +302,7 @@
       "game_time": "Aug 16, 1:40 PM ET",
       "game_iso": "2026-08-16T13:40:00-04:00",
       "game_pk": "824477",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823670": {
       "away_team": "Philadelphia Phillies",
