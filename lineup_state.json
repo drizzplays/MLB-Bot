@@ -101,6 +101,7 @@
       ],
       "home_lineup": [],
       "away_roster": [
+        "Raymond Burgos",
         "Jake Bennett",
         "Willson Contreras",
         "Tyron Guerrero",
@@ -115,7 +116,7 @@
         "Wilyer Abreu",
         "Andruw Monasterio",
         "Sonny Gray",
-        "Justin Slaten",
+        "Mickey Gasper",
         "Caleb Durbin",
         "Ranger Suarez",
         "Nick Sogard",
@@ -125,7 +126,6 @@
         "Ceddanne Rafaela",
         "Jovani Mor\u00e1n",
         "Erik Miller",
-        "Masataka Yoshida",
         "Aroldis Chapman"
       ],
       "home_roster": [
@@ -163,7 +163,17 @@
     "Arizona Diamondbacks @ Atlanta Braves | 824880": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Atlanta Braves",
-      "away_lineup": [],
+      "away_lineup": [
+        "Geraldo Perdomo",
+        "Corbin Carroll",
+        "Gabriel Moreno",
+        "Ketel Marte",
+        "Max Kepler",
+        "Nolan Arenado",
+        "Tim Tawa",
+        "James McCann",
+        "Jorge Barrosa"
+      ],
       "home_lineup": [
         "Drake Baldwin",
         "Ronald Acu\u00f1a Jr.",
@@ -178,8 +188,8 @@
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
-        "Brandon Pfaadt",
         "Tim Tawa",
+        "Brandon Pfaadt",
         "Gerardo Carrillo",
         "Nolan Arenado",
         "Lars Nootbaar",
@@ -323,7 +333,17 @@
     "Washington Nationals @ New York Mets | 823590": {
       "away_team": "Washington Nationals",
       "home_team": "New York Mets",
-      "away_lineup": [],
+      "away_lineup": [
+        "CJ Abrams",
+        "Abimelec Ortiz",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Brady House",
+        "Jorbit Vivas",
+        "Andr\u00e9s Chaparro",
+        "Keibert Ruiz",
+        "Jacob Young"
+      ],
       "home_lineup": [
         "A.J. Ewing",
         "Francisco Lindor",
@@ -337,8 +357,8 @@
       ],
       "away_roster": [
         "Brady House",
-        "Will Dion",
         "Abimelec Ortiz",
+        "Will Dion",
         "CJ Abrams",
         "Nasim Nu\u00f1ez",
         "Andr\u00e9s Chaparro",
@@ -356,8 +376,8 @@
         "Jake Irvin",
         "Orlando Ribalta",
         "Jake Bird",
-        "Andrew Pinckney",
         "Keibert Ruiz",
+        "Andrew Pinckney",
         "Tom Cosgrove",
         "Yovanny Cruz",
         "Jackson Kent",
@@ -568,7 +588,17 @@
     "Miami Marlins @ Cincinnati Reds | 824477": {
       "away_team": "Miami Marlins",
       "home_team": "Cincinnati Reds",
-      "away_lineup": [],
+      "away_lineup": [
+        "Otto Lopez",
+        "Heriberto Hern\u00e1ndez",
+        "Agust\u00edn Ram\u00edrez",
+        "Xavier Edwards",
+        "Javier Sanoja",
+        "Leo Jim\u00e9nez",
+        "Esteury Ruiz",
+        "Jakob Marsee",
+        "Brian Navarreto"
+      ],
       "home_lineup": [
         "Elly De La Cruz",
         "Sal Stewart",
@@ -584,16 +614,16 @@
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Victor Vodnik",
         "Tyler Phillips",
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
-        "John King",
         "Javier Sanoja",
+        "John King",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
@@ -643,7 +673,17 @@
     "Philadelphia Phillies @ Minnesota Twins | 823670": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Bryson Stott",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Alec Bohm",
+        "Brandon Marsh",
+        "J.T. Realmuto",
+        "Justin Crawford",
+        "Edmundo Sosa"
+      ],
       "home_lineup": [
         "Trevor Larnach",
         "Byron Buxton",
@@ -665,8 +705,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
