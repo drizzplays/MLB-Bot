@@ -823,7 +823,6 @@
         "Tyrone Taylor",
         "Ian Happ",
         "Edward Cabrera",
-        "Javier Assad",
         "Caleb Thielbar",
         "Shota Imanaga",
         "Alex Bregman",
@@ -1035,7 +1034,17 @@
         "John Rave",
         "Kyle Isbel"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Vaughn Grissom",
+        "Jose Siri",
+        "Wade Meckler",
+        "Denzer Guzman",
+        "Oswald Peraza",
+        "Travis d'Arnaud",
+        "Josh Lowe"
+      ],
       "away_roster": [
         "Carter Jensen",
         "Jose Cuas",
@@ -1066,8 +1075,8 @@
       ],
       "home_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
         "Travis d'Arnaud",
         "Ryan Johnson",
