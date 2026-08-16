@@ -2,16 +2,22 @@
   "date": "2026-08-16",
   "games": {
     "822774": {
-      "active_pitcher_id": 663893,
-      "active_pitcher_name": "Brendon Little",
+      "active_pitcher_id": 670280,
+      "active_pitcher_name": "David Bednar",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:23:37.435422-04:00"
+      "last_checked_at": "2026-08-16T15:58:04.001581-04:00"
     },
     "822940": {
       "active_pitcher_id": 671212,
       "active_pitcher_name": "Joe Boyle",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-16T13:59:25.604427-04:00"
+    },
+    "823182": {
+      "active_pitcher_id": 694918,
+      "active_pitcher_name": "Blade Tidwell",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-16T15:58:15.441958-04:00"
     },
     "823344": {
       "active_pitcher_id": 682995,
@@ -20,28 +26,40 @@
       "last_checked_at": "2026-08-16T15:23:33.263988-04:00"
     },
     "823590": {
-      "active_pitcher_id": 668820,
-      "active_pitcher_name": "Max Kranick",
+      "active_pitcher_id": 656234,
+      "active_pitcher_name": "Jake Bird",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:42:52.402023-04:00"
+      "last_checked_at": "2026-08-16T15:58:06.219464-04:00"
     },
     "823670": {
-      "active_pitcher_id": 691725,
-      "active_pitcher_name": "Andrew Painter",
+      "active_pitcher_id": 681892,
+      "active_pitcher_name": "Kody Funderburk",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:34:18.572161-04:00"
+      "last_checked_at": "2026-08-16T15:58:13.282993-04:00"
+    },
+    "823912": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-16T15:58:21.973768-04:00"
+    },
+    "823991": {
+      "active_pitcher_id": 696270,
+      "active_pitcher_name": "Ryan Johnson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-16T15:58:19.718839-04:00"
     },
     "824236": {
-      "active_pitcher_id": 663432,
-      "active_pitcher_name": "Tanner Rainey",
+      "active_pitcher_id": 623211,
+      "active_pitcher_name": "Huascar Brazob\u00e1n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:42:54.769353-04:00"
+      "last_checked_at": "2026-08-16T15:58:08.639720-04:00"
     },
     "824477": {
-      "active_pitcher_id": 694795,
-      "active_pitcher_name": "Josh Ekness",
+      "active_pitcher_id": 622088,
+      "active_pitcher_name": "Tejay Antone",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:42:56.872630-04:00"
+      "last_checked_at": "2026-08-16T15:58:11.081608-04:00"
     },
     "824642": {
       "active_pitcher_id": 690928,
@@ -52,10 +70,16 @@
       "last_checked_at": "2026-08-16T15:23:45.166696-04:00"
     },
     "824880": {
-      "active_pitcher_id": 672629,
-      "active_pitcher_name": "Gerardo Carrillo",
+      "active_pitcher_id": 628452,
+      "active_pitcher_name": "Raisel Iglesias",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:42:50.176391-04:00"
+      "last_checked_at": "2026-08-16T15:58:01.510486-04:00"
+    },
+    "824965": {
+      "active_pitcher_id": 682052,
+      "active_pitcher_name": "Jacob Lopez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-16T15:58:17.560479-04:00"
     }
   }
 }
