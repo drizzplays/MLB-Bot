@@ -14,10 +14,10 @@
       "last_checked_at": "2026-08-16T13:59:25.604427-04:00"
     },
     "823182": {
-      "active_pitcher_id": 693308,
-      "active_pitcher_name": "Nick Frasso",
+      "active_pitcher_id": 664141,
+      "active_pitcher_name": "JT Brubaker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:42:55.821704-04:00"
+      "last_checked_at": "2026-08-16T17:58:27.375933-04:00"
     },
     "823344": {
       "active_pitcher_id": 682995,
@@ -38,10 +38,10 @@
       "last_checked_at": "2026-08-16T17:00:16.839666-04:00"
     },
     "823912": {
-      "active_pitcher_id": 669373,
-      "active_pitcher_name": "Tarik Skubal",
+      "active_pitcher_id": 681911,
+      "active_pitcher_name": "Alex Vesia",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:26:22.138288-04:00"
+      "last_checked_at": "2026-08-16T17:58:32.391082-04:00"
     },
     "823991": {
       "active_pitcher_id": 605242,
@@ -68,12 +68,12 @@
       "last_checked_at": "2026-08-16T16:22:21.075742-04:00"
     },
     "824642": {
-      "active_pitcher_id": 573204,
-      "active_pitcher_name": "Caleb Thielbar",
+      "active_pitcher_id": 700669,
+      "active_pitcher_name": "Gordon Graceffo",
       "alerted_pairs": [
         "690928:663538"
       ],
-      "last_checked_at": "2026-08-16T17:42:53.633433-04:00"
+      "last_checked_at": "2026-08-16T17:58:24.657407-04:00"
     },
     "824880": {
       "active_pitcher_id": 628452,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-16T15:58:01.510486-04:00"
     },
     "824965": {
-      "active_pitcher_id": 681217,
-      "active_pitcher_name": "Chase Silseth",
+      "active_pitcher_id": 665622,
+      "active_pitcher_name": "Luis Medina",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:42:58.248520-04:00"
+      "last_checked_at": "2026-08-16T17:58:29.812853-04:00"
     }
   }
 }
