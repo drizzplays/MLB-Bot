@@ -8,10 +8,10 @@
       "last_checked_at": "2026-08-15T17:31:17.421463-04:00"
     },
     "822941": {
-      "active_pitcher_id": 680694,
-      "active_pitcher_name": "Kyle Bradish",
+      "active_pitcher_id": 641329,
+      "active_pitcher_name": "Bryan Baker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T18:40:45.596021-04:00"
+      "last_checked_at": "2026-08-15T21:02:39.635151-04:00"
     },
     "823184": {
       "active_pitcher_id": 693313,
@@ -20,10 +20,10 @@
       "last_checked_at": "2026-08-15T18:16:29.133127-04:00"
     },
     "823347": {
-      "active_pitcher_id": 683003,
-      "active_pitcher_name": "Jared Jones",
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:18:53.683353-04:00"
+      "last_checked_at": "2026-08-15T21:02:51.099625-04:00"
     },
     "823588": {
       "active_pitcher_id": 672442,
@@ -34,22 +34,22 @@
       "last_checked_at": "2026-08-15T18:57:24.181610-04:00"
     },
     "823671": {
-      "active_pitcher_id": 666200,
-      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "active_pitcher_id": 702193,
+      "active_pitcher_name": "Andrew Morris",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:18:51.932636-04:00"
+      "last_checked_at": "2026-08-15T21:02:48.951145-04:00"
     },
     "823914": {
-      "active_pitcher_id": 680736,
-      "active_pitcher_name": "Justin Wrobleski",
+      "active_pitcher_id": 642546,
+      "active_pitcher_name": "Jonathan Hern\u00e1ndez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:18:57.262884-04:00"
+      "last_checked_at": "2026-08-15T21:02:59.400706-04:00"
     },
     "824157": {
-      "active_pitcher_id": 669713,
-      "active_pitcher_name": "Hayden Wesneski",
+      "active_pitcher_id": 669854,
+      "active_pitcher_name": "Ronel Blanco",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:38:49.918342-04:00"
+      "last_checked_at": "2026-08-15T21:02:46.539494-04:00"
     },
     "824239": {
       "active_pitcher_id": 663432,
@@ -58,16 +58,16 @@
       "last_checked_at": "2026-08-15T15:38:33.559039-04:00"
     },
     "824400": {
-      "active_pitcher_id": 676282,
-      "active_pitcher_name": "Joey Cantillo",
+      "active_pitcher_id": 670059,
+      "active_pitcher_name": "Colin Holderman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:54:05.621702-04:00"
+      "last_checked_at": "2026-08-15T21:02:44.035008-04:00"
     },
     "824480": {
-      "active_pitcher_id": 663903,
-      "active_pitcher_name": "Brady Singer",
+      "active_pitcher_id": 594580,
+      "active_pitcher_name": "Sam Moll",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:18:48.251138-04:00"
+      "last_checked_at": "2026-08-15T21:02:41.922509-04:00"
     },
     "824644": {
       "active_pitcher_id": 592773,
@@ -76,10 +76,12 @@
       "last_checked_at": "2026-08-15T16:41:40.379773-04:00"
     },
     "824884": {
-      "active_pitcher_id": 593958,
-      "active_pitcher_name": "Eduardo Rodriguez",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-15T19:54:08.394873-04:00"
+      "active_pitcher_id": 608718,
+      "active_pitcher_name": "Brent Suter",
+      "alerted_pairs": [
+        "608718:571448"
+      ],
+      "last_checked_at": "2026-08-15T21:02:53.202346-04:00"
     }
   }
 }
