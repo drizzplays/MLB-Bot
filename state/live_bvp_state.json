@@ -2,10 +2,10 @@
   "date": "2026-08-16",
   "games": {
     "822774": {
-      "active_pitcher_id": 656302,
-      "active_pitcher_name": "Dylan Cease",
+      "active_pitcher_id": 663893,
+      "active_pitcher_name": "Brendon Little",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:59:22.598943-04:00"
+      "last_checked_at": "2026-08-16T15:23:37.435422-04:00"
     },
     "822940": {
       "active_pitcher_id": 671212,
@@ -14,16 +14,16 @@
       "last_checked_at": "2026-08-16T13:59:25.604427-04:00"
     },
     "823344": {
-      "active_pitcher_id": 663776,
-      "active_pitcher_name": "Patrick Sandoval",
+      "active_pitcher_id": 682995,
+      "active_pitcher_name": "Hunter Barco",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:34:14.021466-04:00"
+      "last_checked_at": "2026-08-16T15:23:33.263988-04:00"
     },
     "823590": {
-      "active_pitcher_id": 663623,
-      "active_pitcher_name": "Jake Irvin",
+      "active_pitcher_id": 681035,
+      "active_pitcher_name": "Christian Scott",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:59:24.977493-04:00"
+      "last_checked_at": "2026-08-16T15:23:39.620824-04:00"
     },
     "823670": {
       "active_pitcher_id": 691725,
@@ -32,22 +32,30 @@
       "last_checked_at": "2026-08-16T14:34:18.572161-04:00"
     },
     "824236": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 696146,
+      "active_pitcher_name": "Hagen Smith",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:59:27.749591-04:00"
+      "last_checked_at": "2026-08-16T15:23:41.399120-04:00"
     },
     "824477": {
-      "active_pitcher_id": 666157,
-      "active_pitcher_name": "Nick Lodolo",
+      "active_pitcher_id": 691587,
+      "active_pitcher_name": "Eury P\u00e9rez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:59:30.540960-04:00"
+      "last_checked_at": "2026-08-16T15:23:43.409160-04:00"
+    },
+    "824642": {
+      "active_pitcher_id": 690928,
+      "active_pitcher_name": "Hunter Dobbins",
+      "alerted_pairs": [
+        "690928:663538"
+      ],
+      "last_checked_at": "2026-08-16T15:23:45.166696-04:00"
     },
     "824880": {
-      "active_pitcher_id": 693821,
-      "active_pitcher_name": "Bryce Elder",
+      "active_pitcher_id": 664199,
+      "active_pitcher_name": "Taylor Clarke",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T14:59:20.276558-04:00"
+      "last_checked_at": "2026-08-16T15:23:35.213756-04:00"
     }
   }
 }
