@@ -14,16 +14,16 @@
       "last_checked_at": "2026-08-16T13:59:25.604427-04:00"
     },
     "823182": {
-      "active_pitcher_id": 665665,
-      "active_pitcher_name": "Reiver Sanmartin",
+      "active_pitcher_id": 805345,
+      "active_pitcher_name": "Trent Harris",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T18:22:03.806809-04:00"
+      "last_checked_at": "2026-08-16T18:45:30.502250-04:00"
     },
     "823344": {
-      "active_pitcher_id": 670103,
-      "active_pitcher_name": "Raymond Burgos",
+      "active_pitcher_id": 682254,
+      "active_pitcher_name": "Mason Montgomery",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T18:22:01.481355-04:00"
+      "last_checked_at": "2026-08-16T18:45:25.849857-04:00"
     },
     "823590": {
       "active_pitcher_id": 656234,
@@ -38,10 +38,10 @@
       "last_checked_at": "2026-08-16T17:00:16.839666-04:00"
     },
     "823912": {
-      "active_pitcher_id": 669165,
-      "active_pitcher_name": "Kyle Hurt",
+      "active_pitcher_id": 676263,
+      "active_pitcher_name": "Jack Dreyer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T18:22:11.989565-04:00"
+      "last_checked_at": "2026-08-16T18:45:34.471644-04:00"
     },
     "823991": {
       "active_pitcher_id": 702070,
@@ -56,10 +56,10 @@
       "last_checked_at": "2026-08-16T16:22:19.155631-04:00"
     },
     "824397": {
-      "active_pitcher_id": 676440,
-      "active_pitcher_name": "Tanner Bibee",
+      "active_pitcher_id": 670036,
+      "active_pitcher_name": "Matt Festa",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:26:18.133295-04:00"
+      "last_checked_at": "2026-08-16T18:45:27.898887-04:00"
     },
     "824477": {
       "active_pitcher_id": 676760,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-16T15:58:01.510486-04:00"
     },
     "824965": {
-      "active_pitcher_id": 665660,
-      "active_pitcher_name": "Elvis Alvarado",
+      "active_pitcher_id": 663687,
+      "active_pitcher_name": "Hogan Harris",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T18:22:06.181814-04:00"
+      "last_checked_at": "2026-08-16T18:45:32.491582-04:00"
     }
   }
 }
