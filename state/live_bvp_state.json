@@ -14,16 +14,16 @@
       "last_checked_at": "2026-08-16T13:59:25.604427-04:00"
     },
     "823182": {
-      "active_pitcher_id": 664141,
-      "active_pitcher_name": "JT Brubaker",
+      "active_pitcher_id": 665665,
+      "active_pitcher_name": "Reiver Sanmartin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:58:27.375933-04:00"
+      "last_checked_at": "2026-08-16T18:22:03.806809-04:00"
     },
     "823344": {
-      "active_pitcher_id": 682995,
-      "active_pitcher_name": "Hunter Barco",
+      "active_pitcher_id": 670103,
+      "active_pitcher_name": "Raymond Burgos",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:23:33.263988-04:00"
+      "last_checked_at": "2026-08-16T18:22:01.481355-04:00"
     },
     "823590": {
       "active_pitcher_id": 656234,
@@ -38,16 +38,16 @@
       "last_checked_at": "2026-08-16T17:00:16.839666-04:00"
     },
     "823912": {
-      "active_pitcher_id": 681911,
-      "active_pitcher_name": "Alex Vesia",
+      "active_pitcher_id": 669165,
+      "active_pitcher_name": "Kyle Hurt",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:58:32.391082-04:00"
+      "last_checked_at": "2026-08-16T18:22:11.989565-04:00"
     },
     "823991": {
-      "active_pitcher_id": 605242,
-      "active_pitcher_name": "Michael Fulmer",
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:43:00.869870-04:00"
+      "last_checked_at": "2026-08-16T18:22:09.842159-04:00"
     },
     "824236": {
       "active_pitcher_id": 621097,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-16T15:58:01.510486-04:00"
     },
     "824965": {
-      "active_pitcher_id": 665622,
-      "active_pitcher_name": "Luis Medina",
+      "active_pitcher_id": 665660,
+      "active_pitcher_name": "Elvis Alvarado",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:58:29.812853-04:00"
+      "last_checked_at": "2026-08-16T18:22:06.181814-04:00"
     }
   }
 }
