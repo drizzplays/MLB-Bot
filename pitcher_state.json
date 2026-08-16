@@ -38,44 +38,6 @@
       "game_pk": "824397",
       "status_code": "P"
     },
-    "824642": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Hunter Dobbins",
-      "home_pitcher": "Edward Cabrera",
-      "away_pitcher_id": "690928",
-      "home_pitcher_id": "665795",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 3,
-        "era": "3.40",
-        "whip": "1.31",
-        "strikeouts": 42,
-        "innings_pitched": "45.0",
-        "games_started": 6
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "5.10",
-        "whip": "1.40",
-        "strikeouts": 65,
-        "innings_pitched": "72.1",
-        "games_started": 14
-      },
-      "game_time": "Aug 16, 3:15 PM ET",
-      "game_iso": "2026-08-16T15:15:00-04:00",
-      "game_pk": "824642",
-      "status_code": "P"
-    },
     "823182": {
       "away_team": "Colorado Rockies",
       "home_team": "San Francisco Giants",
