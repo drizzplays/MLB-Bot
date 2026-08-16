@@ -14,10 +14,10 @@
       "last_checked_at": "2026-08-16T13:59:25.604427-04:00"
     },
     "823182": {
-      "active_pitcher_id": 656529,
-      "active_pitcher_name": "Sam Hentges",
+      "active_pitcher_id": 693308,
+      "active_pitcher_name": "Nick Frasso",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T17:26:19.940432-04:00"
+      "last_checked_at": "2026-08-16T17:42:55.821704-04:00"
     },
     "823344": {
       "active_pitcher_id": 682995,
@@ -44,10 +44,10 @@
       "last_checked_at": "2026-08-16T17:26:22.138288-04:00"
     },
     "823991": {
-      "active_pitcher_id": 702070,
-      "active_pitcher_name": "Noah Cameron",
+      "active_pitcher_id": 605242,
+      "active_pitcher_name": "Michael Fulmer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T16:45:41.716236-04:00"
+      "last_checked_at": "2026-08-16T17:43:00.869870-04:00"
     },
     "824236": {
       "active_pitcher_id": 621097,
@@ -68,12 +68,12 @@
       "last_checked_at": "2026-08-16T16:22:21.075742-04:00"
     },
     "824642": {
-      "active_pitcher_id": 650644,
-      "active_pitcher_name": "Aaron Civale",
+      "active_pitcher_id": 573204,
+      "active_pitcher_name": "Caleb Thielbar",
       "alerted_pairs": [
         "690928:663538"
       ],
-      "last_checked_at": "2026-08-16T17:00:19.015874-04:00"
+      "last_checked_at": "2026-08-16T17:42:53.633433-04:00"
     },
     "824880": {
       "active_pitcher_id": 628452,
@@ -82,10 +82,10 @@
       "last_checked_at": "2026-08-16T15:58:01.510486-04:00"
     },
     "824965": {
-      "active_pitcher_id": 674003,
-      "active_pitcher_name": "Cody Bradford",
+      "active_pitcher_id": 681217,
+      "active_pitcher_name": "Chase Silseth",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T16:45:39.311523-04:00"
+      "last_checked_at": "2026-08-16T17:42:58.248520-04:00"
     }
   }
 }
