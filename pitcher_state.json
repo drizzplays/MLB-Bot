@@ -1,43 +1,5 @@
 {
   "2026-08-15": {
-    "823990": {
-      "away_team": "Kansas City Royals",
-      "home_team": "Los Angeles Angels",
-      "away_pitcher": "Randy Dobnak",
-      "home_pitcher": "Reid Detmers",
-      "away_pitcher_id": "677976",
-      "home_pitcher_id": "672282",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 1,
-        "era": "2.00",
-        "whip": "1.33",
-        "strikeouts": 19,
-        "innings_pitched": "36.0",
-        "games_started": 5
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 3,
-        "losses": 8,
-        "era": "4.00",
-        "whip": "1.10",
-        "strikeouts": 156,
-        "innings_pitched": "135.0",
-        "games_started": 24
-      },
-      "game_time": "Aug 15, 9:38 PM ET",
-      "game_iso": "2026-08-15T21:38:00-04:00",
-      "game_pk": "823990",
-      "status_code": "P"
-    },
     "824966": {
       "away_team": "Texas Rangers",
       "home_team": "Athletics",
