@@ -429,26 +429,26 @@
       "away_team": "Baltimore Orioles",
       "home_team": "Tampa Bay Rays",
       "away_lineup": [
-        "Tyler O'Neill",
+        "Yohel Pozo",
         "Pete Alonso",
         "Jackson Holliday",
-        "Coby Mayo",
+        "Dylan Beavers",
         "Gunnar Henderson",
         "Christian Encarnacion-Strand",
         "Christian Franklin",
         "Leody Taveras",
-        "Carlos Narv\u00e1ez"
+        "Colton Cowser"
       ],
       "home_lineup": [
-        "Yandy D\u00edaz",
+        "Jorge Mateo",
         "Jonathan Aranda",
         "Junior Caminero",
-        "Liam Hicks",
+        "Nick Fortes",
         "Chandler Simpson",
         "Jonny DeLuca",
         "Cedric Mullins",
         "Richie Palacios",
-        "Taylor Walls"
+        "Bryan Baker"
       ],
       "away_roster": [
         "Jeremiah Jackson",
@@ -499,8 +499,8 @@
         "Jonathan Aranda",
         "Nick Fortes",
         "Yandy D\u00edaz",
-        "Bryan Baker",
         "Victor Mesa Jr.",
+        "Bryan Baker",
         "Junior Caminero",
         "Drew Rasmussen",
         "Cedric Mullins",
@@ -514,7 +514,7 @@
       "away_team": "Miami Marlins",
       "home_team": "Cincinnati Reds",
       "away_lineup": [
-        "Jakob Marsee",
+        "Javier Sanoja",
         "Xavier Edwards",
         "Heriberto Hern\u00e1ndez",
         "Griffin Conine",
@@ -547,8 +547,8 @@
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
-        "John King",
         "Javier Sanoja",
+        "John King",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
@@ -613,7 +613,7 @@
         "Steven Kwan",
         "Chase DeLauter",
         "Jos\u00e9 Ram\u00edrez",
-        "Jo Adell",
+        "Angel Mart\u00ednez",
         "Nathaniel Lowe",
         "Angel Genao",
         "Travis Bazzana",
@@ -703,7 +703,7 @@
         "Christian Walker",
         "Taylor Trammell",
         "Cam Smith",
-        "Christian V\u00e1zquez"
+        "Yainer Diaz"
       ],
       "away_roster": [
         "Josh Naylor",
@@ -854,7 +854,7 @@
       "away_team": "Boston Red Sox",
       "home_team": "Pittsburgh Pirates",
       "away_lineup": [
-        "Masataka Yoshida",
+        "Anthony Seigler",
         "Ceddanne Rafaela",
         "Adley Rutschman",
         "Willson Contreras",
@@ -1026,9 +1026,9 @@
       "away_lineup": [
         "Jackson Chourio",
         "Luis Lara",
-        "Andrew Vaughn",
+        "David Hamilton",
         "Jake Bauers",
-        "Gary S\u00e1nchez",
+        "Garrett Mitchell",
         "Christian Yelich",
         "William Contreras",
         "Joey Ortiz",
@@ -1057,10 +1057,10 @@
         "Shane Drohan",
         "Brandon Lockridge",
         "Kyle Harrison",
-        "Aaron Ashby",
         "Garrett Mitchell",
-        "Jonathan Ornelas",
+        "Aaron Ashby",
         "David Hamilton",
+        "Jonathan Ornelas",
         "William Contreras",
         "Robert Gasser",
         "Brice Turang",
