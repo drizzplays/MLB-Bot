@@ -20,10 +20,10 @@
       "last_checked_at": "2026-08-16T15:23:33.263988-04:00"
     },
     "823590": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+      "active_pitcher_id": 668820,
+      "active_pitcher_name": "Max Kranick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:23:39.620824-04:00"
+      "last_checked_at": "2026-08-16T15:42:52.402023-04:00"
     },
     "823670": {
       "active_pitcher_id": 691725,
@@ -32,16 +32,16 @@
       "last_checked_at": "2026-08-16T14:34:18.572161-04:00"
     },
     "824236": {
-      "active_pitcher_id": 696146,
-      "active_pitcher_name": "Hagen Smith",
+      "active_pitcher_id": 663432,
+      "active_pitcher_name": "Tanner Rainey",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:23:41.399120-04:00"
+      "last_checked_at": "2026-08-16T15:42:54.769353-04:00"
     },
     "824477": {
-      "active_pitcher_id": 691587,
-      "active_pitcher_name": "Eury P\u00e9rez",
+      "active_pitcher_id": 694795,
+      "active_pitcher_name": "Josh Ekness",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:23:43.409160-04:00"
+      "last_checked_at": "2026-08-16T15:42:56.872630-04:00"
     },
     "824642": {
       "active_pitcher_id": 690928,
@@ -52,10 +52,10 @@
       "last_checked_at": "2026-08-16T15:23:45.166696-04:00"
     },
     "824880": {
-      "active_pitcher_id": 664199,
-      "active_pitcher_name": "Taylor Clarke",
+      "active_pitcher_id": 672629,
+      "active_pitcher_name": "Gerardo Carrillo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-16T15:23:35.213756-04:00"
+      "last_checked_at": "2026-08-16T15:42:50.176391-04:00"
     }
   }
 }
