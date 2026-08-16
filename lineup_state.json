@@ -3,7 +3,17 @@
     "Baltimore Orioles @ Tampa Bay Rays | 822940": {
       "away_team": "Baltimore Orioles",
       "home_team": "Tampa Bay Rays",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jackson Holliday",
+        "Pete Alonso",
+        "Gunnar Henderson",
+        "Christian Encarnacion-Strand",
+        "Dylan Beavers",
+        "Leody Taveras",
+        "Colton Cowser",
+        "Coby Mayo",
+        "Yohel Pozo"
+      ],
       "home_lineup": [
         "Yandy D\u00edaz",
         "Jonathan Aranda",
@@ -37,8 +47,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
@@ -183,13 +193,13 @@
         "Geraldo Perdomo",
         "Michael Soroka",
         "Gabriel Moreno",
+        "Dennis Santana",
         "Mitch Bratt",
         "Corbin Carroll",
         "Taylor Clarke",
         "Zack Littell",
         "Max Kepler",
         "James McCann",
-        "Philip Abner",
         "Brandyn Garcia",
         "Jorge Barrosa"
       ],
@@ -228,7 +238,17 @@
     "New York Yankees @ Toronto Blue Jays | 822774": {
       "away_team": "New York Yankees",
       "home_team": "Toronto Blue Jays",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ben Rice",
+        "Luis Garc\u00eda Jr.",
+        "Heliot Ramos",
+        "Trent Grisham",
+        "Spencer Jones",
+        "George Lombard Jr.",
+        "Ryan McMahon",
+        "Austin Wells",
+        "Jos\u00e9 Caballero"
+      ],
       "home_lineup": [
         "Brett Bateman",
         "Charles McAdoo",
@@ -304,7 +324,17 @@
       "away_team": "Washington Nationals",
       "home_team": "New York Mets",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Jared Young",
+        "Luis Robert Jr.",
+        "Brett Baty",
+        "Jorge Polanco",
+        "Luis Torrens"
+      ],
       "away_roster": [
         "Brady House",
         "Will Dion",
@@ -357,8 +387,8 @@
         "Jorge Polanco",
         "Nolan McLean",
         "Zac Thornton",
-        "Luis Robert Jr.",
         "Jared Young",
+        "Luis Robert Jr.",
         "A.J. Ewing"
       ],
       "game_time": "Aug 16, 1:40 PM ET",
@@ -368,7 +398,17 @@
     "San Diego Padres @ Cleveland Guardians | 824397": {
       "away_team": "San Diego Padres",
       "home_team": "Cleveland Guardians",
-      "away_lineup": [],
+      "away_lineup": [
+        "Fernando Tatis Jr.",
+        "Jake Cronenworth",
+        "Manny Machado",
+        "Ty France",
+        "Jackson Merrill",
+        "Luis Rengifo",
+        "Gavin Sheets",
+        "Xander Bogaerts",
+        "Freddy Fermin"
+      ],
       "home_lineup": [
         "Steven Kwan",
         "Chase DeLauter",
@@ -381,9 +421,9 @@
         "Brayan Rocchio"
       ],
       "away_roster": [
+        "Luis Rengifo",
         "Luis Campusano",
         "Yuki Matsui",
-        "Luis Rengifo",
         "Freddy Fermin",
         "Michael King",
         "Mason Miller",
@@ -399,8 +439,8 @@
         "Adrian Morejon",
         "Manny Machado",
         "Austin Hays",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
@@ -604,7 +644,17 @@
       "away_team": "Philadelphia Phillies",
       "home_team": "Minnesota Twins",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Trevor Larnach",
+        "Byron Buxton",
+        "Josh Bell",
+        "Kody Clemens",
+        "Royce Lewis",
+        "Brooks Lee",
+        "Luke Keaschall",
+        "Victor Caratini",
+        "Kaelen Culpepper"
+      ],
       "away_roster": [
         "Brandon Marsh",
         "Jes\u00fas Luzardo",
@@ -655,9 +705,9 @@
         "Travis Adams",
         "Royce Lewis",
         "Trevor Larnach",
+        "Byron Buxton",
         "Yoendrys G\u00f3mez",
         "Zebby Matthews",
-        "Alex Jackson",
         "Andrew Morris",
         "Luke Keaschall"
       ],
