@@ -2,16 +2,28 @@
   "date": "2026-08-17",
   "games": {
     "822939": {
-      "active_pitcher_id": 687064,
-      "active_pitcher_name": "Brandon Young",
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T18:44:41.967996-04:00"
+      "last_checked_at": "2026-08-17T19:01:47.653791-04:00"
+    },
+    "823343": {
+      "active_pitcher_id": 669387,
+      "active_pitcher_name": "Carmen Mlodzinski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T19:01:49.827619-04:00"
     },
     "823427": {
       "active_pitcher_id": 650911,
       "active_pitcher_name": "Cristopher S\u00e1nchez",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-17T18:44:43.684336-04:00"
+    },
+    "823589": {
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T19:01:51.983400-04:00"
     },
     "824478": {
       "active_pitcher_id": 695076,
