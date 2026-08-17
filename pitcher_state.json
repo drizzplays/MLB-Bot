@@ -150,7 +150,7 @@
       "game_time": "Aug 17, 7:05 PM ET",
       "game_iso": "2026-08-17T19:05:00-04:00",
       "game_pk": "823343",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824725": {
       "away_team": "Arizona Diamondbacks",
@@ -302,7 +302,7 @@
       "game_time": "Aug 17, 7:40 PM ET",
       "game_iso": "2026-08-17T19:40:00-04:00",
       "game_pk": "823668",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824641": {
       "away_team": "Chicago White Sox",
