@@ -23,7 +23,7 @@
         "Michael Toglia",
         "Matt McLain",
         "Noelvi Marte",
-        "Ke'Bryan Hayes"
+        "JJ Bleday"
       ],
       "away_roster": [
         "Michael McGreevy",
@@ -232,7 +232,17 @@
     "Miami Marlins @ Philadelphia Phillies | 823427": {
       "away_team": "Miami Marlins",
       "home_team": "Philadelphia Phillies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Esteury Ruiz",
+        "Heriberto Hern\u00e1ndez",
+        "Xavier Edwards",
+        "Agust\u00edn Ram\u00edrez",
+        "Otto Lopez",
+        "Javier Sanoja",
+        "Leo Jim\u00e9nez",
+        "Griffin Conine",
+        "Brian Navarreto"
+      ],
       "home_lineup": [
         "Kyle Schwarber",
         "Trea Turner",
@@ -248,16 +258,16 @@
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Victor Vodnik",
         "Tyler Phillips",
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
-        "John King",
         "Javier Sanoja",
+        "John King",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
@@ -393,7 +403,17 @@
       "away_team": "Arizona Diamondbacks",
       "home_team": "Boston Red Sox",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jahmai Jones",
+        "Ceddanne Rafaela",
+        "Wilyer Abreu",
+        "Willson Contreras",
+        "Adley Rutschman",
+        "Caleb Durbin",
+        "Andruw Monasterio",
+        "Eli White",
+        "Nick Sogard"
+      ],
       "away_roster": [
         "Eduardo Rodriguez",
         "Juan Morillo",
@@ -423,7 +443,6 @@
         "Jorge Barrosa"
       ],
       "home_roster": [
-        "Raymond Burgos",
         "Jake Bennett",
         "Willson Contreras",
         "Tyron Guerrero",
@@ -436,14 +455,15 @@
         "Adley Rutschman",
         "Brayan Bello",
         "Wilyer Abreu",
-        "Sonny Gray",
         "Andruw Monasterio",
+        "Sonny Gray",
         "Mickey Gasper",
         "Caleb Durbin",
         "Ranger Suarez",
-        "Jarren Duran",
         "Nick Sogard",
+        "Jarren Duran",
         "Eli White",
+        "Wyatt Olds",
         "Payton Tolle",
         "Ceddanne Rafaela",
         "Jovani Mor\u00e1n",
@@ -533,7 +553,17 @@
       "away_team": "Athletics",
       "home_team": "Kansas City Royals",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Carter Jensen",
+        "Bobby Witt Jr.",
+        "Jac Caglianone",
+        "Maikel Garcia",
+        "Vinnie Pasquantino",
+        "Salvador Perez",
+        "Michael Massey",
+        "Isaac Collins",
+        "Kyle Isbel"
+      ],
       "away_roster": [
         "Lawrence Butler",
         "Jonah Heim",
@@ -577,18 +607,20 @@
         "Starling Marte",
         "Luke Maile",
         "Craig Kimbrel",
+        "Vinnie Pasquantino",
         "Kyle Isbel",
         "Daniel Lynch IV",
         "Michael Wacha",
         "Nate Pearson",
+        "Maikel Garcia",
         "Seth Lugo",
         "Noah Cameron",
         "Alex Lange",
         "Randy Dobnak",
         "Jac Caglianone",
+        "Bobby Witt Jr.",
         "Steven Cruz",
-        "John Schreiber",
-        "Bobby Witt Jr."
+        "John Schreiber"
       ],
       "game_time": "Aug 17, 7:40 PM ET",
       "game_iso": "2026-08-17T19:40:00-04:00",
@@ -597,7 +629,17 @@
     "Atlanta Braves @ Minnesota Twins | 823668": {
       "away_team": "Atlanta Braves",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Drake Baldwin",
+        "Ronald Acu\u00f1a Jr.",
+        "Matt Olson",
+        "Michael Harris II",
+        "Mauricio Dub\u00f3n",
+        "Ozzie Albies",
+        "Mike Yastrzemski",
+        "Austin Riley",
+        "Jim Jarvis"
+      ],
       "home_lineup": [
         "Luke Keaschall",
         "Byron Buxton",
@@ -672,7 +714,17 @@
     "Chicago White Sox @ Chicago Cubs | 824641": {
       "away_team": "Chicago White Sox",
       "home_team": "Chicago Cubs",
-      "away_lineup": [],
+      "away_lineup": [
+        "Chase Meidroth",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Randal Grichuk",
+        "Braden Montgomery",
+        "Brenton Doyle",
+        "Sam Antonacci",
+        "Luisangel Acu\u00f1a",
+        "Jake Rogers"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Tristan Peters",
@@ -705,8 +757,8 @@
       "home_roster": [
         "Michael Conforto",
         "Tyrone Taylor",
+        "Edward Cabrera",
         "Ian Happ",
-        "Javier Assad",
         "Caleb Thielbar",
         "Shota Imanaga",
         "Alex Bregman",
