@@ -2,10 +2,10 @@
   "date": "2026-08-17",
   "games": {
     "822939": {
-      "active_pitcher_id": 668984,
-      "active_pitcher_name": "Casey Legumina",
+      "active_pitcher_id": 669330,
+      "active_pitcher_name": "Tyler Wells",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:01:47.653791-04:00"
+      "last_checked_at": "2026-08-17T19:32:57.380468-04:00"
     },
     "823343": {
       "active_pitcher_id": 669387,
@@ -14,16 +14,22 @@
       "last_checked_at": "2026-08-17T19:01:49.827619-04:00"
     },
     "823427": {
-      "active_pitcher_id": 650911,
-      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "active_pitcher_id": 676083,
+      "active_pitcher_name": "Janson Junk",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T18:44:43.684336-04:00"
+      "last_checked_at": "2026-08-17T19:32:59.869556-04:00"
     },
     "823589": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 621111,
+      "active_pitcher_name": "Walker Buehler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:01:51.983400-04:00"
+      "last_checked_at": "2026-08-17T19:33:04.828738-04:00"
+    },
+    "824077": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T19:33:07.215754-04:00"
     },
     "824478": {
       "active_pitcher_id": 695076,
@@ -36,6 +42,12 @@
       "active_pitcher_name": "Sam Moll",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-17T16:09:48.369663-04:00"
+    },
+    "824725": {
+      "active_pitcher_id": 678394,
+      "active_pitcher_name": "Brayan Bello",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T19:33:02.378396-04:00"
     }
   }
 }
