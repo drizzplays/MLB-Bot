@@ -8,11 +8,11 @@
         "Iv\u00e1n Herrera",
         "Jordan Walker",
         "Alec Burleson",
-        "Jos\u00e9 Ferm\u00edn",
+        "Jimmy Crooks",
         "Masyn Winn",
         "Blaze Jordan",
         "Everson Pereira",
-        "Pedro Pag\u00e9s"
+        "JJ Wetherholt"
       ],
       "home_lineup": [
         "Elly De La Cruz",
@@ -33,8 +33,8 @@
         "Kyle Leahy",
         "Jos\u00e9 Ferm\u00edn",
         "Gordon Graceffo",
-        "Hunter Dobbins",
         "JJ Wetherholt",
+        "Hunter Dobbins",
         "Caleb Ferguson",
         "Justin Bruihl",
         "Blaze Jordan",
@@ -307,8 +307,28 @@
     "Detroit Tigers @ Pittsburgh Pirates | 823343": {
       "away_team": "Detroit Tigers",
       "home_team": "Pittsburgh Pirates",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Gleyber Torres",
+        "Kevin McGonigle",
+        "Dillon Dingler",
+        "Colt Keith",
+        "Zach McKinstry",
+        "Hao-Yu Lee",
+        "Brett Callahan",
+        "Max Clark",
+        "Javier B\u00e1ez"
+      ],
+      "home_lineup": [
+        "Jared Triolo",
+        "Esmerlyn Valdez",
+        "Bryan Reynolds",
+        "Nick Gonzales",
+        "Brandon Lowe",
+        "Rafael Flores Jr.",
+        "Jake Mangum",
+        "Nick Yorke",
+        "Henry Davis"
+      ],
       "away_roster": [
         "Corey Julks",
         "Framber Valdez",
@@ -333,8 +353,8 @@
         "Enmanuel De Jesus",
         "Max Clark",
         "Dillon Dingler",
-        "Jackson Jobe",
         "Colt Keith",
+        "Jackson Jobe",
         "Troy Melton"
       ],
       "home_roster": [
@@ -578,7 +598,17 @@
       "away_team": "Atlanta Braves",
       "home_team": "Minnesota Twins",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Luke Keaschall",
+        "Byron Buxton",
+        "Ryan Jeffers",
+        "Josh Bell",
+        "Royce Lewis",
+        "Kody Clemens",
+        "Brooks Lee",
+        "Kaelen Culpepper",
+        "Alan Roden"
+      ],
       "away_roster": [
         "Dylan Dodd",
         "Dylan Lee",
@@ -614,7 +644,6 @@
         "Victor Caratini",
         "Kody Clemens",
         "Brooks Lee",
-        "Austin Martin",
         "Josh Bell",
         "Jeff Hoffman",
         "A.J. Minter",
@@ -632,6 +661,7 @@
         "Byron Buxton",
         "Yoendrys G\u00f3mez",
         "Zebby Matthews",
+        "Alex Jackson",
         "Andrew Morris",
         "Luke Keaschall"
       ],
@@ -844,7 +874,6 @@
       "away_roster": [
         "Corey Julks",
         "Framber Valdez",
-        "Brett Callahan",
         "Zach McKinstry",
         "Hao-Yu Lee",
         "Ty Madden",
@@ -864,6 +893,7 @@
         "Gleyber Torres",
         "Enmanuel De Jesus",
         "Max Clark",
+        "Trei Cruz",
         "Dillon Dingler",
         "Jackson Jobe",
         "Colt Keith",
@@ -1379,10 +1409,10 @@
         "Sean Murphy",
         "Ronald Acu\u00f1a Jr.",
         "Tyler Kinley",
+        "Ray Kerr",
         "Ozzie Albies",
         "Raisel Iglesias",
         "Austin Riley",
-        "Danny Young",
         "Grant Holmes",
         "Mike Yastrzemski",
         "Ha-Seong Kim",
