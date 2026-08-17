@@ -3,7 +3,17 @@
     "St. Louis Cardinals @ Cincinnati Reds | 824514": {
       "away_team": "St. Louis Cardinals",
       "home_team": "Cincinnati Reds",
-      "away_lineup": [],
+      "away_lineup": [
+        "Joshua B\u00e1ez",
+        "Iv\u00e1n Herrera",
+        "Jordan Walker",
+        "Alec Burleson",
+        "Jos\u00e9 Ferm\u00edn",
+        "Masyn Winn",
+        "Blaze Jordan",
+        "Everson Pereira",
+        "Pedro Pag\u00e9s"
+      ],
       "home_lineup": [
         "Elly De La Cruz",
         "Sal Stewart",
@@ -17,8 +27,8 @@
       ],
       "away_roster": [
         "Michael McGreevy",
-        "Bryan Torres",
         "Jordan Walker",
+        "Bryan Torres",
         "Nathan Church",
         "Kyle Leahy",
         "Jos\u00e9 Ferm\u00edn",
@@ -33,8 +43,8 @@
         "Andre Pallante",
         "George Soriano",
         "Quinn Mathews",
-        "Matthew Liberatore",
         "Pedro Pag\u00e9s",
+        "Matthew Liberatore",
         "Ryne Stanek",
         "Joshua B\u00e1ez",
         "Luis Gastelum",
