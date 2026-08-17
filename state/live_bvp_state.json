@@ -2,10 +2,10 @@
   "date": "2026-08-17",
   "games": {
     "824514": {
-      "active_pitcher_id": 666277,
-      "active_pitcher_name": "George Soriano",
+      "active_pitcher_id": 594580,
+      "active_pitcher_name": "Sam Moll",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T15:50:14.940784-04:00"
+      "last_checked_at": "2026-08-17T16:09:48.369663-04:00"
     }
   }
 }
