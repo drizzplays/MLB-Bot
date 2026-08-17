@@ -1,4 +1,11 @@
 {
   "date": "2026-08-17",
-  "games": {}
+  "games": {
+    "824514": {
+      "active_pitcher_id": 592288,
+      "active_pitcher_name": "Kent Emanuel",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T13:39:10.426242-04:00"
+    }
+  }
 }
