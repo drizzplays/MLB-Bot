@@ -1,6 +1,12 @@
 {
   "date": "2026-08-17",
   "games": {
+    "822939": {
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T17:55:10.539926-04:00"
+    },
     "824514": {
       "active_pitcher_id": 594580,
       "active_pitcher_name": "Sam Moll",
