@@ -2,10 +2,22 @@
   "date": "2026-08-17",
   "games": {
     "822939": {
-      "active_pitcher_id": 663556,
-      "active_pitcher_name": "Shane McClanahan",
+      "active_pitcher_id": 687064,
+      "active_pitcher_name": "Brandon Young",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T17:55:10.539926-04:00"
+      "last_checked_at": "2026-08-17T18:44:41.967996-04:00"
+    },
+    "823427": {
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T18:44:43.684336-04:00"
+    },
+    "824478": {
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T18:44:40.204911-04:00"
     },
     "824514": {
       "active_pitcher_id": 594580,
