@@ -416,7 +416,7 @@
       "game_time": "Aug 18, 7:40 PM ET",
       "game_iso": "2026-08-18T19:40:00-04:00",
       "game_pk": "823749",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822859": {
       "away_team": "Washington Nationals",
@@ -454,7 +454,7 @@
       "game_time": "Aug 18, 8:05 PM ET",
       "game_iso": "2026-08-18T20:05:00-04:00",
       "game_pk": "822859",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824639": {
       "away_team": "Chicago White Sox",
