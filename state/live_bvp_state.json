@@ -2,10 +2,10 @@
   "date": "2026-08-18",
   "games": {
     "822938": {
-      "active_pitcher_id": 607259,
-      "active_pitcher_name": "Nick Martinez",
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:30:07.785732-04:00"
+      "last_checked_at": "2026-08-18T18:52:59.693283-04:00"
     },
     "823341": {
       "active_pitcher_id": 677952,
@@ -14,28 +14,28 @@
       "last_checked_at": "2026-08-18T18:30:01.255962-04:00"
     },
     "823423": {
-      "active_pitcher_id": 554430,
-      "active_pitcher_name": "Zack Wheeler",
+      "active_pitcher_id": 806188,
+      "active_pitcher_name": "Cade Gibson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:30:09.941812-04:00"
+      "last_checked_at": "2026-08-18T18:53:01.579083-04:00"
     },
     "824398": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 687931,
+      "active_pitcher_name": "Carson Whisenhunt",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:30:03.429939-04:00"
+      "last_checked_at": "2026-08-18T18:52:55.958150-04:00"
     },
     "824475": {
-      "active_pitcher_id": 671096,
-      "active_pitcher_name": "Andrew Abbott",
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:30:05.638999-04:00"
+      "last_checked_at": "2026-08-18T18:52:57.818325-04:00"
     },
     "824803": {
-      "active_pitcher_id": 669358,
-      "active_pitcher_name": "Shane Baz",
+      "active_pitcher_id": 607074,
+      "active_pitcher_name": "Carlos Rod\u00f3n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:29:59.034921-04:00"
+      "last_checked_at": "2026-08-18T18:52:54.024606-04:00"
     }
   }
 }
