@@ -307,9 +307,9 @@
     "824075": {
       "away_team": "Athletics",
       "home_team": "Kansas City Royals",
-      "away_pitcher": "Jack Perkins",
+      "away_pitcher": "Brady Basso",
       "home_pitcher": "Daniel Lynch IV",
-      "away_pitcher_id": "678022",
+      "away_pitcher_id": "669620",
       "home_pitcher_id": "663738",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -319,13 +319,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 2,
-        "losses": 9,
-        "era": "7.27",
-        "whip": "1.52",
-        "strikeouts": 94,
-        "innings_pitched": "81.2",
-        "games_started": 11
+        "wins": 0,
+        "losses": 0,
+        "era": "4.35",
+        "whip": "1.40",
+        "strikeouts": 18,
+        "innings_pitched": "20.2",
+        "games_started": 1
       },
       "home_pitcher_stats": {
         "season": "2026",
