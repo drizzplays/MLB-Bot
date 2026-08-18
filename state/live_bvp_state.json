@@ -8,10 +8,10 @@
       "last_checked_at": "2026-08-18T19:17:43.956621-04:00"
     },
     "823341": {
-      "active_pitcher_id": 677952,
-      "active_pitcher_name": "Braxton Ashcraft",
+      "active_pitcher_id": 672456,
+      "active_pitcher_name": "Keider Montero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:30:01.255962-04:00"
+      "last_checked_at": "2026-08-18T19:40:24.192656-04:00"
     },
     "823423": {
       "active_pitcher_id": 554430,
@@ -25,17 +25,37 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-18T19:17:51.911488-04:00"
     },
-    "824398": {
-      "active_pitcher_id": 687931,
-      "active_pitcher_name": "Carson Whisenhunt",
+    "823667": {
+      "active_pitcher_id": 805673,
+      "active_pitcher_name": "Zebby Matthews",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:52:55.958150-04:00"
+      "last_checked_at": "2026-08-18T19:40:37.390464-04:00"
+    },
+    "823749": {
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:40:39.602460-04:00"
+    },
+    "824075": {
+      "active_pitcher_id": 663738,
+      "active_pitcher_name": "Daniel Lynch IV",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:40:34.938113-04:00"
+    },
+    "824398": {
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:40:26.609746-04:00"
     },
     "824475": {
-      "active_pitcher_id": 671096,
-      "active_pitcher_name": "Andrew Abbott",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:17:41.256277-04:00"
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
+      "alerted_pairs": [
+        "681517:701398"
+      ],
+      "last_checked_at": "2026-08-18T19:40:29.024695-04:00"
     },
     "824723": {
       "active_pitcher_id": 624133,
