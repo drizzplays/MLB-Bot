@@ -92,25 +92,25 @@
       "home_team": "Cincinnati Reds",
       "away_lineup": [
         "JJ Wetherholt",
-        "Iv\u00e1n Herrera",
+        "Pedro Pag\u00e9s",
         "Alec Burleson",
         "Jordan Walker",
         "Joshua B\u00e1ez",
-        "Nathan Church",
+        "Jos\u00e9 Ferm\u00edn",
         "Masyn Winn",
-        "Bryan Torres",
+        "Everson Pereira",
         "Blaze Jordan"
       ],
       "home_lineup": [
         "Elly De La Cruz",
         "Sal Stewart",
         "JJ Bleday",
-        "Eugenio Su\u00e1rez",
+        "Ke'Bryan Hayes",
         "Michael Toglia",
         "Matt McLain",
         "H\u00e9ctor Rodr\u00edguez",
-        "Jose Trevino",
-        "TJ Friedl"
+        "Dane Myers",
+        "Tyler Stephenson"
       ],
       "away_roster": [
         "Michael McGreevy",
@@ -130,8 +130,8 @@
         "Andre Pallante",
         "George Soriano",
         "Quinn Mathews",
-        "Matthew Liberatore",
         "Pedro Pag\u00e9s",
+        "Matthew Liberatore",
         "Ryne Stanek",
         "Joshua B\u00e1ez",
         "Luis Gastelum",
@@ -149,8 +149,8 @@
         "Luis Mey",
         "Emilio Pag\u00e1n",
         "Michael Toglia",
-        "Tejay Antone",
         "Noelvi Marte",
+        "Tejay Antone",
         "Brady Singer",
         "Matt McLain",
         "Ke'Bryan Hayes",
@@ -183,8 +183,8 @@
         "Jackson Holliday",
         "Coby Mayo",
         "Gunnar Henderson",
-        "Christian Encarnacion-Strand",
-        "Jeremiah Jackson",
+        "Dylan Beavers",
+        "Leody Taveras",
         "Carlos Narv\u00e1ez",
         "Colton Cowser"
       ],
@@ -192,12 +192,12 @@
         "Yandy D\u00edaz",
         "Jonathan Aranda",
         "Junior Caminero",
-        "Liam Hicks",
+        "Jonny DeLuca",
         "Chandler Simpson",
-        "Ryan Vilade",
+        "Nick Fortes",
         "Cedric Mullins",
         "Richie Palacios",
-        "Jorge Mateo"
+        "Taylor Walls"
       ],
       "away_roster": [
         "Jeremiah Jackson",
@@ -263,7 +263,7 @@
       "away_team": "Miami Marlins",
       "home_team": "Philadelphia Phillies",
       "away_lineup": [
-        "Esteury Ruiz",
+        "Jakob Marsee",
         "Heriberto Hern\u00e1ndez",
         "Xavier Edwards",
         "Agust\u00edn Ram\u00edrez",
@@ -282,7 +282,7 @@
         "Bryson Stott",
         "Brandon Marsh",
         "J.T. Realmuto",
-        "Justin Crawford"
+        "Derek Hill"
       ],
       "away_roster": [
         "Josh Ekness",
@@ -359,7 +359,7 @@
         "Javier B\u00e1ez"
       ],
       "home_lineup": [
-        "Jared Triolo",
+        "Jacob Gonzalez",
         "Esmerlyn Valdez",
         "Bryan Reynolds",
         "Nick Gonzales",
@@ -447,7 +447,7 @@
         "Nick Sogard",
         "Ceddanne Rafaela",
         "Wilyer Abreu",
-        "Willson Contreras",
+        "Anthony Seigler",
         "Adley Rutschman",
         "Caleb Durbin",
         "Andruw Monasterio",
@@ -536,7 +536,7 @@
         "Luis Robert Jr.",
         "Jared Young",
         "Marcus Semien",
-        "Jorge Polanco",
+        "Cristian Pache",
         "Francisco Alvarez"
       ],
       "away_roster": [
