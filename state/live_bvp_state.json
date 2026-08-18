@@ -26,10 +26,12 @@
       "last_checked_at": "2026-08-17T20:58:30.357855-04:00"
     },
     "823668": {
-      "active_pitcher_id": 682989,
-      "active_pitcher_name": "Victor Mederos",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T22:15:37.212897-04:00"
+      "active_pitcher_id": 672782,
+      "active_pitcher_name": "Yoendrys G\u00f3mez",
+      "alerted_pairs": [
+        "672782:671739"
+      ],
+      "last_checked_at": "2026-08-17T23:10:05.854345-04:00"
     },
     "824077": {
       "active_pitcher_id": 668674,
@@ -38,10 +40,10 @@
       "last_checked_at": "2026-08-17T22:15:35.059966-04:00"
     },
     "824320": {
-      "active_pitcher_id": 605483,
-      "active_pitcher_name": "Blake Snell",
+      "active_pitcher_id": 623465,
+      "active_pitcher_name": "Evan Phillips",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T22:15:41.499089-04:00"
+      "last_checked_at": "2026-08-17T23:10:16.087479-04:00"
     },
     "824478": {
       "active_pitcher_id": 657265,
@@ -56,10 +58,10 @@
       "last_checked_at": "2026-08-17T16:09:48.369663-04:00"
     },
     "824641": {
-      "active_pitcher_id": 670950,
-      "active_pitcher_name": "Trevor Richards",
+      "active_pitcher_id": 663855,
+      "active_pitcher_name": "Jordan Hicks",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T22:15:39.357639-04:00"
+      "last_checked_at": "2026-08-17T23:10:13.508807-04:00"
     },
     "824725": {
       "active_pitcher_id": 678394,
