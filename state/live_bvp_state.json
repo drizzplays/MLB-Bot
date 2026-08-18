@@ -1,17 +1,23 @@
 {
   "date": "2026-08-18",
   "games": {
-    "822938": {
-      "active_pitcher_id": 607259,
-      "active_pitcher_name": "Nick Martinez",
+    "822859": {
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:17:43.956621-04:00"
+      "last_checked_at": "2026-08-18T19:57:31.291470-04:00"
+    },
+    "822938": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:57:19.545993-04:00"
     },
     "823341": {
-      "active_pitcher_id": 672456,
-      "active_pitcher_name": "Keider Montero",
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:40:24.192656-04:00"
+      "last_checked_at": "2026-08-18T19:57:14.439297-04:00"
     },
     "823423": {
       "active_pitcher_id": 554430,
@@ -20,34 +26,40 @@
       "last_checked_at": "2026-08-18T19:17:46.528424-04:00"
     },
     "823586": {
-      "active_pitcher_id": 592662,
-      "active_pitcher_name": "Robbie Ray",
+      "active_pitcher_id": 804267,
+      "active_pitcher_name": "Zac Thornton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:17:51.911488-04:00"
+      "last_checked_at": "2026-08-18T19:57:22.182858-04:00"
     },
     "823667": {
-      "active_pitcher_id": 805673,
-      "active_pitcher_name": "Zebby Matthews",
+      "active_pitcher_id": 641816,
+      "active_pitcher_name": "Tyler Mahle",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:40:37.390464-04:00"
+      "last_checked_at": "2026-08-18T19:57:26.746332-04:00"
     },
     "823749": {
-      "active_pitcher_id": 690986,
-      "active_pitcher_name": "Kyle Harrison",
+      "active_pitcher_id": 682243,
+      "active_pitcher_name": "Bryce Miller",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:40:39.602460-04:00"
+      "last_checked_at": "2026-08-18T19:57:29.038861-04:00"
     },
     "824075": {
-      "active_pitcher_id": 663738,
-      "active_pitcher_name": "Daniel Lynch IV",
+      "active_pitcher_id": 669620,
+      "active_pitcher_name": "Brady Basso",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:40:34.938113-04:00"
+      "last_checked_at": "2026-08-18T19:57:24.499724-04:00"
+    },
+    "824154": {
+      "active_pitcher_id": 664299,
+      "active_pitcher_name": "Cristian Javier",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:57:35.468014-04:00"
     },
     "824398": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 687931,
+      "active_pitcher_name": "Carson Whisenhunt",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T19:40:26.609746-04:00"
+      "last_checked_at": "2026-08-18T19:57:16.916977-04:00"
     },
     "824475": {
       "active_pitcher_id": 681517,
@@ -56,6 +68,12 @@
         "681517:701398"
       ],
       "last_checked_at": "2026-08-18T19:40:29.024695-04:00"
+    },
+    "824639": {
+      "active_pitcher_id": 592332,
+      "active_pitcher_name": "Kevin Gausman",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:57:33.396367-04:00"
     },
     "824723": {
       "active_pitcher_id": 624133,
