@@ -2,10 +2,10 @@
   "date": "2026-08-18",
   "games": {
     "822938": {
-      "active_pitcher_id": 667755,
-      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "active_pitcher_id": 607259,
+      "active_pitcher_name": "Nick Martinez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:52:59.693283-04:00"
+      "last_checked_at": "2026-08-18T19:17:43.956621-04:00"
     },
     "823341": {
       "active_pitcher_id": 677952,
@@ -14,10 +14,16 @@
       "last_checked_at": "2026-08-18T18:30:01.255962-04:00"
     },
     "823423": {
-      "active_pitcher_id": 806188,
-      "active_pitcher_name": "Cade Gibson",
+      "active_pitcher_id": 554430,
+      "active_pitcher_name": "Zack Wheeler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:53:01.579083-04:00"
+      "last_checked_at": "2026-08-18T19:17:46.528424-04:00"
+    },
+    "823586": {
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:17:51.911488-04:00"
     },
     "824398": {
       "active_pitcher_id": 687931,
@@ -26,16 +32,22 @@
       "last_checked_at": "2026-08-18T18:52:55.958150-04:00"
     },
     "824475": {
-      "active_pitcher_id": 681517,
-      "active_pitcher_name": "Kyle Leahy",
+      "active_pitcher_id": 671096,
+      "active_pitcher_name": "Andrew Abbott",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:52:57.818325-04:00"
+      "last_checked_at": "2026-08-18T19:17:41.256277-04:00"
+    },
+    "824723": {
+      "active_pitcher_id": 624133,
+      "active_pitcher_name": "Ranger Suarez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-18T19:17:49.246214-04:00"
     },
     "824803": {
-      "active_pitcher_id": 607074,
-      "active_pitcher_name": "Carlos Rod\u00f3n",
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-18T18:52:54.024606-04:00"
+      "last_checked_at": "2026-08-18T19:17:38.301289-04:00"
     }
   }
 }
