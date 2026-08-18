@@ -2,40 +2,52 @@
   "date": "2026-08-17",
   "games": {
     "822939": {
-      "active_pitcher_id": 687330,
-      "active_pitcher_name": "Kevin Kelly",
+      "active_pitcher_id": 641329,
+      "active_pitcher_name": "Bryan Baker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:54:23.363217-04:00"
+      "last_checked_at": "2026-08-17T20:58:19.574138-04:00"
     },
     "823343": {
-      "active_pitcher_id": 669387,
-      "active_pitcher_name": "Carmen Mlodzinski",
+      "active_pitcher_id": 670990,
+      "active_pitcher_name": "Yohan Ram\u00edrez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:01:49.827619-04:00"
+      "last_checked_at": "2026-08-17T20:58:24.935919-04:00"
     },
     "823427": {
-      "active_pitcher_id": 650911,
-      "active_pitcher_name": "Cristopher S\u00e1nchez",
+      "active_pitcher_id": 680742,
+      "active_pitcher_name": "Jonathan Bowlan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:54:25.841463-04:00"
+      "last_checked_at": "2026-08-17T20:58:22.236583-04:00"
     },
     "823589": {
-      "active_pitcher_id": 621111,
-      "active_pitcher_name": "Walker Buehler",
+      "active_pitcher_id": 606996,
+      "active_pitcher_name": "Kyle Hart",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:33:04.828738-04:00"
+      "last_checked_at": "2026-08-17T20:58:30.357855-04:00"
+    },
+    "823668": {
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T20:58:34.946886-04:00"
     },
     "824077": {
-      "active_pitcher_id": 686930,
-      "active_pitcher_name": "Mason Barnett",
+      "active_pitcher_id": 696522,
+      "active_pitcher_name": "Hayden Juenger",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:54:30.227622-04:00"
+      "last_checked_at": "2026-08-17T20:58:32.680006-04:00"
+    },
+    "824320": {
+      "active_pitcher_id": 608372,
+      "active_pitcher_name": "Tomoyuki Sugano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-17T20:58:37.575563-04:00"
     },
     "824478": {
-      "active_pitcher_id": 669467,
-      "active_pitcher_name": "Andre Pallante",
+      "active_pitcher_id": 657265,
+      "active_pitcher_name": "Peter Strzelecki",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:54:21.151432-04:00"
+      "last_checked_at": "2026-08-17T20:58:16.914210-04:00"
     },
     "824514": {
       "active_pitcher_id": 594580,
@@ -50,10 +62,10 @@
       "last_checked_at": "2026-08-17T19:54:32.337738-04:00"
     },
     "824725": {
-      "active_pitcher_id": 683352,
-      "active_pitcher_name": "Mitch Bratt",
+      "active_pitcher_id": 678394,
+      "active_pitcher_name": "Brayan Bello",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-17T19:54:28.050239-04:00"
+      "last_checked_at": "2026-08-17T20:58:27.675345-04:00"
     }
   }
 }
