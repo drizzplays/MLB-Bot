@@ -135,7 +135,17 @@
       "away_team": "San Francisco Giants",
       "home_team": "Cleveland Guardians",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Steven Kwan",
+        "Jos\u00e9 Ram\u00edrez",
+        "Jo Adell",
+        "Angel Mart\u00ednez",
+        "Rhys Hoskins",
+        "Angel Genao",
+        "Travis Bazzana",
+        "Patrick Bailey",
+        "Brayan Rocchio"
+      ],
       "away_roster": [
         "JT Brubaker",
         "Jonah Cox",
