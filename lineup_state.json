@@ -173,7 +173,17 @@
     "Atlanta Braves @ Minnesota Twins | 823664": {
       "away_team": "Atlanta Braves",
       "home_team": "Minnesota Twins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Drake Baldwin",
+        "Matt Olson",
+        "Michael Harris II",
+        "Dominic Smith",
+        "Ozzie Albies",
+        "Mike Yastrzemski",
+        "Austin Riley",
+        "Jim Jarvis"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Dylan Dodd",
