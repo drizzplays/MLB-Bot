@@ -2,10 +2,22 @@
   "date": "2026-08-19",
   "games": {
     "823342": {
-      "active_pitcher_id": 695549,
-      "active_pitcher_name": "Jackson Jobe",
+      "active_pitcher_id": 694973,
+      "active_pitcher_name": "Paul Skenes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T12:49:22.685290-04:00"
+      "last_checked_at": "2026-08-19T13:43:10.712016-04:00"
+    },
+    "823587": {
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T13:43:13.001765-04:00"
+    },
+    "823664": {
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T13:43:15.305555-04:00"
     }
   }
 }
