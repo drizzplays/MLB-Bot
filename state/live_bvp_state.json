@@ -14,16 +14,22 @@
       "last_checked_at": "2026-08-19T15:42:06.862713-04:00"
     },
     "823664": {
-      "active_pitcher_id": 667297,
-      "active_pitcher_name": "Tommy Nance",
+      "active_pitcher_id": 669276,
+      "active_pitcher_name": "Dylan Lee",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T15:42:09.123148-04:00"
+      "last_checked_at": "2026-08-19T16:01:39.517511-04:00"
     },
     "824640": {
-      "active_pitcher_id": 605280,
-      "active_pitcher_name": "Clay Holmes",
+      "active_pitcher_id": 663423,
+      "active_pitcher_name": "Trent Thornton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T15:13:18.689134-04:00"
+      "last_checked_at": "2026-08-19T16:01:41.936420-04:00"
+    },
+    "824722": {
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T16:01:44.048339-04:00"
     }
   }
 }
