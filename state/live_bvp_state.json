@@ -2,28 +2,28 @@
   "date": "2026-08-19",
   "games": {
     "823342": {
-      "active_pitcher_id": 596133,
-      "active_pitcher_name": "Luke Weaver",
+      "active_pitcher_id": 682254,
+      "active_pitcher_name": "Mason Montgomery",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:49:47.065953-04:00"
+      "last_checked_at": "2026-08-19T15:13:11.257177-04:00"
     },
     "823587": {
-      "active_pitcher_id": 681320,
-      "active_pitcher_name": "Nate Lavender",
+      "active_pitcher_id": 650633,
+      "active_pitcher_name": "Michael King",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:49:49.240332-04:00"
+      "last_checked_at": "2026-08-19T15:13:13.786621-04:00"
     },
     "823664": {
-      "active_pitcher_id": 671737,
-      "active_pitcher_name": "Taj Bradley",
+      "active_pitcher_id": 689266,
+      "active_pitcher_name": "Dylan Dodd",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:49:51.340463-04:00"
+      "last_checked_at": "2026-08-19T15:13:16.154757-04:00"
     },
     "824640": {
-      "active_pitcher_id": 656794,
-      "active_pitcher_name": "Sean Newcomb",
+      "active_pitcher_id": 605280,
+      "active_pitcher_name": "Clay Holmes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:49:53.213183-04:00"
+      "last_checked_at": "2026-08-19T15:13:18.689134-04:00"
     }
   }
 }
