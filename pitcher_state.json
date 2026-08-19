@@ -1,43 +1,5 @@
 {
   "2026-08-19": {
-    "824722": {
-      "away_team": "Arizona Diamondbacks",
-      "home_team": "Boston Red Sox",
-      "away_pitcher": "Brandon Pfaadt",
-      "home_pitcher": "Payton Tolle",
-      "away_pitcher_id": "694297",
-      "home_pitcher_id": "801139",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 1,
-        "era": "3.11",
-        "whip": "1.13",
-        "strikeouts": 61,
-        "innings_pitched": "92.2",
-        "games_started": 12
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 8,
-        "losses": 6,
-        "era": "2.97",
-        "whip": "1.06",
-        "strikeouts": 128,
-        "innings_pitched": "115.0",
-        "games_started": 20
-      },
-      "game_time": "Aug 19, 4:10 PM ET",
-      "game_iso": "2026-08-19T16:10:00-04:00",
-      "game_pk": "824722",
-      "status_code": "P"
-    },
     "823424": {
       "away_team": "Miami Marlins",
       "home_team": "Philadelphia Phillies",
@@ -293,7 +255,7 @@
       "game_time": "Aug 19, 7:40 PM ET",
       "game_iso": "2026-08-19T19:40:00-04:00",
       "game_pk": "823748",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822860": {
       "away_team": "Washington Nationals",
@@ -331,7 +293,7 @@
       "game_time": "Aug 19, 8:05 PM ET",
       "game_iso": "2026-08-19T20:05:00-04:00",
       "game_pk": "822860",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824155": {
       "away_team": "Los Angeles Angels",
@@ -360,7 +322,7 @@
       "game_time": "Aug 19, 8:10 PM ET",
       "game_iso": "2026-08-19T20:10:00-04:00",
       "game_pk": "824155",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824318": {
       "away_team": "Los Angeles Dodgers",
