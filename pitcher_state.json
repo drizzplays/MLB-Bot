@@ -1,43 +1,5 @@
 {
   "2026-08-19": {
-    "823424": {
-      "away_team": "Miami Marlins",
-      "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Sandy Alcantara",
-      "home_pitcher": "Aaron Nola",
-      "away_pitcher_id": "645261",
-      "home_pitcher_id": "605400",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 13,
-        "losses": 7,
-        "era": "3.43",
-        "whip": "1.17",
-        "strikeouts": 130,
-        "innings_pitched": "170.2",
-        "games_started": 26
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 4,
-        "losses": 9,
-        "era": "5.33",
-        "whip": "1.45",
-        "strikeouts": 138,
-        "innings_pitched": "130.0",
-        "games_started": 25
-      },
-      "game_time": "Aug 19, 6:05 PM ET",
-      "game_iso": "2026-08-19T18:05:00-04:00",
-      "game_pk": "823424",
-      "status_code": "P"
-    },
     "824801": {
       "away_team": "New York Yankees",
       "home_team": "Baltimore Orioles",
