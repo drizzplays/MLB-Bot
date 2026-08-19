@@ -112,7 +112,7 @@
       "game_time": "Aug 19, 6:35 PM ET",
       "game_iso": "2026-08-19T18:35:00-04:00",
       "game_pk": "824801",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824394": {
       "away_team": "San Francisco Giants",
@@ -246,7 +246,7 @@
       "game_time": "Aug 19, 7:40 PM ET",
       "game_iso": "2026-08-19T19:40:00-04:00",
       "game_pk": "824076",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823748": {
       "away_team": "Seattle Mariners",
