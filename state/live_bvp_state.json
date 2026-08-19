@@ -7,6 +7,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-19T15:13:11.257177-04:00"
     },
+    "823424": {
+      "active_pitcher_id": 605400,
+      "active_pitcher_name": "Aaron Nola",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T17:55:49.804753-04:00"
+    },
     "823587": {
       "active_pitcher_id": 673513,
       "active_pitcher_name": "Yuki Matsui",
@@ -26,10 +32,10 @@
       "last_checked_at": "2026-08-19T16:39:55.056662-04:00"
     },
     "824722": {
-      "active_pitcher_id": 801139,
-      "active_pitcher_name": "Payton Tolle",
+      "active_pitcher_id": 669711,
+      "active_pitcher_name": "Greg Weissert",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T17:00:24.210592-04:00"
+      "last_checked_at": "2026-08-19T17:55:47.708202-04:00"
     }
   }
 }
