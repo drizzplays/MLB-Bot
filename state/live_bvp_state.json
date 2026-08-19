@@ -1,4 +1,11 @@
 {
   "date": "2026-08-19",
-  "games": {}
+  "games": {
+    "823342": {
+      "active_pitcher_id": 695549,
+      "active_pitcher_name": "Jackson Jobe",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T12:49:22.685290-04:00"
+    }
+  }
 }
