@@ -14,7 +14,17 @@
         "Max Clark",
         "Hao-Yu Lee"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Spencer Horwitz",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Esmerlyn Valdez",
+        "Oneil Cruz",
+        "Nick Gonzales",
+        "Jacob Gonzalez",
+        "Jared Triolo",
+        "Henry Davis"
+      ],
       "away_roster": [
         "Corey Julks",
         "Framber Valdez",
@@ -56,8 +66,8 @@
         "Gregory Soto",
         "Luke Weaver",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Yohan Ram\u00edrez",
         "Bubba Chandler",
@@ -89,7 +99,17 @@
         "Xander Bogaerts",
         "Sung-Mun Song"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Jared Young",
+        "Francisco Alvarez",
+        "Brett Baty",
+        "Marcus Semien",
+        "Luis Torrens"
+      ],
       "away_roster": [
         "Luis Rengifo",
         "Luis Campusano",
@@ -131,19 +151,19 @@
         "Carson Benge",
         "Nate Lavender",
         "Cristian Pache",
+        "Eric Wagaman",
         "Dedniel N\u00fa\u00f1ez",
-        "Jack Weisenburger",
         "Kodai Senga",
         "Daniel Duarte",
         "Marcus Semien",
+        "Chayce McDermott",
         "Jonathan Pintaro",
         "Francisco Lindor",
         "Christian Scott",
-        "Jorge Polanco",
         "Nolan McLean",
         "Zac Thornton",
-        "Luis Robert Jr.",
         "Jared Young",
+        "Luis Robert Jr.",
         "A.J. Ewing"
       ],
       "game_time": "Aug 19, 1:10 PM ET",
@@ -218,7 +238,17 @@
     "Chicago White Sox @ Chicago Cubs | 824640": {
       "away_team": "Chicago White Sox",
       "home_team": "Chicago Cubs",
-      "away_lineup": [],
+      "away_lineup": [
+        "Sam Antonacci",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Andrew Benintendi",
+        "Braden Montgomery",
+        "Colson Montgomery",
+        "Chase Meidroth",
+        "Tristan Peters",
+        "Jake Rogers"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Tristan Peters",
