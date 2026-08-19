@@ -2,22 +2,28 @@
   "date": "2026-08-19",
   "games": {
     "823342": {
-      "active_pitcher_id": 695549,
-      "active_pitcher_name": "Jackson Jobe",
+      "active_pitcher_id": 596133,
+      "active_pitcher_name": "Luke Weaver",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:01:31.523770-04:00"
+      "last_checked_at": "2026-08-19T14:49:47.065953-04:00"
     },
     "823587": {
-      "active_pitcher_id": 476594,
-      "active_pitcher_name": "Robert Stock",
+      "active_pitcher_id": 681320,
+      "active_pitcher_name": "Nate Lavender",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:01:34.138755-04:00"
+      "last_checked_at": "2026-08-19T14:49:49.240332-04:00"
     },
     "823664": {
-      "active_pitcher_id": 700363,
-      "active_pitcher_name": "AJ Smith-Shawver",
+      "active_pitcher_id": 671737,
+      "active_pitcher_name": "Taj Bradley",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T14:01:36.681689-04:00"
+      "last_checked_at": "2026-08-19T14:49:51.340463-04:00"
+    },
+    "824640": {
+      "active_pitcher_id": 656794,
+      "active_pitcher_name": "Sean Newcomb",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T14:49:53.213183-04:00"
     }
   }
 }
