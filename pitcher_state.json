@@ -36,7 +36,7 @@
       "game_time": "Aug 19, 12:35 PM ET",
       "game_iso": "2026-08-19T12:35:00-04:00",
       "game_pk": "823342",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823587": {
       "away_team": "San Diego Padres",
@@ -74,7 +74,7 @@
       "game_time": "Aug 19, 1:10 PM ET",
       "game_iso": "2026-08-19T13:10:00-04:00",
       "game_pk": "823587",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823664": {
       "away_team": "Atlanta Braves",
