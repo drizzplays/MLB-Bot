@@ -1109,12 +1109,12 @@
       "away_team": "Los Angeles Angels",
       "home_team": "Houston Astros",
       "away_lineup": [
-        "Wade Meckler",
+        "Jose Siri",
         "Mike Trout",
         "Nolan Schanuel",
         "Zach Neto",
         "Mois\u00e9s Ballesteros",
-        "Vaughn Grissom",
+        "Oswald Peraza",
         "Josh Lowe",
         "Denzer Guzman",
         "Tyler Heineman"
@@ -1132,8 +1132,8 @@
       ],
       "away_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
         "Travis d'Arnaud",
         "Ryan Johnson",
@@ -1201,19 +1201,19 @@
         "Mookie Betts",
         "Tommy Edman",
         "Kyle Tucker",
-        "Teoscar Hern\u00e1ndez",
-        "Hunter Feduccia"
+        "Enrique Hern\u00e1ndez",
+        "Ben Rortvedt"
       ],
       "home_lineup": [
         "Jake McCarthy",
         "Cole Carrigg",
         "Willi Castro",
         "TJ Rumfield",
-        "Connor Norby",
+        "Zac Veen",
         "Mickey Moniak",
-        "Jordan Beck",
-        "Braxton Fulford",
-        "Ezequiel Tovar"
+        "Adael Amador",
+        "Brett Sullivan",
+        "Troy Johnston"
       ],
       "away_roster": [
         "Ben Rortvedt",
@@ -1261,14 +1261,14 @@
         "Gabriel Hughes",
         "Tomoyuki Sugano",
         "Jordan Beck",
+        "Brett Sullivan",
         "Zach Agnos",
         "Tanner Gordon",
-        "Brett Sullivan",
         "Ezequiel Tovar",
         "TJ Rumfield",
         "Connor Norby",
-        "Jordan Romano",
         "Zac Veen",
+        "Jordan Romano",
         "Nick Frasso"
       ],
       "game_time": "Aug 18, 8:40 PM ET",
@@ -2099,7 +2099,6 @@
         "Peyton Gray",
         "Tyler Alexander",
         "Chase Silseth",
-        "Austin Wynns",
         "Joc Pederson",
         "Jacob Latz",
         "Corey Seager",
@@ -2111,6 +2110,7 @@
         "MacKenzie Gore",
         "Jacob deGrom",
         "Brandon Nimmo",
+        "Danny Jansen",
         "Jakob Junis",
         "Cody Freeman",
         "Elias D\u00edaz",
