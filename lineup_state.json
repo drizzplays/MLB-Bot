@@ -618,7 +618,7 @@
         "Christopher Morel",
         "Marcus Semien",
         "A.J. Ewing",
-        "Luis Torrens"
+        "Jared Young"
       ],
       "away_roster": [
         "Luis Rengifo",
@@ -690,20 +690,20 @@
         "Jonah Heim",
         "Tommy White",
         "Lawrence Butler",
-        "Max Muncy",
+        "Carlos Cortes",
         "Donovan Walton",
         "Darell Hernaiz"
       ],
       "home_lineup": [
-        "Nick Loftin",
+        "Isaac Collins",
         "Bobby Witt Jr.",
         "Jac Caglianone",
         "Maikel Garcia",
         "Vinnie Pasquantino",
-        "Salvador Perez",
+        "John Rave",
         "Michael Massey",
         "Carter Jensen",
-        "Kyle Isbel"
+        "Tyler Tolbert"
       ],
       "away_roster": [
         "Lawrence Butler",
@@ -735,8 +735,8 @@
       ],
       "home_roster": [
         "Carter Jensen",
-        "Mason Black",
         "Tyler Tolbert",
+        "Mason Black",
         "Isaac Collins",
         "Salvador Perez",
         "Nick Loftin",
@@ -787,7 +787,7 @@
         "Kody Clemens",
         "Royce Lewis",
         "Brooks Lee",
-        "Alan Roden",
+        "Ryan Kreidler",
         "Kaelen Culpepper"
       ],
       "away_roster": [
@@ -854,20 +854,20 @@
       "away_team": "Seattle Mariners",
       "home_team": "Milwaukee Brewers",
       "away_lineup": [
-        "Brendan Donovan",
+        "Weston Wilson",
         "Randy Arozarena",
         "Dominic Canzone",
         "Julio Rodr\u00edguez",
         "Josh Naylor",
         "Cole Young",
-        "Cal Raleigh",
+        "Jhonny Pereda",
         "Victor Robles",
         "Brock Rodden"
       ],
       "home_lineup": [
-        "Brice Turang",
-        "Jackson Chourio",
-        "Jake Bauers",
+        "Brandon Lockridge",
+        "Andrew Vaughn",
+        "Jonathan Ornelas",
         "William Contreras",
         "Christian Yelich",
         "Luis Lara",
@@ -917,8 +917,8 @@
         "Kyle Harrison",
         "Garrett Mitchell",
         "Aaron Ashby",
-        "David Hamilton",
         "Jonathan Ornelas",
+        "David Hamilton",
         "William Contreras",
         "Brice Turang",
         "Robert Gasser",
@@ -940,17 +940,17 @@
       "home_team": "Texas Rangers",
       "away_lineup": [
         "CJ Abrams",
-        "Abimelec Ortiz",
-        "Brady House",
+        "Andr\u00e9s Chaparro",
+        "Jos\u00e9 Tena",
         "Daylen Lile",
         "Dylan Crews",
-        "Jorbit Vivas",
+        "Andrew Pinckney",
         "Harry Ford",
         "Nasim Nu\u00f1ez",
         "Jacob Young"
       ],
       "home_lineup": [
-        "Wyatt Langford",
+        "Jarred Kelenic",
         "Corey Seager",
         "Jake Burger",
         "Brandon Nimmo",
@@ -973,8 +973,8 @@
         "Max Kranick",
         "Clayton Beeter",
         "Brad Lord",
-        "Daylen Lile",
         "Jos\u00e9 Tena",
+        "Daylen Lile",
         "Cade Cavalli",
         "Harry Ford",
         "Jacob Young",
@@ -1011,8 +1011,8 @@
         "Jakob Junis",
         "Cody Freeman",
         "Elias D\u00edaz",
-        "Cody Bradford",
         "Jarred Kelenic",
+        "Cody Bradford",
         "Jordan Montgomery",
         "Cole Winn"
       ],
@@ -1042,7 +1042,7 @@
         "Nico Hoerner",
         "Pedro Ram\u00edrez",
         "Ian Happ",
-        "Miguel Amaya",
+        "Carson Kelly",
         "Michael Conforto"
       ],
       "away_roster": [
@@ -1741,6 +1741,7 @@
         "JT Brubaker",
         "Jonah Cox",
         "Dylan Smith",
+        "Matt Wilkinson",
         "Drew Cavanaugh",
         "Andrew Knizner",
         "Victor Bericoto",
@@ -1778,7 +1779,7 @@
         "Matt Festa",
         "Jo Adell",
         "Colin Holderman",
-        "Franco Aleman",
+        "Logan Allen",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
