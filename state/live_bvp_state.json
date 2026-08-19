@@ -31,17 +31,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-19T16:01:39.517511-04:00"
     },
-    "824394": {
-      "active_pitcher_id": 683363,
-      "active_pitcher_name": "Matt Wilkinson",
+    "823748": {
+      "active_pitcher_id": 669160,
+      "active_pitcher_name": "Dustin May",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:03:17.739554-04:00"
+      "last_checked_at": "2026-08-19T19:33:13.130541-04:00"
+    },
+    "824076": {
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T19:33:11.014383-04:00"
+    },
+    "824394": {
+      "active_pitcher_id": 605288,
+      "active_pitcher_name": "Adrian Houser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T19:33:04.054332-04:00"
     },
     "824476": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 695505,
+      "active_pitcher_name": "Chase Burns",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:03:20.255194-04:00"
+      "last_checked_at": "2026-08-19T19:33:08.690925-04:00"
     },
     "824640": {
       "active_pitcher_id": 650644,
@@ -56,10 +68,10 @@
       "last_checked_at": "2026-08-19T19:03:12.580641-04:00"
     },
     "824801": {
-      "active_pitcher_id": 605135,
-      "active_pitcher_name": "Chris Bassitt",
+      "active_pitcher_id": 701542,
+      "active_pitcher_name": "Will Warren",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:03:15.229081-04:00"
+      "last_checked_at": "2026-08-19T19:33:01.878682-04:00"
     }
   }
 }
