@@ -96,7 +96,7 @@
         "Jackson Merrill",
         "Luis Rengifo",
         "Luis Campusano",
-        "Jase Bowen",
+        "Gavin Sheets",
         "Sung-Mun Song"
       ],
       "home_lineup": [
@@ -513,7 +513,17 @@
     "New York Yankees @ Baltimore Orioles | 824801": {
       "away_team": "New York Yankees",
       "home_team": "Baltimore Orioles",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trent Grisham",
+        "Ben Rice",
+        "Luis Garc\u00eda Jr.",
+        "Heliot Ramos",
+        "Jazz Chisholm Jr.",
+        "Spencer Jones",
+        "Ryan McMahon",
+        "George Lombard Jr.",
+        "Austin Wells"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Paul Blackburn",
@@ -739,7 +749,17 @@
     "Toronto Blue Jays @ Tampa Bay Rays | 822937": {
       "away_team": "Toronto Blue Jays",
       "home_team": "Tampa Bay Rays",
-      "away_lineup": [],
+      "away_lineup": [
+        "Brett Bateman",
+        "Nathan Lukes",
+        "Alejandro Kirk",
+        "Kazuma Okamoto",
+        "Andr\u00e9s Gim\u00e9nez",
+        "Jes\u00fas S\u00e1nchez",
+        "Josh Smith",
+        "Brandon Valenzuela",
+        "Charles McAdoo"
+      ],
       "home_lineup": [
         "Chandler Simpson",
         "Junior Caminero",
@@ -771,8 +791,8 @@
         "George Springer",
         "Mason Fluharty",
         "Braydon Fisher",
-        "Tyler Rogers",
         "Josh Smith",
+        "Tyler Rogers",
         "Daz Cameron",
         "Jes\u00fas S\u00e1nchez",
         "Myles Straw",
