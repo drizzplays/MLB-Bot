@@ -8,7 +8,7 @@
         "Gleyber Torres",
         "Kevin McGonigle",
         "Dillon Dingler",
-        "Brett Callahan",
+        "Ben Malgeri",
         "Zach McKinstry",
         "Spencer Torkelson",
         "Max Clark",
@@ -419,7 +419,17 @@
       "away_team": "Miami Marlins",
       "home_team": "Philadelphia Phillies",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Alec Bohm",
+        "Bryson Stott",
+        "Brandon Marsh",
+        "Justin Crawford",
+        "Garrett Stubbs"
+      ],
       "away_roster": [
         "Josh Ekness",
         "Tyler Zuber",
@@ -471,8 +481,8 @@
         "Alex McFarlane",
         "Aaron Nola",
         "Brooks Raley",
-        "Luis Arraez",
         "Trea Turner",
+        "Luis Arraez",
         "Derek Hill",
         "Andrew Painter"
       ],
