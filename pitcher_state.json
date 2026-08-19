@@ -1,43 +1,5 @@
 {
   "2026-08-19": {
-    "823664": {
-      "away_team": "Atlanta Braves",
-      "home_team": "Minnesota Twins",
-      "away_pitcher": "AJ Smith-Shawver",
-      "home_pitcher": "Taj Bradley",
-      "away_pitcher_id": "700363",
-      "home_pitcher_id": "671737",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 0,
-        "era": "4.15",
-        "whip": "1.38",
-        "strikeouts": 4,
-        "innings_pitched": "4.1",
-        "games_started": 1
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 5,
-        "era": "3.98",
-        "whip": "1.29",
-        "strikeouts": 151,
-        "innings_pitched": "135.2",
-        "games_started": 24
-      },
-      "game_time": "Aug 19, 1:40 PM ET",
-      "game_iso": "2026-08-19T13:40:00-04:00",
-      "game_pk": "823664",
-      "status_code": "P"
-    },
     "824640": {
       "away_team": "Chicago White Sox",
       "home_team": "Chicago Cubs",
