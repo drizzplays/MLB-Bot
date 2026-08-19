@@ -1,43 +1,5 @@
 {
   "2026-08-19": {
-    "824640": {
-      "away_team": "Chicago White Sox",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Sean Newcomb",
-      "home_pitcher": "Clay Holmes",
-      "away_pitcher_id": "656794",
-      "home_pitcher_id": "605280",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 1,
-        "losses": 3,
-        "era": "2.51",
-        "whip": "1.10",
-        "strikeouts": 64,
-        "innings_pitched": "68.0",
-        "games_started": 2
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 5,
-        "era": "2.56",
-        "whip": "1.07",
-        "strikeouts": 49,
-        "innings_pitched": "63.1",
-        "games_started": 11
-      },
-      "game_time": "Aug 19, 2:20 PM ET",
-      "game_iso": "2026-08-19T14:20:00-04:00",
-      "game_pk": "824640",
-      "status_code": "P"
-    },
     "824722": {
       "away_team": "Arizona Diamondbacks",
       "home_team": "Boston Red Sox",
@@ -112,7 +74,7 @@
       "game_time": "Aug 19, 6:05 PM ET",
       "game_iso": "2026-08-19T18:05:00-04:00",
       "game_pk": "823424",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824801": {
       "away_team": "New York Yankees",
@@ -217,7 +179,7 @@
       "game_time": "Aug 19, 6:40 PM ET",
       "game_iso": "2026-08-19T18:40:00-04:00",
       "game_pk": "824476",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822937": {
       "away_team": "Toronto Blue Jays",
