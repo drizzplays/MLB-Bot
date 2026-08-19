@@ -141,7 +141,7 @@
       "game_time": "Aug 19, 6:40 PM ET",
       "game_iso": "2026-08-19T18:40:00-04:00",
       "game_pk": "824394",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824476": {
       "away_team": "St. Louis Cardinals",
@@ -217,23 +217,32 @@
       "game_time": "Aug 19, 6:40 PM ET",
       "game_iso": "2026-08-19T18:40:00-04:00",
       "game_pk": "822937",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824076": {
       "away_team": "Athletics",
       "home_team": "Kansas City Royals",
       "away_pitcher": "TBD",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Seth Lugo",
       "away_pitcher_id": null,
-      "home_pitcher_id": null,
+      "home_pitcher_id": "607625",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "tbd",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": null,
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 5,
+        "losses": 7,
+        "era": "4.59",
+        "whip": "1.38",
+        "strikeouts": 108,
+        "innings_pitched": "139.1",
+        "games_started": 25
+      },
       "game_time": "Aug 19, 7:40 PM ET",
       "game_iso": "2026-08-19T19:40:00-04:00",
       "game_pk": "824076",
