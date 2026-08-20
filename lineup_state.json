@@ -8,11 +8,11 @@
         "Iv\u00e1n Herrera",
         "Alec Burleson",
         "Jordan Walker",
-        "Joshua B\u00e1ez",
-        "Nathan Church",
-        "Bryan Torres",
+        "Pedro Pag\u00e9s",
+        "Jos\u00e9 Ferm\u00edn",
+        "Masyn Winn",
         "Blaze Jordan",
-        "Jimmy Crooks"
+        "Everson Pereira"
       ],
       "home_lineup": [
         "Elly De La Cruz",
@@ -23,7 +23,7 @@
         "Michael Toglia",
         "Dane Myers",
         "TJ Friedl",
-        "Ke'Bryan Hayes"
+        "Eugenio Su\u00e1rez"
       ],
       "away_roster": [
         "Michael McGreevy",
@@ -42,8 +42,8 @@
         "Riley O'Brien",
         "Andre Pallante",
         "George Soriano",
-        "Matthew Liberatore",
         "Pedro Pag\u00e9s",
+        "Matthew Liberatore",
         "Ryne Stanek",
         "Joshua B\u00e1ez",
         "Luis Gastelum",
@@ -89,19 +89,19 @@
       "away_team": "San Francisco Giants",
       "home_team": "Cleveland Guardians",
       "away_lineup": [
-        "Drew Gilbert",
+        "Andrew Knizner",
         "Rafael Devers",
         "Willy Adames",
         "Bryce Eldridge",
         "Jung Hoo Lee",
         "Osleivis Basabe",
         "Victor Bericoto",
-        "Drew Cavanaugh",
+        "Jonah Cox",
         "Christian Koss"
       ],
       "home_lineup": [
         "Steven Kwan",
-        "Travis Bazzana",
+        "Jo Adell",
         "Jos\u00e9 Ram\u00edrez",
         "Nathaniel Lowe",
         "Angel Genao",
@@ -111,8 +111,8 @@
         "Brayan Rocchio"
       ],
       "away_roster": [
-        "JT Brubaker",
         "Jonah Cox",
+        "JT Brubaker",
         "Dylan Smith",
         "Matt Wilkinson",
         "Drew Cavanaugh",
@@ -514,12 +514,23 @@
       "away_team": "New York Yankees",
       "home_team": "Baltimore Orioles",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jackson Holliday",
+        "Pete Alonso",
+        "Gunnar Henderson",
+        "Samuel Basallo",
+        "Christian Encarnacion-Strand",
+        "Dylan Beavers",
+        "Leody Taveras",
+        "Colton Cowser",
+        "Carlos Narv\u00e1ez"
+      ],
       "away_roster": [
         "Paul Blackburn",
         "Ali S\u00e1nchez",
         "Heliot Ramos",
         "Jos\u00e9 Caballero",
+        "Carlos Rod\u00f3n",
         "Spencer Jones",
         "Ryan Yarbrough",
         "Amed Rosario",
@@ -534,7 +545,6 @@
         "Will Warren",
         "Fernando Cruz",
         "Jazz Chisholm Jr.",
-        "Max Fried",
         "Yerry De los Santos",
         "Trent Grisham",
         "David Bednar",
@@ -544,7 +554,7 @@
         "Cam Schlittler"
       ],
       "home_roster": [
-        "Jeremiah Jackson",
+        "Samuel Basallo",
         "Trevor Rogers",
         "Rico Garcia",
         "Brandon Young",
@@ -565,8 +575,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
