@@ -533,7 +533,7 @@
         "Dylan Beavers",
         "Leody Taveras",
         "Colton Cowser",
-        "Yohel Pozo"
+        "Christian Encarnacion-Strand"
       ],
       "away_roster": [
         "Paul Blackburn",
@@ -585,8 +585,8 @@
         "Carlos Narv\u00e1ez",
         "Andrew Kittredge",
         "Grant Wolfram",
-        "Yennier Cano",
         "Christian Encarnacion-Strand",
+        "Yennier Cano",
         "Colton Cowser",
         "Coby Mayo",
         "Cam Sanders"
@@ -941,7 +941,7 @@
       "away_lineup": [
         "Brendan Donovan",
         "Randy Arozarena",
-        "Dominic Canzone",
+        "Victor Robles",
         "Julio Rodr\u00edguez",
         "Josh Naylor",
         "Cole Young",
@@ -1026,12 +1026,12 @@
       "away_lineup": [
         "CJ Abrams",
         "Abimelec Ortiz",
-        "Jos\u00e9 Tena",
+        "Dylan Crews",
         "Daylen Lile",
         "Andr\u00e9s Chaparro",
         "Keibert Ruiz",
         "Jacob Young",
-        "Jorbit Vivas",
+        "Brady House",
         "Nasim Nu\u00f1ez"
       ],
       "home_lineup": [
@@ -1040,7 +1040,7 @@
         "Wyatt Langford",
         "Brandon Nimmo",
         "Ezequiel Duran",
-        "Evan Carter",
+        "Cody Freeman",
         "Jarred Kelenic",
         "Elias D\u00edaz",
         "Nicky Lopez"
@@ -1109,7 +1109,7 @@
       "away_team": "Los Angeles Angels",
       "home_team": "Houston Astros",
       "away_lineup": [
-        "Wade Meckler",
+        "Jose Siri",
         "Mike Trout",
         "Nolan Schanuel",
         "Zach Neto",
@@ -1124,7 +1124,7 @@
         "Yordan Alvarez",
         "Isaac Paredes",
         "Jose Altuve",
-        "LaMonte Wade Jr.",
+        "Daulton Varsho",
         "Cam Smith",
         "Christian Walker",
         "Taylor Trammell",
@@ -1132,8 +1132,8 @@
       ],
       "away_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
         "Travis d'Arnaud",
         "Ryan Johnson",
@@ -1166,8 +1166,8 @@
         "Hayden Wesneski",
         "Hunter Brown",
         "Josh Hader",
-        "Enyel De Los Santos",
         "Daulton Varsho",
+        "Enyel De Los Santos",
         "Steven Okert",
         "AJ Blubaugh",
         "Ethan Pecko",
@@ -1328,10 +1328,11 @@
         "Jose Trevino",
         "Tyler Stephenson",
         "Eugenio Su\u00e1rez",
+        "Zach McCambley",
         "Nick Lodolo",
         "Sam Moll",
-        "Ron Marinaccio",
         "JJ Bleday",
+        "Kent Emanuel",
         "Brock Burke",
         "Julian Garcia",
         "Andrew Abbott",
@@ -1444,6 +1445,7 @@
         "Taylor Walls",
         "Tyler Wells",
         "Steven Matz",
+        "Shane McClanahan",
         "Richie Palacios",
         "Jorge Mateo",
         "Ryan Vilade",
@@ -1465,8 +1467,7 @@
         "Victor Mesa Jr.",
         "Junior Caminero",
         "Drew Rasmussen",
-        "Cedric Mullins",
-        "Joe Boyle"
+        "Cedric Mullins"
       ],
       "game_time": "Aug 20, 1:10 PM ET",
       "game_iso": "2026-08-20T13:10:00-04:00",
