@@ -2,10 +2,10 @@
   "date": "2026-08-20",
   "games": {
     "822934": {
-      "active_pitcher_id": 669456,
-      "active_pitcher_name": "Shane Bieber",
+      "active_pitcher_id": 688297,
+      "active_pitcher_name": "Chris Roycroft",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T14:51:41.946344-04:00"
+      "last_checked_at": "2026-08-20T15:26:58.229456-04:00"
     },
     "823747": {
       "active_pitcher_id": 688107,
@@ -20,22 +20,22 @@
       "last_checked_at": "2026-08-20T14:01:15.334098-04:00"
     },
     "824395": {
-      "active_pitcher_id": 694738,
-      "active_pitcher_name": "Landen Roupp",
+      "active_pitcher_id": 683769,
+      "active_pitcher_name": "Hunter Gaddis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T14:51:39.787697-04:00"
+      "last_checked_at": "2026-08-20T15:26:55.281348-04:00"
     },
     "824474": {
-      "active_pitcher_id": 657265,
-      "active_pitcher_name": "Peter Strzelecki",
+      "active_pitcher_id": 666277,
+      "active_pitcher_name": "George Soriano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T14:51:37.136689-04:00"
+      "last_checked_at": "2026-08-20T15:26:52.809093-04:00"
     },
     "824589": {
-      "active_pitcher_id": 656550,
-      "active_pitcher_name": "Grant Holmes",
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T14:51:44.196546-04:00"
+      "last_checked_at": "2026-08-20T15:27:01.018632-04:00"
     }
   }
 }
