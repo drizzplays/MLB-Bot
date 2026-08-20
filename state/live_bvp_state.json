@@ -2,16 +2,16 @@
   "date": "2026-08-19",
   "games": {
     "822860": {
-      "active_pitcher_id": 677958,
-      "active_pitcher_name": "Kumar Rocker",
+      "active_pitcher_id": 676917,
+      "active_pitcher_name": "Cade Cavalli",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:54:24.410050-04:00"
+      "last_checked_at": "2026-08-19T20:59:00.375063-04:00"
     },
     "822937": {
-      "active_pitcher_id": 656876,
-      "active_pitcher_name": "Drew Rasmussen",
+      "active_pitcher_id": 669330,
+      "active_pitcher_name": "Tyler Wells",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:03:22.732401-04:00"
+      "last_checked_at": "2026-08-19T20:58:55.998152-04:00"
     },
     "823342": {
       "active_pitcher_id": 682254,
@@ -38,10 +38,10 @@
       "last_checked_at": "2026-08-19T16:01:39.517511-04:00"
     },
     "823748": {
-      "active_pitcher_id": 669160,
-      "active_pitcher_name": "Dustin May",
+      "active_pitcher_id": 669084,
+      "active_pitcher_name": "DL Hall",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:33:13.130541-04:00"
+      "last_checked_at": "2026-08-19T20:58:58.281552-04:00"
     },
     "824076": {
       "active_pitcher_id": 605488,
@@ -49,17 +49,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-19T19:54:22.037760-04:00"
     },
-    "824394": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+    "824155": {
+      "active_pitcher_id": 814490,
+      "active_pitcher_name": "Ethan Pecko",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:54:17.371692-04:00"
+      "last_checked_at": "2026-08-19T20:59:02.872815-04:00"
+    },
+    "824318": {
+      "active_pitcher_id": 607536,
+      "active_pitcher_name": "Kyle Freeland",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T20:59:05.313029-04:00"
+    },
+    "824394": {
+      "active_pitcher_id": 681916,
+      "active_pitcher_name": "Dylan Smith",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-19T20:58:51.367252-04:00"
     },
     "824476": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
+      "active_pitcher_id": 682825,
+      "active_pitcher_name": "Luis Mey",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:54:19.675790-04:00"
+      "last_checked_at": "2026-08-19T20:58:53.854982-04:00"
     },
     "824640": {
       "active_pitcher_id": 650644,
@@ -74,10 +86,10 @@
       "last_checked_at": "2026-08-19T19:03:12.580641-04:00"
     },
     "824801": {
-      "active_pitcher_id": 605135,
-      "active_pitcher_name": "Chris Bassitt",
+      "active_pitcher_id": 687396,
+      "active_pitcher_name": "Brent Headrick",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-19T19:54:15.068013-04:00"
+      "last_checked_at": "2026-08-19T20:58:49.120062-04:00"
     }
   }
 }
