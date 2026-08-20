@@ -36,6 +36,12 @@
       "active_pitcher_name": "Trevor Richards",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-20T16:23:02.269516-04:00"
+    },
+    "824802": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T18:53:22.822964-04:00"
     }
   }
 }
