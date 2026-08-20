@@ -442,7 +442,7 @@
       "home_lineup": [
         "Kyle Schwarber",
         "Trea Turner",
-        "Bryce Harper",
+        "Derek Hill",
         "Luis Arraez",
         "Alec Bohm",
         "Bryson Stott",
@@ -520,7 +520,7 @@
         "Heliot Ramos",
         "Jazz Chisholm Jr.",
         "Spencer Jones",
-        "Ryan McMahon",
+        "Jos\u00e9 Caballero",
         "George Lombard Jr.",
         "Austin Wells"
       ],
@@ -533,7 +533,7 @@
         "Dylan Beavers",
         "Leody Taveras",
         "Colton Cowser",
-        "Carlos Narv\u00e1ez"
+        "Yohel Pozo"
       ],
       "away_roster": [
         "Paul Blackburn",
@@ -603,7 +603,7 @@
         "Rafael Devers",
         "Willy Adames",
         "Bryce Eldridge",
-        "Victor Bericoto",
+        "Drew Gilbert",
         "Jung Hoo Lee",
         "Osleivis Basabe",
         "Drew Cavanaugh",
@@ -617,7 +617,7 @@
         "Travis Bazzana",
         "Angel Genao",
         "Petey Halpin",
-        "Austin Hedges",
+        "Patrick Bailey",
         "Brayan Rocchio"
       ],
       "away_roster": [
@@ -634,8 +634,8 @@
         "Keaton Winn",
         "Jason Foley",
         "Carson Seymour",
-        "Jung Hoo Lee",
         "Drew Gilbert",
+        "Jung Hoo Lee",
         "Sam Hentges",
         "Rafael Devers",
         "Carson Whisenhunt",
@@ -688,9 +688,9 @@
         "Iv\u00e1n Herrera",
         "Alec Burleson",
         "Jordan Walker",
-        "Nathan Church",
+        "Jos\u00e9 Ferm\u00edn",
         "Masyn Winn",
-        "Bryan Torres",
+        "Joshua B\u00e1ez",
         "Blaze Jordan",
         "Jimmy Crooks"
       ],
@@ -698,9 +698,9 @@
         "Elly De La Cruz",
         "Sal Stewart",
         "Dane Myers",
-        "Eugenio Su\u00e1rez",
+        "Ke'Bryan Hayes",
         "Tyler Stephenson",
-        "Michael Toglia",
+        "TJ Friedl",
         "JJ Bleday",
         "Jose Trevino",
         "Matt McLain"
@@ -769,12 +769,12 @@
       "away_team": "Toronto Blue Jays",
       "home_team": "Tampa Bay Rays",
       "away_lineup": [
-        "Brett Bateman",
+        "George Springer",
         "Nathan Lukes",
         "Alejandro Kirk",
         "Kazuma Okamoto",
         "Andr\u00e9s Gim\u00e9nez",
-        "Jes\u00fas S\u00e1nchez",
+        "Daz Cameron",
         "Josh Smith",
         "Brandon Valenzuela",
         "Charles McAdoo"
@@ -786,7 +786,7 @@
         "Yandy D\u00edaz",
         "Liam Hicks",
         "Cedric Mullins",
-        "Ryan Vilade",
+        "Jonny DeLuca",
         "Richie Palacios",
         "Taylor Walls"
       ],
@@ -806,8 +806,8 @@
         "Brett Bateman",
         "Paul Sewald",
         "Nathan Lukes",
-        "Max Scherzer",
         "George Springer",
+        "Max Scherzer",
         "Mason Fluharty",
         "Braydon Fisher",
         "Josh Smith",
@@ -865,9 +865,9 @@
         "Max Muncy"
       ],
       "home_lineup": [
-        "Nick Loftin",
+        "Isaac Collins",
         "Bobby Witt Jr.",
-        "Jac Caglianone",
+        "John Rave",
         "Maikel Garcia",
         "Vinnie Pasquantino",
         "Salvador Perez",
@@ -1120,7 +1120,7 @@
         "Oswald Peraza"
       ],
       "home_lineup": [
-        "Jeremy Pe\u00f1a",
+        "Nick Allen",
         "Yordan Alvarez",
         "Isaac Paredes",
         "Jose Altuve",
@@ -1328,11 +1328,10 @@
         "Jose Trevino",
         "Tyler Stephenson",
         "Eugenio Su\u00e1rez",
-        "Zach McCambley",
         "Nick Lodolo",
         "Sam Moll",
+        "Ron Marinaccio",
         "JJ Bleday",
-        "Kent Emanuel",
         "Brock Burke",
         "Julian Garcia",
         "Andrew Abbott",
@@ -1445,7 +1444,6 @@
         "Taylor Walls",
         "Tyler Wells",
         "Steven Matz",
-        "Shane McClanahan",
         "Richie Palacios",
         "Jorge Mateo",
         "Ryan Vilade",
@@ -1467,7 +1465,8 @@
         "Victor Mesa Jr.",
         "Junior Caminero",
         "Drew Rasmussen",
-        "Cedric Mullins"
+        "Cedric Mullins",
+        "Joe Boyle"
       ],
       "game_time": "Aug 20, 1:10 PM ET",
       "game_iso": "2026-08-20T13:10:00-04:00",
