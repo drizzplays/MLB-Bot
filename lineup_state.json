@@ -513,7 +513,17 @@
     "New York Yankees @ Baltimore Orioles | 824802": {
       "away_team": "New York Yankees",
       "home_team": "Baltimore Orioles",
-      "away_lineup": [],
+      "away_lineup": [
+        "Trent Grisham",
+        "Ben Rice",
+        "Heliot Ramos",
+        "Luis Garc\u00eda Jr.",
+        "Jazz Chisholm Jr.",
+        "George Lombard Jr.",
+        "Spencer Jones",
+        "Austin Wells",
+        "Jos\u00e9 Caballero"
+      ],
       "home_lineup": [
         "Jackson Holliday",
         "Pete Alonso",
@@ -589,7 +599,17 @@
       "away_team": "Washington Nationals",
       "home_team": "Texas Rangers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Wyatt Langford",
+        "Corey Seager",
+        "Jake Burger",
+        "Brandon Nimmo",
+        "Ezequiel Duran",
+        "Justin Foscue",
+        "Danny Jansen",
+        "Cody Freeman",
+        "Evan Carter"
+      ],
       "away_roster": [
         "Brady House",
         "Will Dion",
@@ -631,8 +651,8 @@
         "Corey Seager",
         "Cal Quantrill",
         "Nicky Lopez",
-        "Robby Ahlstrom",
         "Justin Foscue",
+        "Robby Ahlstrom",
         "Ezequiel Duran",
         "MacKenzie Gore",
         "Jacob deGrom",
