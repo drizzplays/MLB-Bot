@@ -362,8 +362,8 @@
         "Braden Montgomery",
         "Colson Montgomery",
         "Chase Meidroth",
-        "Tristan Peters",
-        "Drew Romo"
+        "Brenton Doyle",
+        "Jake Rogers"
       ],
       "away_roster": [
         "Dylan Dodd",
@@ -598,7 +598,17 @@
     "Washington Nationals @ Texas Rangers | 822861": {
       "away_team": "Washington Nationals",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Daylen Lile",
+        "Abimelec Ortiz",
+        "Andr\u00e9s Chaparro",
+        "Jos\u00e9 Tena",
+        "Brady House",
+        "Keibert Ruiz",
+        "Dylan Crews",
+        "Nasim Nu\u00f1ez",
+        "Andrew Pinckney"
+      ],
       "home_lineup": [
         "Wyatt Langford",
         "Corey Seager",
@@ -612,10 +622,10 @@
       ],
       "away_roster": [
         "Brady House",
-        "Will Dion",
         "Abimelec Ortiz",
-        "CJ Abrams",
+        "Will Dion",
         "Nasim Nu\u00f1ez",
+        "CJ Abrams",
         "Andr\u00e9s Chaparro",
         "Jorbit Vivas",
         "Dylan Crews",
@@ -632,8 +642,8 @@
         "Jake Irvin",
         "Orlando Ribalta",
         "Jake Bird",
-        "Andrew Pinckney",
         "Keibert Ruiz",
+        "Andrew Pinckney",
         "Tom Cosgrove",
         "Jackson Kent",
         "Andrew Alvarez"
@@ -673,7 +683,17 @@
     "Los Angeles Angels @ Houston Astros | 824153": {
       "away_team": "Los Angeles Angels",
       "home_team": "Houston Astros",
-      "away_lineup": [],
+      "away_lineup": [
+        "Wade Meckler",
+        "Mike Trout",
+        "Nolan Schanuel",
+        "Zach Neto",
+        "Mois\u00e9s Ballesteros",
+        "Vaughn Grissom",
+        "Josh Lowe",
+        "Tyler Heineman",
+        "Adam Frazier"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Adam Frazier",
@@ -700,7 +720,7 @@
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
-        "Samy Natera Jr.",
+        "Sammy Peralta",
         "Ryan Watson"
       ],
       "home_roster": [
@@ -715,6 +735,7 @@
         "Daulton Varsho",
         "Steven Okert",
         "AJ Blubaugh",
+        "Ethan Pecko",
         "Bennett Sousa",
         "Jose Altuve",
         "Taylor Trammell",
@@ -725,7 +746,6 @@
         "Bryan King",
         "LaMonte Wade Jr.",
         "Christian Walker",
-        "Miguel Ullola",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
         "Yordan Alvarez",
