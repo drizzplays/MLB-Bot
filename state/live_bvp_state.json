@@ -8,16 +8,16 @@
       "last_checked_at": "2026-08-20T15:26:58.229456-04:00"
     },
     "823747": {
-      "active_pitcher_id": 678606,
-      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
+      "active_pitcher_id": 676879,
+      "active_pitcher_name": "Aaron Ashby",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T15:54:39.971763-04:00"
+      "last_checked_at": "2026-08-20T16:23:04.448907-04:00"
     },
     "824074": {
-      "active_pitcher_id": 679922,
-      "active_pitcher_name": "Carlos Duran",
+      "active_pitcher_id": 671162,
+      "active_pitcher_name": "Connor Thomas",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T15:54:35.874328-04:00"
+      "last_checked_at": "2026-08-20T16:22:59.722966-04:00"
     },
     "824395": {
       "active_pitcher_id": 683769,
@@ -32,10 +32,10 @@
       "last_checked_at": "2026-08-20T15:26:52.809093-04:00"
     },
     "824589": {
-      "active_pitcher_id": 696146,
-      "active_pitcher_name": "Hagen Smith",
+      "active_pitcher_id": 670950,
+      "active_pitcher_name": "Trevor Richards",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T15:54:37.940046-04:00"
+      "last_checked_at": "2026-08-20T16:23:02.269516-04:00"
     }
   }
 }
