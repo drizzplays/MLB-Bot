@@ -1,43 +1,5 @@
 {
   "2026-08-20": {
-    "824802": {
-      "away_team": "New York Yankees",
-      "home_team": "Baltimore Orioles",
-      "away_pitcher": "Gerrit Cole",
-      "home_pitcher": "Kyle Bradish",
-      "away_pitcher_id": "543037",
-      "home_pitcher_id": "680694",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 6,
-        "era": "3.22",
-        "whip": "1.08",
-        "strikeouts": 92,
-        "innings_pitched": "86.2",
-        "games_started": 15
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 11,
-        "era": "3.65",
-        "whip": "1.36",
-        "strikeouts": 124,
-        "innings_pitched": "133.0",
-        "games_started": 24
-      },
-      "game_time": "Aug 20, 6:35 PM ET",
-      "game_iso": "2026-08-20T18:35:00-04:00",
-      "game_pk": "824802",
-      "status_code": "P"
-    },
     "822861": {
       "away_team": "Washington Nationals",
       "home_team": "Texas Rangers",
