@@ -258,7 +258,17 @@
     "Athletics @ Kansas City Royals | 824074": {
       "away_team": "Athletics",
       "home_team": "Kansas City Royals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Henry Bolte",
+        "Jeff McNeil",
+        "Zack Gelof",
+        "Lawrence Butler",
+        "Max Muncy",
+        "Carlos Cortes",
+        "Brian Serven",
+        "Donovan Walton",
+        "Darell Hernaiz"
+      ],
       "home_lineup": [
         "Nick Loftin",
         "Bobby Witt Jr.",
@@ -825,7 +835,6 @@
         "Brandon Valenzuela",
         "Dylan Cease",
         "Brett Bateman",
-        "Paul Sewald",
         "Nathan Lukes",
         "Matt Waldron",
         "Max Scherzer",
@@ -835,6 +844,7 @@
         "Tyler Rogers",
         "Josh Smith",
         "Vladimir Guerrero Jr.",
+        "Lazaro Estrada",
         "Jes\u00fas S\u00e1nchez",
         "Myles Straw",
         "Alejandro Kirk",
@@ -1011,7 +1021,7 @@
         "Taylor Walls",
         "Tyler Wells",
         "Steven Matz",
-        "Shane McClanahan",
+        "Chris Roycroft",
         "Richie Palacios",
         "Jorge Mateo",
         "Ryan Vilade",
@@ -1036,7 +1046,7 @@
         "Cedric Mullins"
       ],
       "home_roster": [
-        "Samuel Basallo",
+        "Jeremiah Jackson",
         "Trevor Rogers",
         "Rico Garcia",
         "Brandon Young",
