@@ -2,22 +2,40 @@
   "date": "2026-08-20",
   "games": {
     "822934": {
-      "active_pitcher_id": 669456,
-      "active_pitcher_name": "Shane Bieber",
+      "active_pitcher_id": 693855,
+      "active_pitcher_name": "Ian Seymour",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T13:40:21.588483-04:00"
+      "last_checked_at": "2026-08-20T14:01:12.668795-04:00"
+    },
+    "823747": {
+      "active_pitcher_id": 688107,
+      "active_pitcher_name": "Robert Gasser",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T14:01:20.433634-04:00"
+    },
+    "824074": {
+      "active_pitcher_id": 677976,
+      "active_pitcher_name": "Randy Dobnak",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T14:01:15.334098-04:00"
     },
     "824395": {
-      "active_pitcher_id": 694738,
-      "active_pitcher_name": "Landen Roupp",
+      "active_pitcher_id": 668909,
+      "active_pitcher_name": "Gavin Williams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T13:40:19.269206-04:00"
+      "last_checked_at": "2026-08-20T14:01:10.011894-04:00"
     },
     "824474": {
-      "active_pitcher_id": 663903,
-      "active_pitcher_name": "Brady Singer",
+      "active_pitcher_id": 700241,
+      "active_pitcher_name": "Michael McGreevy",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T12:29:02.347730-04:00"
+      "last_checked_at": "2026-08-20T14:01:07.299322-04:00"
+    },
+    "824589": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T14:01:17.943635-04:00"
     }
   }
 }
