@@ -1,4 +1,11 @@
 {
   "date": "2026-08-20",
-  "games": {}
+  "games": {
+    "824474": {
+      "active_pitcher_id": 663903,
+      "active_pitcher_name": "Brady Singer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T12:29:02.347730-04:00"
+    }
+  }
 }
