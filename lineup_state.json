@@ -18,7 +18,7 @@
         "Jackson Chourio",
         "Brice Turang",
         "William Contreras",
-        "Andrew Vaughn",
+        "Garrett Mitchell",
         "Jake Bauers",
         "Gary S\u00e1nchez",
         "Joey Ortiz",
@@ -65,8 +65,8 @@
         "Andrew Vaughn",
         "Shane Drohan",
         "Kyle Harrison",
-        "Aaron Ashby",
         "Garrett Mitchell",
+        "Aaron Ashby",
         "David Hamilton",
         "Jonathan Ornelas",
         "William Contreras",
@@ -1174,7 +1174,17 @@
       "away_team": "Chicago Cubs",
       "home_team": "Seattle Mariners",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Brendan Donovan",
+        "Randy Arozarena",
+        "Dominic Canzone",
+        "Julio Rodr\u00edguez",
+        "Josh Naylor",
+        "Taylor Ward",
+        "Cal Raleigh",
+        "Cole Young",
+        "Brock Rodden"
+      ],
       "away_roster": [
         "Michael Conforto",
         "Tyrone Taylor",
@@ -1225,8 +1235,8 @@
         "George Kirby",
         "Andr\u00e9s Mu\u00f1oz",
         "Gabe Speier",
-        "Leo Rivas",
         "Julio Rodr\u00edguez",
+        "Leo Rivas",
         "Bryce Miller",
         "Eduard Bazardo",
         "Emerson Hancock"
@@ -1592,7 +1602,7 @@
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
-        "Sammy Peralta",
+        "Samy Natera Jr.",
         "Ryan Watson"
       ],
       "home_roster": [
@@ -2101,6 +2111,7 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
+        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -2112,8 +2123,7 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin",
-        "Rhys Hoskins"
+        "Foster Griffin"
       ],
       "home_roster": [
         "Ryan Feltner",
