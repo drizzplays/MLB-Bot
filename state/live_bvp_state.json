@@ -1,6 +1,12 @@
 {
   "date": "2026-08-21",
   "games": {
+    "823420": {
+      "active_pitcher_id": 666200,
+      "active_pitcher_name": "Jes\u00fas Luzardo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T18:44:57.667272-04:00"
+    },
     "823746": {
       "active_pitcher_id": 689266,
       "active_pitcher_name": "Dylan Dodd",
