@@ -1,4 +1,11 @@
 {
   "date": "2026-08-21",
-  "games": {}
+  "games": {
+    "823746": {
+      "active_pitcher_id": 519242,
+      "active_pitcher_name": "Chris Sale",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T16:20:18.640953-04:00"
+    }
+  }
 }
