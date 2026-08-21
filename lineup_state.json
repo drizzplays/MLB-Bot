@@ -99,7 +99,17 @@
         "Bryan Torres",
         "Pedro Pag\u00e9s"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Alec Bohm",
+        "Bryson Stott",
+        "Brandon Marsh",
+        "J.T. Realmuto",
+        "Justin Crawford"
+      ],
       "away_roster": [
         "Michael McGreevy",
         "Jordan Walker",
@@ -151,8 +161,8 @@
         "Alex McFarlane",
         "Aaron Nola",
         "Brooks Raley",
-        "Luis Arraez",
         "Trea Turner",
+        "Luis Arraez",
         "Derek Hill",
         "Andrew Painter"
       ],
@@ -239,7 +249,17 @@
         "Drew Cavanaugh",
         "Christian Koss"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Nick Sogard",
+        "Ceddanne Rafaela",
+        "Wilyer Abreu",
+        "Willson Contreras",
+        "Adley Rutschman",
+        "Caleb Durbin",
+        "Jarren Duran",
+        "Andruw Monasterio",
+        "Mickey Gasper"
+      ],
       "away_roster": [
         "JT Brubaker",
         "Jonah Cox",
@@ -281,13 +301,13 @@
         "Adley Rutschman",
         "Brayan Bello",
         "Wilyer Abreu",
-        "Sonny Gray",
         "Andruw Monasterio",
+        "Sonny Gray",
         "Mickey Gasper",
         "Caleb Durbin",
         "Ranger Suarez",
-        "Jarren Duran",
         "Nick Sogard",
+        "Jarren Duran",
         "Eli White",
         "Wyatt Olds",
         "Payton Tolle",
@@ -304,7 +324,17 @@
       "away_team": "Washington Nationals",
       "home_team": "Miami Marlins",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jakob Marsee",
+        "Owen Caissie",
+        "Griffin Conine",
+        "Xavier Edwards",
+        "Otto Lopez",
+        "Heriberto Hern\u00e1ndez",
+        "Joe Mack",
+        "Agust\u00edn Ram\u00edrez",
+        "Leo Jim\u00e9nez"
+      ],
       "away_roster": [
         "Brady House",
         "Will Dion",
@@ -337,8 +367,8 @@
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Victor Vodnik",
         "Tyler Phillips",
@@ -347,10 +377,10 @@
         "Calvin Faucher",
         "John King",
         "Javier Sanoja",
+        "Logan Driscoll",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
-        "Graham Pauley",
         "Michael Petersen",
         "Owen Caissie",
         "Agust\u00edn Ram\u00edrez",
@@ -369,7 +399,17 @@
       "away_team": "Tampa Bay Rays",
       "home_team": "Baltimore Orioles",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jackson Holliday",
+        "Pete Alonso",
+        "Gunnar Henderson",
+        "Tyler O'Neill",
+        "Samuel Basallo",
+        "Dylan Beavers",
+        "Coby Mayo",
+        "Colton Cowser",
+        "Leody Taveras"
+      ],
       "away_roster": [
         "Taylor Walls",
         "Tyler Wells",
@@ -409,11 +449,11 @@
         "Shane Baz",
         "Christian Franklin",
         "Kyle Bradish",
-        "Albert Su\u00e1rez",
         "Dylan Beavers",
         "Chris Bassitt",
         "Tyler O'Neill",
         "Josh Walker",
+        "Anthony Nunez",
         "Yohel Pozo",
         "Pete Alonso",
         "Jackson Holliday",
@@ -434,7 +474,17 @@
       "away_team": "New York Mets",
       "home_team": "Chicago White Sox",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Chase Meidroth",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Randal Grichuk",
+        "Colson Montgomery",
+        "Brenton Doyle",
+        "Luisangel Acu\u00f1a",
+        "Jake Rogers",
+        "Tristan Peters"
+      ],
       "away_roster": [
         "Luis Torrens",
         "Robert Stock",
@@ -1372,7 +1422,7 @@
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
-        "Sammy Peralta",
+        "Samy Natera Jr.",
         "Ryan Watson"
       ],
       "home_roster": [
@@ -1881,6 +1931,7 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
+        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -1892,8 +1943,7 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin",
-        "Rhys Hoskins"
+        "Foster Griffin"
       ],
       "home_roster": [
         "Ryan Feltner",
