@@ -12,7 +12,7 @@
         "Mauricio Dub\u00f3n",
         "Dominic Smith",
         "Austin Riley",
-        "Mike Yastrzemski"
+        "Lane Thomas"
       ],
       "home_lineup": [
         "Jackson Chourio",
@@ -1109,7 +1109,17 @@
       "away_team": "Pittsburgh Pirates",
       "home_team": "Los Angeles Dodgers",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Shohei Ohtani",
+        "Freddie Freeman",
+        "Andy Pages",
+        "Max Muncy",
+        "Mookie Betts",
+        "Kyle Tucker",
+        "Tommy Edman",
+        "Teoscar Hern\u00e1ndez",
+        "Hunter Feduccia"
+      ],
       "away_roster": [
         "Jacob Gonzalez",
         "Paul Skenes",
@@ -1153,18 +1163,18 @@
         "Tommy Edman",
         "Kyle Hurt",
         "Shohei Ohtani",
-        "Jonathan Hern\u00e1ndez",
         "Teoscar Hern\u00e1ndez",
         "Andy Pages",
         "Evan Phillips",
         "Mookie Betts",
         "Alex Call",
         "Blake Snell",
-        "Emmet Sheehan",
+        "Brock Stewart",
         "Miguel Rojas",
         "Jack Dreyer",
         "Roki Sasaki",
-        "Yoshinobu Yamamoto"
+        "Yoshinobu Yamamoto",
+        "Paul Gervase"
       ],
       "game_time": "Aug 21, 10:10 PM ET",
       "game_iso": "2026-08-21T22:10:00-04:00",
@@ -1602,7 +1612,7 @@
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
-        "Samy Natera Jr.",
+        "Sammy Peralta",
         "Ryan Watson"
       ],
       "home_roster": [
@@ -2111,7 +2121,6 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
-        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -2123,7 +2132,8 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin"
+        "Foster Griffin",
+        "Rhys Hoskins"
       ],
       "home_roster": [
         "Ryan Feltner",
