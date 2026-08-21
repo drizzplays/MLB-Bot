@@ -1,43 +1,5 @@
 {
   "2026-08-21": {
-    "823746": {
-      "away_team": "Atlanta Braves",
-      "home_team": "Milwaukee Brewers",
-      "away_pitcher": "Chris Sale",
-      "home_pitcher": "Jacob Misiorowski",
-      "away_pitcher_id": "519242",
-      "home_pitcher_id": "694819",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 12,
-        "losses": 8,
-        "era": "2.16",
-        "whip": "1.02",
-        "strikeouts": 160,
-        "innings_pitched": "129.0",
-        "games_started": 22
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 12,
-        "losses": 5,
-        "era": "1.75",
-        "whip": "0.75",
-        "strikeouts": 210,
-        "innings_pitched": "139.0",
-        "games_started": 23
-      },
-      "game_time": "Aug 21, 4:10 PM ET",
-      "game_iso": "2026-08-21T16:10:00-04:00",
-      "game_pk": "823746",
-      "status_code": "P"
-    },
     "823420": {
       "away_team": "St. Louis Cardinals",
       "home_team": "Philadelphia Phillies",
@@ -112,7 +74,7 @@
       "game_time": "Aug 21, 7:05 PM ET",
       "game_iso": "2026-08-21T19:05:00-04:00",
       "game_pk": "823510",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824721": {
       "away_team": "San Francisco Giants",
@@ -302,7 +264,7 @@
       "game_time": "Aug 21, 8:10 PM ET",
       "game_iso": "2026-08-21T20:10:00-04:00",
       "game_pk": "824072",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824152": {
       "away_team": "Athletics",
@@ -416,7 +378,7 @@
       "game_time": "Aug 21, 8:40 PM ET",
       "game_iso": "2026-08-21T20:40:00-04:00",
       "game_pk": "824317",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825045": {
       "away_team": "Cincinnati Reds",
