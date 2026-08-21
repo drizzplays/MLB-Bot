@@ -1,6 +1,12 @@
 {
   "date": "2026-08-20",
   "games": {
+    "822861": {
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T20:01:28.957658-04:00"
+    },
     "822934": {
       "active_pitcher_id": 688297,
       "active_pitcher_name": "Chris Roycroft",
@@ -18,6 +24,12 @@
       "active_pitcher_name": "John Schreiber",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-20T16:55:24.076653-04:00"
+    },
+    "824153": {
+      "active_pitcher_id": 663567,
+      "active_pitcher_name": "Peter Lambert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-20T20:01:30.698642-04:00"
     },
     "824395": {
       "active_pitcher_id": 683769,
@@ -38,10 +50,10 @@
       "last_checked_at": "2026-08-20T16:23:02.269516-04:00"
     },
     "824802": {
-      "active_pitcher_id": 680694,
-      "active_pitcher_name": "Kyle Bradish",
+      "active_pitcher_id": 543037,
+      "active_pitcher_name": "Gerrit Cole",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T19:44:34.960835-04:00"
+      "last_checked_at": "2026-08-20T20:01:27.088848-04:00"
     }
   }
 }
