@@ -378,7 +378,7 @@
       "game_time": "Aug 21, 8:15 PM ET",
       "game_iso": "2026-08-21T20:15:00-04:00",
       "game_pk": "822857",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824317": {
       "away_team": "Cleveland Guardians",
@@ -454,7 +454,7 @@
       "game_time": "Aug 21, 9:40 PM ET",
       "game_iso": "2026-08-21T21:40:00-04:00",
       "game_pk": "825045",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823262": {
       "away_team": "Minnesota Twins",
