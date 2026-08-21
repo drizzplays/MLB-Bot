@@ -422,13 +422,13 @@
       "away_team": "Minnesota Twins",
       "home_team": "San Diego Padres",
       "away_pitcher": "Connor Prielipp",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Randy V\u00e1squez",
       "away_pitcher_id": "687570",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "681190",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -441,7 +441,16 @@
         "innings_pitched": "87.2",
         "games_started": 17
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 8,
+        "losses": 6,
+        "era": "4.30",
+        "whip": "1.38",
+        "strikeouts": 71,
+        "innings_pitched": "111.0",
+        "games_started": 19
+      },
       "game_time": "Aug 21, 9:40 PM ET",
       "game_iso": "2026-08-21T21:40:00-04:00",
       "game_pk": "823262",
@@ -521,7 +530,7 @@
       "game_time": "Aug 21, 10:10 PM ET",
       "game_iso": "2026-08-21T22:10:00-04:00",
       "game_pk": "823101",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
