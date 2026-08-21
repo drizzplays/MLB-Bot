@@ -65,7 +65,7 @@
       "game_time": "Aug 21, 6:40 PM ET",
       "game_iso": "2026-08-21T18:40:00-04:00",
       "game_pk": "823420",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823510": {
       "away_team": "Toronto Blue Jays",
@@ -141,7 +141,7 @@
       "game_time": "Aug 21, 7:10 PM ET",
       "game_iso": "2026-08-21T19:10:00-04:00",
       "game_pk": "824721",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823830": {
       "away_team": "Washington Nationals",
