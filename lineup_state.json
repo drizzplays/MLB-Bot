@@ -14,7 +14,17 @@
         "Austin Riley",
         "Mike Yastrzemski"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Jackson Chourio",
+        "Brice Turang",
+        "William Contreras",
+        "Andrew Vaughn",
+        "Jake Bauers",
+        "Gary S\u00e1nchez",
+        "Joey Ortiz",
+        "Cooper Pratt",
+        "Luis Lara"
+      ],
       "away_roster": [
         "Dylan Dodd",
         "Dylan Lee",
@@ -46,8 +56,8 @@
       "home_roster": [
         "Chad Patrick",
         "Cooper Pratt",
-        "Logan Henderson",
         "Joey Ortiz",
+        "Logan Henderson",
         "Jackson Chourio",
         "Christian Yelich",
         "Jake Bauers",
@@ -60,8 +70,8 @@
         "David Hamilton",
         "Jonathan Ornelas",
         "William Contreras",
-        "Robert Gasser",
         "Brice Turang",
+        "Robert Gasser",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "DL Hall",
