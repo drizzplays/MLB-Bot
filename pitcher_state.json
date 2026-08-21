@@ -1,43 +1,5 @@
 {
   "2026-08-21": {
-    "823510": {
-      "away_team": "Toronto Blue Jays",
-      "home_team": "New York Yankees",
-      "away_pitcher": "Mason Fluharty",
-      "home_pitcher": "Cam Schlittler",
-      "away_pitcher_id": "689254",
-      "home_pitcher_id": "693645",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 1,
-        "era": "3.71",
-        "whip": "1.24",
-        "strikeouts": 56,
-        "innings_pitched": "51.0",
-        "games_started": 3
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 10,
-        "losses": 6,
-        "era": "2.19",
-        "whip": "0.94",
-        "strikeouts": 189,
-        "innings_pitched": "152.0",
-        "games_started": 26
-      },
-      "game_time": "Aug 21, 7:05 PM ET",
-      "game_iso": "2026-08-21T19:05:00-04:00",
-      "game_pk": "823510",
-      "status_code": "P"
-    },
     "824721": {
       "away_team": "San Francisco Giants",
       "home_team": "Boston Red Sox",
