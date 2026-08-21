@@ -88,18 +88,28 @@
     "St. Louis Cardinals @ Philadelphia Phillies | 823420": {
       "away_team": "St. Louis Cardinals",
       "home_team": "Philadelphia Phillies",
-      "away_lineup": [],
+      "away_lineup": [
+        "JJ Wetherholt",
+        "Iv\u00e1n Herrera",
+        "Jordan Walker",
+        "Joshua B\u00e1ez",
+        "Blaze Jordan",
+        "Jos\u00e9 Ferm\u00edn",
+        "Everson Pereira",
+        "Bryan Torres",
+        "Pedro Pag\u00e9s"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Michael McGreevy",
-        "Bryan Torres",
         "Jordan Walker",
+        "Bryan Torres",
         "Nathan Church",
         "Kyle Leahy",
         "Jos\u00e9 Ferm\u00edn",
         "Gordon Graceffo",
-        "Hunter Dobbins",
         "JJ Wetherholt",
+        "Hunter Dobbins",
         "Caleb Ferguson",
         "Justin Bruihl",
         "Blaze Jordan",
@@ -107,8 +117,8 @@
         "Riley O'Brien",
         "Andre Pallante",
         "George Soriano",
-        "Matthew Liberatore",
         "Pedro Pag\u00e9s",
+        "Matthew Liberatore",
         "Ryne Stanek",
         "Joshua B\u00e1ez",
         "Luis Gastelum",
@@ -218,7 +228,17 @@
     "San Francisco Giants @ Boston Red Sox | 824721": {
       "away_team": "San Francisco Giants",
       "home_team": "Boston Red Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Drew Gilbert",
+        "Rafael Devers",
+        "Willy Adames",
+        "Bryce Eldridge",
+        "Jung Hoo Lee",
+        "Osleivis Basabe",
+        "Turner Hill",
+        "Drew Cavanaugh",
+        "Christian Koss"
+      ],
       "home_lineup": [],
       "away_roster": [
         "JT Brubaker",
@@ -1352,7 +1372,7 @@
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
-        "Samy Natera Jr.",
+        "Sammy Peralta",
         "Ryan Watson"
       ],
       "home_roster": [
@@ -1861,7 +1881,6 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
-        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -1873,7 +1892,8 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin"
+        "Foster Griffin",
+        "Rhys Hoskins"
       ],
       "home_roster": [
         "Ryan Feltner",
