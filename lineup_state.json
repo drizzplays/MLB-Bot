@@ -186,7 +186,7 @@
       ],
       "home_lineup": [
         "Paul Goldschmidt",
-        "Amed Rosario",
+        "Jazz Chisholm Jr.",
         "Heliot Ramos",
         "Ben Rice",
         "George Lombard Jr.",
@@ -1108,7 +1108,17 @@
     "Pittsburgh Pirates @ Los Angeles Dodgers | 823911": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Spencer Horwitz",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Nick Gonzales",
+        "Oneil Cruz",
+        "Rafael Flores Jr.",
+        "Jake Mangum",
+        "Jacob Gonzalez",
+        "Jared Triolo"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Freddie Freeman",
@@ -1183,7 +1193,17 @@
     "Chicago Cubs @ Seattle Mariners | 823101": {
       "away_team": "Chicago Cubs",
       "home_team": "Seattle Mariners",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Nico Hoerner",
+        "Pedro Ram\u00edrez",
+        "Michael Conforto",
+        "Carson Kelly"
+      ],
       "home_lineup": [
         "Brendan Donovan",
         "Randy Arozarena",
@@ -1196,10 +1216,10 @@
         "Brock Rodden"
       ],
       "away_roster": [
+        "Daniel Palencia",
         "Michael Conforto",
         "Tyrone Taylor",
         "Ian Happ",
-        "Javier Assad",
         "Caleb Thielbar",
         "Shota Imanaga",
         "Alex Bregman",
@@ -1210,12 +1230,12 @@
         "Kevin Gausman",
         "Jacob Webb",
         "Miguel Amaya",
+        "Gabriel Arias",
         "Seiya Suzuki",
         "Aaron Civale",
         "Ryan Zeferjahn",
         "David Peterson",
         "Ryan Rolison",
-        "Owen Miller",
         "Trent Thornton",
         "Clay Holmes",
         "Matthew Boyd",
@@ -1228,7 +1248,6 @@
         "Victor Robles",
         "Cole Young",
         "Jos\u00e9 A. Ferrer",
-        "Nick Davila",
         "Michael Rucker",
         "Weston Wilson",
         "Randy Arozarena",
@@ -1249,7 +1268,8 @@
         "Leo Rivas",
         "Bryce Miller",
         "Eduard Bazardo",
-        "Emerson Hancock"
+        "Emerson Hancock",
+        "Carlos Vargas"
       ],
       "game_time": "Aug 21, 10:10 PM ET",
       "game_iso": "2026-08-21T22:10:00-04:00",
@@ -2051,6 +2071,7 @@
         "Emilio Pag\u00e1n",
         "Michael Toglia",
         "Tejay Antone",
+        "Tony Santillan",
         "Brady Singer",
         "Matt McLain",
         "Ke'Bryan Hayes",
@@ -2062,7 +2083,6 @@
         "Eugenio Su\u00e1rez",
         "Nick Lodolo",
         "Sam Moll",
-        "Zach Maxwell",
         "JJ Bleday",
         "Brock Burke",
         "Julian Garcia",
@@ -2121,6 +2141,7 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
+        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -2132,8 +2153,7 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin",
-        "Rhys Hoskins"
+        "Foster Griffin"
       ],
       "home_roster": [
         "Ryan Feltner",
