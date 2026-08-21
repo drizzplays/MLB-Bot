@@ -117,6 +117,7 @@
         "Nathan Church",
         "Kyle Leahy",
         "Jos\u00e9 Ferm\u00edn",
+        "Ryan Fernandez",
         "Gordon Graceffo",
         "JJ Wetherholt",
         "Hunter Dobbins",
@@ -125,7 +126,6 @@
         "Blaze Jordan",
         "Alec Burleson",
         "Riley O'Brien",
-        "Andre Pallante",
         "George Soriano",
         "Pedro Pag\u00e9s",
         "Matthew Liberatore",
@@ -513,7 +513,17 @@
     "New York Mets @ Chicago White Sox | 824559": {
       "away_team": "New York Mets",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Jared Young",
+        "Luis Robert Jr.",
+        "Brett Baty",
+        "Marcus Semien",
+        "Francisco Alvarez"
+      ],
       "home_lineup": [
         "Chase Meidroth",
         "Munetaka Murakami",
@@ -549,8 +559,8 @@
         "Christian Scott",
         "Nolan McLean",
         "Zac Thornton",
-        "Luis Robert Jr.",
         "Jared Young",
+        "Luis Robert Jr.",
         "A.J. Ewing"
       ],
       "home_roster": [
@@ -758,7 +768,17 @@
     "Los Angeles Angels @ Texas Rangers | 822857": {
       "away_team": "Los Angeles Angels",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Mois\u00e9s Ballesteros",
+        "Vaughn Grissom",
+        "Jose Siri",
+        "Denzer Guzman",
+        "Josh Lowe",
+        "Travis d'Arnaud",
+        "Oswald Peraza"
+      ],
       "home_lineup": [
         "Justin Foscue",
         "Corey Seager",
@@ -772,8 +792,8 @@
       ],
       "away_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Zach Neto",
         "Travis d'Arnaud",
         "Ryan Johnson",
@@ -833,7 +853,17 @@
     "Cleveland Guardians @ Colorado Rockies | 824317": {
       "away_team": "Cleveland Guardians",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Steven Kwan",
+        "Chase DeLauter",
+        "Jos\u00e9 Ram\u00edrez",
+        "Jo Adell",
+        "Nathaniel Lowe",
+        "Angel Genao",
+        "Travis Bazzana",
+        "Patrick Bailey",
+        "Petey Halpin"
+      ],
       "home_lineup": [
         "Jake McCarthy",
         "Kyle Karros",
@@ -908,7 +938,17 @@
     "Cincinnati Reds @ Arizona Diamondbacks | 825045": {
       "away_team": "Cincinnati Reds",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Elly De La Cruz",
+        "Sal Stewart",
+        "Dane Myers",
+        "Eugenio Su\u00e1rez",
+        "Matt McLain",
+        "JJ Bleday",
+        "Jose Trevino",
+        "Michael Toglia",
+        "Ke'Bryan Hayes"
+      ],
       "home_lineup": [
         "Ildemaro Vargas",
         "Corbin Carroll",
@@ -922,8 +962,8 @@
       ],
       "away_roster": [
         "Elly De La Cruz",
-        "Dane Myers",
         "Sal Stewart",
+        "Dane Myers",
         "Pierce Johnson",
         "Luis Mey",
         "Emilio Pag\u00e1n",
@@ -937,8 +977,8 @@
         "TJ Friedl",
         "Rhett Lowder",
         "Jose Trevino",
-        "Tyler Stephenson",
         "Eugenio Su\u00e1rez",
+        "Tyler Stephenson",
         "Nick Lodolo",
         "Sam Moll",
         "JJ Bleday",
@@ -983,8 +1023,28 @@
     "Minnesota Twins @ San Diego Padres | 823262": {
       "away_team": "Minnesota Twins",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Luke Keaschall",
+        "Byron Buxton",
+        "Josh Bell",
+        "Ryan Jeffers",
+        "Kody Clemens",
+        "Royce Lewis",
+        "Trevor Larnach",
+        "Brooks Lee",
+        "Kaelen Culpepper"
+      ],
+      "home_lineup": [
+        "Fernando Tatis Jr.",
+        "Luis Rengifo",
+        "Manny Machado",
+        "Ty France",
+        "Jackson Merrill",
+        "Xander Bogaerts",
+        "Austin Hays",
+        "Freddy Fermin",
+        "Jake Cronenworth"
+      ],
       "away_roster": [
         "Dean Kremer",
         "Tommy Nance",
@@ -1014,9 +1074,9 @@
         "Luke Keaschall"
       ],
       "home_roster": [
+        "Luis Rengifo",
         "Luis Campusano",
         "Yuki Matsui",
-        "Luis Rengifo",
         "Freddy Fermin",
         "Michael King",
         "Mason Miller",
@@ -1032,8 +1092,8 @@
         "Adrian Morejon",
         "Manny Machado",
         "Austin Hays",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
