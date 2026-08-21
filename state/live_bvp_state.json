@@ -2,10 +2,10 @@
   "date": "2026-08-20",
   "games": {
     "822861": {
-      "active_pitcher_id": 594798,
-      "active_pitcher_name": "Jacob deGrom",
+      "active_pitcher_id": 596001,
+      "active_pitcher_name": "Jakob Junis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T20:01:28.957658-04:00"
+      "last_checked_at": "2026-08-20T21:53:37.139850-04:00"
     },
     "822934": {
       "active_pitcher_id": 688297,
@@ -26,10 +26,10 @@
       "last_checked_at": "2026-08-20T16:55:24.076653-04:00"
     },
     "824153": {
-      "active_pitcher_id": 663567,
-      "active_pitcher_name": "Peter Lambert",
+      "active_pitcher_id": 680570,
+      "active_pitcher_name": "Grayson Rodriguez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-20T20:01:30.698642-04:00"
+      "last_checked_at": "2026-08-20T21:53:39.197193-04:00"
     },
     "824395": {
       "active_pitcher_id": 683769,
