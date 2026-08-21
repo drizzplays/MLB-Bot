@@ -3,7 +3,17 @@
     "Atlanta Braves @ Milwaukee Brewers | 823746": {
       "away_team": "Atlanta Braves",
       "home_team": "Milwaukee Brewers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Ronald Acu\u00f1a Jr.",
+        "Drake Baldwin",
+        "Matt Olson",
+        "Michael Harris II",
+        "Ozzie Albies",
+        "Mauricio Dub\u00f3n",
+        "Dominic Smith",
+        "Austin Riley",
+        "Mike Yastrzemski"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Dylan Dodd",
