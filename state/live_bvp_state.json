@@ -7,11 +7,29 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-21T18:44:57.667272-04:00"
     },
+    "823510": {
+      "active_pitcher_id": 693645,
+      "active_pitcher_name": "Cam Schlittler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T19:02:27.561733-04:00"
+    },
     "823746": {
       "active_pitcher_id": 689266,
       "active_pitcher_name": "Dylan Dodd",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-21T18:18:50.000181-04:00"
+    },
+    "823830": {
+      "active_pitcher_id": 687473,
+      "active_pitcher_name": "Ryan Gusto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T19:02:31.712854-04:00"
+    },
+    "824721": {
+      "active_pitcher_id": 543243,
+      "active_pitcher_name": "Sonny Gray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T19:02:29.569773-04:00"
     }
   }
 }
