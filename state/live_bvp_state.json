@@ -2,10 +2,10 @@
   "date": "2026-08-22",
   "games": {
     "822858": {
-      "active_pitcher_id": 674003,
-      "active_pitcher_name": "Cody Bradford",
+      "active_pitcher_id": 696270,
+      "active_pitcher_name": "Ryan Johnson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:01:05.813280-04:00"
+      "last_checked_at": "2026-08-22T19:46:38.220710-04:00"
     },
     "823100": {
       "active_pitcher_id": 656849,
@@ -14,10 +14,10 @@
       "last_checked_at": "2026-08-22T19:28:16.769760-04:00"
     },
     "823422": {
-      "active_pitcher_id": 687273,
-      "active_pitcher_name": "Quinn Mathews",
+      "active_pitcher_id": 681676,
+      "active_pitcher_name": "Ryan Fernandez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T18:16:41.961775-04:00"
+      "last_checked_at": "2026-08-22T19:46:29.721719-04:00"
     },
     "823509": {
       "active_pitcher_id": 518585,
@@ -46,10 +46,10 @@
       "last_checked_at": "2026-08-22T19:28:14.848698-04:00"
     },
     "824073": {
-      "active_pitcher_id": 623454,
-      "active_pitcher_name": "Drew Anderson",
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:28:12.919286-04:00"
+      "last_checked_at": "2026-08-22T19:46:40.857089-04:00"
     },
     "824151": {
       "active_pitcher_id": 682052,
@@ -72,10 +72,12 @@
       "last_checked_at": "2026-08-22T19:28:18.791470-04:00"
     },
     "824798": {
-      "active_pitcher_id": 687064,
-      "active_pitcher_name": "Brandon Young",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:01:03.514154-04:00"
+      "active_pitcher_id": 663556,
+      "active_pitcher_name": "Shane McClanahan",
+      "alerted_pairs": [
+        "663556:691723"
+      ],
+      "last_checked_at": "2026-08-22T19:46:32.243021-04:00"
     }
   }
 }
