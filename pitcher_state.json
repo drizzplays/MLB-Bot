@@ -141,7 +141,7 @@
       "game_time": "Aug 22, 7:05 PM ET",
       "game_iso": "2026-08-22T19:05:00-04:00",
       "game_pk": "822858",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824151": {
       "away_team": "Athletics",
@@ -255,7 +255,7 @@
       "game_time": "Aug 22, 7:15 PM ET",
       "game_iso": "2026-08-22T19:15:00-04:00",
       "game_pk": "824073",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823910": {
       "away_team": "Pittsburgh Pirates",
