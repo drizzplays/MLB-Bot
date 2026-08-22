@@ -343,7 +343,17 @@
     "Tampa Bay Rays @ Baltimore Orioles | 824798": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Baltimore Orioles",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Chandler Simpson",
+        "Junior Caminero",
+        "Liam Hicks",
+        "Jonny DeLuca",
+        "Richie Palacios",
+        "Cedric Mullins",
+        "Taylor Walls"
+      ],
       "home_lineup": [
         "Jackson Holliday",
         "Pete Alonso",
@@ -493,16 +503,36 @@
     "Athletics @ Houston Astros | 824151": {
       "away_team": "Athletics",
       "home_team": "Houston Astros",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Henry Bolte",
+        "Jeff McNeil",
+        "Zack Gelof",
+        "Carlos Cortes",
+        "Lawrence Butler",
+        "Tommy White",
+        "Jonah Heim",
+        "Donovan Walton",
+        "Max Muncy"
+      ],
+      "home_lineup": [
+        "Jeremy Pe\u00f1a",
+        "Yordan Alvarez",
+        "Isaac Paredes",
+        "Jose Altuve",
+        "Christian Walker",
+        "Daulton Varsho",
+        "Yainer Diaz",
+        "Cam Smith",
+        "LaMonte Wade Jr."
+      ],
       "away_roster": [
         "Lawrence Butler",
-        "Jonah Heim",
         "Tommy White",
+        "Jonah Heim",
         "Donovan Walton",
-        "Taylor Rashi",
         "J.T. Ginn",
         "Zack Gelof",
+        "Michael Stefanic",
         "Drew Rom",
         "Jeff McNeil",
         "Brian Serven",
@@ -516,23 +546,24 @@
         "Hayden Juenger",
         "Elvis Alvarado",
         "Darell Hernaiz",
+        "Kade Morris",
         "Hogan Harris",
         "Luis Medina",
         "Henry Bolte",
         "Jack Perkins",
-        "Jeffrey Springs",
-        "Jacob Wilson"
+        "Jeffrey Springs"
       ],
       "home_roster": [
         "Isaac Paredes",
         "Bryan Abreu",
         "Nick Allen",
+        "Kai-Wei Teng",
         "Cam Smith",
         "Hayden Wesneski",
         "Hunter Brown",
         "Josh Hader",
-        "Enyel De Los Santos",
         "Daulton Varsho",
+        "Enyel De Los Santos",
         "Steven Okert",
         "AJ Blubaugh",
         "Ethan Pecko",
@@ -541,15 +572,14 @@
         "Taylor Trammell",
         "Tatsuya Imai",
         "Jeremy Pe\u00f1a",
+        "Raynel Delgado",
         "Peter Lambert",
         "Cristian Javier",
-        "Bryan King",
         "LaMonte Wade Jr.",
         "Christian Walker",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
-        "Yordan Alvarez",
-        "Nelson Vel\u00e1zquez"
+        "Yordan Alvarez"
       ],
       "game_time": "Aug 22, 7:10 PM ET",
       "game_iso": "2026-08-22T19:10:00-04:00",
@@ -633,7 +663,17 @@
     "Detroit Tigers @ Kansas City Royals | 824073": {
       "away_team": "Detroit Tigers",
       "home_team": "Kansas City Royals",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kevin McGonigle",
+        "Gleyber Torres",
+        "Colt Keith",
+        "Dillon Dingler",
+        "Zach McKinstry",
+        "Brett Callahan",
+        "Spencer Torkelson",
+        "Max Clark",
+        "Hao-Yu Lee"
+      ],
       "home_lineup": [
         "Carter Jensen",
         "Bobby Witt Jr.",
@@ -669,8 +709,8 @@
         "Enmanuel De Jesus",
         "Max Clark",
         "Dillon Dingler",
-        "Jackson Jobe",
         "Colt Keith",
+        "Jackson Jobe",
         "Troy Melton"
       ],
       "home_roster": [
