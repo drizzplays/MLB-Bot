@@ -92,12 +92,12 @@
         "JJ Wetherholt",
         "Iv\u00e1n Herrera",
         "Jordan Walker",
-        "Joshua B\u00e1ez",
+        "Alec Burleson",
         "Blaze Jordan",
         "Jos\u00e9 Ferm\u00edn",
-        "Everson Pereira",
+        "Masyn Winn",
         "Bryan Torres",
-        "Pedro Pag\u00e9s"
+        "Jimmy Crooks"
       ],
       "home_lineup": [
         "Kyle Schwarber",
@@ -106,9 +106,9 @@
         "Luis Arraez",
         "Alec Bohm",
         "Bryson Stott",
-        "Brandon Marsh",
+        "Bryan De La Cruz",
         "J.T. Realmuto",
-        "Justin Crawford"
+        "Derek Hill"
       ],
       "away_roster": [
         "Michael McGreevy",
@@ -142,8 +142,8 @@
         "Brandon Marsh",
         "Jes\u00fas Luzardo",
         "Jos\u00e9 Alvarado",
-        "Justin Crawford",
         "Bryan De La Cruz",
+        "Justin Crawford",
         "Cristopher S\u00e1nchez",
         "Bryce Harper",
         "J.T. Realmuto",
@@ -175,7 +175,7 @@
       "home_team": "New York Yankees",
       "away_lineup": [
         "Brett Bateman",
-        "Nathan Lukes",
+        "Davis Schneider",
         "Alejandro Kirk",
         "Jes\u00fas S\u00e1nchez",
         "Ernie Clement",
@@ -187,13 +187,13 @@
       "home_lineup": [
         "Paul Goldschmidt",
         "Jazz Chisholm Jr.",
-        "Heliot Ramos",
+        "Luis Garc\u00eda Jr.",
         "Ben Rice",
         "George Lombard Jr.",
         "Trent Grisham",
         "Spencer Jones",
         "Jos\u00e9 Caballero",
-        "Ali S\u00e1nchez"
+        "Austin Wells"
       ],
       "away_roster": [
         "Shane Bieber",
@@ -211,8 +211,8 @@
         "Davis Schneider",
         "Paul Sewald",
         "Nathan Lukes",
-        "Max Scherzer",
         "George Springer",
+        "Max Scherzer",
         "Mason Fluharty",
         "Braydon Fisher",
         "Tyler Rogers",
@@ -259,7 +259,7 @@
       "away_team": "San Francisco Giants",
       "home_team": "Boston Red Sox",
       "away_lineup": [
-        "Drew Gilbert",
+        "Jonah Cox",
         "Rafael Devers",
         "Willy Adames",
         "Bryce Eldridge",
@@ -281,8 +281,8 @@
         "Mickey Gasper"
       ],
       "away_roster": [
-        "JT Brubaker",
         "Jonah Cox",
+        "JT Brubaker",
         "Dylan Smith",
         "Matt Wilkinson",
         "Drew Cavanaugh",
@@ -356,14 +356,14 @@
       ],
       "home_lineup": [
         "Jakob Marsee",
-        "Owen Caissie",
+        "Javier Sanoja",
         "Griffin Conine",
         "Xavier Edwards",
         "Otto Lopez",
         "Heriberto Hern\u00e1ndez",
         "Joe Mack",
         "Agust\u00edn Ram\u00edrez",
-        "Leo Jim\u00e9nez"
+        "Esteury Ruiz"
       ],
       "away_roster": [
         "Brady House",
@@ -405,8 +405,8 @@
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
-        "John King",
         "Javier Sanoja",
+        "John King",
         "Logan Driscoll",
         "Cade Gibson",
         "Ryan Gusto",
@@ -431,11 +431,11 @@
       "away_lineup": [
         "Yandy D\u00edaz",
         "Ryan Vilade",
-        "Jonny DeLuca",
+        "Jonathan Aranda",
         "Junior Caminero",
         "Chandler Simpson",
         "Jorge Mateo",
-        "Kenny Piper",
+        "Cedric Mullins",
         "Liam Hicks",
         "Taylor Walls"
       ],
@@ -603,9 +603,9 @@
         "Hao-Yu Lee",
         "Kevin McGonigle",
         "Dillon Dingler",
-        "Eduardo Valencia",
+        "Colt Keith",
         "Spencer Torkelson",
-        "Ben Malgeri",
+        "Brett Callahan",
         "Max Clark",
         "Javier B\u00e1ez"
       ],
@@ -644,8 +644,8 @@
         "Enmanuel De Jesus",
         "Max Clark",
         "Dillon Dingler",
-        "Jackson Jobe",
         "Colt Keith",
+        "Jackson Jobe",
         "Troy Melton"
       ],
       "home_roster": [
@@ -873,7 +873,7 @@
         "Jordan Beck",
         "Mickey Moniak",
         "Braxton Fulford",
-        "Ezequiel Tovar"
+        "Connor Norby"
       ],
       "away_roster": [
         "Angel Genao",
@@ -1933,10 +1933,10 @@
       "away_lineup": [],
       "home_lineup": [],
       "away_roster": [
+        "Daniel Palencia",
         "Michael Conforto",
         "Tyrone Taylor",
         "Ian Happ",
-        "Javier Assad",
         "Caleb Thielbar",
         "Shota Imanaga",
         "Alex Bregman",
@@ -1947,12 +1947,12 @@
         "Kevin Gausman",
         "Jacob Webb",
         "Miguel Amaya",
+        "Gabriel Arias",
         "Seiya Suzuki",
         "Aaron Civale",
         "Ryan Zeferjahn",
         "David Peterson",
         "Ryan Rolison",
-        "Owen Miller",
         "Trent Thornton",
         "Clay Holmes",
         "Matthew Boyd",
@@ -1965,7 +1965,6 @@
         "Victor Robles",
         "Cole Young",
         "Jos\u00e9 A. Ferrer",
-        "Nick Davila",
         "Michael Rucker",
         "Weston Wilson",
         "Randy Arozarena",
@@ -1984,9 +1983,11 @@
         "Gabe Speier",
         "Leo Rivas",
         "Julio Rodr\u00edguez",
+        "Kade Anderson",
         "Bryce Miller",
         "Eduard Bazardo",
-        "Emerson Hancock"
+        "Emerson Hancock",
+        "Carlos Vargas"
       ],
       "game_time": "Aug 22, 7:15 PM ET",
       "game_iso": "2026-08-22T19:15:00-04:00",
