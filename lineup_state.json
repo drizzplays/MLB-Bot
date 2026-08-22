@@ -95,7 +95,7 @@
         "Michael Harris II",
         "Ozzie Albies",
         "Mauricio Dub\u00f3n",
-        "Mike Yastrzemski",
+        "Lane Thomas",
         "Austin Riley",
         "Jim Jarvis"
       ],
@@ -588,7 +588,17 @@
     "New York Mets @ Chicago White Sox | 824560": {
       "away_team": "New York Mets",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "A.J. Ewing",
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Jared Young",
+        "Luis Robert Jr.",
+        "Brett Baty",
+        "Marcus Semien",
+        "Francisco Alvarez"
+      ],
       "home_lineup": [
         "Sam Antonacci",
         "Munetaka Murakami",
@@ -624,8 +634,8 @@
         "Christian Scott",
         "Nolan McLean",
         "Zac Thornton",
-        "Luis Robert Jr.",
         "Jared Young",
+        "Luis Robert Jr.",
         "A.J. Ewing"
       ],
       "home_roster": [
