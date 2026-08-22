@@ -2,10 +2,22 @@
   "date": "2026-08-21",
   "games": {
     "822857": {
-      "active_pitcher_id": 672282,
-      "active_pitcher_name": "Reid Detmers",
+      "active_pitcher_id": 820862,
+      "active_pitcher_name": "Jos\u00e9 Fermin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T20:59:03.289902-04:00"
+      "last_checked_at": "2026-08-21T22:15:48.919343-04:00"
+    },
+    "823101": {
+      "active_pitcher_id": 676106,
+      "active_pitcher_name": "Emerson Hancock",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T22:15:58.220207-04:00"
+    },
+    "823262": {
+      "active_pitcher_id": 687570,
+      "active_pitcher_name": "Connor Prielipp",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T22:15:54.708730-04:00"
     },
     "823420": {
       "active_pitcher_id": 677865,
@@ -31,29 +43,37 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-21T20:58:55.678696-04:00"
     },
-    "824072": {
-      "active_pitcher_id": 702070,
-      "active_pitcher_name": "Noah Cameron",
+    "823911": {
+      "active_pitcher_id": 808967,
+      "active_pitcher_name": "Yoshinobu Yamamoto",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T20:58:58.395142-04:00"
+      "last_checked_at": "2026-08-21T22:15:56.457405-04:00"
+    },
+    "824072": {
+      "active_pitcher_id": 663947,
+      "active_pitcher_name": "Tyler Holton",
+      "alerted_pairs": [
+        "663947:677951"
+      ],
+      "last_checked_at": "2026-08-21T22:15:42.641311-04:00"
     },
     "824152": {
-      "active_pitcher_id": 669713,
-      "active_pitcher_name": "Hayden Wesneski",
+      "active_pitcher_id": 650556,
+      "active_pitcher_name": "Bryan Abreu",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T20:59:00.881186-04:00"
+      "last_checked_at": "2026-08-21T22:15:46.696917-04:00"
     },
     "824317": {
-      "active_pitcher_id": 676282,
-      "active_pitcher_name": "Joey Cantillo",
+      "active_pitcher_id": 685299,
+      "active_pitcher_name": "Tanner Gordon",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T20:59:05.669755-04:00"
+      "last_checked_at": "2026-08-21T22:15:51.216451-04:00"
     },
     "824559": {
-      "active_pitcher_id": 680732,
-      "active_pitcher_name": "Sean Burke",
+      "active_pitcher_id": 691799,
+      "active_pitcher_name": "Grant Taylor",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T19:55:02.067586-04:00"
+      "last_checked_at": "2026-08-21T22:15:40.590245-04:00"
     },
     "824721": {
       "active_pitcher_id": 543243,
@@ -68,6 +88,12 @@
         "669432:668723"
       ],
       "last_checked_at": "2026-08-21T19:34:29.958364-04:00"
+    },
+    "825045": {
+      "active_pitcher_id": 666157,
+      "active_pitcher_name": "Nick Lodolo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T22:15:52.957806-04:00"
     }
   }
 }
