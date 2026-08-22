@@ -78,7 +78,17 @@
     "Atlanta Braves @ Milwaukee Brewers | 823743": {
       "away_team": "Atlanta Braves",
       "home_team": "Milwaukee Brewers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Drake Baldwin",
+        "Ronald Acu\u00f1a Jr.",
+        "Matt Olson",
+        "Michael Harris II",
+        "Ozzie Albies",
+        "Mauricio Dub\u00f3n",
+        "Mike Yastrzemski",
+        "Austin Riley",
+        "Jim Jarvis"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Dylan Dodd",
@@ -875,7 +885,6 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
-        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -887,7 +896,8 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin"
+        "Foster Griffin",
+        "Rhys Hoskins"
       ],
       "home_roster": [
         "Ryan Feltner",
