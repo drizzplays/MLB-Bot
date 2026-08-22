@@ -1,6 +1,18 @@
 {
   "date": "2026-08-22",
   "games": {
+    "822858": {
+      "active_pitcher_id": 674003,
+      "active_pitcher_name": "Cody Bradford",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:05.813280-04:00"
+    },
+    "823100": {
+      "active_pitcher_id": 807739,
+      "active_pitcher_name": "Kade Anderson",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:16.822701-04:00"
+    },
     "823422": {
       "active_pitcher_id": 687273,
       "active_pitcher_name": "Quinn Mathews",
@@ -26,6 +38,42 @@
       "active_pitcher_name": "Tyler Zuber",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-22T18:41:13.231775-04:00"
+    },
+    "823910": {
+      "active_pitcher_id": 669373,
+      "active_pitcher_name": "Tarik Skubal",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:14.546980-04:00"
+    },
+    "824073": {
+      "active_pitcher_id": 608379,
+      "active_pitcher_name": "Michael Wacha",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:12.281219-04:00"
+    },
+    "824151": {
+      "active_pitcher_id": 686613,
+      "active_pitcher_name": "Hunter Brown",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:08.128037-04:00"
+    },
+    "824560": {
+      "active_pitcher_id": 622491,
+      "active_pitcher_name": "Luis Castillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:10.230040-04:00"
+    },
+    "824718": {
+      "active_pitcher_id": 663776,
+      "active_pitcher_name": "Patrick Sandoval",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:19.096688-04:00"
+    },
+    "824798": {
+      "active_pitcher_id": 687064,
+      "active_pitcher_name": "Brandon Young",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:01:03.514154-04:00"
     }
   }
 }
