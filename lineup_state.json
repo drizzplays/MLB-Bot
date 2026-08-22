@@ -3,7 +3,17 @@
     "Toronto Blue Jays @ New York Yankees | 823509": {
       "away_team": "Toronto Blue Jays",
       "home_team": "New York Yankees",
-      "away_lineup": [],
+      "away_lineup": [
+        "Brett Bateman",
+        "Vladimir Guerrero Jr.",
+        "Alejandro Kirk",
+        "George Springer",
+        "Kazuma Okamoto",
+        "Ernie Clement",
+        "Daz Cameron",
+        "Charles McAdoo",
+        "Myles Straw"
+      ],
       "home_lineup": [
         "Trent Grisham",
         "Ben Rice",
@@ -28,14 +38,14 @@
         "Brandon Valenzuela",
         "Dylan Cease",
         "Brett Bateman",
-        "Davis Schneider",
         "Paul Sewald",
         "Nathan Lukes",
-        "Max Scherzer",
         "George Springer",
+        "Max Scherzer",
         "Mason Fluharty",
         "Braydon Fisher",
         "Tyler Rogers",
+        "Vladimir Guerrero Jr.",
         "Daz Cameron",
         "Jes\u00fas S\u00e1nchez",
         "Myles Straw",
@@ -163,7 +173,17 @@
     "Washington Nationals @ Miami Marlins | 823831": {
       "away_team": "Washington Nationals",
       "home_team": "Miami Marlins",
-      "away_lineup": [],
+      "away_lineup": [
+        "Daylen Lile",
+        "Dylan Crews",
+        "Brady House",
+        "Abimelec Ortiz",
+        "Harry Ford",
+        "Jos\u00e9 Tena",
+        "Jacob Young",
+        "Nasim Nu\u00f1ez",
+        "Andrew Pinckney"
+      ],
       "home_lineup": [
         "Xavier Edwards",
         "Griffin Conine",
@@ -177,10 +197,10 @@
       ],
       "away_roster": [
         "Brady House",
-        "Will Dion",
         "Abimelec Ortiz",
-        "CJ Abrams",
+        "Will Dion",
         "Nasim Nu\u00f1ez",
+        "CJ Abrams",
         "Andr\u00e9s Chaparro",
         "Jorbit Vivas",
         "Dylan Crews",
@@ -905,7 +925,6 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
-        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -917,7 +936,8 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin"
+        "Foster Griffin",
+        "Rhys Hoskins"
       ],
       "home_roster": [
         "Ryan Feltner",
