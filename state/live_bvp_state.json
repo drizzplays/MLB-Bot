@@ -2,18 +2,18 @@
   "date": "2026-08-22",
   "games": {
     "823509": {
-      "active_pitcher_id": 656302,
-      "active_pitcher_name": "Dylan Cease",
+      "active_pitcher_id": 690440,
+      "active_pitcher_name": "Bradley Hanner",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T15:20:28.748965-04:00"
+      "last_checked_at": "2026-08-22T16:17:04.283958-04:00"
     },
     "823743": {
-      "active_pitcher_id": 701656,
-      "active_pitcher_name": "Logan Henderson",
+      "active_pitcher_id": 694477,
+      "active_pitcher_name": "Chad Patrick",
       "alerted_pairs": [
         "527048:687401"
       ],
-      "last_checked_at": "2026-08-22T14:56:53.259897-04:00"
+      "last_checked_at": "2026-08-22T16:17:06.182576-04:00"
     },
     "823831": {
       "active_pitcher_id": 691587,
