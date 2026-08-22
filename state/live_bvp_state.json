@@ -1,6 +1,12 @@
 {
   "date": "2026-08-22",
   "games": {
+    "823422": {
+      "active_pitcher_id": 691725,
+      "active_pitcher_name": "Andrew Painter",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T17:53:36.003345-04:00"
+    },
     "823509": {
       "active_pitcher_id": 518585,
       "active_pitcher_name": "Fernando Cruz",
