@@ -2,10 +2,10 @@
   "date": "2026-08-22",
   "games": {
     "822858": {
-      "active_pitcher_id": 696270,
-      "active_pitcher_name": "Ryan Johnson",
+      "active_pitcher_id": 674003,
+      "active_pitcher_name": "Cody Bradford",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:46:38.220710-04:00"
+      "last_checked_at": "2026-08-22T19:59:44.887213-04:00"
     },
     "823100": {
       "active_pitcher_id": 656849,
@@ -14,10 +14,10 @@
       "last_checked_at": "2026-08-22T19:28:16.769760-04:00"
     },
     "823422": {
-      "active_pitcher_id": 681676,
-      "active_pitcher_name": "Ryan Fernandez",
+      "active_pitcher_id": 691725,
+      "active_pitcher_name": "Andrew Painter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:46:29.721719-04:00"
+      "last_checked_at": "2026-08-22T19:59:42.891004-04:00"
     },
     "823509": {
       "active_pitcher_id": 518585,
@@ -57,19 +57,25 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-22T19:28:09.065769-04:00"
     },
-    "824560": {
-      "active_pitcher_id": 681035,
-      "active_pitcher_name": "Christian Scott",
+    "824316": {
+      "active_pitcher_id": 687312,
+      "active_pitcher_name": "Gabriel Hughes",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:28:10.954298-04:00"
+      "last_checked_at": "2026-08-22T19:59:50.888014-04:00"
+    },
+    "824560": {
+      "active_pitcher_id": 622491,
+      "active_pitcher_name": "Luis Castillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T19:59:46.828590-04:00"
     },
     "824718": {
-      "active_pitcher_id": 694918,
-      "active_pitcher_name": "Blade Tidwell",
+      "active_pitcher_id": 663776,
+      "active_pitcher_name": "Patrick Sandoval",
       "alerted_pairs": [
         "694918:575929"
       ],
-      "last_checked_at": "2026-08-22T19:28:18.791470-04:00"
+      "last_checked_at": "2026-08-22T19:59:48.964514-04:00"
     },
     "824798": {
       "active_pitcher_id": 663556,
