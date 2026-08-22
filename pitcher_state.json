@@ -1,43 +1,5 @@
 {
   "2026-08-22": {
-    "823422": {
-      "away_team": "St. Louis Cardinals",
-      "home_team": "Philadelphia Phillies",
-      "away_pitcher": "Quinn Mathews",
-      "home_pitcher": "Andrew Painter",
-      "away_pitcher_id": "687273",
-      "home_pitcher_id": "691725",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 1,
-        "era": "3.00",
-        "whip": "1.56",
-        "strikeouts": 10,
-        "innings_pitched": "9.0",
-        "games_started": 2
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 8,
-        "era": "6.43",
-        "whip": "1.55",
-        "strikeouts": 71,
-        "innings_pitched": "85.1",
-        "games_started": 16
-      },
-      "game_time": "Aug 22, 6:05 PM ET",
-      "game_iso": "2026-08-22T18:05:00-04:00",
-      "game_pk": "823422",
-      "status_code": "P"
-    },
     "824798": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Baltimore Orioles",
