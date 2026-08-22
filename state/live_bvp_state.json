@@ -2,10 +2,10 @@
   "date": "2026-08-22",
   "games": {
     "823422": {
-      "active_pitcher_id": 691725,
-      "active_pitcher_name": "Andrew Painter",
+      "active_pitcher_id": 687273,
+      "active_pitcher_name": "Quinn Mathews",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T17:53:36.003345-04:00"
+      "last_checked_at": "2026-08-22T18:16:41.961775-04:00"
     },
     "823509": {
       "active_pitcher_id": 518585,
@@ -22,10 +22,10 @@
       "last_checked_at": "2026-08-22T16:42:33.157898-04:00"
     },
     "823831": {
-      "active_pitcher_id": 663623,
-      "active_pitcher_name": "Jake Irvin",
+      "active_pitcher_id": 694795,
+      "active_pitcher_name": "Josh Ekness",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T17:32:01.394244-04:00"
+      "last_checked_at": "2026-08-22T18:16:39.839534-04:00"
     }
   }
 }
