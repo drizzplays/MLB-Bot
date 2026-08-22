@@ -2,10 +2,10 @@
   "date": "2026-08-21",
   "games": {
     "822857": {
-      "active_pitcher_id": 820862,
-      "active_pitcher_name": "Jos\u00e9 Fermin",
+      "active_pitcher_id": 641302,
+      "active_pitcher_name": "Tyler Alexander",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T22:15:48.919343-04:00"
+      "last_checked_at": "2026-08-21T23:09:10.451620-04:00"
     },
     "823101": {
       "active_pitcher_id": 676106,
@@ -44,10 +44,10 @@
       "last_checked_at": "2026-08-21T20:58:55.678696-04:00"
     },
     "823911": {
-      "active_pitcher_id": 808967,
-      "active_pitcher_name": "Yoshinobu Yamamoto",
+      "active_pitcher_id": 696149,
+      "active_pitcher_name": "Bubba Chandler",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T22:15:56.457405-04:00"
+      "last_checked_at": "2026-08-21T23:09:17.915352-04:00"
     },
     "824072": {
       "active_pitcher_id": 663947,
@@ -64,10 +64,10 @@
       "last_checked_at": "2026-08-21T22:15:46.696917-04:00"
     },
     "824317": {
-      "active_pitcher_id": 685299,
-      "active_pitcher_name": "Tanner Gordon",
+      "active_pitcher_id": 684974,
+      "active_pitcher_name": "Craig Yoho",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T22:15:51.216451-04:00"
+      "last_checked_at": "2026-08-21T23:09:12.935705-04:00"
     },
     "824559": {
       "active_pitcher_id": 691799,
@@ -90,10 +90,10 @@
       "last_checked_at": "2026-08-21T19:34:29.958364-04:00"
     },
     "825045": {
-      "active_pitcher_id": 666157,
-      "active_pitcher_name": "Nick Lodolo",
+      "active_pitcher_id": 670062,
+      "active_pitcher_name": "Julian Garcia",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T22:15:52.957806-04:00"
+      "last_checked_at": "2026-08-21T23:09:15.398065-04:00"
     }
   }
 }
