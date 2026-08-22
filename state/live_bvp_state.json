@@ -2,16 +2,18 @@
   "date": "2026-08-22",
   "games": {
     "823509": {
-      "active_pitcher_id": 656302,
-      "active_pitcher_name": "Dylan Cease",
+      "active_pitcher_id": 677960,
+      "active_pitcher_name": "Ryan Weathers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T13:55:50.972635-04:00"
+      "last_checked_at": "2026-08-22T14:22:12.282513-04:00"
     },
     "823743": {
-      "active_pitcher_id": 701656,
-      "active_pitcher_name": "Logan Henderson",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T13:55:52.878345-04:00"
+      "active_pitcher_id": 527048,
+      "active_pitcher_name": "Mart\u00edn P\u00e9rez",
+      "alerted_pairs": [
+        "527048:687401"
+      ],
+      "last_checked_at": "2026-08-22T14:22:14.022375-04:00"
     }
   }
 }
