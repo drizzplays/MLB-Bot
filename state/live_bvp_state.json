@@ -2,18 +2,18 @@
   "date": "2026-08-22",
   "games": {
     "823509": {
-      "active_pitcher_id": 690440,
-      "active_pitcher_name": "Bradley Hanner",
+      "active_pitcher_id": 518585,
+      "active_pitcher_name": "Fernando Cruz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T16:17:04.283958-04:00"
+      "last_checked_at": "2026-08-22T16:42:31.019865-04:00"
     },
     "823743": {
-      "active_pitcher_id": 694477,
-      "active_pitcher_name": "Chad Patrick",
+      "active_pitcher_id": 676879,
+      "active_pitcher_name": "Aaron Ashby",
       "alerted_pairs": [
         "527048:687401"
       ],
-      "last_checked_at": "2026-08-22T16:17:06.182576-04:00"
+      "last_checked_at": "2026-08-22T16:42:33.157898-04:00"
     },
     "823831": {
       "active_pitcher_id": 691587,
