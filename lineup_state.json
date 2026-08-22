@@ -103,7 +103,7 @@
         "Kyle Schwarber",
         "Trea Turner",
         "Bryce Harper",
-        "Luis Arraez",
+        "Edmundo Sosa",
         "Alec Bohm",
         "Bryson Stott",
         "Bryan De La Cruz",
@@ -148,8 +148,8 @@
         "Bryce Harper",
         "J.T. Realmuto",
         "Zack Wheeler",
-        "Jhoan Duran",
         "Edmundo Sosa",
+        "Jhoan Duran",
         "Orion Kerkering",
         "Alec Bohm",
         "Jonathan Bowlan",
@@ -187,7 +187,7 @@
       "home_lineup": [
         "Paul Goldschmidt",
         "Jazz Chisholm Jr.",
-        "Luis Garc\u00eda Jr.",
+        "Max Schuemann",
         "Ben Rice",
         "George Lombard Jr.",
         "Trent Grisham",
@@ -265,8 +265,8 @@
         "Bryce Eldridge",
         "Jung Hoo Lee",
         "Osleivis Basabe",
-        "Turner Hill",
-        "Drew Cavanaugh",
+        "Victor Bericoto",
+        "Buddy Kennedy",
         "Christian Koss"
       ],
       "home_lineup": [
@@ -351,7 +351,7 @@
         "Brady House",
         "Keibert Ruiz",
         "Dylan Crews",
-        "Nasim Nu\u00f1ez",
+        "Jos\u00e9 Tena",
         "Jacob Young"
       ],
       "home_lineup": [
@@ -528,8 +528,8 @@
         "Chase Meidroth",
         "Munetaka Murakami",
         "Miguel Vargas",
-        "Randal Grichuk",
-        "Colson Montgomery",
+        "Sam Antonacci",
+        "Braden Montgomery",
         "Brenton Doyle",
         "Luisangel Acu\u00f1a",
         "Jake Rogers",
@@ -600,7 +600,7 @@
       "home_team": "Kansas City Royals",
       "away_lineup": [
         "Gleyber Torres",
-        "Hao-Yu Lee",
+        "Zach McKinstry",
         "Kevin McGonigle",
         "Dillon Dingler",
         "Colt Keith",
@@ -687,7 +687,7 @@
         "Henry Bolte",
         "Jeff McNeil",
         "Zack Gelof",
-        "Carlos Cortes",
+        "Alika Williams",
         "Lawrence Butler",
         "Tommy White",
         "Jonah Heim",
@@ -696,7 +696,7 @@
       ],
       "home_lineup": [
         "Jose Altuve",
-        "Yordan Alvarez",
+        "Taylor Trammell",
         "Isaac Paredes",
         "Daulton Varsho",
         "Christian Walker",
@@ -776,7 +776,7 @@
         "Jose Siri",
         "Denzer Guzman",
         "Josh Lowe",
-        "Travis d'Arnaud",
+        "Tyler Heineman",
         "Oswald Peraza"
       ],
       "home_lineup": [
@@ -786,7 +786,7 @@
         "Brandon Nimmo",
         "Ezequiel Duran",
         "Jake Burger",
-        "Cody Freeman",
+        "Nicky Lopez",
         "Elias D\u00edaz",
         "Evan Carter"
       ],
@@ -841,8 +841,8 @@
         "Jakob Junis",
         "Cody Freeman",
         "Elias D\u00edaz",
-        "Cody Bradford",
         "Jarred Kelenic",
+        "Cody Bradford",
         "Jordan Montgomery",
         "Cole Winn"
       ],
@@ -946,7 +946,7 @@
         "Matt McLain",
         "JJ Bleday",
         "Jose Trevino",
-        "Michael Toglia",
+        "TJ Friedl",
         "Ke'Bryan Hayes"
       ],
       "home_lineup": [
@@ -2142,6 +2142,7 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
+        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -2153,8 +2154,7 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin",
-        "Rhys Hoskins"
+        "Foster Griffin"
       ],
       "home_roster": [
         "Ryan Feltner",
