@@ -61,7 +61,6 @@
         "Carlos Rod\u00f3n",
         "Spencer Jones",
         "Ryan Yarbrough",
-        "Max Schuemann",
         "Amed Rosario",
         "Ryan Weathers",
         "Tim Hill",
@@ -1204,7 +1203,17 @@
         "Brooks Lee",
         "Kaelen Culpepper"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Fernando Tatis Jr.",
+        "Jake Cronenworth",
+        "Manny Machado",
+        "Ty France",
+        "Jackson Merrill",
+        "Luis Rengifo",
+        "Gavin Sheets",
+        "Xander Bogaerts",
+        "Freddy Fermin"
+      ],
       "away_roster": [
         "Dean Kremer",
         "Tommy Nance",
@@ -1234,9 +1243,9 @@
         "Luke Keaschall"
       ],
       "home_roster": [
+        "Luis Rengifo",
         "Luis Campusano",
         "Yuki Matsui",
-        "Luis Rengifo",
         "Freddy Fermin",
         "Michael King",
         "Mason Miller",
@@ -1252,8 +1261,8 @@
         "Adrian Morejon",
         "Manny Machado",
         "Austin Hays",
-        "Ty France",
         "Fernando Tatis Jr.",
+        "Ty France",
         "Xander Bogaerts",
         "Jase Bowen",
         "Kyle Hart",
