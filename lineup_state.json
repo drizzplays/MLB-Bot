@@ -428,7 +428,17 @@
     "Los Angeles Angels @ Texas Rangers | 822858": {
       "away_team": "Los Angeles Angels",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Vaughn Grissom",
+        "Mois\u00e9s Ballesteros",
+        "Jose Siri",
+        "Gustavo Campero",
+        "Denzer Guzman",
+        "Christian Moore",
+        "Travis d'Arnaud"
+      ],
       "home_lineup": [
         "Joc Pederson",
         "Corey Seager",
@@ -442,9 +452,11 @@
       ],
       "away_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
+        "Gustavo Campero",
         "Zach Neto",
+        "Christian Moore",
         "Travis d'Arnaud",
         "Ryan Johnson",
         "Ben Joyce",
@@ -454,8 +466,6 @@
         "Jos\u00e9 Fermin",
         "Denzer Guzman",
         "Vaughn Grissom",
-        "Nolan Schanuel",
-        "Wade Meckler",
         "Josh Lowe",
         "Tyler Heineman",
         "Tayler Saucedo",
@@ -1088,7 +1098,17 @@
     "Cleveland Guardians @ Colorado Rockies | 824316": {
       "away_team": "Cleveland Guardians",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Steven Kwan",
+        "Chase DeLauter",
+        "Jos\u00e9 Ram\u00edrez",
+        "Jo Adell",
+        "Nathaniel Lowe",
+        "Angel Genao",
+        "Travis Bazzana",
+        "Patrick Bailey",
+        "Petey Halpin"
+      ],
       "home_lineup": [
         "Jake McCarthy",
         "Mickey Moniak",
