@@ -1,17 +1,23 @@
 {
   "date": "2026-08-21",
   "games": {
-    "823420": {
-      "active_pitcher_id": 666200,
-      "active_pitcher_name": "Jes\u00fas Luzardo",
+    "822857": {
+      "active_pitcher_id": 672282,
+      "active_pitcher_name": "Reid Detmers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T19:54:53.943948-04:00"
+      "last_checked_at": "2026-08-21T20:59:03.289902-04:00"
+    },
+    "823420": {
+      "active_pitcher_id": 677865,
+      "active_pitcher_name": "Justin Bruihl",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T20:58:50.877453-04:00"
     },
     "823510": {
-      "active_pitcher_id": 693645,
-      "active_pitcher_name": "Cam Schlittler",
+      "active_pitcher_id": 663893,
+      "active_pitcher_name": "Brendon Little",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T19:02:27.561733-04:00"
+      "last_checked_at": "2026-08-21T20:58:53.058761-04:00"
     },
     "823746": {
       "active_pitcher_id": 689266,
@@ -20,10 +26,28 @@
       "last_checked_at": "2026-08-21T18:18:50.000181-04:00"
     },
     "823830": {
-      "active_pitcher_id": 695418,
-      "active_pitcher_name": "Brad Lord",
+      "active_pitcher_id": 702021,
+      "active_pitcher_name": "Will Dion",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-21T19:54:58.152526-04:00"
+      "last_checked_at": "2026-08-21T20:58:55.678696-04:00"
+    },
+    "824072": {
+      "active_pitcher_id": 702070,
+      "active_pitcher_name": "Noah Cameron",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T20:58:58.395142-04:00"
+    },
+    "824152": {
+      "active_pitcher_id": 669713,
+      "active_pitcher_name": "Hayden Wesneski",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T20:59:00.881186-04:00"
+    },
+    "824317": {
+      "active_pitcher_id": 676282,
+      "active_pitcher_name": "Joey Cantillo",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-21T20:59:05.669755-04:00"
     },
     "824559": {
       "active_pitcher_id": 680732,
