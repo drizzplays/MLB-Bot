@@ -1,6 +1,14 @@
 {
   "date": "2026-08-23",
   "games": {
+    "822856": {
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
+      "alerted_pairs": [
+        "615698:642350"
+      ],
+      "last_checked_at": "2026-08-23T14:22:16.108353-04:00"
+    },
     "823421": {
       "active_pitcher_id": 681517,
       "active_pitcher_name": "Kyle Leahy",
@@ -8,22 +16,40 @@
       "last_checked_at": "2026-08-23T13:52:54.437087-04:00"
     },
     "823507": {
-      "active_pitcher_id": 667755,
-      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "active_pitcher_id": 607074,
+      "active_pitcher_name": "Carlos Rod\u00f3n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T13:52:56.550202-04:00"
+      "last_checked_at": "2026-08-23T14:22:03.304170-04:00"
     },
     "823827": {
-      "active_pitcher_id": 800600,
-      "active_pitcher_name": "Jackson Kent",
+      "active_pitcher_id": 676083,
+      "active_pitcher_name": "Janson Junk",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T13:52:58.684579-04:00"
+      "last_checked_at": "2026-08-23T14:22:05.962456-04:00"
+    },
+    "824071": {
+      "active_pitcher_id": 621097,
+      "active_pitcher_name": "Jacob Waguespack",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T14:22:08.455378-04:00"
+    },
+    "824150": {
+      "active_pitcher_id": 669620,
+      "active_pitcher_name": "Brady Basso",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T14:22:10.976783-04:00"
+    },
+    "824558": {
+      "active_pitcher_id": 690997,
+      "active_pitcher_name": "Nolan McLean",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T14:22:13.544921-04:00"
     },
     "824799": {
-      "active_pitcher_id": 669358,
-      "active_pitcher_name": "Shane Baz",
+      "active_pitcher_id": 607259,
+      "active_pitcher_name": "Nick Martinez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T13:52:52.310738-04:00"
+      "last_checked_at": "2026-08-23T14:22:00.568295-04:00"
     }
   }
 }
