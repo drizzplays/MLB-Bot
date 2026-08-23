@@ -155,17 +155,26 @@
     "824071": {
       "away_team": "Detroit Tigers",
       "home_team": "Kansas City Royals",
-      "away_pitcher": "TBD",
+      "away_pitcher": "Jacob Waguespack",
       "home_pitcher": "Daniel Lynch IV",
-      "away_pitcher_id": null,
+      "away_pitcher_id": "621097",
       "home_pitcher_id": "663738",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
-      "away_pitcher_status": "tbd",
+      "away_pitcher_status": "probable",
       "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
-      "away_pitcher_stats": null,
+      "away_pitcher_stats": {
+        "season": "2026",
+        "wins": 1,
+        "losses": 1,
+        "era": "1.95",
+        "whip": "0.83",
+        "strikeouts": 16,
+        "innings_pitched": "27.2",
+        "games_started": 0
+      },
       "home_pitcher_stats": {
         "season": "2026",
         "wins": 4,
@@ -217,7 +226,7 @@
       "game_time": "Aug 23, 2:10 PM ET",
       "game_iso": "2026-08-23T14:10:00-04:00",
       "game_pk": "824150",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824558": {
       "away_team": "New York Mets",
