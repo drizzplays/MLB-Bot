@@ -8,10 +8,16 @@
       "last_checked_at": "2026-08-22T19:59:44.887213-04:00"
     },
     "823100": {
-      "active_pitcher_id": 656849,
-      "active_pitcher_name": "David Peterson",
+      "active_pitcher_id": 621074,
+      "active_pitcher_name": "Michael Rucker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:28:16.769760-04:00"
+      "last_checked_at": "2026-08-22T21:44:20.460441-04:00"
+    },
+    "823261": {
+      "active_pitcher_id": 606996,
+      "active_pitcher_name": "Kyle Hart",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T21:44:29.057131-04:00"
     },
     "823422": {
       "active_pitcher_id": 691725,
@@ -40,10 +46,10 @@
       "last_checked_at": "2026-08-22T18:41:13.231775-04:00"
     },
     "823910": {
-      "active_pitcher_id": 683003,
-      "active_pitcher_name": "Jared Jones",
+      "active_pitcher_id": 676263,
+      "active_pitcher_name": "Jack Dreyer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:28:14.848698-04:00"
+      "last_checked_at": "2026-08-22T21:44:18.355060-04:00"
     },
     "824073": {
       "active_pitcher_id": 608379,
@@ -52,30 +58,30 @@
       "last_checked_at": "2026-08-22T19:46:40.857089-04:00"
     },
     "824151": {
-      "active_pitcher_id": 682052,
-      "active_pitcher_name": "Jacob Lopez",
+      "active_pitcher_id": 663687,
+      "active_pitcher_name": "Hogan Harris",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:28:09.065769-04:00"
+      "last_checked_at": "2026-08-22T21:44:14.039668-04:00"
     },
     "824316": {
-      "active_pitcher_id": 687312,
-      "active_pitcher_name": "Gabriel Hughes",
+      "active_pitcher_id": 693308,
+      "active_pitcher_name": "Nick Frasso",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:59:50.888014-04:00"
+      "last_checked_at": "2026-08-22T21:44:26.902055-04:00"
     },
     "824560": {
-      "active_pitcher_id": 622491,
-      "active_pitcher_name": "Luis Castillo",
+      "active_pitcher_id": 623211,
+      "active_pitcher_name": "Huascar Brazob\u00e1n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-22T19:59:46.828590-04:00"
+      "last_checked_at": "2026-08-22T21:44:16.165986-04:00"
     },
     "824718": {
-      "active_pitcher_id": 663776,
-      "active_pitcher_name": "Patrick Sandoval",
+      "active_pitcher_id": 693313,
+      "active_pitcher_name": "Carson Seymour",
       "alerted_pairs": [
         "694918:575929"
       ],
-      "last_checked_at": "2026-08-22T19:59:48.964514-04:00"
+      "last_checked_at": "2026-08-22T21:44:22.616463-04:00"
     },
     "824798": {
       "active_pitcher_id": 663556,
@@ -84,6 +90,12 @@
         "663556:691723"
       ],
       "last_checked_at": "2026-08-22T19:46:32.243021-04:00"
+    },
+    "825044": {
+      "active_pitcher_id": 695076,
+      "active_pitcher_name": "Rhett Lowder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-22T21:44:24.767638-04:00"
     }
   }
 }
