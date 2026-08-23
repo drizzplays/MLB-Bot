@@ -12,16 +12,16 @@
       "last_checked_at": "2026-08-23T17:01:29.706564-04:00"
     },
     "823099": {
-      "active_pitcher_id": 682243,
-      "active_pitcher_name": "Bryce Miller",
+      "active_pitcher_id": 678606,
+      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:53:22.540852-04:00"
+      "last_checked_at": "2026-08-23T18:16:42.416329-04:00"
     },
     "823258": {
-      "active_pitcher_id": 656546,
-      "active_pitcher_name": "Jeff Hoffman",
+      "active_pitcher_id": 701519,
+      "active_pitcher_name": "Travis Adams",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:53:24.897184-04:00"
+      "last_checked_at": "2026-08-23T18:16:44.765819-04:00"
     },
     "823421": {
       "active_pitcher_id": 676617,
@@ -44,10 +44,10 @@
       "last_checked_at": "2026-08-23T16:17:01.499188-04:00"
     },
     "823909": {
-      "active_pitcher_id": 605483,
-      "active_pitcher_name": "Blake Snell",
+      "active_pitcher_id": 694753,
+      "active_pitcher_name": "Khristian Curtis",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:32:25.549096-04:00"
+      "last_checked_at": "2026-08-23T18:16:40.069886-04:00"
     },
     "824071": {
       "active_pitcher_id": 674444,
@@ -62,10 +62,10 @@
       "last_checked_at": "2026-08-23T17:01:27.531419-04:00"
     },
     "824315": {
-      "active_pitcher_id": 682120,
-      "active_pitcher_name": "Tim Herrin",
+      "active_pitcher_id": 605447,
+      "active_pitcher_name": "Jordan Romano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:53:20.081776-04:00"
+      "last_checked_at": "2026-08-23T18:16:37.764313-04:00"
     },
     "824558": {
       "active_pitcher_id": 673540,
@@ -88,10 +88,10 @@
       "last_checked_at": "2026-08-23T16:16:54.347010-04:00"
     },
     "825043": {
-      "active_pitcher_id": 671096,
-      "active_pitcher_name": "Andrew Abbott",
+      "active_pitcher_id": 642528,
+      "active_pitcher_name": "Jonathan Lo\u00e1isiga",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:32:30.465220-04:00"
+      "last_checked_at": "2026-08-23T18:16:47.099916-04:00"
     }
   }
 }
