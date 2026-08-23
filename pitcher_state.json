@@ -150,7 +150,7 @@
       "game_time": "Aug 23, 1:40 PM ET",
       "game_iso": "2026-08-23T13:40:00-04:00",
       "game_pk": "823827",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824071": {
       "away_team": "Detroit Tigers",
@@ -264,7 +264,7 @@
       "game_time": "Aug 23, 2:10 PM ET",
       "game_iso": "2026-08-23T14:10:00-04:00",
       "game_pk": "824558",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822856": {
       "away_team": "Los Angeles Angels",
@@ -378,7 +378,7 @@
       "game_time": "Aug 23, 3:15 PM ET",
       "game_iso": "2026-08-23T15:15:00-04:00",
       "game_pk": "824720",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823909": {
       "away_team": "Pittsburgh Pirates",
