@@ -428,7 +428,17 @@
     "Athletics @ Houston Astros | 824150": {
       "away_team": "Athletics",
       "home_team": "Houston Astros",
-      "away_lineup": [],
+      "away_lineup": [
+        "Henry Bolte",
+        "Carlos Cortes",
+        "Zack Gelof",
+        "Lawrence Butler",
+        "Tommy White",
+        "Max Muncy",
+        "Donovan Walton",
+        "Darell Hernaiz",
+        "Brian Serven"
+      ],
       "home_lineup": [
         "Jeremy Pe\u00f1a",
         "Yordan Alvarez",
@@ -442,8 +452,8 @@
       ],
       "away_roster": [
         "Lawrence Butler",
-        "Jonah Heim",
         "Tommy White",
+        "Jonah Heim",
         "Donovan Walton",
         "J.T. Ginn",
         "Zack Gelof",
@@ -503,8 +513,28 @@
     "New York Mets @ Chicago White Sox | 824558": {
       "away_team": "New York Mets",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Francisco Lindor",
+        "Bo Bichette",
+        "Carson Benge",
+        "Luis Robert Jr.",
+        "Eric Wagaman",
+        "Christopher Morel",
+        "Marcus Semien",
+        "A.J. Ewing",
+        "Luis Torrens"
+      ],
+      "home_lineup": [
+        "Sam Antonacci",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Andrew Benintendi",
+        "Braden Montgomery",
+        "Colson Montgomery",
+        "Chase Meidroth",
+        "Tristan Peters",
+        "Jake Rogers"
+      ],
       "away_roster": [
         "Luis Torrens",
         "Robert Stock",
@@ -1657,7 +1687,6 @@
         "Victor Robles",
         "Cole Young",
         "Jos\u00e9 A. Ferrer",
-        "Nick Davila",
         "Michael Rucker",
         "Weston Wilson",
         "Randy Arozarena",
@@ -1672,13 +1701,14 @@
         "Brendan Donovan",
         "George Kirby",
         "Andr\u00e9s Mu\u00f1oz",
-        "Josh Simpson",
         "Gabe Speier",
         "Leo Rivas",
         "Julio Rodr\u00edguez",
+        "Kade Anderson",
         "Bryce Miller",
         "Eduard Bazardo",
-        "Emerson Hancock"
+        "Emerson Hancock",
+        "Carlos Vargas"
       ],
       "game_time": "Aug 24, 9:40 PM ET",
       "game_iso": "2026-08-24T21:40:00-04:00",
