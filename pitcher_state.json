@@ -1,43 +1,5 @@
 {
   "2026-08-23": {
-    "823827": {
-      "away_team": "Washington Nationals",
-      "home_team": "Miami Marlins",
-      "away_pitcher": "Jackson Kent",
-      "home_pitcher": "Janson Junk",
-      "away_pitcher_id": "800600",
-      "home_pitcher_id": "676083",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 1,
-        "era": "9.39",
-        "whip": "2.48",
-        "strikeouts": 9,
-        "innings_pitched": "7.2",
-        "games_started": 2
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 6,
-        "losses": 8,
-        "era": "4.37",
-        "whip": "1.36",
-        "strikeouts": 66,
-        "innings_pitched": "92.2",
-        "games_started": 18
-      },
-      "game_time": "Aug 23, 1:40 PM ET",
-      "game_iso": "2026-08-23T13:40:00-04:00",
-      "game_pk": "823827",
-      "status_code": "P"
-    },
     "824071": {
       "away_team": "Detroit Tigers",
       "home_team": "Kansas City Royals",
