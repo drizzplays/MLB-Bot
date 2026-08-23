@@ -609,7 +609,17 @@
         "Christian Moore",
         "Tyler Heineman"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Justin Foscue",
+        "Corey Seager",
+        "Wyatt Langford",
+        "Brandon Nimmo",
+        "Ezequiel Duran",
+        "Jake Burger",
+        "Logan O'Hoppe",
+        "Cody Freeman",
+        "Elias D\u00edaz"
+      ],
       "away_roster": [
         "Adam Frazier",
         "Jose Siri",
@@ -651,8 +661,8 @@
         "Corey Seager",
         "Cal Quantrill",
         "Nicky Lopez",
-        "Robby Ahlstrom",
         "Justin Foscue",
+        "Robby Ahlstrom",
         "Ezequiel Duran",
         "MacKenzie Gore",
         "Jacob deGrom",
@@ -661,8 +671,8 @@
         "Jakob Junis",
         "Cody Freeman",
         "Elias D\u00edaz",
+        "Logan O'Hoppe",
         "Cody Bradford",
-        "Jarred Kelenic",
         "Jordan Montgomery",
         "Cole Winn"
       ],
@@ -843,7 +853,17 @@
     "Pittsburgh Pirates @ Los Angeles Dodgers | 823909": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "Los Angeles Dodgers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Nick Gonzales",
+        "Esmerlyn Valdez",
+        "Bryan Reynolds",
+        "Brandon Lowe",
+        "Rafael Flores Jr.",
+        "Nick Yorke",
+        "Spencer Horwitz",
+        "Jared Triolo",
+        "Billy Cook"
+      ],
       "home_lineup": [
         "Shohei Ohtani",
         "Freddie Freeman",
@@ -869,8 +889,8 @@
         "Gregory Soto",
         "Luke Weaver",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Yohan Ram\u00edrez",
         "Bubba Chandler",
@@ -1078,7 +1098,17 @@
     "Cincinnati Reds @ Arizona Diamondbacks | 825043": {
       "away_team": "Cincinnati Reds",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Elly De La Cruz",
+        "Sal Stewart",
+        "Dane Myers",
+        "Tyler Stephenson",
+        "Eugenio Su\u00e1rez",
+        "Matt McLain",
+        "JJ Bleday",
+        "Will Banfield",
+        "H\u00e9ctor Rodr\u00edguez"
+      ],
       "home_lineup": [
         "Ildemaro Vargas",
         "Corbin Carroll",
@@ -1092,8 +1122,8 @@
       ],
       "away_roster": [
         "Elly De La Cruz",
-        "Dane Myers",
         "Sal Stewart",
+        "Dane Myers",
         "Pierce Johnson",
         "Luis Mey",
         "Emilio Pag\u00e1n",
