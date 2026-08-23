@@ -362,7 +362,7 @@
         "Isaac Collins",
         "John Rave",
         "Tyler Tolbert",
-        "Luke Maile",
+        "Carter Jensen",
         "Kyle Isbel"
       ],
       "away_roster": [
@@ -525,7 +525,7 @@
         "Luis Torrens"
       ],
       "home_lineup": [
-        "Sam Antonacci",
+        "Brenton Doyle",
         "Munetaka Murakami",
         "Miguel Vargas",
         "Luisangel Acu\u00f1a",
@@ -610,13 +610,13 @@
         "Tyler Heineman"
       ],
       "home_lineup": [
-        "Justin Foscue",
+        "Evan Carter",
         "Corey Seager",
         "Wyatt Langford",
         "Brandon Nimmo",
         "Ezequiel Duran",
         "Jake Burger",
-        "Logan O'Hoppe",
+        "Joc Pederson",
         "Cody Freeman",
         "Elias D\u00edaz"
       ],
@@ -771,7 +771,7 @@
       "away_lineup": [
         "Osleivis Basabe",
         "Rafael Devers",
-        "Willy Adames",
+        "Buddy Kennedy",
         "Bryce Eldridge",
         "Victor Bericoto",
         "Jung Hoo Lee",
@@ -780,7 +780,7 @@
         "Christian Koss"
       ],
       "home_lineup": [
-        "Jahmai Jones",
+        "Mickey Gasper",
         "Ceddanne Rafaela",
         "Wilyer Abreu",
         "Willson Contreras",
@@ -1193,7 +1193,17 @@
     "Atlanta Braves @ Milwaukee Brewers | 823745": {
       "away_team": "Atlanta Braves",
       "home_team": "Milwaukee Brewers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Michael Harris II",
+        "Ronald Acu\u00f1a Jr.",
+        "Matt Olson",
+        "Ozzie Albies",
+        "Drake Baldwin",
+        "Lane Thomas",
+        "Mauricio Dub\u00f3n",
+        "Austin Riley",
+        "Sean Murphy"
+      ],
       "home_lineup": [
         "Jackson Chourio",
         "Brice Turang",
