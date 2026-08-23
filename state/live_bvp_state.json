@@ -2,12 +2,13 @@
   "date": "2026-08-23",
   "games": {
     "822856": {
-      "active_pitcher_id": 615698,
-      "active_pitcher_name": "Cal Quantrill",
+      "active_pitcher_id": 671111,
+      "active_pitcher_name": "Sammy Peralta",
       "alerted_pairs": [
-        "615698:642350"
+        "615698:642350",
+        "671111:608369"
       ],
-      "last_checked_at": "2026-08-23T15:19:18.900615-04:00"
+      "last_checked_at": "2026-08-23T16:42:08.668052-04:00"
     },
     "823099": {
       "active_pitcher_id": 682243,
@@ -42,40 +43,40 @@
       "last_checked_at": "2026-08-23T16:17:01.499188-04:00"
     },
     "823909": {
-      "active_pitcher_id": 605483,
-      "active_pitcher_name": "Blake Snell",
+      "active_pitcher_id": 669199,
+      "active_pitcher_name": "Lake Bachar",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:15.712166-04:00"
+      "last_checked_at": "2026-08-23T16:42:19.422494-04:00"
     },
     "824071": {
-      "active_pitcher_id": 621016,
-      "active_pitcher_name": "Jose Cuas",
+      "active_pitcher_id": 640448,
+      "active_pitcher_name": "Kyle Finnegan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:03.812193-04:00"
+      "last_checked_at": "2026-08-23T16:42:01.612457-04:00"
     },
     "824150": {
-      "active_pitcher_id": 678022,
-      "active_pitcher_name": "Jack Perkins",
+      "active_pitcher_id": 595345,
+      "active_pitcher_name": "Steven Okert",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:06.156744-04:00"
+      "last_checked_at": "2026-08-23T16:42:03.964112-04:00"
     },
     "824315": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 815081,
+      "active_pitcher_name": "Mark Manfredi",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:11.028266-04:00"
+      "last_checked_at": "2026-08-23T16:42:14.826055-04:00"
     },
     "824558": {
-      "active_pitcher_id": 650960,
-      "active_pitcher_name": "Daniel Duarte",
+      "active_pitcher_id": 673540,
+      "active_pitcher_name": "Kodai Senga",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:08.510142-04:00"
+      "last_checked_at": "2026-08-23T16:42:06.310329-04:00"
     },
     "824720": {
-      "active_pitcher_id": 683363,
-      "active_pitcher_name": "Matt Wilkinson",
+      "active_pitcher_id": 664141,
+      "active_pitcher_name": "JT Brubaker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:13.382365-04:00"
+      "last_checked_at": "2026-08-23T16:42:17.114855-04:00"
     },
     "824799": {
       "active_pitcher_id": 641329,
