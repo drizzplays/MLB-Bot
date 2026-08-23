@@ -1,4 +1,29 @@
 {
   "date": "2026-08-23",
-  "games": {}
+  "games": {
+    "823421": {
+      "active_pitcher_id": 681517,
+      "active_pitcher_name": "Kyle Leahy",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T13:52:54.437087-04:00"
+    },
+    "823507": {
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T13:52:56.550202-04:00"
+    },
+    "823827": {
+      "active_pitcher_id": 800600,
+      "active_pitcher_name": "Jackson Kent",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T13:52:58.684579-04:00"
+    },
+    "824799": {
+      "active_pitcher_id": 669358,
+      "active_pitcher_name": "Shane Baz",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T13:52:52.310738-04:00"
+    }
+  }
 }
