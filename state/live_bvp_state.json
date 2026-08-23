@@ -12,10 +12,10 @@
       "last_checked_at": "2026-08-23T17:01:29.706564-04:00"
     },
     "823099": {
-      "active_pitcher_id": 682243,
-      "active_pitcher_name": "Bryce Miller",
+      "active_pitcher_id": 650644,
+      "active_pitcher_name": "Aaron Civale",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:18.065414-04:00"
+      "last_checked_at": "2026-08-23T17:32:27.927743-04:00"
     },
     "823258": {
       "active_pitcher_id": 641927,
@@ -44,10 +44,10 @@
       "last_checked_at": "2026-08-23T16:17:01.499188-04:00"
     },
     "823909": {
-      "active_pitcher_id": 669387,
-      "active_pitcher_name": "Carmen Mlodzinski",
+      "active_pitcher_id": 605483,
+      "active_pitcher_name": "Blake Snell",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:01:40.344093-04:00"
+      "last_checked_at": "2026-08-23T17:32:25.549096-04:00"
     },
     "824071": {
       "active_pitcher_id": 674444,
@@ -62,10 +62,10 @@
       "last_checked_at": "2026-08-23T17:01:27.531419-04:00"
     },
     "824315": {
-      "active_pitcher_id": 623474,
-      "active_pitcher_name": "Jimmy Herget",
+      "active_pitcher_id": 684974,
+      "active_pitcher_name": "Craig Yoho",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:01:36.065965-04:00"
+      "last_checked_at": "2026-08-23T17:32:20.543772-04:00"
     },
     "824558": {
       "active_pitcher_id": 673540,
@@ -74,10 +74,10 @@
       "last_checked_at": "2026-08-23T16:42:06.310329-04:00"
     },
     "824720": {
-      "active_pitcher_id": 656529,
-      "active_pitcher_name": "Sam Hentges",
+      "active_pitcher_id": 594027,
+      "active_pitcher_name": "Tyron Guerrero",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T17:01:38.233632-04:00"
+      "last_checked_at": "2026-08-23T17:32:23.087794-04:00"
     },
     "824799": {
       "active_pitcher_id": 641329,
@@ -88,10 +88,10 @@
       "last_checked_at": "2026-08-23T16:16:54.347010-04:00"
     },
     "825043": {
-      "active_pitcher_id": 683352,
-      "active_pitcher_name": "Mitch Bratt",
+      "active_pitcher_id": 671096,
+      "active_pitcher_name": "Andrew Abbott",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:22.685495-04:00"
+      "last_checked_at": "2026-08-23T17:32:30.465220-04:00"
     }
   }
 }
