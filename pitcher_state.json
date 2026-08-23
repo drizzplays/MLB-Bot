@@ -36,7 +36,7 @@
       "game_time": "Aug 23, 1:35 PM ET",
       "game_iso": "2026-08-23T13:35:00-04:00",
       "game_pk": "824799",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823421": {
       "away_team": "St. Louis Cardinals",
@@ -74,7 +74,7 @@
       "game_time": "Aug 23, 1:35 PM ET",
       "game_iso": "2026-08-23T13:35:00-04:00",
       "game_pk": "823421",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823507": {
       "away_team": "Toronto Blue Jays",
@@ -112,7 +112,7 @@
       "game_time": "Aug 23, 1:35 PM ET",
       "game_iso": "2026-08-23T13:35:00-04:00",
       "game_pk": "823507",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823827": {
       "away_team": "Washington Nationals",
@@ -179,7 +179,7 @@
       "game_time": "Aug 23, 2:10 PM ET",
       "game_iso": "2026-08-23T14:10:00-04:00",
       "game_pk": "824071",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824150": {
       "away_team": "Athletics",
