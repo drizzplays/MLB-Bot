@@ -598,15 +598,25 @@
     "Los Angeles Angels @ Texas Rangers | 822856": {
       "away_team": "Los Angeles Angels",
       "home_team": "Texas Rangers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Mois\u00e9s Ballesteros",
+        "Vaughn Grissom",
+        "Josh Lowe",
+        "Gustavo Campero",
+        "Jose Siri",
+        "Christian Moore",
+        "Tyler Heineman"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Gustavo Campero",
-        "Christian Moore",
         "Zach Neto",
+        "Christian Moore",
         "Travis d'Arnaud",
         "Ryan Johnson",
         "Ben Joyce",
@@ -622,7 +632,6 @@
         "Yusei Kikuchi",
         "Luke Murphy",
         "Walbert Ure\u00f1a",
-        "Michael Fulmer",
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
@@ -664,7 +673,17 @@
     "Cleveland Guardians @ Colorado Rockies | 824315": {
       "away_team": "Cleveland Guardians",
       "home_team": "Colorado Rockies",
-      "away_lineup": [],
+      "away_lineup": [
+        "Steven Kwan",
+        "Chase DeLauter",
+        "Jo Adell",
+        "Nathaniel Lowe",
+        "Angel Genao",
+        "Travis Bazzana",
+        "Angel Mart\u00ednez",
+        "Austin Hedges",
+        "Brayan Rocchio"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Angel Genao",
@@ -680,6 +699,7 @@
         "Jo Adell",
         "Colin Holderman",
         "Logan Allen",
+        "David Fry",
         "Cade Smith",
         "Jos\u00e9 Ram\u00edrez",
         "Steven Kwan",
@@ -691,22 +711,19 @@
         "Hunter Gaddis",
         "Tanner Bibee",
         "Tim Herrin",
-        "Foster Griffin",
-        "Rhys Hoskins"
+        "Foster Griffin"
       ],
       "home_roster": [
         "Ryan Feltner",
-        "Adael Amador",
         "Mickey Moniak",
-        "TJ Shook",
         "Jimmy Herget",
         "Jake McCarthy",
         "Troy Johnston",
+        "Mark Manfredi",
         "Braxton Fulford",
         "Kyle Freeland",
         "Willi Castro",
         "Brennan Bernardino",
-        "Parker Mushinski",
         "Cole Carrigg",
         "Juan Mejia",
         "Gabriel Hughes",
@@ -720,7 +737,9 @@
         "Connor Norby",
         "Jordan Romano",
         "Zac Veen",
-        "Nick Frasso"
+        "Nick Frasso",
+        "Jaden Hill",
+        "Kyle Karros"
       ],
       "game_time": "Aug 23, 3:10 PM ET",
       "game_iso": "2026-08-23T15:10:00-04:00",
@@ -729,7 +748,17 @@
     "San Francisco Giants @ Boston Red Sox | 824720": {
       "away_team": "San Francisco Giants",
       "home_team": "Boston Red Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Osleivis Basabe",
+        "Rafael Devers",
+        "Willy Adames",
+        "Bryce Eldridge",
+        "Victor Bericoto",
+        "Jung Hoo Lee",
+        "Andrew Knizner",
+        "Jonah Cox",
+        "Christian Koss"
+      ],
       "home_lineup": [
         "Jahmai Jones",
         "Ceddanne Rafaela",
@@ -742,8 +771,8 @@
         "Connor Wong"
       ],
       "away_roster": [
-        "JT Brubaker",
         "Jonah Cox",
+        "JT Brubaker",
         "Dylan Smith",
         "Matt Wilkinson",
         "Drew Cavanaugh",
@@ -754,8 +783,8 @@
         "Trent Harris",
         "Jason Foley",
         "Carson Seymour",
-        "Drew Gilbert",
         "Jung Hoo Lee",
+        "Drew Gilbert",
         "Sam Hentges",
         "Rafael Devers",
         "Reiver Sanmartin",
