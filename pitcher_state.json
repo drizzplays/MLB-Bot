@@ -416,7 +416,7 @@
       "game_time": "Aug 23, 4:10 PM ET",
       "game_iso": "2026-08-23T16:10:00-04:00",
       "game_pk": "823909",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823099": {
       "away_team": "Chicago Cubs",
@@ -530,7 +530,7 @@
       "game_time": "Aug 23, 4:15 PM ET",
       "game_iso": "2026-08-23T16:15:00-04:00",
       "game_pk": "825043",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823745": {
       "away_team": "Atlanta Braves",
