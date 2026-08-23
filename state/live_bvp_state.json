@@ -2,24 +2,24 @@
   "date": "2026-08-23",
   "games": {
     "822856": {
-      "active_pitcher_id": 615698,
-      "active_pitcher_name": "Cal Quantrill",
+      "active_pitcher_id": 579328,
+      "active_pitcher_name": "Yusei Kikuchi",
       "alerted_pairs": [
         "615698:642350"
       ],
-      "last_checked_at": "2026-08-23T14:22:16.108353-04:00"
+      "last_checked_at": "2026-08-23T14:56:06.871260-04:00"
     },
     "823421": {
-      "active_pitcher_id": 681517,
-      "active_pitcher_name": "Kyle Leahy",
+      "active_pitcher_id": 703725,
+      "active_pitcher_name": "Luis Gastelum",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T13:52:54.437087-04:00"
+      "last_checked_at": "2026-08-23T14:55:58.991105-04:00"
     },
     "823507": {
-      "active_pitcher_id": 607074,
-      "active_pitcher_name": "Carlos Rod\u00f3n",
+      "active_pitcher_id": 667755,
+      "active_pitcher_name": "Jos\u00e9 Soriano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:22:03.304170-04:00"
+      "last_checked_at": "2026-08-23T14:56:00.919313-04:00"
     },
     "823827": {
       "active_pitcher_id": 676083,
@@ -28,16 +28,22 @@
       "last_checked_at": "2026-08-23T14:22:05.962456-04:00"
     },
     "824071": {
-      "active_pitcher_id": 621097,
-      "active_pitcher_name": "Jacob Waguespack",
+      "active_pitcher_id": 663738,
+      "active_pitcher_name": "Daniel Lynch IV",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:22:08.455378-04:00"
+      "last_checked_at": "2026-08-23T14:56:02.915186-04:00"
     },
     "824150": {
-      "active_pitcher_id": 669620,
-      "active_pitcher_name": "Brady Basso",
+      "active_pitcher_id": 678022,
+      "active_pitcher_name": "Jack Perkins",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:22:10.976783-04:00"
+      "last_checked_at": "2026-08-23T14:56:04.845390-04:00"
+    },
+    "824315": {
+      "active_pitcher_id": 608372,
+      "active_pitcher_name": "Tomoyuki Sugano",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T14:56:09.202494-04:00"
     },
     "824558": {
       "active_pitcher_id": 690997,
