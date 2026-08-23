@@ -2,13 +2,14 @@
   "date": "2026-08-23",
   "games": {
     "822856": {
-      "active_pitcher_id": 671111,
-      "active_pitcher_name": "Sammy Peralta",
+      "active_pitcher_id": 681217,
+      "active_pitcher_name": "Chase Silseth",
       "alerted_pairs": [
         "615698:642350",
-        "671111:608369"
+        "671111:608369",
+        "681217:666139"
       ],
-      "last_checked_at": "2026-08-23T16:42:08.668052-04:00"
+      "last_checked_at": "2026-08-23T17:01:29.706564-04:00"
     },
     "823099": {
       "active_pitcher_id": 682243,
@@ -17,10 +18,10 @@
       "last_checked_at": "2026-08-23T16:17:18.065414-04:00"
     },
     "823258": {
-      "active_pitcher_id": 621111,
-      "active_pitcher_name": "Walker Buehler",
+      "active_pitcher_id": 641927,
+      "active_pitcher_name": "Bailey Ober",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:17:20.340587-04:00"
+      "last_checked_at": "2026-08-23T17:01:42.561172-04:00"
     },
     "823421": {
       "active_pitcher_id": 676617,
@@ -43,28 +44,28 @@
       "last_checked_at": "2026-08-23T16:17:01.499188-04:00"
     },
     "823909": {
-      "active_pitcher_id": 669199,
-      "active_pitcher_name": "Lake Bachar",
+      "active_pitcher_id": 669387,
+      "active_pitcher_name": "Carmen Mlodzinski",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:42:19.422494-04:00"
+      "last_checked_at": "2026-08-23T17:01:40.344093-04:00"
     },
     "824071": {
-      "active_pitcher_id": 640448,
-      "active_pitcher_name": "Kyle Finnegan",
+      "active_pitcher_id": 674444,
+      "active_pitcher_name": "Steven Cruz",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:42:01.612457-04:00"
+      "last_checked_at": "2026-08-23T17:01:25.393704-04:00"
     },
     "824150": {
-      "active_pitcher_id": 595345,
-      "active_pitcher_name": "Steven Okert",
+      "active_pitcher_id": 805123,
+      "active_pitcher_name": "AJ Blubaugh",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:42:03.964112-04:00"
+      "last_checked_at": "2026-08-23T17:01:27.531419-04:00"
     },
     "824315": {
-      "active_pitcher_id": 815081,
-      "active_pitcher_name": "Mark Manfredi",
+      "active_pitcher_id": 623474,
+      "active_pitcher_name": "Jimmy Herget",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:42:14.826055-04:00"
+      "last_checked_at": "2026-08-23T17:01:36.065965-04:00"
     },
     "824558": {
       "active_pitcher_id": 673540,
@@ -73,10 +74,10 @@
       "last_checked_at": "2026-08-23T16:42:06.310329-04:00"
     },
     "824720": {
-      "active_pitcher_id": 664141,
-      "active_pitcher_name": "JT Brubaker",
+      "active_pitcher_id": 656529,
+      "active_pitcher_name": "Sam Hentges",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T16:42:17.114855-04:00"
+      "last_checked_at": "2026-08-23T17:01:38.233632-04:00"
     },
     "824799": {
       "active_pitcher_id": 641329,
