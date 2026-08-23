@@ -10,10 +10,10 @@
       "last_checked_at": "2026-08-23T15:19:18.900615-04:00"
     },
     "823421": {
-      "active_pitcher_id": 641835,
-      "active_pitcher_name": "Tim Mayza",
+      "active_pitcher_id": 686934,
+      "active_pitcher_name": "Alex McFarlane",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:40:04.503897-04:00"
+      "last_checked_at": "2026-08-23T15:54:22.165290-04:00"
     },
     "823507": {
       "active_pitcher_id": 663893,
@@ -30,42 +30,42 @@
       "last_checked_at": "2026-08-23T15:19:11.228456-04:00"
     },
     "824071": {
-      "active_pitcher_id": 808825,
-      "active_pitcher_name": "Andrew Sears",
+      "active_pitcher_id": 670167,
+      "active_pitcher_name": "John Schreiber",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:40:09.017208-04:00"
+      "last_checked_at": "2026-08-23T15:54:24.801207-04:00"
     },
     "824150": {
-      "active_pitcher_id": 664299,
-      "active_pitcher_name": "Cristian Javier",
+      "active_pitcher_id": 660853,
+      "active_pitcher_name": "Enyel De Los Santos",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:19:15.106744-04:00"
+      "last_checked_at": "2026-08-23T15:54:27.296393-04:00"
     },
     "824315": {
-      "active_pitcher_id": 656492,
-      "active_pitcher_name": "Foster Griffin",
+      "active_pitcher_id": 608372,
+      "active_pitcher_name": "Tomoyuki Sugano",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:40:13.366569-04:00"
+      "last_checked_at": "2026-08-23T15:54:31.881219-04:00"
     },
     "824558": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 696146,
+      "active_pitcher_name": "Hagen Smith",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:40:11.195072-04:00"
+      "last_checked_at": "2026-08-23T15:54:29.635150-04:00"
     },
     "824720": {
-      "active_pitcher_id": 683363,
-      "active_pitcher_name": "Matt Wilkinson",
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:40:15.488844-04:00"
+      "last_checked_at": "2026-08-23T15:54:33.776050-04:00"
     },
     "824799": {
-      "active_pitcher_id": 592155,
-      "active_pitcher_name": "Cam Booser",
+      "active_pitcher_id": 689296,
+      "active_pitcher_name": "Anthony Nunez",
       "alerted_pairs": [
         "664991:802415"
       ],
-      "last_checked_at": "2026-08-23T15:40:02.307225-04:00"
+      "last_checked_at": "2026-08-23T15:54:19.790210-04:00"
     }
   }
 }
