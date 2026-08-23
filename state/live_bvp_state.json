@@ -9,63 +9,87 @@
       ],
       "last_checked_at": "2026-08-23T15:19:18.900615-04:00"
     },
-    "823421": {
-      "active_pitcher_id": 686934,
-      "active_pitcher_name": "Alex McFarlane",
+    "823099": {
+      "active_pitcher_id": 682243,
+      "active_pitcher_name": "Bryce Miller",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:54:22.165290-04:00"
+      "last_checked_at": "2026-08-23T16:17:18.065414-04:00"
+    },
+    "823258": {
+      "active_pitcher_id": 621111,
+      "active_pitcher_name": "Walker Buehler",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T16:17:20.340587-04:00"
+    },
+    "823421": {
+      "active_pitcher_id": 676617,
+      "active_pitcher_name": "Riley O'Brien",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T16:16:56.750307-04:00"
     },
     "823507": {
-      "active_pitcher_id": 663893,
-      "active_pitcher_name": "Brendon Little",
+      "active_pitcher_id": 680573,
+      "active_pitcher_name": "Simeon Woods Richardson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:40:06.748066-04:00"
+      "last_checked_at": "2026-08-23T16:16:59.083469-04:00"
     },
     "823827": {
-      "active_pitcher_id": 592866,
-      "active_pitcher_name": "Trevor Williams",
+      "active_pitcher_id": 668820,
+      "active_pitcher_name": "Max Kranick",
       "alerted_pairs": [
         "592866:669364"
       ],
-      "last_checked_at": "2026-08-23T15:19:11.228456-04:00"
+      "last_checked_at": "2026-08-23T16:17:01.499188-04:00"
+    },
+    "823909": {
+      "active_pitcher_id": 605483,
+      "active_pitcher_name": "Blake Snell",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T16:17:15.712166-04:00"
     },
     "824071": {
-      "active_pitcher_id": 670167,
-      "active_pitcher_name": "John Schreiber",
+      "active_pitcher_id": 621016,
+      "active_pitcher_name": "Jose Cuas",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:54:24.801207-04:00"
+      "last_checked_at": "2026-08-23T16:17:03.812193-04:00"
     },
     "824150": {
-      "active_pitcher_id": 660853,
-      "active_pitcher_name": "Enyel De Los Santos",
+      "active_pitcher_id": 678022,
+      "active_pitcher_name": "Jack Perkins",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:54:27.296393-04:00"
+      "last_checked_at": "2026-08-23T16:17:06.156744-04:00"
     },
     "824315": {
-      "active_pitcher_id": 608372,
-      "active_pitcher_name": "Tomoyuki Sugano",
+      "active_pitcher_id": 656492,
+      "active_pitcher_name": "Foster Griffin",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:54:31.881219-04:00"
+      "last_checked_at": "2026-08-23T16:17:11.028266-04:00"
     },
     "824558": {
-      "active_pitcher_id": 696146,
-      "active_pitcher_name": "Hagen Smith",
+      "active_pitcher_id": 650960,
+      "active_pitcher_name": "Daniel Duarte",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:54:29.635150-04:00"
+      "last_checked_at": "2026-08-23T16:17:08.510142-04:00"
     },
     "824720": {
-      "active_pitcher_id": 687562,
-      "active_pitcher_name": "Jake Bennett",
+      "active_pitcher_id": 683363,
+      "active_pitcher_name": "Matt Wilkinson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T15:54:33.776050-04:00"
+      "last_checked_at": "2026-08-23T16:17:13.382365-04:00"
     },
     "824799": {
-      "active_pitcher_id": 689296,
-      "active_pitcher_name": "Anthony Nunez",
+      "active_pitcher_id": 641329,
+      "active_pitcher_name": "Bryan Baker",
       "alerted_pairs": [
         "664991:802415"
       ],
-      "last_checked_at": "2026-08-23T15:54:19.790210-04:00"
+      "last_checked_at": "2026-08-23T16:16:54.347010-04:00"
+    },
+    "825043": {
+      "active_pitcher_id": 683352,
+      "active_pitcher_name": "Mitch Bratt",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T16:17:22.685495-04:00"
     }
   }
 }
