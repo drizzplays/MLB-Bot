@@ -12,16 +12,16 @@
       "last_checked_at": "2026-08-23T17:01:29.706564-04:00"
     },
     "823099": {
-      "active_pitcher_id": 678606,
-      "active_pitcher_name": "Jos\u00e9 A. Ferrer",
+      "active_pitcher_id": 663423,
+      "active_pitcher_name": "Trent Thornton",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T18:16:42.416329-04:00"
+      "last_checked_at": "2026-08-23T18:41:04.401560-04:00"
     },
     "823258": {
-      "active_pitcher_id": 701519,
-      "active_pitcher_name": "Travis Adams",
+      "active_pitcher_id": 573124,
+      "active_pitcher_name": "Taylor Rogers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T18:16:44.765819-04:00"
+      "last_checked_at": "2026-08-23T18:41:06.824801-04:00"
     },
     "823421": {
       "active_pitcher_id": 676617,
@@ -44,10 +44,10 @@
       "last_checked_at": "2026-08-23T16:17:01.499188-04:00"
     },
     "823909": {
-      "active_pitcher_id": 694753,
-      "active_pitcher_name": "Khristian Curtis",
+      "active_pitcher_id": 681911,
+      "active_pitcher_name": "Alex Vesia",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T18:16:40.069886-04:00"
+      "last_checked_at": "2026-08-23T18:41:01.955869-04:00"
     },
     "824071": {
       "active_pitcher_id": 674444,
@@ -88,10 +88,10 @@
       "last_checked_at": "2026-08-23T16:16:54.347010-04:00"
     },
     "825043": {
-      "active_pitcher_id": 642528,
-      "active_pitcher_name": "Jonathan Lo\u00e1isiga",
+      "active_pitcher_id": 666661,
+      "active_pitcher_name": "Juan Morillo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T18:16:47.099916-04:00"
+      "last_checked_at": "2026-08-23T18:41:09.229161-04:00"
     }
   }
 }
