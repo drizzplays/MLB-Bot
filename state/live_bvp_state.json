@@ -2,30 +2,32 @@
   "date": "2026-08-23",
   "games": {
     "822856": {
-      "active_pitcher_id": 579328,
-      "active_pitcher_name": "Yusei Kikuchi",
+      "active_pitcher_id": 615698,
+      "active_pitcher_name": "Cal Quantrill",
       "alerted_pairs": [
         "615698:642350"
       ],
-      "last_checked_at": "2026-08-23T14:56:06.871260-04:00"
+      "last_checked_at": "2026-08-23T15:19:18.900615-04:00"
     },
     "823421": {
-      "active_pitcher_id": 703725,
-      "active_pitcher_name": "Luis Gastelum",
+      "active_pitcher_id": 650911,
+      "active_pitcher_name": "Cristopher S\u00e1nchez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:55:58.991105-04:00"
+      "last_checked_at": "2026-08-23T15:19:07.229797-04:00"
     },
     "823507": {
-      "active_pitcher_id": 667755,
-      "active_pitcher_name": "Jos\u00e9 Soriano",
+      "active_pitcher_id": 621112,
+      "active_pitcher_name": "Paul Blackburn",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:56:00.919313-04:00"
+      "last_checked_at": "2026-08-23T15:19:09.175003-04:00"
     },
     "823827": {
-      "active_pitcher_id": 676083,
-      "active_pitcher_name": "Janson Junk",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:22:05.962456-04:00"
+      "active_pitcher_id": 592866,
+      "active_pitcher_name": "Trevor Williams",
+      "alerted_pairs": [
+        "592866:669364"
+      ],
+      "last_checked_at": "2026-08-23T15:19:11.228456-04:00"
     },
     "824071": {
       "active_pitcher_id": 663738,
@@ -34,10 +36,10 @@
       "last_checked_at": "2026-08-23T14:56:02.915186-04:00"
     },
     "824150": {
-      "active_pitcher_id": 678022,
-      "active_pitcher_name": "Jack Perkins",
+      "active_pitcher_id": 664299,
+      "active_pitcher_name": "Cristian Javier",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:56:04.845390-04:00"
+      "last_checked_at": "2026-08-23T15:19:15.106744-04:00"
     },
     "824315": {
       "active_pitcher_id": 608372,
@@ -46,16 +48,24 @@
       "last_checked_at": "2026-08-23T14:56:09.202494-04:00"
     },
     "824558": {
-      "active_pitcher_id": 690997,
-      "active_pitcher_name": "Nolan McLean",
+      "active_pitcher_id": 607200,
+      "active_pitcher_name": "Erick Fedde",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:22:13.544921-04:00"
+      "last_checked_at": "2026-08-23T15:19:16.800789-04:00"
+    },
+    "824720": {
+      "active_pitcher_id": 687562,
+      "active_pitcher_name": "Jake Bennett",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-23T15:19:20.474888-04:00"
     },
     "824799": {
-      "active_pitcher_id": 607259,
-      "active_pitcher_name": "Nick Martinez",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-23T14:22:00.568295-04:00"
+      "active_pitcher_id": 664991,
+      "active_pitcher_name": "Grant Wolfram",
+      "alerted_pairs": [
+        "664991:802415"
+      ],
+      "last_checked_at": "2026-08-23T15:19:02.482075-04:00"
     }
   }
 }
