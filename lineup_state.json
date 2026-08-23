@@ -949,7 +949,17 @@
         "Michael Conforto",
         "Carson Kelly"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Randy Arozarena",
+        "Dominic Canzone",
+        "Julio Rodr\u00edguez",
+        "Cal Raleigh",
+        "Josh Naylor",
+        "Weston Wilson",
+        "Cole Young",
+        "Victor Robles",
+        "Leo Rivas"
+      ],
       "away_roster": [
         "Daniel Palencia",
         "Michael Conforto",
@@ -998,8 +1008,8 @@
         "George Kirby",
         "Andr\u00e9s Mu\u00f1oz",
         "Gabe Speier",
-        "Leo Rivas",
         "Julio Rodr\u00edguez",
+        "Leo Rivas",
         "Kade Anderson",
         "Bryce Miller",
         "Eduard Bazardo",
@@ -1157,6 +1167,7 @@
         "Nolan Arenado",
         "Lars Nootbaar",
         "Ryan Waldschmidt",
+        "Drey Jameson",
         "Merrill Kelly",
         "Kevin Ginkel",
         "Jonathan Lo\u00e1isiga",
@@ -1170,7 +1181,6 @@
         "Mitch Bratt",
         "Corbin Carroll",
         "Taylor Clarke",
-        "Zack Littell",
         "Max Kepler",
         "James McCann",
         "Brandyn Garcia",
@@ -1395,6 +1405,7 @@
         "Brennan Bernardino",
         "Cole Carrigg",
         "Juan Mejia",
+        "Ryan Ritter",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
         "Zach Agnos",
@@ -1407,8 +1418,7 @@
         "Jordan Romano",
         "Zac Veen",
         "Nick Frasso",
-        "Jaden Hill",
-        "Kyle Karros"
+        "Jaden Hill"
       ],
       "home_roster": [
         "Brady House",
