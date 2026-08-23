@@ -1,43 +1,5 @@
 {
   "2026-08-23": {
-    "822856": {
-      "away_team": "Los Angeles Angels",
-      "home_team": "Texas Rangers",
-      "away_pitcher": "Yusei Kikuchi",
-      "home_pitcher": "Cal Quantrill",
-      "away_pitcher_id": "579328",
-      "home_pitcher_id": "615698",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 3,
-        "era": "5.81",
-        "whip": "1.58",
-        "strikeouts": 33,
-        "innings_pitched": "31.0",
-        "games_started": 7
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 4,
-        "era": "3.13",
-        "whip": "1.15",
-        "strikeouts": 54,
-        "innings_pitched": "77.2",
-        "games_started": 9
-      },
-      "game_time": "Aug 23, 2:35 PM ET",
-      "game_iso": "2026-08-23T14:35:00-04:00",
-      "game_pk": "822856",
-      "status_code": "P"
-    },
     "824315": {
       "away_team": "Cleveland Guardians",
       "home_team": "Colorado Rockies",
