@@ -132,11 +132,11 @@
         "Jakob Marsee",
         "Calvin Faucher",
         "Javier Sanoja",
-        "Deyvison De Los Santos",
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
         "Michael Petersen",
+        "Kyle Stowers",
         "Owen Caissie",
         "Agust\u00edn Ram\u00edrez",
         "Leo Jim\u00e9nez",
@@ -164,7 +164,17 @@
         "Zac Veen",
         "Ezequiel Tovar"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "CJ Abrams",
+        "Abimelec Ortiz",
+        "Dylan Crews",
+        "Daylen Lile",
+        "Brady House",
+        "Keibert Ruiz",
+        "Jacob Young",
+        "Jorbit Vivas",
+        "Nasim Nu\u00f1ez"
+      ],
       "away_roster": [
         "Blake Adams",
         "Ryan Feltner",
@@ -195,8 +205,8 @@
       ],
       "home_roster": [
         "Brady House",
-        "Will Dion",
         "Abimelec Ortiz",
+        "Will Dion",
         "CJ Abrams",
         "Nasim Nu\u00f1ez",
         "Andr\u00e9s Chaparro",
@@ -215,8 +225,8 @@
         "Jake Irvin",
         "Orlando Ribalta",
         "Jake Bird",
-        "Andrew Pinckney",
         "Keibert Ruiz",
+        "Andrew Pinckney",
         "Tom Cosgrove",
         "Jackson Kent",
         "Andrew Alvarez"
@@ -229,7 +239,17 @@
       "away_team": "Texas Rangers",
       "home_team": "Chicago White Sox",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "Sam Antonacci",
+        "Munetaka Murakami",
+        "Miguel Vargas",
+        "Andrew Benintendi",
+        "Braden Montgomery",
+        "Colson Montgomery",
+        "Chase Meidroth",
+        "Tristan Peters",
+        "Drew Romo"
+      ],
       "away_roster": [
         "Evan Carter",
         "Wyatt Langford",
@@ -269,8 +289,8 @@
         "Grant Taylor",
         "Colson Montgomery",
         "Tyler Schweitzer",
-        "Trevor Richards",
         "Drew Romo",
+        "Trevor Richards",
         "Braden Montgomery",
         "Jake Rogers",
         "Hagen Smith",
@@ -818,6 +838,7 @@
       "away_lineup": [],
       "home_lineup": [],
       "away_roster": [
+        "Blake Adams",
         "Ryan Feltner",
         "Mickey Moniak",
         "Jimmy Herget",
@@ -825,11 +846,11 @@
         "Troy Johnston",
         "Mark Manfredi",
         "Braxton Fulford",
-        "Kyle Freeland",
         "Willi Castro",
         "Brennan Bernardino",
         "Cole Carrigg",
         "Juan Mejia",
+        "Ryan Ritter",
         "Gabriel Hughes",
         "Tomoyuki Sugano",
         "Zach Agnos",
@@ -842,8 +863,7 @@
         "Jordan Romano",
         "Zac Veen",
         "Nick Frasso",
-        "Jaden Hill",
-        "Kyle Karros"
+        "Jaden Hill"
       ],
       "home_roster": [
         "Brady House",
