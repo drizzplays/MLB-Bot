@@ -74,7 +74,7 @@
       "game_time": "Aug 24, 6:40 PM ET",
       "game_iso": "2026-08-24T18:40:00-04:00",
       "game_pk": "823828",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822695": {
       "away_team": "Colorado Rockies",
@@ -112,7 +112,7 @@
       "game_time": "Aug 24, 6:45 PM ET",
       "game_iso": "2026-08-24T18:45:00-04:00",
       "game_pk": "822695",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824557": {
       "away_team": "Texas Rangers",
