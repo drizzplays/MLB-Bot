@@ -188,7 +188,7 @@
       "game_time": "Aug 24, 9:38 PM ET",
       "game_iso": "2026-08-24T21:38:00-04:00",
       "game_pk": "823992",
-      "status_code": "S"
+      "status_code": "P"
     },
     "825041": {
       "away_team": "Chicago Cubs",
@@ -226,7 +226,7 @@
       "game_time": "Aug 24, 9:40 PM ET",
       "game_iso": "2026-08-24T21:40:00-04:00",
       "game_pk": "825041",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823260": {
       "away_team": "Pittsburgh Pirates",
