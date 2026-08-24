@@ -3,7 +3,17 @@
     "Tampa Bay Rays @ Detroit Tigers | 824235": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Detroit Tigers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Ryan Vilade",
+        "Junior Caminero",
+        "Jonny DeLuca",
+        "Jonathan Aranda",
+        "Jorge Mateo",
+        "Nick Fortes",
+        "Chandler Simpson",
+        "Taylor Walls"
+      ],
       "home_lineup": [
         "Colt Keith",
         "Hao-Yu Lee",
@@ -89,7 +99,17 @@
         "Mickey Gasper",
         "Anthony Seigler"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Otto Lopez",
+        "Heriberto Hern\u00e1ndez",
+        "Kyle Stowers",
+        "Agust\u00edn Ram\u00edrez",
+        "Xavier Edwards",
+        "Jakob Marsee",
+        "Javier Sanoja",
+        "Esteury Ruiz",
+        "Joe Mack"
+      ],
       "away_roster": [
         "Jake Bennett",
         "Willson Contreras",
@@ -123,8 +143,8 @@
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
-        "Pete Fairbanks",
         "Heriberto Hern\u00e1ndez",
+        "Pete Fairbanks",
         "Sandy Alcantara",
         "Victor Vodnik",
         "Tyler Phillips",
@@ -135,8 +155,8 @@
         "Cade Gibson",
         "Ryan Gusto",
         "Xavier Edwards",
-        "Michael Petersen",
         "Kyle Stowers",
+        "Michael Petersen",
         "Owen Caissie",
         "Agust\u00edn Ram\u00edrez",
         "Leo Jim\u00e9nez",
@@ -238,7 +258,17 @@
     "Texas Rangers @ Chicago White Sox | 824557": {
       "away_team": "Texas Rangers",
       "home_team": "Chicago White Sox",
-      "away_lineup": [],
+      "away_lineup": [
+        "Joc Pederson",
+        "Corey Seager",
+        "Wyatt Langford",
+        "Brandon Nimmo",
+        "Ezequiel Duran",
+        "Evan Carter",
+        "Jake Burger",
+        "Elias D\u00edaz",
+        "Cody Freeman"
+      ],
       "home_lineup": [
         "Sam Antonacci",
         "Munetaka Murakami",
@@ -801,7 +831,6 @@
         "Aroldis Chapman"
       ],
       "home_roster": [
-        "Jack Ralston",
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
@@ -813,6 +842,7 @@
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
+        "John King",
         "Javier Sanoja",
         "Deyvison De Los Santos",
         "Cade Gibson",
@@ -1135,7 +1165,6 @@
         "Mauricio Dub\u00f3n",
         "Didier Fuentes",
         "Tyler Mahle",
-        "Brewer Hicklen",
         "Drake Baldwin",
         "Chris Sale",
         "Jim Jarvis",
@@ -1341,9 +1370,9 @@
         "Josh Lowe",
         "Tyler Heineman",
         "Tayler Saucedo",
-        "Yusei Kikuchi",
         "Luke Murphy",
         "Walbert Ure\u00f1a",
+        "Michael Fulmer",
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
