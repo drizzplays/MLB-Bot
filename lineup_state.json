@@ -343,8 +343,28 @@
     "Cleveland Guardians @ Los Angeles Angels | 823992": {
       "away_team": "Cleveland Guardians",
       "home_team": "Los Angeles Angels",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Steven Kwan",
+        "Chase DeLauter",
+        "Jos\u00e9 Ram\u00edrez",
+        "Jo Adell",
+        "Nathaniel Lowe",
+        "Angel Genao",
+        "Petey Halpin",
+        "Austin Hedges",
+        "Brayan Rocchio"
+      ],
+      "home_lineup": [
+        "Zach Neto",
+        "Mike Trout",
+        "Vaughn Grissom",
+        "Mois\u00e9s Ballesteros",
+        "Jose Siri",
+        "Gustavo Campero",
+        "Christian Moore",
+        "Denzer Guzman",
+        "Travis d'Arnaud"
+      ],
       "away_roster": [
         "Angel Genao",
         "Chase DeLauter",
@@ -375,11 +395,11 @@
       ],
       "home_roster": [
         "Adam Frazier",
-        "Oswald Peraza",
         "Jose Siri",
+        "Oswald Peraza",
         "Gustavo Campero",
-        "Christian Moore",
         "Zach Neto",
+        "Christian Moore",
         "Travis d'Arnaud",
         "Ryan Johnson",
         "Ben Joyce",
@@ -408,7 +428,17 @@
     "Chicago Cubs @ Arizona Diamondbacks | 825041": {
       "away_team": "Chicago Cubs",
       "home_team": "Arizona Diamondbacks",
-      "away_lineup": [],
+      "away_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Nico Hoerner",
+        "Pedro Ram\u00edrez",
+        "Michael Conforto",
+        "Carson Kelly"
+      ],
       "home_lineup": [
         "Lars Nootbaar",
         "Corbin Carroll",
@@ -483,7 +513,17 @@
     "Pittsburgh Pirates @ San Diego Padres | 823260": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Nick Gonzales",
+        "Esmerlyn Valdez",
+        "Bryan Reynolds",
+        "Oneil Cruz",
+        "Rafael Flores Jr.",
+        "Brandon Lowe",
+        "Nick Yorke",
+        "Spencer Horwitz",
+        "Jared Triolo"
+      ],
       "home_lineup": [],
       "away_roster": [
         "Jacob Gonzalez",
@@ -499,8 +539,8 @@
         "Gregory Soto",
         "Luke Weaver",
         "Mason Montgomery",
-        "Jared Triolo",
         "Esmerlyn Valdez",
+        "Jared Triolo",
         "Jake Mangum",
         "Yohan Ram\u00edrez",
         "Bubba Chandler",
@@ -633,7 +673,17 @@
     "Philadelphia Phillies @ Seattle Mariners | 823097": {
       "away_team": "Philadelphia Phillies",
       "home_team": "Seattle Mariners",
-      "away_lineup": [],
+      "away_lineup": [
+        "Kyle Schwarber",
+        "Trea Turner",
+        "Bryce Harper",
+        "Luis Arraez",
+        "Alec Bohm",
+        "Bryson Stott",
+        "Brandon Marsh",
+        "J.T. Realmuto",
+        "Justin Crawford"
+      ],
       "home_lineup": [
         "Randy Arozarena",
         "Dominic Canzone",
@@ -668,8 +718,8 @@
         "Alex McFarlane",
         "Aaron Nola",
         "Brooks Raley",
-        "Luis Arraez",
         "Trea Turner",
+        "Luis Arraez",
         "Derek Hill",
         "Andrew Painter"
       ],
@@ -881,6 +931,7 @@
         "Aroldis Chapman"
       ],
       "home_roster": [
+        "Jack Ralston",
         "Josh Ekness",
         "Tyler Zuber",
         "Griffin Conine",
@@ -892,7 +943,6 @@
         "Esteury Ruiz",
         "Jakob Marsee",
         "Calvin Faucher",
-        "John King",
         "Javier Sanoja",
         "Deyvison De Los Santos",
         "Cade Gibson",
@@ -1215,6 +1265,7 @@
         "Mauricio Dub\u00f3n",
         "Didier Fuentes",
         "Tyler Mahle",
+        "Brewer Hicklen",
         "Drake Baldwin",
         "Chris Sale",
         "Jim Jarvis",
@@ -1420,9 +1471,9 @@
         "Josh Lowe",
         "Tyler Heineman",
         "Tayler Saucedo",
+        "Yusei Kikuchi",
         "Luke Murphy",
         "Walbert Ure\u00f1a",
-        "Michael Fulmer",
         "George Klassen",
         "Reid Detmers",
         "Blake Weiman",
