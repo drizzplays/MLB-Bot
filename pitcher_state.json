@@ -36,7 +36,7 @@
       "game_time": "Aug 25, 6:40 PM ET",
       "game_iso": "2026-08-25T18:40:00-04:00",
       "game_pk": "824233",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823826": {
       "away_team": "Boston Red Sox",
@@ -179,7 +179,7 @@
       "game_time": "Aug 25, 7:07 PM ET",
       "game_iso": "2026-08-25T19:07:00-04:00",
       "game_pk": "822773",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823585": {
       "away_team": "Milwaukee Brewers",
@@ -299,13 +299,13 @@
       "away_team": "Baltimore Orioles",
       "home_team": "St. Louis Cardinals",
       "away_pitcher": "Chris Bassitt",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Matthew Liberatore",
       "away_pitcher_id": "605135",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "669461",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -318,11 +318,20 @@
         "innings_pitched": "67.1",
         "games_started": 12
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 5,
+        "losses": 11,
+        "era": "5.04",
+        "whip": "1.44",
+        "strikeouts": 125,
+        "innings_pitched": "125.0",
+        "games_started": 25
+      },
       "game_time": "Aug 25, 7:45 PM ET",
       "game_iso": "2026-08-25T19:45:00-04:00",
       "game_pk": "823016",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823989": {
       "away_team": "Cleveland Guardians",
