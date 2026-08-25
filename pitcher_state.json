@@ -3,9 +3,9 @@
     "824233": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Detroit Tigers",
-      "away_pitcher": "Ian Seymour",
+      "away_pitcher": "Casey Legumina",
       "home_pitcher": "Jackson Jobe",
-      "away_pitcher_id": "693855",
+      "away_pitcher_id": "668984",
       "home_pitcher_id": "695549",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
@@ -15,13 +15,13 @@
       "home_pitcher_note": null,
       "away_pitcher_stats": {
         "season": "2026",
-        "wins": 9,
-        "losses": 4,
-        "era": "4.17",
-        "whip": "1.14",
-        "strikeouts": 123,
-        "innings_pitched": "101.1",
-        "games_started": 11
+        "wins": 2,
+        "losses": 2,
+        "era": "3.99",
+        "whip": "1.26",
+        "strikeouts": 43,
+        "innings_pitched": "56.1",
+        "games_started": 5
       },
       "home_pitcher_stats": {
         "season": "2026",
