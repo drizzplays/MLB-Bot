@@ -2,16 +2,40 @@
   "date": "2026-08-24",
   "games": {
     "822695": {
-      "active_pitcher_id": 663372,
-      "active_pitcher_name": "Ryan Feltner",
+      "active_pitcher_id": 656234,
+      "active_pitcher_name": "Jake Bird",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T20:00:49.629228-04:00"
+      "last_checked_at": "2026-08-24T21:44:23.635444-04:00"
+    },
+    "823097": {
+      "active_pitcher_id": 669302,
+      "active_pitcher_name": "Logan Gilbert",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-24T21:44:35.206509-04:00"
+    },
+    "823183": {
+      "active_pitcher_id": 687931,
+      "active_pitcher_name": "Carson Whisenhunt",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-24T21:44:36.953368-04:00"
+    },
+    "823260": {
+      "active_pitcher_id": 592662,
+      "active_pitcher_name": "Robbie Ray",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-24T21:44:31.649920-04:00"
     },
     "823828": {
-      "active_pitcher_id": 624133,
-      "active_pitcher_name": "Ranger Suarez",
+      "active_pitcher_id": 547973,
+      "active_pitcher_name": "Aroldis Chapman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T19:25:21.572871-04:00"
+      "last_checked_at": "2026-08-24T21:44:21.542817-04:00"
+    },
+    "823992": {
+      "active_pitcher_id": 691946,
+      "active_pitcher_name": "George Klassen",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-24T21:44:28.137782-04:00"
     },
     "824235": {
       "active_pitcher_id": 664285,
@@ -22,10 +46,22 @@
       "last_checked_at": "2026-08-24T20:00:47.794627-04:00"
     },
     "824557": {
-      "active_pitcher_id": 677958,
-      "active_pitcher_name": "Kumar Rocker",
+      "active_pitcher_id": 623211,
+      "active_pitcher_name": "Huascar Brazob\u00e1n",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T20:00:51.537238-04:00"
+      "last_checked_at": "2026-08-24T21:44:25.924596-04:00"
+    },
+    "824964": {
+      "active_pitcher_id": 605488,
+      "active_pitcher_name": "Jeffrey Springs",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-24T21:44:33.418953-04:00"
+    },
+    "825041": {
+      "active_pitcher_id": 518876,
+      "active_pitcher_name": "Merrill Kelly",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-24T21:44:29.890281-04:00"
     }
   }
 }
