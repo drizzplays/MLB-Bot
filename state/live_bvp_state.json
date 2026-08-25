@@ -13,6 +13,12 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-25T19:21:05.954956-04:00"
     },
+    "823016": {
+      "active_pitcher_id": 669461,
+      "active_pitcher_name": "Matthew Liberatore",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T19:43:29.109776-04:00"
+    },
     "823505": {
       "active_pitcher_id": 814490,
       "active_pitcher_name": "Ethan Pecko",
@@ -28,16 +34,22 @@
       "last_checked_at": "2026-08-25T19:21:08.106214-04:00"
     },
     "823826": {
-      "active_pitcher_id": 801139,
-      "active_pitcher_name": "Payton Tolle",
+      "active_pitcher_id": 663969,
+      "active_pitcher_name": "Tyler Phillips",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T19:20:59.374817-04:00"
+      "last_checked_at": "2026-08-25T19:43:24.952554-04:00"
     },
     "824233": {
       "active_pitcher_id": 693855,
       "active_pitcher_name": "Ian Seymour",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-25T19:20:57.158214-04:00"
+    },
+    "824556": {
+      "active_pitcher_id": 641743,
+      "active_pitcher_name": "Anthony Kay",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T19:43:27.204812-04:00"
     },
     "824881": {
       "active_pitcher_id": 693821,
