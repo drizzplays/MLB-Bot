@@ -938,7 +938,17 @@
     "Pittsburgh Pirates @ San Diego Padres | 823259": {
       "away_team": "Pittsburgh Pirates",
       "home_team": "San Diego Padres",
-      "away_lineup": [],
+      "away_lineup": [
+        "Spencer Horwitz",
+        "Brandon Lowe",
+        "Bryan Reynolds",
+        "Nick Gonzales",
+        "Oneil Cruz",
+        "Jake Mangum",
+        "Jacob Gonzalez",
+        "Jared Triolo",
+        "Henry Davis"
+      ],
       "home_lineup": [
         "Fernando Tatis Jr.",
         "Jake Cronenworth",
@@ -2147,6 +2157,7 @@
       ],
       "home_roster": [
         "Michael McGreevy",
+        "Nolan Gorman",
         "Bryan Torres",
         "Jordan Walker",
         "Nathan Church",
@@ -2169,7 +2180,6 @@
         "Joshua B\u00e1ez",
         "Luis Gastelum",
         "Peter Strzelecki",
-        "Masyn Winn",
         "Iv\u00e1n Herrera",
         "Jimmy Crooks"
       ],
