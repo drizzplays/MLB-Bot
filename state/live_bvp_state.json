@@ -1,4 +1,37 @@
 {
   "date": "2026-08-25",
-  "games": {}
+  "games": {
+    "822693": {
+      "active_pitcher_id": 690279,
+      "active_pitcher_name": "Mason Adams",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T18:53:26.333656-04:00"
+    },
+    "822773": {
+      "active_pitcher_id": 453286,
+      "active_pitcher_name": "Max Scherzer",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T18:53:32.684078-04:00"
+    },
+    "823505": {
+      "active_pitcher_id": 701542,
+      "active_pitcher_name": "Will Warren",
+      "alerted_pairs": [
+        "701542:670541"
+      ],
+      "last_checked_at": "2026-08-25T18:53:28.188779-04:00"
+    },
+    "823826": {
+      "active_pitcher_id": 663969,
+      "active_pitcher_name": "Tyler Phillips",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T18:53:24.551181-04:00"
+    },
+    "824233": {
+      "active_pitcher_id": 668984,
+      "active_pitcher_name": "Casey Legumina",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T18:53:22.783111-04:00"
+    }
+  }
 }
