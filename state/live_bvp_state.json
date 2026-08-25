@@ -8,22 +8,22 @@
       "last_checked_at": "2026-08-24T21:44:23.635444-04:00"
     },
     "823097": {
-      "active_pitcher_id": 554430,
-      "active_pitcher_name": "Zack Wheeler",
+      "active_pitcher_id": 686934,
+      "active_pitcher_name": "Alex McFarlane",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T22:45:29.157674-04:00"
+      "last_checked_at": "2026-08-24T23:33:29.566302-04:00"
     },
     "823183": {
-      "active_pitcher_id": 695505,
-      "active_pitcher_name": "Chase Burns",
+      "active_pitcher_id": 676254,
+      "active_pitcher_name": "Ryan Walker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T22:45:31.037373-04:00"
+      "last_checked_at": "2026-08-24T23:33:31.510143-04:00"
     },
     "823260": {
-      "active_pitcher_id": 592662,
-      "active_pitcher_name": "Robbie Ray",
+      "active_pitcher_id": 677952,
+      "active_pitcher_name": "Braxton Ashcraft",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T21:44:31.649920-04:00"
+      "last_checked_at": "2026-08-24T23:33:25.742768-04:00"
     },
     "823828": {
       "active_pitcher_id": 547973,
@@ -32,10 +32,10 @@
       "last_checked_at": "2026-08-24T21:44:21.542817-04:00"
     },
     "823992": {
-      "active_pitcher_id": 800048,
-      "active_pitcher_name": "Parker Messick",
+      "active_pitcher_id": 670059,
+      "active_pitcher_name": "Colin Holderman",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T22:45:25.110965-04:00"
+      "last_checked_at": "2026-08-24T23:33:21.479947-04:00"
     },
     "824235": {
       "active_pitcher_id": 664285,
@@ -52,16 +52,16 @@
       "last_checked_at": "2026-08-24T22:45:22.983546-04:00"
     },
     "824964": {
-      "active_pitcher_id": 605488,
-      "active_pitcher_name": "Jeffrey Springs",
+      "active_pitcher_id": 695034,
+      "active_pitcher_name": "Kade Morris",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T21:44:33.418953-04:00"
+      "last_checked_at": "2026-08-24T23:33:27.471594-04:00"
     },
     "825041": {
-      "active_pitcher_id": 592332,
-      "active_pitcher_name": "Kevin Gausman",
+      "active_pitcher_id": 686753,
+      "active_pitcher_name": "Drey Jameson",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T22:45:27.024906-04:00"
+      "last_checked_at": "2026-08-24T23:33:23.718459-04:00"
     }
   }
 }
