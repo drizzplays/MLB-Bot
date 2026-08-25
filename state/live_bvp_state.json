@@ -2,10 +2,10 @@
   "date": "2026-08-24",
   "games": {
     "822695": {
-      "active_pitcher_id": 676917,
-      "active_pitcher_name": "Cade Cavalli",
+      "active_pitcher_id": 663372,
+      "active_pitcher_name": "Ryan Feltner",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T19:25:23.310275-04:00"
+      "last_checked_at": "2026-08-24T20:00:49.629228-04:00"
     },
     "823828": {
       "active_pitcher_id": 624133,
@@ -14,18 +14,18 @@
       "last_checked_at": "2026-08-24T19:25:21.572871-04:00"
     },
     "824235": {
-      "active_pitcher_id": 656876,
-      "active_pitcher_name": "Drew Rasmussen",
+      "active_pitcher_id": 664285,
+      "active_pitcher_name": "Framber Valdez",
       "alerted_pairs": [
         "664285:650490"
       ],
-      "last_checked_at": "2026-08-24T18:59:16.771290-04:00"
+      "last_checked_at": "2026-08-24T20:00:47.794627-04:00"
     },
     "824557": {
-      "active_pitcher_id": 664353,
-      "active_pitcher_name": "Jos\u00e9 Urquidy",
+      "active_pitcher_id": 677958,
+      "active_pitcher_name": "Kumar Rocker",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-24T19:25:25.056427-04:00"
+      "last_checked_at": "2026-08-24T20:00:51.537238-04:00"
     }
   }
 }
