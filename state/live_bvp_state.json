@@ -2,36 +2,48 @@
   "date": "2026-08-25",
   "games": {
     "822693": {
-      "active_pitcher_id": 690279,
-      "active_pitcher_name": "Mason Adams",
+      "active_pitcher_id": 674841,
+      "active_pitcher_name": "Andrew Alvarez",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T18:53:26.333656-04:00"
+      "last_checked_at": "2026-08-25T19:21:01.611967-04:00"
     },
     "822773": {
-      "active_pitcher_id": 453286,
-      "active_pitcher_name": "Max Scherzer",
+      "active_pitcher_id": 607625,
+      "active_pitcher_name": "Seth Lugo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T18:53:32.684078-04:00"
+      "last_checked_at": "2026-08-25T19:21:05.954956-04:00"
     },
     "823505": {
-      "active_pitcher_id": 701542,
-      "active_pitcher_name": "Will Warren",
+      "active_pitcher_id": 814490,
+      "active_pitcher_name": "Ethan Pecko",
       "alerted_pairs": [
         "701542:670541"
       ],
-      "last_checked_at": "2026-08-25T18:53:28.188779-04:00"
+      "last_checked_at": "2026-08-25T19:21:03.804673-04:00"
+    },
+    "823585": {
+      "active_pitcher_id": 690986,
+      "active_pitcher_name": "Kyle Harrison",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T19:21:08.106214-04:00"
     },
     "823826": {
-      "active_pitcher_id": 663969,
-      "active_pitcher_name": "Tyler Phillips",
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T18:53:24.551181-04:00"
+      "last_checked_at": "2026-08-25T19:20:59.374817-04:00"
     },
     "824233": {
-      "active_pitcher_id": 668984,
-      "active_pitcher_name": "Casey Legumina",
+      "active_pitcher_id": 693855,
+      "active_pitcher_name": "Ian Seymour",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T18:53:22.783111-04:00"
+      "last_checked_at": "2026-08-25T19:20:57.158214-04:00"
+    },
+    "824881": {
+      "active_pitcher_id": 693821,
+      "active_pitcher_name": "Bryce Elder",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-25T19:21:10.192906-04:00"
     }
   }
 }
