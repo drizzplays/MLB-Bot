@@ -3,7 +3,17 @@
     "Tampa Bay Rays @ Detroit Tigers | 824233": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Detroit Tigers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Liam Hicks",
+        "Chandler Simpson",
+        "Jonny DeLuca",
+        "Cedric Mullins",
+        "Richie Palacios",
+        "Taylor Walls"
+      ],
       "home_lineup": [
         "Gleyber Torres",
         "Hao-Yu Lee",
@@ -314,7 +324,17 @@
     "Kansas City Royals @ Toronto Blue Jays | 822773": {
       "away_team": "Kansas City Royals",
       "home_team": "Toronto Blue Jays",
-      "away_lineup": [],
+      "away_lineup": [
+        "Carter Jensen",
+        "Bobby Witt Jr.",
+        "Vinnie Pasquantino",
+        "Salvador Perez",
+        "Michael Massey",
+        "Nick Loftin",
+        "Isaac Collins",
+        "John Rave",
+        "Kyle Isbel"
+      ],
       "home_lineup": [
         "Brett Bateman",
         "Nathan Lukes",
@@ -350,9 +370,9 @@
         "Alex Lange",
         "Randy Dobnak",
         "Jac Caglianone",
+        "Bobby Witt Jr.",
         "Steven Cruz",
-        "John Schreiber",
-        "Bobby Witt Jr."
+        "John Schreiber"
       ],
       "home_roster": [
         "Spencer Miles",
@@ -389,7 +409,17 @@
     "Milwaukee Brewers @ New York Mets | 823585": {
       "away_team": "Milwaukee Brewers",
       "home_team": "New York Mets",
-      "away_lineup": [],
+      "away_lineup": [
+        "Jackson Chourio",
+        "Brice Turang",
+        "William Contreras",
+        "Andrew Vaughn",
+        "Gary S\u00e1nchez",
+        "Luis Lara",
+        "Garrett Mitchell",
+        "Joey Ortiz",
+        "Cooper Pratt"
+      ],
       "home_lineup": [
         "Francisco Lindor",
         "Bo Bichette",
@@ -404,22 +434,22 @@
       "away_roster": [
         "Chad Patrick",
         "Cooper Pratt",
-        "Logan Henderson",
         "Joey Ortiz",
+        "Logan Henderson",
         "Jackson Chourio",
         "Christian Yelich",
         "Jake Bauers",
+        "Sal Frelick",
         "Grant Anderson",
         "Andrew Vaughn",
         "Shane Drohan",
         "Kyle Harrison",
-        "Aaron Ashby",
         "Garrett Mitchell",
+        "Aaron Ashby",
         "David Hamilton",
-        "Jonathan Ornelas",
         "William Contreras",
-        "Robert Gasser",
         "Brice Turang",
+        "Robert Gasser",
         "Gary S\u00e1nchez",
         "Jacob Misiorowski",
         "DL Hall",
@@ -615,7 +645,17 @@
       "away_team": "Baltimore Orioles",
       "home_team": "St. Louis Cardinals",
       "away_lineup": [],
-      "home_lineup": [],
+      "home_lineup": [
+        "JJ Wetherholt",
+        "Iv\u00e1n Herrera",
+        "Alec Burleson",
+        "Jordan Walker",
+        "Joshua B\u00e1ez",
+        "Nolan Gorman",
+        "Ram\u00f3n Ur\u00edas",
+        "Nathan Church",
+        "Jos\u00e9 Ferm\u00edn"
+      ],
       "away_roster": [
         "Samuel Basallo",
         "Trevor Rogers",
@@ -646,8 +686,9 @@
       ],
       "home_roster": [
         "Michael McGreevy",
-        "Bryan Torres",
+        "Nolan Gorman",
         "Jordan Walker",
+        "Bryan Torres",
         "Nathan Church",
         "Kyle Leahy",
         "Jos\u00e9 Ferm\u00edn",
@@ -661,14 +702,13 @@
         "Riley O'Brien",
         "George Soriano",
         "Quinn Mathews",
+        "Ram\u00f3n Ur\u00edas",
         "Matthew Liberatore",
         "Pedro Pag\u00e9s",
         "Ryne Stanek",
         "Joshua B\u00e1ez",
         "Luis Gastelum",
         "Peter Strzelecki",
-        "Everson Pereira",
-        "Masyn Winn",
         "Iv\u00e1n Herrera",
         "Jimmy Crooks"
       ],
