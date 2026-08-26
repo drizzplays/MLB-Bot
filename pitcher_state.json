@@ -80,9 +80,9 @@
       "away_team": "Cincinnati Reds",
       "home_team": "San Francisco Giants",
       "away_pitcher": "Nick Lodolo",
-      "home_pitcher": "Landen Roupp",
+      "home_pitcher": "Logan Webb",
       "away_pitcher_id": "666157",
-      "home_pitcher_id": "694738",
+      "home_pitcher_id": "657277",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
@@ -101,18 +101,18 @@
       },
       "home_pitcher_stats": {
         "season": "2026",
-        "wins": 7,
-        "losses": 13,
-        "era": "4.34",
-        "whip": "1.31",
-        "strikeouts": 130,
-        "innings_pitched": "134.2",
-        "games_started": 25
+        "wins": 8,
+        "losses": 8,
+        "era": "3.75",
+        "whip": "1.11",
+        "strikeouts": 112,
+        "innings_pitched": "141.2",
+        "games_started": 23
       },
       "game_time": "Aug 26, 3:45 PM ET",
       "game_iso": "2026-08-26T15:45:00-04:00",
       "game_pk": "823180",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823988": {
       "away_team": "Cleveland Guardians",
@@ -188,7 +188,7 @@
       "game_time": "Aug 26, 4:10 PM ET",
       "game_iso": "2026-08-26T16:10:00-04:00",
       "game_pk": "823255",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823096": {
       "away_team": "Philadelphia Phillies",
