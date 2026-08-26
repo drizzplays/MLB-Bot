@@ -3,7 +3,17 @@
     "Tampa Bay Rays @ Detroit Tigers | 824234": {
       "away_team": "Tampa Bay Rays",
       "home_team": "Detroit Tigers",
-      "away_lineup": [],
+      "away_lineup": [
+        "Yandy D\u00edaz",
+        "Jonathan Aranda",
+        "Junior Caminero",
+        "Liam Hicks",
+        "Chandler Simpson",
+        "Jonny DeLuca",
+        "Richie Palacios",
+        "Jorge Mateo",
+        "Cedric Mullins"
+      ],
       "home_lineup": [
         "Brett Callahan",
         "Kevin McGonigle",
@@ -553,7 +563,6 @@
         "Jose Altuve",
         "Taylor Trammell",
         "Tatsuya Imai",
-        "Raynel Delgado",
         "Jeremy Pe\u00f1a",
         "Peter Lambert",
         "Cristian Javier",
@@ -561,18 +570,20 @@
         "Christian Walker",
         "Christian V\u00e1zquez",
         "Yainer Diaz",
-        "Yordan Alvarez"
+        "Yordan Alvarez",
+        "Nelson Vel\u00e1zquez"
       ],
       "home_roster": [
         "Paul Blackburn",
+        "Elmer Rodr\u00edguez",
         "Ali S\u00e1nchez",
         "Heliot Ramos",
         "Jos\u00e9 Caballero",
+        "Justin Topa",
         "Carlos Rod\u00f3n",
         "Spencer Jones",
         "Ryan Yarbrough",
         "Amed Rosario",
-        "Ryan Weathers",
         "Tim Hill",
         "Paul Goldschmidt",
         "Austin Wells",
@@ -581,6 +592,7 @@
         "Brent Headrick",
         "Will Warren",
         "Fernando Cruz",
+        "Cody Bellinger",
         "Jazz Chisholm Jr.",
         "Yerry De los Santos",
         "Trent Grisham",
