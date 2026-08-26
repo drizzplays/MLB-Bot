@@ -22,22 +22,22 @@
       "last_checked_at": "2026-08-25T20:01:21.397156-04:00"
     },
     "823098": {
-      "active_pitcher_id": 605400,
-      "active_pitcher_name": "Aaron Nola",
+      "active_pitcher_id": 680742,
+      "active_pitcher_name": "Jonathan Bowlan",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T21:54:50.863987-04:00"
+      "last_checked_at": "2026-08-25T23:57:20.233113-04:00"
     },
     "823181": {
-      "active_pitcher_id": 663903,
-      "active_pitcher_name": "Brady Singer",
+      "active_pitcher_id": 622088,
+      "active_pitcher_name": "Tejay Antone",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T21:54:53.326389-04:00"
+      "last_checked_at": "2026-08-25T23:57:22.443455-04:00"
     },
     "823259": {
-      "active_pitcher_id": 650633,
-      "active_pitcher_name": "Michael King",
+      "active_pitcher_id": 682254,
+      "active_pitcher_name": "Mason Montgomery",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T22:59:57.680239-04:00"
+      "last_checked_at": "2026-08-25T23:57:15.612111-04:00"
     },
     "823505": {
       "active_pitcher_id": 650556,
@@ -61,10 +61,10 @@
       "last_checked_at": "2026-08-25T21:54:20.937267-04:00"
     },
     "823989": {
-      "active_pitcher_id": 700712,
-      "active_pitcher_name": "Walbert Ure\u00f1a",
+      "active_pitcher_id": 642048,
+      "active_pitcher_name": "Tayler Saucedo",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T22:59:55.901754-04:00"
+      "last_checked_at": "2026-08-25T23:57:10.709028-04:00"
     },
     "824233": {
       "active_pitcher_id": 805427,
@@ -87,16 +87,16 @@
       "last_checked_at": "2026-08-25T21:54:34.822884-04:00"
     },
     "824962": {
-      "active_pitcher_id": 695611,
-      "active_pitcher_name": "Gage Jump",
+      "active_pitcher_id": 621345,
+      "active_pitcher_name": "A.J. Minter",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T22:59:59.498945-04:00"
+      "last_checked_at": "2026-08-25T23:57:17.998956-04:00"
     },
     "825042": {
-      "active_pitcher_id": 694297,
-      "active_pitcher_name": "Brandon Pfaadt",
+      "active_pitcher_id": 657097,
+      "active_pitcher_name": "Jacob Webb",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T21:54:43.866300-04:00"
+      "last_checked_at": "2026-08-25T23:57:13.092293-04:00"
     }
   }
 }
