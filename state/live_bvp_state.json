@@ -14,10 +14,12 @@
       "last_checked_at": "2026-08-25T19:21:05.954956-04:00"
     },
     "823016": {
-      "active_pitcher_id": 669461,
-      "active_pitcher_name": "Matthew Liberatore",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T19:43:29.109776-04:00"
+      "active_pitcher_id": 605135,
+      "active_pitcher_name": "Chris Bassitt",
+      "alerted_pairs": [
+        "605135:669357"
+      ],
+      "last_checked_at": "2026-08-25T20:01:21.397156-04:00"
     },
     "823505": {
       "active_pitcher_id": 814490,
@@ -34,22 +36,22 @@
       "last_checked_at": "2026-08-25T19:21:08.106214-04:00"
     },
     "823826": {
-      "active_pitcher_id": 663969,
-      "active_pitcher_name": "Tyler Phillips",
+      "active_pitcher_id": 801139,
+      "active_pitcher_name": "Payton Tolle",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T19:43:24.952554-04:00"
+      "last_checked_at": "2026-08-25T20:01:16.105796-04:00"
     },
     "824233": {
-      "active_pitcher_id": 693855,
-      "active_pitcher_name": "Ian Seymour",
+      "active_pitcher_id": 805427,
+      "active_pitcher_name": "Drew Sommers",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T19:20:57.158214-04:00"
+      "last_checked_at": "2026-08-25T20:01:13.266206-04:00"
     },
     "824556": {
-      "active_pitcher_id": 641743,
-      "active_pitcher_name": "Anthony Kay",
+      "active_pitcher_id": 594798,
+      "active_pitcher_name": "Jacob deGrom",
       "alerted_pairs": [],
-      "last_checked_at": "2026-08-25T19:43:27.204812-04:00"
+      "last_checked_at": "2026-08-25T20:01:18.941680-04:00"
     },
     "824881": {
       "active_pitcher_id": 693821,
