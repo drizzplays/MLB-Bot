@@ -1,4 +1,11 @@
 {
   "date": "2026-08-26",
-  "games": {}
+  "games": {
+    "824234": {
+      "active_pitcher_id": 642547,
+      "active_pitcher_name": "Freddy Peralta",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T14:27:40.521014-04:00"
+    }
+  }
 }
