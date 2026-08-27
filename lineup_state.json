@@ -94,7 +94,7 @@
         "Alex Bregman",
         "Michael Busch",
         "Nico Hoerner",
-        "Tyrone Taylor",
+        "Ian Happ",
         "Pedro Ram\u00edrez",
         "Carson Kelly",
         "Gabriel Arias"
@@ -174,7 +174,7 @@
       "away_team": "Cincinnati Reds",
       "home_team": "San Francisco Giants",
       "away_lineup": [
-        "H\u00e9ctor Rodr\u00edguez",
+        "TJ Friedl",
         "Elly De La Cruz",
         "Sal Stewart",
         "JJ Bleday",
@@ -182,15 +182,15 @@
         "Dane Myers",
         "Matt McLain",
         "Jose Trevino",
-        "Ke'Bryan Hayes"
+        "Ivan Johnson"
       ],
       "home_lineup": [
-        "Jonah Cox",
+        "Drew Gilbert",
         "Rafael Devers",
-        "Osleivis Basabe",
+        "Nate Furman",
         "Buddy Kennedy",
         "Turner Hill",
-        "Andrew Knizner",
+        "Drew Cavanaugh",
         "Christian Koss",
         "Grant McCray",
         "Shay Whitcomb"
@@ -262,11 +262,11 @@
         "Steven Kwan",
         "Travis Bazzana",
         "Jos\u00e9 Ram\u00edrez",
-        "Jo Adell",
+        "Patrick Bailey",
         "Nathaniel Lowe",
         "Angel Mart\u00ednez",
         "Angel Genao",
-        "Austin Hedges",
+        "Petey Halpin",
         "Brayan Rocchio"
       ],
       "home_lineup": [
@@ -277,8 +277,8 @@
         "Jose Siri",
         "Josh Lowe",
         "Denzer Guzman",
-        "Tyler Heineman",
-        "Bryce Teodosio"
+        "Travis d'Arnaud",
+        "Oswald Peraza"
       ],
       "away_roster": [
         "Angel Genao",
@@ -352,7 +352,7 @@
         "Nick Gonzales",
         "Jake Mangum",
         "Rafael Flores Jr.",
-        "Jacob Gonzalez"
+        "Jared Triolo"
       ],
       "home_lineup": [
         "Fernando Tatis Jr.",
@@ -360,7 +360,7 @@
         "Manny Machado",
         "Ty France",
         "Jackson Merrill",
-        "Luis Rengifo",
+        "Jase Bowen",
         "Gavin Sheets",
         "Xander Bogaerts",
         "Freddy Fermin"
@@ -431,7 +431,7 @@
       "away_lineup": [
         "Kyle Schwarber",
         "Trea Turner",
-        "Bryce Harper",
+        "Derek Hill",
         "Luis Arraez",
         "Alec Bohm",
         "Bryson Stott",
@@ -867,7 +867,7 @@
       "home_lineup": [
         "A.J. Ewing",
         "Francisco Lindor",
-        "Bo Bichette",
+        "Christopher Morel",
         "Carson Benge",
         "Jared Young",
         "Luis Robert Jr.",
@@ -1143,8 +1143,8 @@
         "Kyle Bradish",
         "Dylan Beavers",
         "Chris Bassitt",
-        "Tyler O'Neill",
         "Josh Walker",
+        "Luis V\u00e1zquez",
         "Anthony Nunez",
         "Yohel Pozo",
         "Pete Alonso",
@@ -1204,7 +1204,17 @@
         "Kaelen Culpepper",
         "Alan Roden"
       ],
-      "home_lineup": [],
+      "home_lineup": [
+        "Henry Bolte",
+        "Zack Gelof",
+        "Lawrence Butler",
+        "Jonah Heim",
+        "Tommy White",
+        "Michael Stefanic",
+        "Brian Serven",
+        "Alika Williams",
+        "Darell Hernaiz"
+      ],
       "away_roster": [
         "Dean Kremer",
         "Tommy Nance",
@@ -1240,6 +1250,7 @@
         "Donovan Walton",
         "J.T. Ginn",
         "Zack Gelof",
+        "Chris Roycroft",
         "Michael Stefanic",
         "Drew Rom",
         "Jeff McNeil",
@@ -1251,7 +1262,6 @@
         "Max Muncy",
         "Brady Basso",
         "Gage Jump",
-        "Hayden Juenger",
         "Elvis Alvarado",
         "Darell Hernaiz",
         "Kade Morris",
@@ -1675,6 +1685,7 @@
         "Drey Jameson",
         "Merrill Kelly",
         "Ryan Waldschmidt",
+        "Jose Cabrera",
         "Kevin Ginkel",
         "Jonathan Lo\u00e1isiga",
         "Ildemaro Vargas",
@@ -1703,6 +1714,7 @@
         "Buddy Kennedy",
         "Trent Harris",
         "Jason Foley",
+        "Braxton Roxby",
         "Carson Seymour",
         "Spencer Bivens",
         "Drew Gilbert",
@@ -1712,7 +1724,6 @@
         "Reiver Sanmartin",
         "Grant McCray",
         "Christian Koss",
-        "Adrian Houser",
         "Blade Tidwell",
         "Anthony Molina",
         "Landen Roupp",
