@@ -1,72 +1,5 @@
 {
   "2026-08-27": {
-    "822694": {
-      "away_team": "Colorado Rockies",
-      "home_team": "Washington Nationals",
-      "away_pitcher": "Gabriel Hughes",
-      "home_pitcher": "Jake Irvin",
-      "away_pitcher_id": "687312",
-      "home_pitcher_id": "663623",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 0,
-        "losses": 5,
-        "era": "6.54",
-        "whip": "1.36",
-        "strikeouts": 35,
-        "innings_pitched": "42.2",
-        "games_started": 8
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 2,
-        "losses": 8,
-        "era": "5.82",
-        "whip": "1.36",
-        "strikeouts": 76,
-        "innings_pitched": "77.1",
-        "games_started": 16
-      },
-      "game_time": "Aug 27, 1:05 PM ET",
-      "game_iso": "2026-08-27T13:05:00-04:00",
-      "game_pk": "822694",
-      "status_code": "S"
-    },
-    "823014": {
-      "away_team": "Baltimore Orioles",
-      "home_team": "St. Louis Cardinals",
-      "away_pitcher": "Trevor Rogers",
-      "home_pitcher": "TBD",
-      "away_pitcher_id": "669432",
-      "home_pitcher_id": null,
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 9,
-        "losses": 8,
-        "era": "4.14",
-        "whip": "1.24",
-        "strikeouts": 114,
-        "innings_pitched": "132.2",
-        "games_started": 24
-      },
-      "home_pitcher_stats": null,
-      "game_time": "Aug 27, 2:15 PM ET",
-      "game_iso": "2026-08-27T14:15:00-04:00",
-      "game_pk": "823014",
-      "status_code": "S"
-    },
     "823503": {
       "away_team": "Houston Astros",
       "home_team": "New York Yankees",
@@ -103,7 +36,7 @@
       "game_time": "Aug 27, 7:05 PM ET",
       "game_iso": "2026-08-27T19:05:00-04:00",
       "game_pk": "823503",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822771": {
       "away_team": "Kansas City Royals",
@@ -141,7 +74,7 @@
       "game_time": "Aug 27, 7:07 PM ET",
       "game_iso": "2026-08-27T19:07:00-04:00",
       "game_pk": "822771",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823581": {
       "away_team": "Milwaukee Brewers",
@@ -179,7 +112,7 @@
       "game_time": "Aug 27, 7:10 PM ET",
       "game_iso": "2026-08-27T19:10:00-04:00",
       "game_pk": "823581",
-      "status_code": "S"
+      "status_code": "P"
     },
     "824879": {
       "away_team": "Los Angeles Dodgers",
@@ -217,7 +150,7 @@
       "game_time": "Aug 27, 7:15 PM ET",
       "game_iso": "2026-08-27T19:15:00-04:00",
       "game_pk": "824879",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823179": {
       "away_team": "Arizona Diamondbacks",
@@ -255,7 +188,7 @@
       "game_time": "Aug 27, 9:45 PM ET",
       "game_iso": "2026-08-27T21:45:00-04:00",
       "game_pk": "823179",
-      "status_code": "S"
+      "status_code": "P"
     }
   }
 }
