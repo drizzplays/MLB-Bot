@@ -1,6 +1,24 @@
 {
   "date": "2026-08-26",
   "games": {
+    "822692": {
+      "active_pitcher_id": 702021,
+      "active_pitcher_name": "Will Dion",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:11.310215-04:00"
+    },
+    "822772": {
+      "active_pitcher_id": 677976,
+      "active_pitcher_name": "Randy Dobnak",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:15.490345-04:00"
+    },
+    "823015": {
+      "active_pitcher_id": 680694,
+      "active_pitcher_name": "Kyle Bradish",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:23.181784-04:00"
+    },
     "823096": {
       "active_pitcher_id": 693433,
       "active_pitcher_name": "Bryan Woo",
@@ -19,6 +37,24 @@
       "alerted_pairs": [],
       "last_checked_at": "2026-08-26T16:32:36.053092-04:00"
     },
+    "823506": {
+      "active_pitcher_id": 695684,
+      "active_pitcher_name": "Elmer Rodr\u00edguez",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:13.605387-04:00"
+    },
+    "823584": {
+      "active_pitcher_id": 476594,
+      "active_pitcher_name": "Robert Stock",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:17.397448-04:00"
+    },
+    "823825": {
+      "active_pitcher_id": 687473,
+      "active_pitcher_name": "Ryan Gusto",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:09.368721-04:00"
+    },
     "823988": {
       "active_pitcher_id": 680570,
       "active_pitcher_name": "Grayson Rodriguez",
@@ -30,6 +66,18 @@
       "active_pitcher_name": "Freddy Peralta",
       "alerted_pairs": [],
       "last_checked_at": "2026-08-26T14:27:40.521014-04:00"
+    },
+    "824555": {
+      "active_pitcher_id": 680732,
+      "active_pitcher_name": "Sean Burke",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:21.264393-04:00"
+    },
+    "824878": {
+      "active_pitcher_id": 700363,
+      "active_pitcher_name": "AJ Smith-Shawver",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-26T20:03:19.329220-04:00"
     },
     "825039": {
       "active_pitcher_id": 593958,
