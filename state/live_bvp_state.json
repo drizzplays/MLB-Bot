@@ -1,17 +1,4 @@
 {
-  "date": "2026-08-27",
-  "games": {
-    "822694": {
-      "active_pitcher_id": 687377,
-      "active_pitcher_name": "Orlando Ribalta",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-27T15:58:28.373582-04:00"
-    },
-    "823014": {
-      "active_pitcher_id": 676742,
-      "active_pitcher_name": "Cam Sanders",
-      "alerted_pairs": [],
-      "last_checked_at": "2026-08-27T15:58:31.038598-04:00"
-    }
-  }
+  "date": "2026-08-28",
+  "games": {}
 }
