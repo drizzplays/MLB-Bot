@@ -1,43 +1,5 @@
 {
   "2026-08-28": {
-    "824638": {
-      "away_team": "Cincinnati Reds",
-      "home_team": "Chicago Cubs",
-      "away_pitcher": "Rhett Lowder",
-      "home_pitcher": "David Peterson",
-      "away_pitcher_id": "695076",
-      "home_pitcher_id": "656849",
-      "away_pitcher_hand": null,
-      "home_pitcher_hand": null,
-      "away_pitcher_status": "probable",
-      "home_pitcher_status": "probable",
-      "away_pitcher_note": null,
-      "home_pitcher_note": null,
-      "away_pitcher_stats": {
-        "season": "2026",
-        "wins": 5,
-        "losses": 8,
-        "era": "5.13",
-        "whip": "1.47",
-        "strikeouts": 83,
-        "innings_pitched": "107.0",
-        "games_started": 20
-      },
-      "home_pitcher_stats": {
-        "season": "2026",
-        "wins": 7,
-        "losses": 7,
-        "era": "5.17",
-        "whip": "1.50",
-        "strikeouts": 103,
-        "innings_pitched": "118.1",
-        "games_started": 17
-      },
-      "game_time": "Aug 28, 2:20 PM ET",
-      "game_iso": "2026-08-28T14:20:00-04:00",
-      "game_pk": "824638",
-      "status_code": "S"
-    },
     "824231": {
       "away_team": "Los Angeles Dodgers",
       "home_team": "Detroit Tigers",
@@ -74,7 +36,7 @@
       "game_time": "Aug 28, 6:40 PM ET",
       "game_iso": "2026-08-28T18:40:00-04:00",
       "game_pk": "824231",
-      "status_code": "S"
+      "status_code": "P"
     },
     "822691": {
       "away_team": "Miami Marlins",
@@ -293,7 +255,7 @@
       "game_time": "Aug 28, 7:15 PM ET",
       "game_iso": "2026-08-28T19:15:00-04:00",
       "game_pk": "824877",
-      "status_code": "S"
+      "status_code": "P"
     },
     "823504": {
       "away_team": "Boston Red Sox",
@@ -489,13 +451,13 @@
       "away_team": "Baltimore Orioles",
       "home_team": "Athletics",
       "away_pitcher": "Brandon Young",
-      "home_pitcher": "TBD",
+      "home_pitcher": "Jacob Lopez",
       "away_pitcher_id": "687064",
-      "home_pitcher_id": null,
+      "home_pitcher_id": "682052",
       "away_pitcher_hand": null,
       "home_pitcher_hand": null,
       "away_pitcher_status": "probable",
-      "home_pitcher_status": "tbd",
+      "home_pitcher_status": "probable",
       "away_pitcher_note": null,
       "home_pitcher_note": null,
       "away_pitcher_stats": {
@@ -508,7 +470,16 @@
         "innings_pitched": "123.1",
         "games_started": 22
       },
-      "home_pitcher_stats": null,
+      "home_pitcher_stats": {
+        "season": "2026",
+        "wins": 5,
+        "losses": 4,
+        "era": "4.98",
+        "whip": "1.48",
+        "strikeouts": 90,
+        "innings_pitched": "94.0",
+        "games_started": 18
+      },
       "game_time": "Aug 28, 9:40 PM ET",
       "game_iso": "2026-08-28T21:40:00-04:00",
       "game_pk": "824960",
