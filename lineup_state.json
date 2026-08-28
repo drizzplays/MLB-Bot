@@ -3,8 +3,28 @@
     "Cincinnati Reds @ Chicago Cubs | 824638": {
       "away_team": "Cincinnati Reds",
       "home_team": "Chicago Cubs",
-      "away_lineup": [],
-      "home_lineup": [],
+      "away_lineup": [
+        "Dane Myers",
+        "Elly De La Cruz",
+        "Sal Stewart",
+        "Tyler Stephenson",
+        "Eugenio Su\u00e1rez",
+        "JJ Bleday",
+        "Matt McLain",
+        "Jose Trevino",
+        "H\u00e9ctor Rodr\u00edguez"
+      ],
+      "home_lineup": [
+        "Pete Crow-Armstrong",
+        "Seiya Suzuki",
+        "Michael Busch",
+        "Alex Bregman",
+        "Ian Happ",
+        "Nico Hoerner",
+        "Pedro Ram\u00edrez",
+        "Michael Conforto",
+        "Carson Kelly"
+      ],
       "away_roster": [
         "Elly De La Cruz",
         "Dane Myers",
@@ -57,9 +77,9 @@
         "Trent Thornton",
         "Clay Holmes",
         "Matthew Boyd",
-        "Kevin Alc\u00e1ntara",
         "Colin Rea",
-        "Nico Hoerner"
+        "Nico Hoerner",
+        "Matt Shaw"
       ],
       "game_time": "Aug 28, 2:20 PM ET",
       "game_iso": "2026-08-28T14:20:00-04:00",
