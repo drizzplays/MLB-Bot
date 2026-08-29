@@ -1,4 +1,17 @@
 {
   "date": "2026-08-29",
-  "games": {}
+  "games": {
+    "823539": {
+      "active_pitcher_id": 607074,
+      "active_pitcher_name": "Carlos Rod\u00f3n",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-29T13:11:12.299289-04:00"
+    },
+    "824230": {
+      "active_pitcher_id": 672456,
+      "active_pitcher_name": "Keider Montero",
+      "alerted_pairs": [],
+      "last_checked_at": "2026-08-29T13:11:14.619691-04:00"
+    }
+  }
 }
